@@ -1,0 +1,119 @@
+# ============================================================
+# Data Engineering Job Agent — Config
+# Edit this file to tune what jobs you get notified about.
+# ============================================================
+
+# Title keywords — at least ONE must appear in the job title
+include_title_keywords:
+  - "data engineer"
+  - "data engineering"
+  - "data infrastructure"
+  - "data platform"
+  - "data architect"
+  - "analytics engineer"
+  - "machine learning engineer"
+  - "ml engineer"
+  - "ml platform"
+  - "etl"
+  - "elt"
+  - "big data"
+  - "data ops"
+  - "dataops"
+  - "data reliability"
+  - "data systems"
+
+# Title keywords — if ANY appears, the job is dropped
+exclude_title_keywords:
+  - "intern"
+  - "internship"
+  - "junior"
+  - "entry-level"
+  - "entry level"
+  - "graduate"
+  - "co-op"
+  - "coop"
+  - "apprentice"
+  - "manager"          # remove this if you want to see manager roles
+  - "director"
+  - "head of"
+  - "vp "
+  - "vice president"
+
+# Seniority signals — at least ONE should appear (in title OR description).
+# Set `require_seniority: false` to disable this filter.
+require_seniority: true
+seniority_keywords:
+  - "senior"
+  - "sr."
+  - "sr "
+  - "staff"
+  - "principal"
+  - "lead"
+  - "iii"               # often "Software Engineer III" = senior
+  - "iv"
+
+# Tech stack tags — used to flag/score jobs (NOT required for inclusion)
+preferred_stack:
+  - "databricks"
+  - "pyspark"
+  - "spark"
+  - "snowflake"
+  - "dbt"
+  - "airflow"
+  - "kafka"
+  - "aws"
+  - "gcp"
+  - "azure"
+  - "python"
+  - "sql"
+  - "terraform"
+
+# Bonus tags — show up as ⭐ flags in the notification
+bonus_tags:
+  healthcare:
+    - "healthcare"
+    - "health tech"
+    - "medical"
+    - "clinical"
+    - "patient"
+    - "hipaa"
+  ai_ml:
+    - "ai-powered"
+    - "ai/ml"
+    - "machine learning"
+    - "llm"
+    - "foundation model"
+  energy:
+    - "energy"
+    - "grid"
+    - "renewable"
+    - "climate"
+
+# Location filter — leave empty to allow ALL locations.
+# Matches as substring (case-insensitive) against the job's location field.
+allowed_locations:
+  - "remote"
+  - "united states"
+  - "usa"
+  - "us"
+  - "san francisco"
+  - "bay area"
+  - "california"
+  - "ca"
+  - "new york"
+  - "nyc"
+  # Add more as needed — or empty the list to allow everywhere.
+
+# If true, jobs without a location specified are kept (often remote).
+keep_unknown_locations: true
+
+# Scan settings
+scan:
+  # How many companies to query in parallel. 50 is a safe sweet spot.
+  concurrency: 50
+  # Per-request timeout in seconds.
+  request_timeout: 15
+  # Skip the LinkedIn scraper (set false to enable — see README on risks).
+  skip_linkedin: false
+  # Max number of jobs to keep in seen_jobs.json (older entries are pruned).
+  seen_jobs_retention: 50000

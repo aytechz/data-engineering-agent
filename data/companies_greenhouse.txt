@@ -1,0 +1,133 @@
+# Greenhouse board tokens — one per line.
+# These map to https://boards-api.greenhouse.io/v1/boards/{token}/jobs
+#
+# To add a company: visit their careers page. If the URL contains
+# `boards.greenhouse.io/<slug>` or `job-boards.greenhouse.io/<slug>`,
+# that <slug> is the token to add here.
+#
+# Run `python scripts/expand_company_lists.py` to grow this list automatically
+# from public community-maintained lists.
+
+# ---- Healthcare / health-tech ----
+oscar
+hingehealth
+maven
+spring
+calmhealth
+included
+includedhealth
+ribbonhealth
+cohere
+cohealth
+aledade
+clipboardhealth
+collectivehealth
+dispatchhealth
+flatironhealth
+veeva
+healthify
+nourish
+strivehealth
+
+# ---- Data / AI / infra ----
+databricks
+snowflakecomputing
+fivetran
+airbyte
+dbtlabs
+prefect
+dagsterlabs
+astronomer
+scaleai
+huggingface
+weightsandbiases
+anyscale
+modal
+together
+roboflow
+cohere2
+mistral
+pinecone
+
+# ---- Big tech & post-IPO ----
+airbnb
+stripe
+plaid
+robinhood
+discord
+reddit
+pinterest
+dropbox
+asana
+gitlab
+notion
+figma
+canva
+wise
+chime
+duolingo
+twitch
+pelotoncycle
+doordash
+instacart
+brex
+ramp
+mercury
+gusto
+rippling
+deelinc
+checkr
+coinbase
+gemini
+krakenexchange
+opensea
+
+# ---- AI-first ----
+openai
+anthropic
+character
+adept
+inflection
+runwayml
+elevenlabs
+perplexityai
+midjourney
+
+# ---- Climate / energy ----
+twelve
+formenergy
+commonwealthfusion
+kobold
+quantumscape
+sunrun
+arcadiapower
+
+# ---- Misc tech ----
+vercel
+netlify
+sentry
+datadog
+amplitude
+mixpanel
+segmentio
+elastic
+mongodb
+hashicorp
+gitlab
+linear
+retool
+posthog
+cloudflare
+
+# ---- YC / Series A-B startups (sample) ----
+substack
+beehiiv
+loomhq
+otter
+copilot
+zapier
+shippo
+appliedintuition
+cruise
+nuro
+zoox

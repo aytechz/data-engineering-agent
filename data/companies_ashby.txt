@@ -1,0 +1,45 @@
+# Ashby board tokens — one per line.
+# These map to https://api.ashbyhq.com/posting-api/job-board/{token}
+#
+# To add a company: if their careers URL is `jobs.ashbyhq.com/<slug>`,
+# the <slug> is the token.
+
+linear
+ramp
+posthog
+vanta
+mercury
+modal
+together
+replicate
+substack
+cohere
+roboflow
+elevenlabs
+braintrust
+warp
+arc
+raycast
+zed
+val
+tldraw
+clay
+openai
+anthropic
+benchling
+notion
+liveramp
+weaviate
+pinecone
+chroma
+inkeep
+hex
+preset
+glean
+distyl
+sierra
+crusoe
+suno
+wispr
+tracebit
+tessl

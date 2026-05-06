@@ -1,0 +1,51 @@
+# Lever board tokens — one per line.
+# These map to https://api.lever.co/v0/postings/{token}?mode=json
+#
+# To add a company: visit their careers page. If hosted at
+# `jobs.lever.co/<slug>`, that <slug> is the token.
+
+netflix
+spotify
+shopify
+github
+quora
+mixpanel
+hopper
+outschool
+kayak
+coursera
+udemy
+classpass
+wealthfront
+betterment
+bolt
+chime2
+cresta
+verkada
+flexport
+opendoor
+compass
+hims
+ro
+omadahealth
+fortyseven
+clover
+clari
+airtable
+gong
+loom
+postman
+rippling2
+miro
+zip
+brex2
+pilot
+faire
+zerotier
+benchling
+patreon
+discord2
+ramp2
+scaleai2
+upstart
+nuro2
