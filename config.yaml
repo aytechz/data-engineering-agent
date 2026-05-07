@@ -79,12 +79,7 @@ bonus_tags:
     - "machine learning"
     - "llm"
     - "foundation model"
-  energy:
-    - "energy"
-    - "grid"
-    - "renewable"
-    - "climate"
-
+  
 # Location filter — leave empty to allow ALL locations.
 # Matches as substring (case-insensitive) against the job's location field.
 allowed_locations:
