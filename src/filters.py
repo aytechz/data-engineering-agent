@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 from typing import Any
+import re
 
 
 @dataclass
@@ -13,15 +14,23 @@ class FilterDecision:
     tags: list[str] = field(default_factory=list)
     matched_stack: list[str] = field(default_factory=list)
 
+# Cache compiled patterns so we don't recompile per-job
+_PATTERN_CACHE: dict[str, re.Pattern] = {}
+
+
+def _compile(needle: str) -> re.Pattern:
+    if needle not in _PATTERN_CACHE:
+        # \b is word boundary — matches " data engineer " or "data engineer," but NOT "data engineering"
+        _PATTERN_CACHE[needle] = re.compile(r"\b" + re.escape(needle) + r"\b", re.IGNORECASE)
+    return _PATTERN_CACHE[needle]
+
 
 def _text_contains_any(text: str, needles: list[str]) -> tuple[bool, str]:
-    """Return (matched, first_match) for case-insensitive substring search."""
-    text_lower = text.lower()
+    """Return (matched, first_match) for case-insensitive WHOLE-WORD search."""
     for needle in needles:
-        if needle.lower() in text_lower:
+        if _compile(needle).search(text):
             return True, needle
     return False, ""
-
 
 def filter_job(job: dict[str, Any], config: dict[str, Any]) -> FilterDecision:
     """Apply the configured filter rules to a single normalized job dict.
@@ -72,7 +81,7 @@ def filter_job(job: dict[str, Any], config: dict[str, Any]) -> FilterDecision:
 
     matched_stack: list[str] = []
     for tech in config.get("preferred_stack", []):
-        if tech.lower() in haystack.lower():
+        if _compile(tech).search(haystack):
             matched_stack.append(tech)
 
     return FilterDecision(keep=True, reason="match", tags=tags, matched_stack=matched_stack)

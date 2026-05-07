@@ -29,10 +29,10 @@ exclude_title_keywords:
   - "co-op"
   - "coop"
   - "apprentice"
-  - "manager"          # remove this if you want to see manager roles
+  - "manager"
   - "director"
   - "head of"
-  - "vp "
+  - "vp"
   - "vice president"
 
 # Seniority signals — at least ONE should appear (in title OR description).
@@ -40,12 +40,11 @@ exclude_title_keywords:
 require_seniority: true
 seniority_keywords:
   - "senior"
-  - "sr."
-  - "sr "
+  - "sr"
   - "staff"
   - "principal"
   - "lead"
-  - "iii"               # often "Software Engineer III" = senior
+  - "iii"
   - "iv"
 
 # Tech stack tags — used to flag/score jobs (NOT required for inclusion)
