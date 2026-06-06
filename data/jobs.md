@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-06-06 14:54 UTC_
+_Last updated: 2026-06-06 16:20 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,7 +8,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Senior Data Engineer - AI](https://job-boards.greenhouse.io/anaplan/jobs/8580757002)** at **Anaplan** — Pennsylvania-Remote, United States 🤖 · `python` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Sr. Big Data Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002)** at **Databricks** — Remote - India · `databricks, spark, kafka, aws, gcp, azure` · _greenhouse_
@@ -100,6 +99,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Data Engineer II](https://job-boards.greenhouse.io/alphataraxia/jobs/5099262007)** at **Alphataraxia** — Washington, District of Columbia, United States · `snowflake, dbt, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/amendconsulting/jobs/4005817009)** at **AMEND Consulting** — Cincinnati, Ohio, United States · `databricks, dbt, sql` · _greenhouse_
 - **[Spontaneous Application - Data Engineer](https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101)** at **Amplemarket** — Remote, EMEA/LATAM 🤖 · `databricks, spark, snowflake, kafka, python, sql` · _greenhouse_
+- **[Senior Data Engineer - AI](https://job-boards.greenhouse.io/anaplan/jobs/8580757002)** at **Anaplan** — Pennsylvania-Remote, United States 🤖 · `python` · _greenhouse_
 - **[Data Engineer](https://job-boards.greenhouse.io/anteriad/jobs/6011810004)** at **Anteriad** — Remote-India · `databricks, pyspark, spark, aws, azure, python` · _greenhouse_
 - **[Data Engineer](https://job-boards.greenhouse.io/anteriad/jobs/6011799004)** at **Anteriad** — remote 🏥 · `databricks, pyspark, spark, aws, azure, python` · _greenhouse_
 - **[Data Engineer](https://job-boards.greenhouse.io/anteriad/jobs/5980230004)** at **Anteriad** — Remote-US 🏥 · `databricks, azure, python, sql` · _greenhouse_
