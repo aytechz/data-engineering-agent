@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3963)
+## greenhouse (3980)
 hingehealth
 maven
 spring
@@ -1674,6 +1674,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2945,25 +2946,40 @@ teacherspayteachers
 teads
 team1
 teammobot
+teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
 technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
 techstars57
 techtalentandstrategy
+tecovas
+tegnainc
+tekion
 tekmetric
+teknema
 teladochealth
 telemedicine
 telesign
 teletrackingtechnologiesinc
 telgorithm
 telixus
+tellerparkvet
+tellius
 telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
 temporaltechnologies
 tempus
@@ -2971,6 +2987,7 @@ tenableinc
 tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
 tenet3
 tenetfintechgroup
@@ -3966,7 +3983,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2689)
+## lever (2690)
 netflix
 shopify
 github
@@ -5191,6 +5208,7 @@ jeff-app
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
