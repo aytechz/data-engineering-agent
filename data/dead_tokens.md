@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3891)
+## greenhouse (3884)
 hingehealth
 maven
 spring
@@ -41,7 +41,6 @@ doordash
 ramp
 rippling
 deelinc
-coinbase
 krakenexchange
 opensea
 openai
@@ -181,6 +180,7 @@ airpacairlines
 airspeed
 airtime
 airworks
+akerotherapeutics
 akriveiatherapeutics
 alby
 alchemy
@@ -396,7 +396,6 @@ banyucarbon
 bardelentertainment
 barinthusbiotherapeutics
 basehq
-basejobs
 basepowercompany
 batonhealth
 baymeadows
@@ -548,6 +547,7 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
+builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -606,6 +606,7 @@ casa
 casago
 cascadedatalabs
 cascadeloans
+casestatus
 casetext
 casper
 casperretail
@@ -861,7 +862,6 @@ curofinancialtechnologiescorporation
 curology
 currentcatalog
 curvehealth
-cutover
 cvjc
 cybergrx
 cybrary
@@ -1893,6 +1893,7 @@ merama
 merchantesolutions
 meridian
 merit
+meritamerica
 mesamember
 meshpayments
 meshy
@@ -2410,7 +2411,6 @@ propertyfinder
 prose
 protenus
 protocollabs
-proyectosenmexycentroamerica
 psyonix
 pubgemea
 pubgmadison
@@ -3015,16 +3015,9 @@ thesisdefense
 theskimm
 thesourcery
 theswiftgroup
-thetradedesk
 thetustingroupasp
-thevascularcaregroup
 thevets
-theweathercompany
-thewilshiregroup
 thezebra
-thiess
-thinkacademyus
-thinkific
 thinkingmachines
 thinkmarkets
 thinkofus
@@ -4235,7 +4228,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -5747,6 +5739,7 @@ ppslrswmo
 ppsp
 ppswo
 practicebetter
+prefixbox
 preligens
 prelim
 premia
@@ -6311,7 +6304,6 @@ thycotic
 tiff
 tiket
 tilda-research
-tildei
 tileapp
 timely-md
 timelycare
@@ -6464,6 +6456,7 @@ videahealth
 vidrovr
 vimpelcom
 vinted
+viome
 vippetcare
 vir
 virtuous
@@ -6953,6 +6946,7 @@ juni
 k2space
 k42
 kalder
+kalibri-labs
 kalos
 katana
 keeper
@@ -7085,7 +7079,6 @@ ozone
 pace
 pacificfusion
 pageport
-pagos
 pahdo
 parable
 paradigm-ai

@@ -1,8 +1,6 @@
-### 5 new matching jobs · 2026-06-08 12:09 UTC
+### 3 new matching jobs · 2026-06-08 16:23 UTC
 
-#### From greenhouse (5)
-- **[Principal Data Engineer - PerfectScale by DoiT, Poland(Remote)](https://job-boards.greenhouse.io/doitintl/jobs/7765788003)** at **DoiT** — Remote EMEA · `spark, dbt, aws, gcp, azure, python` · _greenhouse_
-- **[Principal Data Engineer - PerfectScale by DoiT, Portugal(Remote)](https://job-boards.greenhouse.io/doitintl/jobs/7765787003)** at **DoiT** — Remote EMEA · `spark, dbt, aws, gcp, azure, python` · _greenhouse_
-- **[Principal Data Engineer - PerfectScale by DoiT, Romania (Remote)](https://job-boards.greenhouse.io/doitintl/jobs/7765779003)** at **DoiT** — Remote EMEA · `spark, dbt, aws, gcp, azure, python` · _greenhouse_
-- **[Principal Data Engineer - PerfectScale by DoiT, Ukraine(Remote)](https://job-boards.greenhouse.io/doitintl/jobs/7765780003)** at **DoiT** — Remote EMEA · `spark, dbt, aws, gcp, azure, python` · _greenhouse_
-- **[Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=7949850)** at **phData** — India - Remote 🏥 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+#### From greenhouse (3)
+- **[Senior Software Engineer - Data Platform](https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231)** at **Coinbase** — Remote - USA 🏥🤖 · `spark, airflow, kafka, python, sql` · _greenhouse_
+- **[Senior Staff Software Engineer, Data Platform](https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287)** at **Coinbase** — Remote - USA 🏥 · `databricks, snowflake, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/sayari/jobs/4272020009)** at **Sayari** — Remote - US 🏥🤖 · `spark, airflow, python` · _greenhouse_
