@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3668)
+## greenhouse (3632)
 hingehealth
 maven
 spring
@@ -1691,7 +1691,6 @@ korukids
 kovitz
 kraftheinz
 kraftonsea
-kreativekids
 kronosbio
 ksqtxcareers
 kuncie
@@ -3204,58 +3203,23 @@ vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
-verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
-veza
-vgw
 vhsys
-via
-viaduct
 viagogo
-vialogic
 viamrobotics
 vianttechnology
 viber
@@ -3671,7 +3635,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2695)
+## lever (2691)
 netflix
 shopify
 github
@@ -4361,6 +4325,7 @@ dgraph
 diamondage3d
 didi-global
 didomi
+digitalmass
 digitalremedy
 digitalturbine
 dimo
@@ -4896,7 +4861,6 @@ jeff-app
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5119,11 +5083,8 @@ madisonlogic
 madrigalpharma
 magic
 magicgames
-magnetforensics
-magnify
 magnitudesoftware
 mahanatherapeutics
-mahmee
 mainstreet
 mainstreetwork
 makersplace
@@ -5137,7 +5098,6 @@ manty
 maple-finance
 maplemedia
 mapsbcorp
-marcopolo
 margueritecaseyfoundation
 maribelhealth
 markato
@@ -5253,7 +5213,6 @@ multiversx
 munichelectrification
 myassurehealth
 mycelium
-myob-2
 myplacehealth
 mytraffic
 myvest
@@ -5736,6 +5695,7 @@ roundglass
 routethis
 royal
 rqteam
+rsandf-2
 ruangguru
 rubylabs
 rumin8
@@ -6368,7 +6328,7 @@ zumper
 zuru
 zuva
 
-## ashby (773)
+## ashby (774)
 mercury
 together
 replicate
@@ -7046,6 +7006,7 @@ talntteam
 talos-network
 tandem
 teachfx
+tealhq
 teambridge
 techpolicyfellowship
 tectonai
