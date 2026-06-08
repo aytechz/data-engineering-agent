@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3905)
+## greenhouse (3891)
 hingehealth
 maven
 spring
@@ -2991,40 +2991,26 @@ thegivingblock
 thegoodfoodinstitute80
 thehackerati
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
 thelandlinecompany
-thelibragroup
 themanual
 themany
 themarkup
 themarshallproject
 thena
-thenewyorktimes
 theoakleafgroupllc
 theoremlp
 theorg
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
-thepharmacyhub
-thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
-thesiscareers
 thesisdefense
 theskimm
 thesourcery
@@ -6602,7 +6588,7 @@ zumper
 zuru
 zuva
 
-## ashby (774)
+## ashby (773)
 mercury
 together
 replicate
@@ -6694,7 +6680,6 @@ bettercloud
 beyondsports
 biconomy
 bigeye
-billie
 bind
 biorender
 bird
@@ -6755,7 +6740,6 @@ coalesce
 coastal-carbon
 cococart
 cocreate
-codat
 codegen
 codeium
 cointracker
@@ -6930,6 +6914,7 @@ heirloomcarbon
 helika
 her
 herojourneyclub
+heyjobs
 himsandhers
 hint
 homemade
