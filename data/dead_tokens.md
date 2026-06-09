@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3726)
+## greenhouse (3714)
 hingehealth
 maven
 spring
@@ -603,6 +603,7 @@ carsandbids
 carsdotcom
 cartodb
 casa
+casago
 cascadedatalabs
 cascadeloans
 casestatus
@@ -1838,6 +1839,7 @@ markerlearning
 marketmuse
 markets
 maro
+marro
 marscousg
 marsdiscoverydistrict
 martinaireaviation
@@ -2038,6 +2040,7 @@ nearby
 nearsure
 nedforct
 neighborhoodscom
+neighborsbank
 neocybernetica
 neondatabase
 neonkoi
@@ -2299,6 +2302,7 @@ pepperjam
 perfectday
 periscopedata
 permutive
+perryhealthinc
 perrystreetsoftware
 persado
 persona
@@ -2883,7 +2887,6 @@ supraoracles
 surfair
 surgicalnotes
 sustainlife
-sustainment
 swagup
 swanbitcoin
 swarmaero
@@ -3141,30 +3144,16 @@ uniplaces
 uniswapfoundation
 uniswaplabs
 unit21
-unitedfirm
 unitedmasters
-unitedmasterstranslation
 unitedstatesgolfassociation
-uniteus
 universalhydrogen
 universeenergy
 universityofchicago
-unlimitedtechnology
-unlock
-unlockhealth
 unohealth
-unqork
 unrealsnacks
-unybrands
-up
-upbound
-upboundext
-updater
 upgrade
 upkeep
-upshop
 upsolver
-upstart
 upstartlab
 upstatement
 upstreamcare
@@ -3179,7 +3168,6 @@ urbancompass
 urbanfootprint
 urbansky
 urbansportsclub
-urbansystems
 urbint
 urbnleaf
 urgentcareforchildren
@@ -3729,7 +3717,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2692)
+## lever (2714)
 netflix
 shopify
 github
@@ -4721,6 +4709,7 @@ golucid
 good-party
 goodgamestudios
 goodrx
+gopuff
 gordian-bio
 gorgias
 gorillalogic
@@ -4772,6 +4761,7 @@ harrisinsights
 harrison
 harvest-2
 hash
+hasi
 hatch
 hatchcard
 haus
@@ -4790,6 +4780,7 @@ healthline
 healthtensor
 healthverity
 hearsaysystems
+heartbeathealth
 heartflow
 heirloomtechnologies
 helbiz
@@ -4955,6 +4946,7 @@ jeff-app
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5107,6 +5099,7 @@ linktree
 linq
 linuxacademy
 lionheartkid
+lirvanalabs
 littleotter
 livefront
 livekindred
@@ -5123,8 +5116,10 @@ logikcull
 login
 logistimo
 logixboard
+logrocket
 longtail-ai
 longview
+longwall
 looker
 loop-health
 loopinternet
@@ -5245,9 +5240,11 @@ metalpay
 metaprisebanking
 metatheory
 meteor
+metlife
 mgac
 mheducation
 micromerchantsystems
+microvision
 midigator
 mighty
 migo-2
@@ -5301,6 +5298,7 @@ mountaintop
 mous
 moveloot
 moxionpower
+mrss
 mryum
 mtspartners
 multiversx
@@ -5345,6 +5343,7 @@ nexos
 nextbigsound
 nextcaller
 nextdata
+nextech
 nextgames
 nextmillennium
 nfamilyclub-2
@@ -5373,6 +5372,7 @@ notarize
 notch
 noteworth
 notonthehighstreet
+novaspace
 novi
 noyo
 nrccua
@@ -5410,6 +5410,7 @@ oda
 odysaviation
 offerpop
 omni-network
+omnisend
 onaroll
 ondeck
 ondofinance
@@ -5450,6 +5451,7 @@ orbitalinsight
 orcamobility
 orkes
 orum
+osedea
 osmind
 osnational
 oso
@@ -5509,6 +5511,7 @@ peckwaterbrands
 peddie
 pelago
 pento
+penumbrainc
 peoplefun
 percipient
 percona
@@ -5536,6 +5539,7 @@ pineparkhealth
 pingcap
 pip
 pirouettemedical
+pivotal
 pjp
 placemeter
 placepass
@@ -5552,8 +5556,10 @@ plazahomemortgage
 plivo
 plooto
 plum
+pmdsoft
 pockethealth
 pocketworlds
+pointclickcare
 pointonenav
 polarsteps
 policyfly
@@ -5599,6 +5605,7 @@ primarybio
 primaryvc
 primechiefofstaff
 primemoverslab
+princesspolly
 printavo
 printify
 priorities
@@ -5676,6 +5683,7 @@ rainforest
 rainmaking
 raise
 ramenvr
+rangeenergy
 ranitherapeutics
 rapidapi
 rapiddeploy
@@ -5878,6 +5886,7 @@ shop-canal
 showcaseidx
 sidebench
 sidequest
+sierraclub
 sigfig-2
 sightviewsoftware
 signal
@@ -6405,6 +6414,7 @@ zentail
 zenysis
 zeotap
 zeplin
+zerion
 zerocater
 zerofox
 zesty
