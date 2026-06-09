@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3714)
+## greenhouse (3689)
 hingehealth
 maven
 spring
@@ -606,7 +606,6 @@ casa
 casago
 cascadedatalabs
 cascadeloans
-casestatus
 casetext
 casper
 casperretail
@@ -797,7 +796,6 @@ cota
 cotap
 coursehero
 coursekey
-coursemojo
 covacareers
 covant
 covetool
@@ -1531,6 +1529,7 @@ insitro
 insomniacgames
 instnt
 insureyourfuturega
+insurtechinsights
 integraladscience
 integralneuro
 integrate
@@ -1927,6 +1926,7 @@ mineral
 minthouse
 mintmobile
 minware
+miraklfr
 mirror
 missionbio
 missionlanellc
@@ -2317,7 +2317,6 @@ phcglobal
 phenogy
 philadelphiaeagles
 philadelphiaphilliesrddepartment
-phiture2
 phonic
 phreesia
 piclo
@@ -2456,6 +2455,7 @@ radiant
 radicalai
 radicalnumerics
 radixtrading
+raft
 rainberry
 rainesinternational
 rakutenrewards
@@ -2711,6 +2711,7 @@ simplefinance
 simplehealth
 simplesurance
 simplify360
+simpplr
 simspace
 simulamet
 sinch
@@ -3151,34 +3152,19 @@ universeenergy
 universityofchicago
 unohealth
 unrealsnacks
-upgrade
-upkeep
 upsolver
 upstartlab
 upstatement
 upstreamcare
-upstreamusa
 uptake
 uptivhealth
-upwardhealth
-upwork
 upworthy
 urban
-urbancompass
 urbanfootprint
-urbansky
-urbansportsclub
 urbint
 urbnleaf
-urgentcareforchildren
-urpt
-ursamajor
-urschellaboratoriesinc
 urx
 usablemachines
-usaforunhcr
-usenourish
-usergems
 userinterviews
 userleap
 ushur
@@ -3187,23 +3173,12 @@ ustwo
 ustwogames
 utahtitleloansinc
 utilityapi
-uvimco
 vac
-vacasa
-vacationinc
-vaco
-vailclinicincdbavailhealthhospital
-valaratomics
-valerahealth
 valiantharborinternationalllc
 valimailinc
-valleyhospital
 valleyview
-valohealth
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
@@ -3717,7 +3692,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2714)
+## lever (2695)
 netflix
 shopify
 github
@@ -4709,7 +4684,6 @@ golucid
 good-party
 goodgamestudios
 goodrx
-gopuff
 gordian-bio
 gorgias
 gorillalogic
@@ -4761,7 +4735,6 @@ harrisinsights
 harrison
 harvest-2
 hash
-hasi
 hatch
 hatchcard
 haus
@@ -4780,7 +4753,6 @@ healthline
 healthtensor
 healthverity
 hearsaysystems
-heartbeathealth
 heartflow
 heirloomtechnologies
 helbiz
@@ -4946,7 +4918,6 @@ jeff-app
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5099,7 +5070,6 @@ linktree
 linq
 linuxacademy
 lionheartkid
-lirvanalabs
 littleotter
 livefront
 livekindred
@@ -5116,10 +5086,8 @@ logikcull
 login
 logistimo
 logixboard
-logrocket
 longtail-ai
 longview
-longwall
 looker
 loop-health
 loopinternet
@@ -5240,11 +5208,9 @@ metalpay
 metaprisebanking
 metatheory
 meteor
-metlife
 mgac
 mheducation
 micromerchantsystems
-microvision
 midigator
 mighty
 migo-2
@@ -5298,7 +5264,6 @@ mountaintop
 mous
 moveloot
 moxionpower
-mrss
 mryum
 mtspartners
 multiversx
@@ -5343,7 +5308,6 @@ nexos
 nextbigsound
 nextcaller
 nextdata
-nextech
 nextgames
 nextmillennium
 nfamilyclub-2
@@ -5372,7 +5336,6 @@ notarize
 notch
 noteworth
 notonthehighstreet
-novaspace
 novi
 noyo
 nrccua
@@ -5410,7 +5373,6 @@ oda
 odysaviation
 offerpop
 omni-network
-omnisend
 onaroll
 ondeck
 ondofinance
@@ -5451,7 +5413,6 @@ orbitalinsight
 orcamobility
 orkes
 orum
-osedea
 osmind
 osnational
 oso
@@ -5511,7 +5472,6 @@ peckwaterbrands
 peddie
 pelago
 pento
-penumbrainc
 peoplefun
 percipient
 percona
@@ -5539,7 +5499,6 @@ pineparkhealth
 pingcap
 pip
 pirouettemedical
-pivotal
 pjp
 placemeter
 placepass
@@ -5556,10 +5515,8 @@ plazahomemortgage
 plivo
 plooto
 plum
-pmdsoft
 pockethealth
 pocketworlds
-pointclickcare
 pointonenav
 polarsteps
 policyfly
@@ -5605,7 +5562,6 @@ primarybio
 primaryvc
 primechiefofstaff
 primemoverslab
-princesspolly
 printavo
 printify
 priorities
@@ -5683,7 +5639,6 @@ rainforest
 rainmaking
 raise
 ramenvr
-rangeenergy
 ranitherapeutics
 rapidapi
 rapiddeploy
@@ -6208,6 +6163,7 @@ trueaccord
 truenorth
 truepill
 truevault
+trunkio
 truora
 trussworks
 trustandwill
@@ -6433,7 +6389,7 @@ zumper
 zuru
 zuva
 
-## ashby (774)
+## ashby (775)
 mercury
 together
 replicate
@@ -6894,6 +6850,7 @@ navattic
 neotaste
 nevoya
 newschoolfoods
+newxel
 nextmatter
 nimbl
 normalcomputingai

@@ -1,7 +1,11 @@
-### 4 new matching jobs · 2026-06-09 16:14 UTC
+### 6 new matching jobs · 2026-06-09 18:23 UTC
 
-#### From greenhouse (4)
-- **[Senior Data Architect](https://job-boards.greenhouse.io/everway/jobs/4664076006)** at **Everway** — Remote- UK 🤖 · `databricks, sql` · _greenhouse_
-- **[Senior Data Engineer | Bankrate](https://www.redventures.com/careers/positions/open?gh_jid=7992735)** at **Red Ventures** — United States 🏥 · `databricks, spark, airflow, aws, python, sql` · _greenhouse_
-- **[Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)** at **Samsara** — Remote - Canada · `databricks, spark, airflow, aws, python, sql` · _greenhouse_
-- **[Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)** at **Samsara** — Remote - US · `databricks, spark, airflow, aws, python, sql` · _greenhouse_
+#### From greenhouse (5)
+- **[Data Engineer](https://jobs.dropbox.com/listing/7739553?gh_jid=7739553)** at **Dropbox** — Remote - Mexico · `databricks, spark, airflow, aws, gcp, azure` · _greenhouse_
+- **[Senior Autonomy Data Engineer](https://job-boards.greenhouse.io/torcrobotics/jobs/8583794002)** at **Torc Robotics** — Remote - US, Blacksburg, VA 🏥 · `aws, python, sql, terraform` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4890361101)** at **Valtech** — Poland - Remote 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4890415101)** at **Valtech** — Ukraine - Remote 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4888650101)** at **Valtech** — North Macedonia - Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+
+#### From lever (1)
+- **[Lead Data Engineer](https://jobs.lever.co/egen/d1cf6bb7-9b87-45d0-bfe3-3c939396ab81)** at **egen** — Remote · _lever_
