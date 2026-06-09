@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-06-09 04:35 UTC
+### 1 new matching jobs · 2026-06-09 08:42 UTC
 
 #### From greenhouse (1)
-- **[Staff Software Engineer, AI Data Platform](https://job-boards.greenhouse.io/labelbox/jobs/5159327007)** at **Labelbox** — San Francisco Bay Area 🤖 · `databricks, kafka, gcp, python` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/themotleyfool/jobs/5130060007)** at **The Motley Fool** — United States - Remote 🤖 · `snowflake, airflow, aws, python, sql, terraform` · _greenhouse_
