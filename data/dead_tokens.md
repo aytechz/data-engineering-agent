@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3964)
+## greenhouse (3993)
 hingehealth
 maven
 spring
@@ -744,6 +744,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1376,6 +1377,7 @@ hctechnologies
 headborneai-gmbh
 headoutreferrals
 headspace
+headway
 healthfidelity
 healthgorilla
 healthgrades
@@ -2930,37 +2932,63 @@ tapresearch
 targetrwe
 taskhumancoachingcommunity
 taskhumancorporate
+tastylive
+tastytrade
 tavus
+taxbit
 taxibeat
+taxvalet
 taylorstrategy
 tbnr
+tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
+tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
+teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
 technergetics
 technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
 techstars57
 techtalentandstrategy
 tecovas
+tegnainc
 tekion
 tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
 tellerparkvet
+tellius
 telnyx54
 telusdigitalbr
 templafy
@@ -2968,6 +2996,7 @@ tempo
 temporal
 temporaltechnologies
 tempus
+tenableinc
 tenberke
 tencent
 tenderfood
@@ -3967,7 +3996,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2691)
+## lever (2694)
 netflix
 shopify
 github
@@ -4161,6 +4190,7 @@ appacademy
 appboxo
 apphub
 appliedminds
+applike
 applovin
 applyboard
 appsilon
@@ -4539,6 +4569,7 @@ companyon
 compasslexecon
 complex
 composer
+compound-2
 comtravo
 concordnow
 conduit
@@ -5337,6 +5368,7 @@ lime
 limebike
 liminal
 limitless
+lindblad-expeditions
 linea
 lingoda
 linksys
