@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-06-10 06:44 UTC_
+_Last updated: 2026-06-10 11:05 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,12 +8,11 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
-- **[Sr. Big Data Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002)** at **Databricks** — Remote - India · `databricks, spark, kafka, aws, gcp, azure` · _greenhouse_
+- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Sr. Staff Software Engineer - Data Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002)** at **Databricks** — Mountain View, California; San Francisco, California 🏥 · `databricks, spark` · _greenhouse_
-- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/scaleai/jobs/4649903005)** at **Scale AI** — San Francisco, CA; New York, NY · `spark, snowflake` · _greenhouse_
 - **[Senior Staff Data Engineer, Marketplaces DNA](https://careers.airbnb.com/positions/7463663?gh_jid=7463663)** at **Airbnb** — United States 🤖 · `spark, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Engineering](https://careers.airbnb.com/positions/7095225?gh_jid=7095225)** at **Airbnb** — United States 🤖 · `spark, kafka, python, sql` · _greenhouse_
@@ -208,3 +207,4 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Staff Data Platform Engineer](https://boards.greenhouse.io/honor/jobs/8582881002?gh_jid=8582881002)** at **Honor** — Remote Position 🏥🤖 · `dbt, airflow, aws, python` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/hopscotchprimarycare/jobs/6015152004)** at **Hopscotch Primary Care** — Remote 🏥 · `databricks, pyspark, snowflake, dbt, aws, gcp` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/hs/jobs/7776483)** at **Headspace** — Remote - New York City, NY; Remote - Seattle, WA; Remote - United States; San Francisco - Hybrid 🏥🤖 · `databricks, pyspark, snowflake, dbt, python, terraform` · _greenhouse_
+- **[Staff Data Engineer](https://job-boards.greenhouse.io/hs/jobs/7776472)** at **Headspace** — Remote - New York City, NY; Remote - Seattle, WA; Remote - United States; San Francisco - Hybrid 🏥 · `databricks, pyspark, spark, snowflake, dbt, kafka` · _greenhouse_
