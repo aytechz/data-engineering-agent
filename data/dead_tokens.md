@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3984)
+## greenhouse (4037)
 hingehealth
 maven
 spring
@@ -375,7 +375,6 @@ avea
 avelaeducation
 avenueone
 avitapropertymanagement
-awalsme
 awarehealthcare
 away
 axiomquant
@@ -747,7 +746,6 @@ codesignal
 codetta
 codex
 codility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1078,6 +1076,7 @@ eventussystemsinc
 everactive1
 everbody
 everest
+evergreenaction
 evergreenbloomerang
 everisusainc
 everops
@@ -1298,6 +1297,7 @@ go1blinkist
 go1us
 go1vn
 goalturkey
+goaluganda
 goalzimbabwe
 goclio
 godfreydadichpartners
@@ -1896,7 +1896,6 @@ merama
 merchantesolutions
 meridian
 merit
-meritamerica
 mesamember
 meshpayments
 meshy
@@ -2906,51 +2905,105 @@ sylva
 symblai47
 symbolica
 symend
+symmetry
 symmetrysoftware
+synack
+synacksrt
 synccomputing
 synchron
 syncron
 synctera
+syndigo
+syndio
+synerg
 synfindo
 synthesia
+synthesishealth
+synthetaic
 syrup
 sysdig
+syskahennessy
+system
+systemiq
+systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
+taboola
+tacnet
 tacobell
 tacobelljobs
 tacombi
+tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
+tailorcare2023
 tails
+tailscale
 taittowers
+takealotcom
+takealotgroup
+takecommandhealth
+taketwo
 tala
 talent_community
 talentscreditas
+talkdesk2
+talkspace
+talkspacepsychiatry
+talkspacetherapist
 tally
 tallywallet
+talonone
 talos
 tamanna
+tamara
+tandemlaunch
+tandemmoneylimited
 tangocard
+tangogameworks
 tangoio
+tangotherapeutics
+tanium
+tanius
+tankww
 tanso
 tapresearch
 targetrwe
+tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
+taskrabbit
+tastylive
+tastytrade
 tavus
+taxbit
 taxibeat
+taxvalet
 taylorstrategy
 tbnr
+tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
+tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
+teampathy
 teampay
 teampicnic
 teamrubicon
@@ -3987,7 +4040,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2704)
+## lever (2705)
 netflix
 shopify
 github
@@ -5313,6 +5366,7 @@ kyte
 kyverna
 laagencia
 labelbox
+lacunatechnologies
 lambdal
 lambdaschool
 laminiai
@@ -5368,6 +5422,7 @@ linq
 linuxacademy
 lionheartkid
 littleotter
+littlesprouts
 livefront
 livekindred
 livelike
@@ -5459,18 +5514,19 @@ marketingevolution
 marketopia
 marlettefunding
 marq
+marshallreddick
 martinagency
+massschoolbuildings
 mastreforestation
 mastrics
 masygroup
 mathpresso
-matillion
-matrixpartners
 mattermark
 mattermost
 matterport
 matters
 matterworks
+max-retail
 maxmind
 mbcapital
 mbrdna
@@ -5507,7 +5563,6 @@ metalpay
 metaprisebanking
 metatheory
 meteor
-metlife
 mgac
 mheducation
 micromerchantsystems
@@ -5550,6 +5605,7 @@ momentum-inc
 monumental
 moogsoft
 moonhub
+moonsong-labs
 morningconsult
 mosaic-2
 mosaicbuilders
@@ -5670,6 +5726,7 @@ octane
 octoml
 octopus
 oda
+oddin
 odysaviation
 offerpop
 omni-network
@@ -5717,7 +5774,6 @@ osmind
 osnational
 oso
 osomprivacy
-otilumionics
 ouster
 outrider
 overbit
@@ -5835,7 +5891,6 @@ possiblefinance
 potentialmotors
 potloc
 ppaz
-ppcentralcoast
 ppgnnj
 ppgt
 pplwise
@@ -6094,7 +6149,6 @@ scalebio
 scalemicrogridsolutions
 scanlinevfx
 schibsted
-schmidt-entities
 scholarsoffinance
 schoolhouseworld
 scienceexchange
@@ -6280,7 +6334,6 @@ supernovacompanies
 supernoya-logistics
 superpedestrian
 supportninja
-surglogs
 sustain-cert
 swaniti
 swappie
@@ -6516,6 +6569,7 @@ upmetrics
 upside
 upstox
 upwork
+usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6693,7 +6747,7 @@ zumper
 zuru
 zuva
 
-## ashby (775)
+## ashby (777)
 mercury
 together
 replicate
@@ -6806,6 +6860,7 @@ boost
 breadboard
 bridge
 brightmeds
+buildwithfern
 buoyant
 c-side
 c0ffee
@@ -6858,6 +6913,7 @@ compass-reg
 conductorone
 connecthum
 continua
+contrast-security
 contribution-labs
 convictional
 copilot
@@ -6910,7 +6966,6 @@ earnedwealth
 earthforce
 ecarxgroup
 edge-node-ventures
-edia
 ediphi
 electricai
 elevate-labs
@@ -7076,6 +7131,7 @@ kodif
 krepling
 lanai
 landbase
+lark
 latitud
 layern
 lempire
