@@ -1,10 +1,13 @@
-### 5 new matching jobs · 2026-06-10 18:11 UTC
+### 6 new matching jobs · 2026-06-10 20:46 UTC
 
-#### From ashby (2)
-- **[Data Engineer - Data & Analytics](https://jobs.ashbyhq.com/sardine/6c3dd41c-0ca6-47c5-86fb-bd5114f2a5ac)** at **sardine** — United States 🤖 · `snowflake, dbt, airflow, aws, gcp, python` · _ashby_
-- **[Staff Data Engineer](https://jobs.ashbyhq.com/teamworks/6fc18085-3e3a-4e4a-ae25-736e3c322250)** at **teamworks** — United States 🏥 · `databricks, spark, snowflake, aws, python, terraform` · _ashby_
+#### From ashby (1)
+- **[Staff Data Platform Engineer](https://jobs.ashbyhq.com/flosports/0e728583-0755-4adf-afc5-6b1b369786f4)** at **flosports** — Remote, United States 🏥🤖 · `aws, gcp, sql, terraform` · _ashby_
 
-#### From greenhouse (3)
-- **[Principal Data Architect](https://job-boards.greenhouse.io/commvault/jobs/5235416008)** at **Commvault** — United States 🤖 · `databricks, spark, snowflake, dbt, azure, sql` · _greenhouse_
-- **[Principal Data Engineer](https://job-boards.greenhouse.io/everway/jobs/4684170006)** at **Everway** — Antrim, Northern Ireland, United Kingdom; Remote- UK · `databricks, dbt, python, sql` · _greenhouse_
-- **[Principal Data Engineer (Product Data)](https://job-boards.greenhouse.io/everway/jobs/4686073006)** at **Everway** — Antrim, Northern Ireland, United Kingdom; Remote- UK · `databricks, dbt, kafka, python, sql` · _greenhouse_
+#### From greenhouse (4)
+- **[Senior Data Engineer I](https://www.samsara.com/company/careers/roles/7997311?gh_jid=7997311)** at **Samsara** — Remote - Canada 🤖 · `databricks, pyspark, spark, airflow, aws, gcp` · _greenhouse_
+- **[Senior Data Engineer I](https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702)** at **Samsara** — Remote - US 🤖 · `databricks, pyspark, spark, airflow, aws, gcp` · _greenhouse_
+- **[Mid-Level Data Engineer](https://job-boards.greenhouse.io/simpletechnologysolutions/jobs/6019005004)** at **Simple Technology Solutions** — Remote · `pyspark, spark, airflow, aws, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/simpletechnologysolutions/jobs/6019016004)** at **Simple Technology Solutions** — Remote · `pyspark, spark, airflow, aws, python` · _greenhouse_
+
+#### From lever (1)
+- **[Lead Data Engineer, Analytics & Insights](https://jobs.lever.co/agtonomy/dc4ec5b7-0ea2-4d9c-b0d7-a43d79a41adf)** at **agtonomy** — South San Francisco, CA · _lever_
