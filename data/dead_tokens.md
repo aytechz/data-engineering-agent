@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3977)
+## greenhouse (3959)
 hingehealth
 maven
 spring
@@ -743,7 +743,6 @@ codesignal
 codetta
 codex
 codility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -2953,26 +2952,15 @@ teammobot
 teampay
 teamworthy
 techietalent
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
 techstars57
 techtalentandstrategy
-tecovas
-tegnainc
-tekion
-tekmetric
-teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
 telnyx54
 telusdigitalbr
 templafy
@@ -2980,19 +2968,13 @@ tempo
 temporal
 temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
 tenet3
 tenetfintechgroup
 tennesseetitleloansinc
-tenon
 tensor
-tenstorrent
-tenstreet
 tenthousand
 teracore
 terakeet
@@ -3980,7 +3962,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2701)
+## lever (2702)
 netflix
 shopify
 github
@@ -4744,6 +4726,7 @@ elliemae
 elliveproductions
 elodiegames
 elvah
+emburse
 emeraldtherapeutics
 emersoncollective
 emesent
@@ -4774,6 +4757,7 @@ equiphealth
 erpsuccesspartners
 esper-3
 espresso
+esrtreit
 estenda
 ether-fi
 ethereumfoundation
@@ -5204,6 +5188,7 @@ jarofleets
 jarvis
 jaspertx
 jeff-app
+jellysmack
 jina-ai
 jiostar
 jobcase
@@ -5309,8 +5294,8 @@ labelbox
 lambdal
 lambdaschool
 laminiai
-lamudi
 landing
+larian
 laserhub-2
 last9
 latticehq
@@ -5491,7 +5476,6 @@ mentormate
 meridianlink
 merit
 merkle
-merklescience
 meroxa
 meshcapade
 messari
@@ -5542,7 +5526,6 @@ momentum-inc
 monumental
 moogsoft
 moonhub
-morningbrew
 morningconsult
 mosaic-2
 mosaicbuilders
