@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4046)
+## greenhouse (3998)
 hingehealth
 maven
 spring
@@ -291,7 +291,6 @@ aptopayments
 aptos
 aputure
 aquant
-aquia
 aradenabattlegrounds
 arcdev
 arcellx
@@ -550,6 +549,7 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
+builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -747,7 +747,6 @@ codesignal
 codetta
 codex
 codility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -773,6 +772,7 @@ conceptarthouse
 condorcomputing
 conductor
 connatix
+connectder
 connectedanalyticsthankucash
 connectedfitness
 connecthomes
@@ -1369,7 +1369,6 @@ handled
 happifyhealth
 harbingerhealth
 harbor
-harborglobal
 harperdbinc
 harrysinc
 havenly
@@ -1446,7 +1445,6 @@ homeinstead
 homeoffice
 homesteadstudio
 hometogo
-homeward
 honeathome
 honestmedicalgroup
 honey
@@ -1683,7 +1681,6 @@ knab
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2617,6 +2614,7 @@ scalefactor
 scaletowinllc
 scholarshipportal
 schoolleaders2324schoolyear
+schoolmint
 schweigerdermatologygroup
 science
 sciencelogic
@@ -2899,100 +2897,54 @@ sustainlife
 swagup
 swanbitcoin
 swarmaero
-swayboxstudios
 sweet
 sweeten
-swingeducation
 swirlds
 swishanalytics
-swissitgermany
-swoogo
 syapse
 sylogist
 sylva
-sylvain
 symblai47
 symbolica
 symend
-symmetry
 symmetrysoftware
-synack
-synacksrt
 synccomputing
 synchron
 syncron
 synctera
-syndigo
-syndio
-synerg
 synfindo
 synthesia
-synthesishealth
-synthetaic
 syrup
 sysdig
-syskahennessy
-system
-systemiq
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
-taboola
-tacnet
 tacobell
 tacobelljobs
 tacombi
-tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
-tailorcare2023
 tails
-tailscale
 taittowers
-takealotcom
-takealotgroup
-takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspace
-talkspacepsychiatry
-talkspacetherapist
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
-tandemlaunch
-tandemmoneylimited
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
-tankww
 tanso
 tapresearch
 targetrwe
-tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
-taskrabbit
-tastylive
-tastytrade
 tavus
-taxbit
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
-tbwachiatday
 tbwawh
 tcgcapital
 tdc
@@ -4188,7 +4140,6 @@ allata
 alliance
 allinbits
 allstripes
-alltrails
 alpineimmunesciences
 altoida
 altrio
@@ -4271,6 +4222,7 @@ arkbiotech
 arpa
 arrive
 artblocks
+articulate
 artificial
 asap
 ascoeq
@@ -6756,7 +6708,7 @@ zumper
 zuru
 zuva
 
-## ashby (779)
+## ashby (780)
 mercury
 together
 replicate
@@ -7461,6 +7413,7 @@ topologic
 transform
 treasure
 treasuryprime
+trilitech
 tronic
 trunktools
 truss
