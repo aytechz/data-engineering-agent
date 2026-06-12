@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-06-11 22:17 UTC
+### 1 new matching jobs · 2026-06-12 01:41 UTC
 
-#### From ashby (1)
-- **[Staff Data Platform Engineer](https://jobs.ashbyhq.com/tilthq/d652a8a7-ac54-45db-9699-d0f25e4574f1)** at **tilthq** — Remote - US 🤖 · `databricks, dbt, aws, gcp, azure, python` · _ashby_
+#### From greenhouse (1)
+- **[Sr. Data Engineer - FP&A](https://job-boards.eu.greenhouse.io/cognite/jobs/4895978101)** at **Cognite - AI for Industry** — USA (Phoenix) · `pyspark, spark, gcp, azure, python, sql` · _greenhouse_
