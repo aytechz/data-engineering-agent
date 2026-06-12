@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3888)
+## greenhouse (3831)
 hingehealth
 maven
 spring
@@ -58,7 +58,6 @@ kobold
 quantumscape
 sunrun
 arcadiapower
-vercel
 sentry
 segmentio
 hashicorp
@@ -74,10 +73,7 @@ shippo
 appliedintuition
 cruise
 zoox
-advancedspace
 alloycampus
-billiontoone
-capitalrx
 digs
 klaviyocampus
 0x
@@ -475,7 +471,6 @@ blab
 blabuscanada
 blackbill
 blackbird
-blackedgecapital
 blackswan
 blade
 blenheimchalcot
@@ -752,6 +747,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -777,7 +773,6 @@ conceptarthouse
 condorcomputing
 conductor
 connatix
-connectder
 connectedanalyticsthankucash
 connectedfitness
 connecthomes
@@ -1308,7 +1303,6 @@ goalturkey
 goaluganda
 goalzimbabwe
 goclio
-godfreydadichpartners
 gofoundation
 gogratia
 gohealth
@@ -2724,7 +2718,6 @@ simplefinance
 simplehealth
 simplesurance
 simplify360
-simpplr
 simspace
 simulamet
 sinch
@@ -2883,10 +2876,10 @@ studentfounders
 studentloanhero
 studiodesigner
 studiosarchitecture
+studioscience
 styleseat32
 stylitics
 styra
-subarupacific
 sugar
 sullyai
 summerinternships
@@ -3048,84 +3041,36 @@ thread
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
-tifin
-tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
-tipaltisolutions
 tippingpointcommunity
-tiptop
-tiree
-tireseasycom
 titan
 titelmedia
-tmc
 tmg
 tminuszero
-toast
 toastmastersinternational
-tobogganlabs
-togetherai
-togetherwork
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
-topcompare
 toposware
-topsort
 topspot
-topsteptrader
-toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
 torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
-touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
 townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
-tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
 trackonomysystems
@@ -3134,9 +3079,7 @@ trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
@@ -3891,7 +3834,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2709)
+## lever (2715)
 netflix
 shopify
 github
@@ -3912,7 +3855,6 @@ flexport
 opendoor
 compass
 hims
-ro
 omadahealth
 fortyseven
 clover
@@ -3935,7 +3877,6 @@ scaleai2
 upstart
 nuro2
 anysignal
-gr0
 10up-2
 174powerglobal
 1776
@@ -3989,7 +3930,6 @@ advancednavigation
 aechelon
 aeler
 aerialapplications
-aeva
 afarmedia
 affinity
 affirm
@@ -4658,7 +4598,6 @@ elevatelabs
 elliemae
 elliveproductions
 elodiegames
-elroyair
 elvah
 emeraldtherapeutics
 emersoncollective
@@ -5125,6 +5064,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5208,8 +5148,10 @@ konviere
 koombea
 kooptechnologies
 koreaboo
+kotm
 kpmg-2
 kraken
+kruzeconsulting
 kubecost
 kueski
 kumo
@@ -5270,6 +5212,7 @@ lime
 limebike
 liminal
 limitless
+lindblad-expeditions
 linea
 lingoda
 linksys
@@ -5349,12 +5292,14 @@ madisonlogic
 madrigalpharma
 magic
 magicgames
+magnetforensics
 magnitudesoftware
 mahanatherapeutics
 mainstreet
 mainstreetwork
 makersplace
 makeschool
+mammothbiosci
 mamo
 manifest
 manifestfinancial
@@ -5375,6 +5320,7 @@ martinagency
 mastreforestation
 mastrics
 masygroup
+matchgroup
 mathpresso
 mattermark
 mattermost
@@ -5439,6 +5385,7 @@ missioncontinues
 missionhh
 missionwired
 mit
+miteksystems-2
 mittilabs
 mixtiles
 mobileintegration-group
@@ -5516,6 +5463,7 @@ nex
 nexient
 nexigendigital
 nexos
+next-health
 nextbigsound
 nextcaller
 nextdata
@@ -6385,6 +6333,7 @@ trustlab
 trusttoken
 truveris
 trycourier
+tsmg
 tubularlabs
 tuftandneedle
 tul
