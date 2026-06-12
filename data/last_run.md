@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-06-12 14:17 UTC
+### 1 new matching jobs · 2026-06-12 17:43 UTC
 
 #### From ashby (1)
-- **[Principal Data Engineer, Data Platform](https://jobs.ashbyhq.com/a-place-for-mom/b12c5dd0-6184-4f2d-9973-d19437228d96)** at **a-place-for-mom** — Remote-US 🤖 · `databricks, pyspark, spark, python, sql` · _ashby_
+- **[Staff Data Engineer](https://jobs.ashbyhq.com/jellyfish/b71636e3-cea8-48b1-a84b-d9b6e6c1ec46)** at **jellyfish** — Remote - US 🤖 · `airflow, python, terraform` · _ashby_
