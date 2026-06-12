@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3627)
+## greenhouse (3624)
 hingehealth
 maven
 spring
@@ -747,6 +747,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -2652,6 +2653,7 @@ selfidcareers
 seluxdiagnostics
 semasiojobs
 semgrep
+sendcloud
 sendle
 sendwaveapp
 senecaholdingscorpinternship
@@ -3240,14 +3242,9 @@ vipvermontinformationprocessing
 virtahealth
 virtasant
 virtex
-virtu
 virtualhealth
 visbymedical
-viseai
-visia
-visitingmedia
 visor
-visualconcepts
 vitablehealth
 vitahealth
 vitalfarms
@@ -3630,7 +3627,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2713)
+## lever (2708)
 netflix
 shopify
 github
@@ -3673,7 +3670,6 @@ scaleai2
 upstart
 nuro2
 anysignal
-veeva
 10up-2
 174powerglobal
 1776
@@ -3946,6 +3942,7 @@ bellhops
 belonghome
 benchsci
 benlabs
+bentoboxent
 bestegg
 beta
 betstamp
@@ -4022,6 +4019,7 @@ boostedboards
 boringcompany
 bosta
 bostondynamicsaiinstitute
+bostonimaging
 botify
 bottlerocketstudios
 boulderingproject
@@ -4260,6 +4258,7 @@ cruise
 crunchbase
 crusoeenergy
 cruxinformatics
+crypto
 crypto-innovation
 csaassociates
 culturetrip
@@ -4861,7 +4860,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5193,10 +5191,7 @@ molcure
 molekule
 moment-ranks
 momentfactory
-momenti-inc
 momentum-inc
-moneyboxapp
-moneytree
 monumental
 moogsoft
 moonhub
@@ -5558,12 +5553,10 @@ qogita
 qover
 qredo
 qrypt
-qualdoc
 qualified
 qualtekservices
 quantgene
 quantlabs
-quantummetric
 quantumworkplace
 quartet
 quartethealth
@@ -5635,7 +5628,6 @@ reliable
 remedyentertainment
 remine
 remix
-renofi
 repairsmith
 replicant
 repreach
@@ -6345,7 +6337,7 @@ zumper
 zuru
 zuva
 
-## ashby (779)
+## ashby (780)
 mercury
 together
 replicate
@@ -6509,6 +6501,7 @@ commit
 commons
 communityphone
 compass-reg
+comulate
 conductorone
 connecthum
 continua
@@ -6724,7 +6717,6 @@ kikoff
 kingdomsupercultures
 kintsugi
 kit
-kiwi-com
 klarity
 kleinerperkinsfellows
 kodif
@@ -6833,7 +6825,6 @@ ondeck-ai
 one-text
 onehealth
 onepay
-opal-os
 open-ledger
 opengovsg
 openhands
@@ -6899,6 +6890,7 @@ privy
 probably-good
 product-updates
 projectgrowth
+proofofplay
 proofs
 propagate
 protectai
@@ -7117,6 +7109,7 @@ xare
 xelix
 xlabs
 xmtplabs
+xpreso
 yellow3d
 yondercard
 youdotcom
