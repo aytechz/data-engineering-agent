@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3740)
+## greenhouse (3732)
 hingehealth
 maven
 spring
@@ -749,6 +749,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1115,7 +1116,6 @@ farasisenergy
 farmersbusinessnetwork
 farmstead
 fathom
-fay
 fazz
 fearless
 featuredjobs
@@ -1680,6 +1680,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -3156,21 +3157,12 @@ uniswaplabs
 unit21
 unitedmasters
 unitedstatesgolfassociation
-unity3d
-universalaudio
-universaldx
 universalhydrogen
 universeenergy
 universityofchicago
-unknownworlds
-unlimitedtechnology
-unlock
-unlockhealth
 unohealth
-unqork
 unrealsnacks
 unybrands
-up
 upbound
 upboundext
 updater
@@ -3743,7 +3735,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2705)
+## lever (2707)
 netflix
 shopify
 github
@@ -4973,6 +4965,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5223,6 +5216,7 @@ martinagency
 mastreforestation
 mastrics
 masygroup
+matchgroup
 mathpresso
 mattermark
 mattermost
@@ -6450,7 +6444,7 @@ zumper
 zuru
 zuva
 
-## ashby (787)
+## ashby (788)
 mercury
 together
 replicate
@@ -6814,6 +6808,7 @@ izea
 jasperai
 jenni-ai
 jerry
+joinarc
 joinforage
 joinkular
 jointangelo
