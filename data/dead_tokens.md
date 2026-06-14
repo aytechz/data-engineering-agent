@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3869)
+## greenhouse (3883)
 hingehealth
 maven
 spring
@@ -3036,6 +3036,7 @@ thirdway
 thnks
 thomasvillechildcare
 thorn
+thoropass
 thoughtful
 thoughtspot
 thousandeyes
@@ -3043,18 +3044,31 @@ thread
 threeflow
 threeships
 thrivecapital
+thrivecart
+thrivedigital
 thriveglobal
 throughline
 thumbtack
 thunder
+thunes
 thymecare
+tia
+tide
+tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
+tigargymnastics
+tigera
+tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
+timos
+tines
+tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
@@ -3872,7 +3886,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2714)
+## lever (2706)
 netflix
 shopify
 github
@@ -5376,7 +5390,6 @@ mediagenix
 medialab
 mediaocean
 medium
-medrhythms
 meetalbert
 meetgroup
 meetingstreetschools
@@ -5418,12 +5431,10 @@ missioncontinues
 missionhh
 missionwired
 mit
-miteksystems-2
 mittilabs
 mixtiles
 mobileintegration-group
 mobisystems
-modeln
 modern
 modern-age
 modernanimal
@@ -5440,7 +5451,6 @@ moment-ranks
 momentfactory
 momentum-inc
 monumental
-moo
 moogsoft
 moonhub
 morningconsult
@@ -5603,8 +5613,6 @@ optiv-2
 opus1
 orbillion
 orbitalinsight
-orbitalsidekick
-orcabiosystems
 orcamobility
 orkes
 orum
@@ -5654,12 +5662,10 @@ patientcolife
 pax8
 payabli
 payfit
-payjoy
 paymongo
 paystack
 paytmbank
 payzen
-pditechnologies
 pdq
 peachfinance
 peakdentalservices
