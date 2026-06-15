@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3840)
+## greenhouse (3867)
 hingehealth
 maven
 spring
@@ -434,7 +434,6 @@ bettersleep
 betterup
 bettervet
 betterworks
-bettygamingca
 bevy
 beyondidcareers
 beyondidentity
@@ -1729,6 +1728,7 @@ leanixjobs
 leap
 learfieldimgcollege
 learningequality
+learningsafari
 leaseweb
 leddartech
 ledgerinvesting
@@ -2116,6 +2116,7 @@ numeradecareers
 numohealthcurieai
 nuna
 nursedash
+nuvalent
 nuview
 nuvocargo
 nyanheroes
@@ -2651,6 +2652,7 @@ selfidcareers
 seluxdiagnostics
 semasiojobs
 semgrep
+semler
 sendcloud
 sendle
 sendwaveapp
@@ -2682,6 +2684,7 @@ shardeumfoundation
 shearersinternalmobility
 shearerssnacks
 shepherd
+sherbournedentalassociates
 sherwoodmedia
 shift
 shiftleft
@@ -3055,32 +3058,56 @@ tiltingpoint
 timeinc
 timeresearch
 timescale
+timos
+tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
 tippingpointcommunity
+tiptop
+tiree
+tireseasycom
 titan
 titelmedia
+tmc
 tmg
 tminuszero
 toastmastersinternational
+tobogganlabs
 tomebio
+tomofunfurbo
 tomonetworks
+tomorrow
 tomorrowhealth
+tonixpharmaceuticals
+toogoodtogo
+toojaysdeli
+topcompare
 toposware
+topsort
 topspot
 topsteptrader
 toradex
+torcrobotics
+toriihq
 tornbannerstudios
+toropark
+torotms
 torq
 toshibaglobalcommercesolutions
 totusmedicines
+touchbistro
+towerresearchcapital
+townofsnowmassvillagecolorado
 townsquaremedia
 tpcengineeringholdingsllc
 tpgcareers
 tr1x
+trace3
+tracelinkinc
 trackinglink
 trackmaven
+trackonomysystems
 tracktik
 trackvia
 tractable
@@ -6551,7 +6578,7 @@ zumper
 zuru
 zuva
 
-## ashby (789)
+## ashby (788)
 mercury
 together
 replicate
@@ -7002,7 +7029,6 @@ mind-company
 mitiga-solutions
 mnemonic
 modefair
-molecule-software
 moneyworld
 monitaur
 monq
