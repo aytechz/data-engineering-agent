@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3945)
+## greenhouse (3893)
 hingehealth
 maven
 spring
@@ -2991,98 +2991,46 @@ texthelp
 textileio
 tezatechnologies
 thalamusgme
-thatch
 thatlot
-thatsnomoonentertainment
-theagencyre
-thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
-thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
 theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
-themotleyfool
-themuseumofscience
 thena
-thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
-theoncologyinstitute
-theorchard
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
-thepharmacyhub
-thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
-thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
-thetradedesk
 thetustingroupasp
-thevascularcaregroup
 thevets
-theweathercompany
-thewilshiregroup
 thezebra
-thiess
-thinkacademyus
-thinkific
-thinkingmachines
 thinkmarkets
-thinkofus
-thinkonward
 thinx
 thirdharmonicbio
 thirdlove
@@ -3948,7 +3896,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2707)
+## lever (2718)
 netflix
 shopify
 github
@@ -5318,8 +5266,8 @@ levvel
 lexingtonmedical
 liberatii
 lifen
-lifestance
 lightci
+lightedge
 lillio
 lime
 limebike
@@ -5388,6 +5336,7 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
+lyrahealth
 lyrebirdstudio
 m-kopa
 m13
@@ -5453,9 +5402,12 @@ mediagenix
 medialab
 mediaocean
 medium
+medrhythms
 meetalbert
 meetgroup
 meetingstreetschools
+meetingtomorrow
+megaport
 meliuz
 membersy
 memebox
@@ -5465,6 +5417,7 @@ mentormate
 meridianlink
 merit
 merkle
+merlinlabs
 meroxa
 meshcapade
 messari
@@ -5473,6 +5426,7 @@ metalpay
 metaprisebanking
 metatheory
 meteor
+metlife
 mgac
 mheducation
 micromerchantsystems
@@ -5991,6 +5945,7 @@ riptidetech
 risklabs
 ritual
 ritual-technologies
+riverdale
 riveron
 rivosinc
 roadio-ai
@@ -6000,6 +5955,7 @@ roboflow
 roboticassistancedevices
 robustintelligence
 rockcontent
+rocketcommunications
 rocketlawyer
 rocketpharma
 rocketrip
@@ -6133,6 +6089,7 @@ skilljar
 skillshare
 skims
 skulabs
+skyslope
 slab
 slang
 sleuth
@@ -6249,6 +6206,7 @@ sweedpos
 swiftlysystems
 swiftmedical
 swiggy
+swile
 swimply
 swingvision
 swiss-mile
@@ -6488,6 +6446,7 @@ ushur
 usmobile
 utopialabs
 utvate
+valarian
 valence
 valinor
 valoremreply
