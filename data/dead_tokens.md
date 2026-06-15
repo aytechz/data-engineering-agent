@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3893)
+## greenhouse (3840)
 hingehealth
 maven
 spring
@@ -1277,7 +1277,6 @@ gigster
 gimletmedia
 ginger
 giphy
-girleffect
 github
 gitpod
 glaciergrid
@@ -3033,107 +3032,55 @@ thezebra
 thinkmarkets
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
-thirtymadison
-thltestcareers
 thnks
 thomasvillechildcare
 thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
-tifin
-tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
-tipaltisolutions
 tippingpointcommunity
-tiptop
-tiree
-tireseasycom
 titan
 titelmedia
-tmc
 tmg
 tminuszero
-toast
 toastmastersinternational
-tobogganlabs
-togetherai
-togetherwork
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
-topcompare
 toposware
-topsort
 topspot
 topsteptrader
 toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
-torotms
 torq
 toshibaglobalcommercesolutions
 totusmedicines
-touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
 townsquaremedia
 tpcengineeringholdingsllc
 tpgcareers
 tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
@@ -3896,7 +3843,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2718)
+## lever (2706)
 netflix
 shopify
 github
@@ -5126,7 +5073,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5267,7 +5213,6 @@ lexingtonmedical
 liberatii
 lifen
 lightci
-lightedge
 lillio
 lime
 limebike
@@ -5336,7 +5281,6 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
-lyrahealth
 lyrebirdstudio
 m-kopa
 m13
@@ -5402,12 +5346,9 @@ mediagenix
 medialab
 mediaocean
 medium
-medrhythms
 meetalbert
 meetgroup
 meetingstreetschools
-meetingtomorrow
-megaport
 meliuz
 membersy
 memebox
@@ -5417,7 +5358,6 @@ mentormate
 meridianlink
 merit
 merkle
-merlinlabs
 meroxa
 meshcapade
 messari
@@ -5426,7 +5366,6 @@ metalpay
 metaprisebanking
 metatheory
 meteor
-metlife
 mgac
 mheducation
 micromerchantsystems
@@ -5945,7 +5884,6 @@ riptidetech
 risklabs
 ritual
 ritual-technologies
-riverdale
 riveron
 rivosinc
 roadio-ai
@@ -5955,7 +5893,6 @@ roboflow
 roboticassistancedevices
 robustintelligence
 rockcontent
-rocketcommunications
 rocketlawyer
 rocketpharma
 rocketrip
@@ -6083,13 +6020,13 @@ sitka
 sixfoldbioscience
 sixspeed
 skava
+skello
 sketch
 skill-lync
 skilljar
 skillshare
 skims
 skulabs
-skyslope
 slab
 slang
 sleuth
@@ -6206,7 +6143,6 @@ sweedpos
 swiftlysystems
 swiftmedical
 swiggy
-swile
 swimply
 swingvision
 swiss-mile
@@ -6446,7 +6382,6 @@ ushur
 usmobile
 utopialabs
 utvate
-valarian
 valence
 valinor
 valoremreply
@@ -6616,7 +6551,7 @@ zumper
 zuru
 zuva
 
-## ashby (788)
+## ashby (789)
 mercury
 together
 replicate
@@ -7089,6 +7024,7 @@ nautical-commerce
 navattic
 neotaste
 newschoolfoods
+newxel
 nextmatter
 nimbl
 normalcomputingai
