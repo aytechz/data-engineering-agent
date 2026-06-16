@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3710)
+## greenhouse (3699)
 hingehealth
 maven
 spring
@@ -614,7 +614,6 @@ cartodb
 casa
 casago
 cascadedatalabs
-cascadeloans
 casetext
 casper
 casperretail
@@ -3206,31 +3205,21 @@ valorainc
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanleeuwenicecream
-vanmetre
 vanta
 vantaiinc
 vareto
 variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
 vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
-vectara
 vectornorth
-vectranetworks
 vedantabiosciences
 veeamsoftware
-veedio
 veem
 veesearch
 vegaamericas
@@ -3713,7 +3702,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2709)
+## lever (2710)
 netflix
 shopify
 github
@@ -4944,6 +4933,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
