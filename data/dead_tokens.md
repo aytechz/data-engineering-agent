@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3945)
+## greenhouse (3910)
 hingehealth
 maven
 spring
@@ -452,6 +452,7 @@ bilsilananotechnologies
 biltrewards
 binanceus
 biocaremedical
+biograph
 biomechanicsconsultingandresearchllc
 bioptimizers
 bioptimus
@@ -749,7 +750,6 @@ codesignal
 codetta
 codex
 codility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1162,7 +1162,6 @@ floyd
 flybyrobotics
 flyhomes
 flyinghorse
-flyr
 focusedlabs
 fogpharma
 followupboss
@@ -2999,66 +2998,32 @@ thatlot
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
-thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
 theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
-themotleyfool
 themuseumofscience
 thena
-thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
-theoncologyinstitute
-theorchard
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
 theperfectworkout
-theperiscopegroup
-thepharmacyhub
-thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
@@ -3948,7 +3913,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2718)
+## lever (2716)
 netflix
 shopify
 github
@@ -4436,7 +4401,6 @@ cere-network
 cerevel-2
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -4599,7 +4563,6 @@ cye
 cyvl-ai
 d-edge
 daedalean
-daniels-sharpsmart
 darkslope
 darwinhomes
 dasservicesllc
@@ -4862,7 +4825,6 @@ foundersfactoryafrica
 foundry-ai
 fourth
 foxen
-foxitsoftware
 foxtrotco
 fractional
 framework
@@ -5159,13 +5121,11 @@ ionic
 ionicpartners
 iovlabs
 iphi
-ippon
 iron_hack
 ironcladapp
 ironnetcybersecurity
 ironox
 isometrictechnologies
-ispace-inc
 issuu
 italic
 iterative
@@ -5185,6 +5145,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5357,6 +5318,7 @@ logistimo
 logixboard
 longtail-ai
 longview
+longwall
 looker
 loop-health
 loopinternet
@@ -5368,7 +5330,6 @@ loyaltylion
 lpainc
 lqdigital
 lrymediagroup
-ltaresearch
 ltse
 lucca
 lucid
@@ -5389,7 +5350,6 @@ luni
 luxe
 luxortechnology
 luzia
-lvs1
 lyciatherapeutics
 lykospbc
 lyra
@@ -5434,6 +5394,7 @@ marketopia
 marlettefunding
 marq
 martinagency
+masterycharter
 mastreforestation
 mastrics
 masygroup
@@ -5480,6 +5441,7 @@ metalpay
 metaprisebanking
 metatheory
 meteor
+metopera
 mgac
 mheducation
 micromerchantsystems
@@ -5494,6 +5456,7 @@ mindsdb
 mineral
 minimumltd
 minthouse
+mirego
 mirror
 missionbarns
 missioncloud
@@ -5523,6 +5486,7 @@ momentum-inc
 monumental
 moogsoft
 moonhub
+moonpig
 morningconsult
 mosaic-2
 mosaicbuilders
@@ -5574,7 +5538,6 @@ nevados
 newculturefood
 newfrontinsurance
 newton-school
-newwestern
 nex
 nexient
 nexigendigital
@@ -6668,7 +6631,7 @@ zumper
 zuru
 zuva
 
-## ashby (787)
+## ashby (788)
 mercury
 together
 replicate
@@ -7390,6 +7353,7 @@ tryvital
 turnstile
 tuza
 tydo
+typescouts
 udisc
 ulvetanna
 unit410
