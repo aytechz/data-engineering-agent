@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3626)
+## greenhouse (3710)
 hingehealth
 maven
 spring
@@ -321,7 +321,6 @@ arzeda
 as
 ascenttechnologies
 ascertain
-ascidiantherapeutics
 askmediagroup
 asknicely
 aspinity
@@ -404,6 +403,7 @@ bcgdv
 bcgdvalumnireferrals
 bdtmsd
 beaconplatform
+beaconsoftware
 beam83
 beamery
 bearing
@@ -744,13 +744,13 @@ coastenergy
 cocolab
 coda
 codazen
-code3
 codeacademy
 codeforsciencesociety
 codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1318,6 +1318,7 @@ goodfeet
 goodpill
 goodworker
 goodworldwide
+govini
 govos
 govport
 grabango
@@ -1678,6 +1679,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -1804,6 +1806,7 @@ ltkbrazil
 ltkchina
 luckylincolngaming
 luganodiamonds
+lumenbioscience
 lumenorbit
 luminar
 lumos
@@ -1936,6 +1939,7 @@ miraklfr
 mirror
 missionbio
 missionlanellc
+missiontelecom
 missionzerotechnologies
 mixbook
 mixhalo
@@ -2097,6 +2101,7 @@ nomos
 noom
 noonenergy
 noorahealth
+noredink
 nori
 northone
 northrichland
@@ -2965,12 +2970,14 @@ teads
 team1
 teammobot
 teampay
+teamrubicon
 teamworthy
 techietalent
 technisyscareers
 techridge
 techstars
 techtalentandstrategy
+teknema
 teladochealth
 telemedicine
 telesign
@@ -3020,6 +3027,7 @@ theoremlp
 theorg
 theoutline
 thepennyhoarder
+thepharmacyhub
 theragun
 therealreal
 therefinery
@@ -3040,6 +3048,7 @@ thirdharmonicbio
 thirdway
 thnks
 thomasvillechildcare
+thorn
 thoughtful
 thoughtspot
 thousandeyes
@@ -3060,7 +3069,6 @@ timeinc
 timeresearch
 timescale
 tinkermode
-tintai
 tinuitisecondarypage
 tippingpointcommunity
 titan
@@ -3198,46 +3206,102 @@ valorainc
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanleeuwenicecream
+vanmetre
 vanta
 vantaiinc
 vareto
 variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
+vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
+vecnyc
+vectara
 vectornorth
+vectranetworks
 vedantabiosciences
+veeamsoftware
+veedio
 veem
 veesearch
+vegaamericas
+veir
+velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
+velora
 venafi
 vendia
 vendr
 venmo
 venn
+venncity
+venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
+venturewell
 ventustherapeutics
+veocorporatecareers
+veracode
+veracyte
+veranahealth
+verantos
+veratherapeuticsinc
 verbenergy
+veriff
+verifone
 veriforce
+veriheal
+verisign
+veristainc
+veritasvetpartners
 veritone
 veronapharma
+verramobility
+versaterm
+verse
+versprite
+vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
+verusen
+verygoodventures
+vesalius
 vesartex
 vestahealthcare
 vestal
+vestmark
+vestwell
+veterans
+veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
+vgw
 vhsys
+via
+viaduct
+viagogo
+vialogic
+viamrobotics
+vianttechnology
 viber
+vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3247,17 +3311,37 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
+vileon
+vim
 vimeo
 vipvermontinformationprocessing
+vipvermontinformationprocessing2
+viralnation
+virbiotechnologyinc
 virtahealth
 virtasant
 virtex
+virtru
+virtu
 virtualhealth
 visbymedical
+viseai
+visia
+visitingmedia
 visor
+visualconcepts
 vitablehealth
+vitahealth
+vitalfarms
+vitalfarmsinternalcrew
+vitalvoicesglobalpartnership
+vitta
+vivcourtevents
 vivian
 vividly
+vividseatsllc
+vivodyne
 vivvi
 vixxo
 vizai
@@ -3629,7 +3713,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2726)
+## lever (2709)
 netflix
 shopify
 github
@@ -3737,7 +3821,6 @@ agreena
 aicamp
 aidaly
 aidash
-aifi
 aifoundation
 aifund
 aigen
@@ -3764,7 +3847,6 @@ alice
 alictus
 alida
 alignable
-alimentiv-2
 alkymi
 allata
 alliance
@@ -3774,7 +3856,6 @@ alpineimmunesciences
 altoida
 altrio
 aluna
-amanotes
 amaro
 amaze
 amberbio
@@ -3852,7 +3933,6 @@ ark-solutions-inc
 arkbiotech
 arpa
 arrive
-arsiem
 artblocks
 articulate
 artificial
@@ -3866,7 +3946,6 @@ astera
 asthomecares
 astra
 astranis
-ataccama
 atekinc
 athennian
 athleticgreens
@@ -3978,7 +4057,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -4324,7 +4402,6 @@ devcycle
 device42
 devoted
 devsoftam
-dexcarehealth
 dgraph
 diamondage3d
 didi-global
@@ -4399,6 +4476,7 @@ elevatelabs
 elliemae
 elliveproductions
 elodiegames
+elroyair
 elvah
 emeraldtherapeutics
 emersoncollective
@@ -4452,6 +4530,7 @@ exabeam
 exp
 explorejobssearch
 expopulus
+extropic
 exygy
 ey-ps
 ezcater
@@ -4865,7 +4944,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5019,7 +5097,6 @@ linq
 linuxacademy
 lionheartkid
 littleotter
-littlesprouts
 livefront
 livekindred
 livelike
@@ -5091,7 +5168,6 @@ madisonlogic
 madrigalpharma
 magic
 magicgames
-magnify
 magnitudesoftware
 mahanatherapeutics
 mainstreet
@@ -5144,14 +5220,11 @@ medium
 meetalbert
 meetgroup
 meetingstreetschools
-megaport
-meili
 meliuz
 membersy
 memebox
 memfault
 memphismeats
-menta
 mentormate
 meridianlink
 merit
@@ -5167,7 +5240,6 @@ meteor
 mgac
 mheducation
 micromerchantsystems
-microvision
 midigator
 mighty
 migo-2
@@ -5279,7 +5351,6 @@ nimbleai
 nio
 nisum
 nithio
-nium
 njstateofficeofinnovation
 noibutechnologies
 nomagic
@@ -5333,7 +5404,6 @@ oda
 odysaviation
 offerpop
 omni-network
-omnidian
 onaroll
 ondeck
 ondofinance
@@ -5483,7 +5553,6 @@ pocketworlds
 pointonenav
 polarsteps
 policyfly
-polleverywhere
 pollyex
 polygon
 polymerlabs
@@ -5956,7 +6025,6 @@ sygnaturediscovery
 sylvera
 symmetryinvestments
 symmetrysystems
-symplicity
 synapseint
 synthetaic
 t1
@@ -6232,7 +6300,6 @@ videahealth
 vidrovr
 vimpelcom
 vinted
-viome
 vippetcare
 vir
 virtuous
@@ -6410,7 +6477,6 @@ apfusion
 apply-opengradient
 appsmith
 arborxr
-archive
 argolabs
 argus
 ario
@@ -6540,6 +6606,7 @@ course
 courtly
 coval
 covenal
+crete-professionals-alliance
 crunchdao
 cubist
 cultureai
