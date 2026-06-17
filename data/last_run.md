@@ -1,6 +1,6 @@
-### 3 new matching jobs · 2026-06-17 18:35 UTC
+### 3 new matching jobs · 2026-06-17 21:23 UTC
 
 #### From greenhouse (3)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/cpisecurity/jobs/4690166006)** at **CPI Security** — Charlotte, North Carolina, United States · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
-- **[Senior AI & Data Engineer](https://www.orioninc.com/careers/job/?gh_jid=4689939006)** at **Orion Innovation** — Lawrence Township, New Jersey, United States 🏥🤖 · `aws, gcp, azure, python` · _greenhouse_
-- **[Lead Data Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4680089006)** at **PitchBook Data** — Seattle, Washington, United States 🏥🤖 · `snowflake, airflow, aws, gcp, azure, python` · _greenhouse_
+- **[Principal Data Engineer - AI](https://job-boards.greenhouse.io/anaplan/jobs/8580733002)** at **Anaplan** — Pennsylvania-Remote, United States 🤖 · `databricks, spark, snowflake, airflow, kafka, aws` · _greenhouse_
+- **[Sales / Pre-Sales Engineer - Data Platform](https://job-boards.greenhouse.io/formativgroup/jobs/4288186009)** at **FormativGroup** — Remote/ US - Full - Time 🏥 · `databricks, snowflake, dbt, aws, azure` · _greenhouse_
+- **[Staff Data Platform Engineer,](https://unity.com/careers/positions/7968114?gh_jid=7968114)** at **Unity Technologies** — San Francisco, CA, USA 🏥 · `spark, kafka, terraform` · _greenhouse_
