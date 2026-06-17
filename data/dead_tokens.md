@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3699)
+## greenhouse (3731)
 hingehealth
 maven
 spring
@@ -526,7 +526,6 @@ braintrust
 branch32
 brands4friends
 bravehealth
-breakthroughenergy
 breakthroughenergy38
 bridgekesandbox
 bridgengsandbox
@@ -3180,14 +3179,23 @@ upstatement
 upstreamcare
 uptake
 uptivhealth
+upwardhealth
+upwork
 upworthy
 urban
 urbanfootprint
+urbansystems
 urbint
 urbnleaf
+urgentcareforchildren
+urpt
+ursamajor
+urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
+usenourish
+usergems
 userinterviews
 userleap
 ushur
@@ -3196,30 +3204,54 @@ ustwo
 ustwogames
 utahtitleloansinc
 utilityapi
+uvimco
 vac
+vacasa
+vacationinc
+vaco
+vailclinicincdbavailhealthhospital
+valaratomics
+valerahealth
 valiantharborinternationalllc
 valimailinc
+valleyhospital
 valleyview
+valohealth
 valon
 valorainc
+valspec
+valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanguarddermatology
+vanleeuwenicecream
+vanmetre
+vannahealth
+vannevarlabs
 vanta
 vantaiinc
 vareto
 variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
 vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
+vectara
 vectornorth
+vectranetworks
 vedantabiosciences
 veeamsoftware
+veedio
 veem
 veesearch
 vegaamericas
