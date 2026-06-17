@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3723)
+## greenhouse (3722)
 hingehealth
 maven
 spring
@@ -342,7 +342,6 @@ atai
 ataiwebsite
 atalantatherapeutics
 athenaeducation
-athletics
 athleticsbaseballops
 atlanticcouncil
 atlasnavigatorsllc
@@ -748,6 +747,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1676,7 +1676,6 @@ knab
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2327,6 +2326,7 @@ phasefour
 phcglobal
 phenogy
 philadelphiaphilliesrddepartment
+phizenix
 phonic
 phreesia
 piclo
@@ -3169,20 +3169,19 @@ universityofchicago
 unohealth
 unrealsnacks
 upsolver
-upstartlab
 upstatement
 upstreamcare
-upstreamusa
 uptake
 uptivhealth
 upworthy
 urban
 urbanfootprint
+urbansky
 urbansystems
 urbint
 urbnleaf
-urpt
 ursamajor
+urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
@@ -3726,7 +3725,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2714)
+## lever (2711)
 netflix
 shopify
 github
@@ -4189,7 +4188,6 @@ careaccessresearch
 careerstaffing
 carestino
 cargo-2
-cargo-partner
 carismatherapeutics
 carma
 cart
@@ -4539,7 +4537,6 @@ everlaw
 everli
 evisort-2
 evocalize
-evr
 exa-labs
 exabeam
 exp
@@ -4572,7 +4569,6 @@ fellowshiplifeinc
 femalefounders-fund
 ffws
 fiddlerlabs
-field-ai
 fightcamp
 figma
 financeinabox
@@ -6442,7 +6438,7 @@ zumper
 zuru
 zuva
 
-## ashby (791)
+## ashby (792)
 mercury
 together
 replicate
@@ -6763,6 +6759,7 @@ greylock
 gridium
 gridwise
 groombuggy
+groundnews
 growtherapy
 growthtroops
 guaranteed

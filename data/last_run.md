@@ -1,6 +1,5 @@
-### 3 new matching jobs · 2026-06-17 21:23 UTC
+### 2 new matching jobs · 2026-06-17 23:52 UTC
 
-#### From greenhouse (3)
-- **[Principal Data Engineer - AI](https://job-boards.greenhouse.io/anaplan/jobs/8580733002)** at **Anaplan** — Pennsylvania-Remote, United States 🤖 · `databricks, spark, snowflake, airflow, kafka, aws` · _greenhouse_
-- **[Sales / Pre-Sales Engineer - Data Platform](https://job-boards.greenhouse.io/formativgroup/jobs/4288186009)** at **FormativGroup** — Remote/ US - Full - Time 🏥 · `databricks, snowflake, dbt, aws, azure` · _greenhouse_
-- **[Staff Data Platform Engineer,](https://unity.com/careers/positions/7968114?gh_jid=7968114)** at **Unity Technologies** — San Francisco, CA, USA 🏥 · `spark, kafka, terraform` · _greenhouse_
+#### From greenhouse (2)
+- **[Data Infrastructure Engineer (contract)](https://job-boards.greenhouse.io/lunarenergy/jobs/6092053004)** at **Lunar Energy** — Mountain View, CA · `python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6093127004)** at **MrBeast** — San Francisco 🏥 · _greenhouse_
