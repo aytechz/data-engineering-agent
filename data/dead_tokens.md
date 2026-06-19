@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3913)
+## greenhouse (3906)
 hingehealth
 maven
 spring
@@ -206,6 +206,7 @@ aloft
 alpenlabs
 alphaawmeur
 alphahawaii
+altamiratechnologies
 alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
@@ -2994,52 +2995,27 @@ theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
-thebrattlegroup
 thedailybeast31
-thedutchie
-theeconomistgroup
 theeverycompany
 theflatironschool
-thefloridapanthers
-thefork
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
-themotleyfool
-themuseumofscience
 thena
-thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
-theoncologyinstitute
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
 thepharmacyhub
-thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
@@ -3047,6 +3023,7 @@ theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
+thesciongroupllc
 thesis
 thesiscareers
 thesisdefense
@@ -3139,7 +3116,9 @@ tollbit
 tomebio
 tomofunfurbo
 tomonetworks
+tomorrow
 tomorrowhealth
+tonixpharmaceuticals
 toogoodtogo
 toojaysdeli
 topcompare
@@ -3151,6 +3130,7 @@ toradex
 torcrobotics
 toriihq
 tornbannerstudios
+toropark
 torotms
 torq
 toshibaglobalcommercesolutions
@@ -3182,6 +3162,7 @@ trailstonegroup
 transactlyconnect
 transcendinc
 transcendtherapeutics
+transfergo
 transferwise
 translationunitedmastersstashed
 transmitsecurity
@@ -3213,6 +3194,7 @@ trilogyinstructionalengagement
 trimarkassociates
 trinityairmedical
 trinityparktalent
+trinks
 trinternational
 tripactions
 tripadvisor
@@ -3221,6 +3203,7 @@ triplebyte
 triplelift
 triplepointllp
 triplewhale
+tripwireinteractive
 triumvirateenvironmental
 trivelta
 trlab
@@ -3386,6 +3369,7 @@ urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
+usenourish
 usergems
 userinterviews
 userleap
@@ -3463,6 +3447,7 @@ venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
+venturewell
 ventustherapeutics
 veocorporatecareers
 veracode
@@ -3494,6 +3479,7 @@ vesalius
 vesartex
 vestahealthcare
 vestal
+vestmark
 vestwell
 veterans
 veterinaryemergencygroupst
@@ -3582,6 +3568,7 @@ vpawashington
 vpawv
 vsapartners
 vscfiresecurityinc
+vsco39
 vtex
 vts
 vuestorefront
@@ -3611,6 +3598,7 @@ wargamingen
 wargamingru
 wargamingwelcometothejungle
 warp
+wasabi
 watchduty
 watchmakergenomics
 waterloocoop
@@ -3628,6 +3616,7 @@ waymark
 waymo
 wayup
 wayve
+wayvia
 wbpa
 wealthfront
 weareservicemax
@@ -3648,6 +3637,7 @@ weedmaps77
 weee
 wehrtyou
 weinsteinproperties
+weissassetmanagement
 welbehealth
 welearn
 well
@@ -3656,6 +3646,7 @@ wellist
 wellsaidlabs
 wellspringlearningcenters
 wellth
+wellthy-care-network
 weploy
 west10llc
 westbrook
@@ -3714,6 +3705,7 @@ wisesystems
 wisetack
 wistia
 withco
+withcoverage
 witheritelawgroup
 within
 withmeinc
@@ -3723,6 +3715,7 @@ wizardcommerce
 wizardsofthecoast
 wizehiveusa
 wizeline
+wizinc
 wizixtechnologygroupinc
 wms
 wolt
@@ -3916,7 +3909,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2719)
+## lever (2713)
 netflix
 shopify
 github
@@ -3959,6 +3952,7 @@ scaleai2
 upstart
 nuro2
 anysignal
+saviynt
 10up-2
 174powerglobal
 1776
@@ -5147,7 +5141,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5202,7 +5195,6 @@ kimiatherapeutics
 kingfishgroup
 kinnek
 kinsa
-kippsocal
 kitcheck
 kitopi
 kivaai
@@ -5235,7 +5227,6 @@ koreaboo
 kpmg-2
 kraken
 kubecost
-kubra
 kueski
 kumo
 kumospace
@@ -5403,7 +5394,6 @@ mastreforestation
 mastrics
 masygroup
 mathpresso
-matillion
 mattermark
 mattermost
 matterport
@@ -5712,7 +5702,6 @@ peddie
 pelago
 pennylane
 pento
-penumbrainc
 peoplefun
 percipient
 percona
@@ -5739,7 +5728,6 @@ pillow
 pinata
 pineparkhealth
 pingcap
-pingwind
 pip
 pirouettemedical
 pjp
@@ -6105,7 +6093,6 @@ skava
 skello
 sketch
 skill-lync
-skillerszone
 skilljar
 skillshare
 skims
@@ -6637,7 +6624,7 @@ zumper
 zuru
 zuva
 
-## ashby (795)
+## ashby (794)
 mercury
 together
 replicate
@@ -7021,7 +7008,6 @@ kick
 kikoff
 kingdomsupercultures
 kintsugi
-kit
 klarity
 kleinerperkinsfellows
 kodif
