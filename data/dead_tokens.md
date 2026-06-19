@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3715)
+## greenhouse (3721)
 hingehealth
 maven
 spring
@@ -742,6 +742,7 @@ codesignal
 codetta
 codex
 codility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1671,6 +1672,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2320,7 +2322,6 @@ phasefour
 phcglobal
 phenogy
 philadelphiaphilliesrddepartment
-phizenix
 phonic
 phreesia
 piclo
@@ -3161,20 +3162,25 @@ universeenergy
 universityofchicago
 unohealth
 unrealsnacks
-upkeep
 upsolver
-upstart
-upstartlab
 upstatement
 upstreamcare
 uptake
 uptivhealth
+upwardhealth
+upwork
 upworthy
 urban
+urbancompass
 urbanfootprint
+urbansky
+urbansportsclub
 urbint
 urbnleaf
 urgentcareforchildren
+urpt
+ursamajor
+urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
@@ -6432,7 +6438,7 @@ zumper
 zuru
 zuva
 
-## ashby (811)
+## ashby (795)
 mercury
 together
 replicate
@@ -6441,7 +6447,6 @@ raycast
 val
 clay
 anthropic
-notion
 liveramp
 chroma
 hex
@@ -6476,13 +6481,11 @@ alotten-inc
 alpaca
 alpha
 alpinex
-amboss
 amca
 amper
 angelinvest
 anysource
 apart
-apex-technology-inc
 apfusion
 apply-opengradient
 appsmith
@@ -6668,7 +6671,6 @@ ephemera
 eppo
 equallytalent
 equals
-equip
 essentialai
 ethereum-foundation
 ethglobal
@@ -6707,7 +6709,6 @@ flick
 flipsidecrypto
 flocksafety
 flowcarbon
-fluidstack
 flux-computing
 focus-ai
 focused-energy
@@ -6740,7 +6741,6 @@ genomicsplc
 gensyn
 getpluto
 getshogun
-gitbook
 gitpod
 gitstart
 gladia
@@ -6777,7 +6777,6 @@ hint
 homemade
 hoplynk
 horizon
-horizon3ai
 hospitalio
 hotspexmedia
 hqo
@@ -6835,7 +6834,6 @@ latitudecareers
 layern
 leantechniques
 lempire
-lendable
 liblab
 lilt
 lime
@@ -6893,7 +6891,6 @@ mind-company
 mitiga-solutions
 mnemonic
 modefair
-mollie
 moneyworld
 monitaur
 monq
@@ -6905,7 +6902,6 @@ movementlabs
 mparticle
 msquared
 multion
-multiverse
 multivmlabs
 museapp
 n43-studio
@@ -6942,7 +6938,6 @@ open-ledger
 opengovsg
 openhands
 openphilanthropy
-openrouter
 openstore
 operator
 opfoundation
@@ -6974,14 +6969,12 @@ peggy
 people-data-labs
 peopleup
 peppr
-permitflow
 persimmons-ai
 personio
 phare
 phylax
 pickaxe
 place-exchange
-planera
 plasma
 plaud-ai
 playai
@@ -7134,13 +7127,11 @@ synonym
 syrup
 system-initiative
 system2
-taktile
 talentdisruptors
 tales
 talntteam
 talos-network
 tandem
-tandem-health
 teachfx
 tealhq
 teambridge
@@ -7213,7 +7204,6 @@ watchpoint-labs
 waterplan
 waveforms-ai
 we3
-weave
 weflow
 wemod
 wetransfer
