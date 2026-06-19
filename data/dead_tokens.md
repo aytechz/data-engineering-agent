@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3906)
+## greenhouse (3908)
 hingehealth
 maven
 spring
@@ -677,6 +677,7 @@ chief
 childandfamily
 chilipiper
 chopraglobal
+chromamedicine
 chronicled
 churchill
 ciberspringllc
@@ -741,7 +742,6 @@ codesignal
 codetta
 codex
 codility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -763,6 +763,7 @@ common
 commonwealth
 communitychange
 comparablysandboxsandbox
+concentric
 concentricadvisors
 conceptarthouse
 condorcomputing
@@ -1099,6 +1100,7 @@ eyeo
 fabfitfun
 fabric
 facile
+factorialenergy
 factoryberlin
 fairviewsmilesdentistry
 fairwinds
@@ -1672,7 +1674,6 @@ knab
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2456,6 +2457,7 @@ rachio
 radarlabs
 radarrelay
 radiant
+radiantsecurity
 radicalai
 radicalnumerics
 radiclehealth
@@ -3015,11 +3017,11 @@ theoremlp
 theorg
 theoutline
 thepennyhoarder
+theperfectworkout
 thepharmacyhub
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
@@ -3909,7 +3911,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2713)
+## lever (2722)
 netflix
 shopify
 github
@@ -3952,7 +3954,6 @@ scaleai2
 upstart
 nuro2
 anysignal
-saviynt
 10up-2
 174powerglobal
 1776
@@ -5141,6 +5142,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5217,6 +5219,7 @@ kodiak
 koho
 kokonetworks
 koldpartners
+kolibrigames
 kolsquare
 kong
 kontakt
@@ -5249,6 +5252,7 @@ latticehq
 launchdarkly
 launcherspace
 launchhouse
+layup
 leadbank
 leadgenius
 leadr
@@ -5349,6 +5353,7 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
+lyrahealth
 lyrebirdstudio
 lyterian
 m-kopa
@@ -5455,6 +5460,7 @@ missioncloud
 missioncontinues
 missionhh
 missionwired
+mistral
 mit
 mittilabs
 mixtiles
@@ -5551,6 +5557,7 @@ nisum
 nithio
 njstateofficeofinnovation
 noibutechnologies
+nolapublicschools
 nomagic
 nominal
 norcalcann
@@ -5593,6 +5600,7 @@ observeai
 observeinc
 obsglobal
 ochre-bio
+oci
 ockam
 ocrolus
 octane
@@ -5601,6 +5609,7 @@ octopus
 oda
 odysaviation
 offerpop
+ogury
 omni-network
 onaroll
 ondeck
@@ -5673,6 +5682,7 @@ paradoxum-gg
 parcellab
 pardon
 parkplace
+parnalllaw
 parrotsa
 parsleyhealth
 parspec
@@ -5691,6 +5701,7 @@ payfit
 paymongo
 paystack
 paytmbank
+payugpo
 payzen
 pdq
 peachfinance
@@ -6624,7 +6635,7 @@ zumper
 zuru
 zuva
 
-## ashby (794)
+## ashby (793)
 mercury
 together
 replicate
@@ -7059,7 +7070,6 @@ medbill-ai
 medsender
 meetpace
 mem
-mem0
 mentis
 meridian
 merkle
