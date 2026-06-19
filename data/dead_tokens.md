@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4006)
+## greenhouse (3949)
 hingehealth
 maven
 spring
@@ -1276,7 +1276,6 @@ gitpod
 glaciergrid
 glassdoor
 glean
-gleanwork
 glia
 glidepathventuresllcdbaprospect14
 glmx
@@ -2956,95 +2955,39 @@ tbnr
 tbwawh
 tcgcapital
 tdc
-tdg
-tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teads1
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
-teampathy
 teampay
-teampicnic
 teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
-techstars57
 techtalentandstrategy
-tecovas
-tegnainc
-tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
-temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
 tenet3
 tenetfintechgroup
-tennesseetitleloansinc
-tenon
 tensor
-tenstorrent
-tenstreet
 tenthousand
-teracore
 terakeet
 terapore
-teravision
-terniumrevenuecyclemanagement
-terrabis
-terraclear
 terrafuse
 terramera
-terranorbitalcorporation
 terraytherapeutics
-terremotobiosciencesinc
-territorialdentalclinic
-tesseract
-tesseratherapeutics
-testendouble
-testlio
-testnisc
-tetra
-texasairsystems
-texascartitleandpaydayloanservicesinc
-texaschillersystemsasp
 texthelp
 textileio
 textio
@@ -4009,7 +3952,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2717)
+## lever (2714)
 netflix
 shopify
 github
@@ -4052,7 +3995,6 @@ scaleai2
 upstart
 nuro2
 anysignal
-brightmachines
 10up-2
 174powerglobal
 1776
@@ -4129,7 +4071,6 @@ airship
 airshipsyndicate
 airwallex
 aiwyn
-ajax
 akashnetwork
 akitasoftware
 alan
@@ -4162,7 +4103,6 @@ amberflo
 ambrook
 amerisave
 amiri
-amityfdn
 amobee
 amplitude
 ams-corp
@@ -4513,7 +4453,6 @@ chironhealth
 chooosejobs
 chronicled-2
 chyronhego
-ciandt
 cinchy
 ciphertrace
 circleco
@@ -5244,6 +5183,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
