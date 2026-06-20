@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3764)
+## greenhouse (3728)
 hingehealth
 maven
 spring
@@ -3147,76 +3147,40 @@ txm
 u410
 uchicagoepic
 uiflow
-ujet
-ukmed
-ultimagenomics
 ultimaker
-ultragenyxpharmaceutical
 ultramobile
-umaeducationinc
-umojabiopharma
-umt
-unanet
 unbounce
 uncacheable_attributes
-unchainedlabs
 uncommongoods
-undeadlabsllc
-underdogfantasy
-understood
-understoodcare
-unframe
 unionai
 uniplaces
-unisonhomeownershipinvestors
-unispace
-unispacelifesciences
 uniswapfoundation
 uniswaplabs
 unit21
-unitedfirm
 unitedmasters
-unitedmasterstranslation
-unitedmedia
 unitedstatesgolfassociation
-uniteus
-unity3d
-universalaudio
-universaldx
 universalhydrogen
 universeenergy
 universityofchicago
-unknownworlds
-unlimitedtechnology
-unlock
-unlockhealth
 unohealth
-unqork
 unrealsnacks
 unybrands
 up
-upbound
 upboundext
-updater
 upgrade
 upkeep
 upshop
 upsolver
 upstart
-upstartlab
 upstatement
 upstreamcare
 upstreamusa
 uptake
 uptivhealth
 upwardhealth
-upwork
 upworthy
 urban
-urbancompass
 urbanfootprint
-urbansky
-urbansportsclub
 urbansystems
 urbint
 urbnleaf
@@ -3767,7 +3731,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2721)
+## lever (2713)
 netflix
 shopify
 github
@@ -4998,7 +4962,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5158,7 +5121,6 @@ livelike
 liveoakfiber
 livingcarbon
 livinghr
-loadsmart
 loancrate
 loblawagency
 loblawdigital
@@ -6224,7 +6186,6 @@ topl
 toplinepro
 torch
 toruslabs
-totalexpert
 traba
 trace3
 trade-lanes
@@ -6256,7 +6217,6 @@ trolley
 trueaccord
 truenorth
 truepill
-truetandem
 truevault
 trunkio
 truora
@@ -6265,7 +6225,6 @@ trustandwill
 trustedhealth
 trustlab
 trusttoken
-truv
 truveris
 trycourier
 tubularlabs
@@ -6334,14 +6293,12 @@ veho
 veir
 veonhq
 verafin
-verdigris
 vergesense
 vericred
 verisart
 verity
 vero
 versana
-versapay
 verse
 verse-medical
 verticalscope
@@ -6413,7 +6370,6 @@ welocalize
 wemaintain
 wepay
 wesalute
-whiterabbit
 wildlight
 windsormanagement
 wingedrecruitment
@@ -6490,7 +6446,7 @@ zumper
 zuru
 zuva
 
-## ashby (793)
+## ashby (794)
 mercury
 together
 replicate
@@ -6680,6 +6636,7 @@ cydea
 d2iq
 dahlia-labs
 dashworks
+datacurve
 datalab
 day9
 daydream-ai
