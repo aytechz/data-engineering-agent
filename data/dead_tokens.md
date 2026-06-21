@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3636)
+## greenhouse (3671)
 hingehealth
 maven
 spring
@@ -3218,20 +3218,51 @@ ventureforamerica
 ventureglobal
 venturegloballng
 ventustherapeutics
+veracode
+veracyte
+verantos
+veratherapeuticsinc
 verbenergy
+veriff
+verifone
 veriforce
+verisign
+veristainc
 veritone
 veronapharma
+verramobility
+versaterm
+verse
+versprite
+vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
+verusen
+verygoodventures
+vesalius
 vesartex
 vestahealthcare
 vestal
+vestmark
+vestwell
+veterans
+veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
+vgw
 vhsys
+via
+viaduct
+viagogo
+vialogic
+viamrobotics
+vianttechnology
 viber
+vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3242,14 +3273,18 @@ viderityinc
 vidmob
 vidyard
 vikingglobalinvestors
+vileon
 vim
 vimeo
 vipvermontinformationprocessing
+vipvermontinformationprocessing2
+viralnation
 virbiotechnologyinc
 virtahealth
 virtasant
 virtex
 virtru
+virtu
 virtualhealth
 visbymedical
 viseai
@@ -3639,7 +3674,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2717)
+## lever (2714)
 netflix
 shopify
 github
@@ -4871,7 +4906,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -4974,7 +5008,6 @@ lambdal
 lambdaschool
 laminiai
 landing
-lansingschools
 laserhub-2
 last9
 latticehq
@@ -6138,7 +6171,6 @@ trustlab
 trusttoken
 truveris
 trycourier
-tsmg
 tubularlabs
 tuftandneedle
 tul
