@@ -1,5 +1,5 @@
-### 2 new matching jobs · 2026-06-22 21:14 UTC
+### 2 new matching jobs · 2026-06-22 22:57 UTC
 
 #### From greenhouse (2)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/nimblegravity/jobs/4708164005)** at **Nimble Gravity** — LATAM (Remote) 🤖 · `databricks, pyspark, dbt, airflow, python, sql` · _greenhouse_
-- **[Senior Software Engineer (Platform Data Reliability & Automation)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6030609004)** at **PlayStation Global** — United States, San Diego, CA 🏥🤖 · `kafka, aws, gcp, terraform` · _greenhouse_
+- **[Data Platform Engineering Lead](https://job-boards.greenhouse.io/glydways/jobs/5170949007)** at **Glydways** — Remote · `spark, dbt, airflow, aws, gcp, azure` · _greenhouse_
+- **[Data Architect](https://job-boards.greenhouse.io/robotsandpencils/jobs/5228472008)** at **Robots and Pencils** — United States 🤖 · `spark, aws, python, sql` · _greenhouse_
