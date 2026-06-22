@@ -1,5 +1,5 @@
-### 2 new matching jobs · 2026-06-22 12:27 UTC
+### 2 new matching jobs · 2026-06-22 17:50 UTC
 
 #### From greenhouse (2)
-- **[Data Architect (gn) - Master Data Management](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4869867101)** at **The Quality Group GmbH** — Deutschland, remote; Hamburg (hybrid) · _greenhouse_
-- **[Data Architect (gn) - Master Data Management](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4869868101)** at **The Quality Group** — Germany, remote; Hamburg (hybrid) · _greenhouse_
+- **[Staff Data Engineer](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5270303008)** at **LVT** — Seattle, Washington, United States 🤖 · `spark, kafka, python` · _greenhouse_
+- **[Data Engineer](https://job-boards.greenhouse.io/reach/jobs/8597878002)** at **Reach Financial** — United States 🏥 · `dbt, python, sql` · _greenhouse_
