@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3654)
+## greenhouse (3642)
 hingehealth
 maven
 spring
@@ -324,7 +324,6 @@ artlogic
 artsy
 arzeda
 as
-ascenttechnologies
 ascertain
 askmediagroup
 asknicely
@@ -555,7 +554,6 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
-builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -1116,7 +1114,6 @@ fabfitfun
 fabric
 facile
 factoryberlin
-fairviewsmilesdentistry
 fairwinds
 fanbyte
 fanduelgrouptvg
@@ -1378,6 +1375,7 @@ harbor
 harperdbinc
 harrysinc
 hatchhirescontractors
+havenhub
 havenly
 haydenai
 haydenconsultinggroupllc
@@ -1962,6 +1960,7 @@ modernizingmedicineinc
 modernmeadow
 modularai
 mogli
+mojangab
 mojito
 mojo
 molecularassemblies
@@ -2297,6 +2296,7 @@ pavilionpayments
 pax8
 paxful
 paybyphone
+paydo
 paysend
 paystackprivate4317
 paytronix
@@ -2585,7 +2585,6 @@ rubilaboratories33
 rubyreceptionists
 rudderstack
 runelabs
-russett
 rvedufreelancenetwork
 rvfreelancenetwork
 rvohcontentfreelance
@@ -2613,7 +2612,6 @@ sandstonecarebroomfield
 sandstonecaredarien
 sandstonecoloradomedicaldetox
 sandstonecoloradospringsoutpatient
-sandstoneremote
 sandtech
 sanityio
 sano
@@ -2710,7 +2708,6 @@ sibros
 sidearmsports
 sidebycare
 sidewalklabs
-sierrallc
 siftscience
 sigmoidinternational
 signaladvisors
@@ -3255,22 +3252,14 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
 vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
-viseai
 visia
 visitingmedia
 visor
@@ -3278,7 +3267,6 @@ visualconcepts
 vitablehealth
 vitahealth
 vitalfarms
-vitalfarmsinternalcrew
 vitalvoicesglobalpartnership
 vitta
 vivcourtevents
@@ -3657,7 +3645,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2721)
+## lever (2717)
 netflix
 shopify
 github
@@ -5525,7 +5513,6 @@ ppslrswmo
 ppsp
 ppswo
 practicebetter
-prefixbox
 preligens
 prelim
 premia
@@ -6163,7 +6150,6 @@ tuftandneedle
 tul
 tune
 tunein
-tunnl-data
 turing-labs
 tuskventures
 tweeq
@@ -6179,7 +6165,6 @@ ueno
 ufonia
 uipath
 ultra
-ultrahealthproviders
 umaproject
 umbragestudios
 umpqua-health
@@ -6244,7 +6229,6 @@ veteransadvantage
 vevo-ai
 vhslab
 vhx
-viabill
 viacom18
 vial
 viantinc
@@ -6380,7 +6364,7 @@ zumper
 zuru
 zuva
 
-## ashby (793)
+## ashby (794)
 mercury
 together
 replicate
@@ -6850,7 +6834,7 @@ natcast
 nativemarkets
 nautical-commerce
 navattic
-neotaste
+nessolabs
 newfront
 newschoolfoods
 newxel
@@ -7010,6 +6994,7 @@ securebio
 seis
 select-labs
 sensorita
+seriesai
 servicebell
 shadow
 sidebar
