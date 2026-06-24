@@ -1,8 +1,9 @@
-### 3 new matching jobs · 2026-06-24 17:19 UTC
+### 6 new matching jobs · 2026-06-24 20:08 UTC
 
-#### From greenhouse (2)
-- **[Senior Data Engineer - Managed Services](https://job-boards.greenhouse.io/3cloud/jobs/8603382002?gh_jid=8603382002)** at **3Cloud** — Remote - US 🏥 · `databricks, azure, sql` · _greenhouse_
-- **[Senior Staff Software Engineer - Data Platform](https://job-boards.greenhouse.io/marqeta/jobs/7905504)** at **Marqeta** — Remote, USA 🏥 · `spark, airflow, kafka, aws, python` · _greenhouse_
-
-#### From lever (1)
-- **[Senior Data Engineer](https://jobs.lever.co/arbitalhealth/8f4e9288-941f-4891-a02d-1429a59ec0e7)** at **arbitalhealth** — Remote 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _lever_
+#### From greenhouse (6)
+- **[FDE Data Engineer- Space](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169676007)** at **Defense Unicorns** — United States - Remote 🏥🤖 · `spark, airflow, kafka, aws, gcp, azure` · _greenhouse_
+- **[Data Engineer III](https://job-boards.greenhouse.io/ensco/jobs/5228071008)** at **ENSCO, Inc.** — Melbourne, Florida, United States 🤖 · `spark, kafka, aws, azure, python, sql` · _greenhouse_
+- **[Sr. Data Engineer](https://job-boards.greenhouse.io/ninjatrader/jobs/4691523006)** at **NinjaTrader** — Chicago or Remote* 🤖 · `spark, dbt, airflow, kafka, aws, gcp` · _greenhouse_
+- **[Data Engineer](https://job-boards.greenhouse.io/wyndlabs/jobs/4133699008)** at **Wynd Labs** — Remote · `snowflake, airflow, aws, gcp, azure, python` · _greenhouse_
+- **[Sr. IT Data Engineer](https://job-boards.greenhouse.io/xai/jobs/5167318007)** at **xAI** — Palo Alto, CA 🏥 · `kafka, python, sql` · _greenhouse_
+- **[Data Engineer](https://job-boards.greenhouse.io/xhiring/jobs/4133701008)** at **Wynd Labs - X Hiring** — Remote · `snowflake, airflow, aws, gcp, azure, python` · _greenhouse_
