@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3790)
+## greenhouse (3755)
 hingehealth
 maven
 spring
@@ -461,7 +461,6 @@ bioptimizers
 bioptimus
 bioskryb
 biospanjobs
-bitbio
 bitcoincom
 bitcoindepot
 bitfarms
@@ -541,7 +540,6 @@ brightflag
 brighthealthgroup
 brightinsight
 brightnetwork
-brinqa
 broadvoice
 brookfieldproperties
 bsr
@@ -607,6 +605,7 @@ careof
 carerev
 carewell
 carmera
+carmichaellynch
 carnegiescience
 carolinapaydayloansinc
 carrumhealth
@@ -1528,7 +1527,6 @@ infinitereality
 inflammatix
 influential
 influxdb
-infotrust
 infusemedia
 infuseukraine
 ingenuitystudios
@@ -3166,75 +3164,32 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
-twinhealth
 twinstar
-twinstream
 twinternal
 two
 twonil
-twosixtechnologies
 txm
-typeface
-tysonmendesllp
 u410
-uasi
 uchicagoepic
-udacity
-udemybedi
-udio
 uiflow
-ujet
-ukmed
-ultimagenomics
 ultimaker
-ultragenyxpharmaceutical
 ultramobile
-umaeducationinc
-umistone
-umojabiopharma
-umt
-unanet
 unbounce
 uncacheable_attributes
-unchainedlabs
 uncommongoods
-undeadlabsllc
-underdogfantasy
-understood
-understoodcare
-unframe
 unionai
 uniplaces
-unisonhomeownershipinvestors
-unispace
-unispacelifesciences
 uniswapfoundation
 uniswaplabs
 unit21
-unitedfirm
 unitedmasters
-unitedmasterstranslation
-unitedmedia
 unitedstatesgolfassociation
-uniteus
-unity3d
-universalaudio
-universaldx
 universalhydrogen
 universeenergy
 universityofchicago
-unknownworlds
-unlimitedtechnology
-unlock
-unlockhealth
 unohealth
-unqork
-unrealsnacks
-up
+unybrands
 upbound
-upboundext
-updater
-upgrade
 upkeep
 upshop
 upsolver
@@ -3306,6 +3261,7 @@ varicent
 varsitytutors
 vast
 vatcllc123
+vaticlabs
 vault
 vaxcyte
 vay
@@ -3326,6 +3282,7 @@ vegaamericas
 veir
 velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
 velora
@@ -3460,6 +3417,7 @@ vpawashington
 vpawv
 vsapartners
 vscfiresecurityinc
+vsco39
 vtex
 vts
 vuestorefront
@@ -3525,6 +3483,7 @@ weconnectrecovery
 wedosupport
 weedmaps
 weedmaps77
+weee
 wehrtyou
 weinsteinproperties
 weissassetmanagement
@@ -3553,6 +3512,7 @@ whatnot
 wheel
 wheelhouse
 wheelhousedmg
+wheely
 wheniwork
 whipmedia
 whiskercloud
@@ -3664,6 +3624,7 @@ wunderflats
 wunderkind
 wundermanthompson
 wurl
+wurljobs
 wursta
 wurstacorporation
 ww
@@ -3711,6 +3672,7 @@ yld
 ylopo
 yohana
 yoodliinc
+yotpo
 youcom
 yougov
 youhealthproviders
@@ -3769,8 +3731,10 @@ zind-erprogram
 zing
 zinnia
 zinniaintern
+zinnov
 zip
 zipcolimited
+ziprecruiter
 zitaratechnologiesinc
 zocalohealth
 zocdoc
@@ -3789,6 +3753,7 @@ zubiad
 zulualphakilo
 zuora
 zupinnovation
+zwift
 zynga
 zyngacareers
 zyngaearlycareers
@@ -3889,6 +3854,7 @@ advancednavigation
 aechelon
 aeler
 aerialapplications
+aerostrat
 afarmedia
 affinity
 affirm
@@ -3964,6 +3930,7 @@ anjuna
 anlatan
 annalise
 anomalo
+anotherco
 anovium
 ansira
 anthropic
@@ -4013,6 +3980,7 @@ ark-solutions-inc
 arkbiotech
 arpa
 arrive
+arsiem
 artblocks
 artificial
 asap
@@ -4081,6 +4049,7 @@ baller
 bambee
 bamtradingservices
 banglalink
+bannerbank
 barbaricum
 barecremation
 barefootproximity
@@ -4295,7 +4264,6 @@ chironhealth
 chooosejobs
 chronicled-2
 chyronhego
-cimgroup
 cinchy
 ciphertrace
 circleco
@@ -4673,6 +4641,7 @@ flipfit
 flockjay
 flowerave
 flowfoundation
+flowlife
 flowspace
 flpstudio
 fluence
@@ -4973,6 +4942,7 @@ innablr
 innovafeed
 innovationdept
 insightm
+insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -4999,6 +4969,7 @@ invisible-ai
 invokestaffing
 inworld
 iobeya
+ion
 ionic
 ionicpartners
 iovlabs
@@ -5027,7 +4998,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5072,6 +5042,7 @@ kensho
 kerishullteam
 ketch
 kevala
+keyloop
 kg
 kibeam
 kickback
@@ -5093,13 +5064,11 @@ klick
 klubworks
 klue
 kmaconsultingllc
-knix
 knock
 knockcrm
 knotch
 knownwell
 knrtherapy
-koalahealth
 koddi
 kodex
 kodiak
@@ -5133,7 +5102,6 @@ lambdaschool
 laminiai
 landing
 laserhub-2
-last-energy
 last9
 latticehq
 launchdarkly
@@ -5170,6 +5138,7 @@ levvel
 lexingtonmedical
 liberatii
 lifen
+lifestance
 lightci
 lillio
 lime
@@ -5201,7 +5170,6 @@ logikcull
 login
 logistimo
 logixboard
-logrocket
 longtail-ai
 longview
 looker
@@ -5274,7 +5242,6 @@ maplemedia
 mapsbcorp
 marcopolo
 marcusmillichap
-margueritecaseyfoundation
 maribelhealth
 markato
 marketcircle
@@ -5283,8 +5250,6 @@ marketopia
 marlettefunding
 marq
 martinagency
-massschoolbuildings
-masterycharter
 mastreforestation
 mastrics
 masygroup
@@ -6520,7 +6485,7 @@ zumper
 zuru
 zuva
 
-## ashby (794)
+## ashby (792)
 mercury
 together
 replicate
@@ -6898,7 +6863,6 @@ kalos
 keel
 keep
 keeper
-kernel
 khan-tech
 kick
 kikoff
@@ -6943,7 +6907,6 @@ mainshares
 maisa
 mako
 manufactured
-markarch
 martian
 mastodon
 materia
