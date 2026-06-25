@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3755)
+## greenhouse (3782)
 hingehealth
 maven
 spring
@@ -696,6 +696,7 @@ citizen
 cityblockhealth
 citystoragesystems
 cityyear
+civicactions
 civiceagleinternships
 civitas
 clair
@@ -907,7 +908,6 @@ decodable
 dedrone
 deepscribe
 deepsource
-deepwatchinc
 defineamerican
 defmethod
 deliveroo
@@ -1692,6 +1692,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -1718,6 +1719,7 @@ kwaralearn
 kwittken
 kxadvisors
 l5
+la2028
 lagrange
 lakesidesoftware
 lambda
@@ -1892,7 +1894,6 @@ meaningfulgigscreativecommunitydesigndisciplines
 meatifoods
 medallion
 medarrive
-medeanalytics
 mediacurrent
 medialabaiinc
 mediamonks
@@ -2169,6 +2170,7 @@ okerainc
 okex
 okteto
 oleria
+oliverbrazil
 oliverplus
 olympiacareers
 om1
@@ -2544,7 +2546,6 @@ reprofreedomforallinternships
 rescue
 reserv
 resi
-resultsforamerica
 retraced
 rev
 revcapital
@@ -3169,27 +3170,53 @@ twinternal
 two
 twonil
 txm
+typeform
+tysonmendesllp
 u410
 uchicagoepic
 uiflow
+ultimagenomics
 ultimaker
 ultramobile
+umojabiopharma
+umt
 unbounce
 uncacheable_attributes
 uncommongoods
+underdogfantasy
+understoodcare
+unframe
 unionai
 uniplaces
+unisonhomeownershipinvestors
+unispace
+unispacelifesciences
 uniswapfoundation
 uniswaplabs
 unit21
 unitedmasters
+unitedmasterstranslation
+unitedmedia
 unitedstatesgolfassociation
+unity3d
+universalaudio
+universaldx
 universalhydrogen
 universeenergy
 universityofchicago
+unknownworlds
+unlimitedtechnology
+unlock
+unlockhealth
 unohealth
+unqork
+unrealsnacks
 unybrands
+up
 upbound
+upboundext
+updater
+upgrade
 upkeep
 upshop
 upsolver
@@ -3758,7 +3785,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2725)
+## lever (2717)
 netflix
 shopify
 github
@@ -3854,7 +3881,6 @@ advancednavigation
 aechelon
 aeler
 aerialapplications
-aerostrat
 afarmedia
 affinity
 affirm
@@ -3930,7 +3956,6 @@ anjuna
 anlatan
 annalise
 anomalo
-anotherco
 anovium
 ansira
 anthropic
@@ -3980,7 +4005,6 @@ ark-solutions-inc
 arkbiotech
 arpa
 arrive
-arsiem
 artblocks
 artificial
 asap
@@ -4049,7 +4073,6 @@ baller
 bambee
 bamtradingservices
 banglalink
-bannerbank
 barbaricum
 barecremation
 barefootproximity
@@ -4527,7 +4550,6 @@ elevatelabs
 elliemae
 elliveproductions
 elodiegames
-elroyair
 elvah
 emeraldtherapeutics
 emersoncollective
@@ -4641,7 +4663,6 @@ flipfit
 flockjay
 flowerave
 flowfoundation
-flowlife
 flowspace
 flpstudio
 fluence
@@ -4829,6 +4850,7 @@ healthebay
 healthline
 healthtensor
 healthverity
+heard
 hearsaysystems
 heartflow
 heirloomtechnologies
@@ -4942,7 +4964,6 @@ innablr
 innovafeed
 innovationdept
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -4969,7 +4990,6 @@ invisible-ai
 invokestaffing
 inworld
 iobeya
-ion
 ionic
 ionicpartners
 iovlabs
@@ -5042,7 +5062,6 @@ kensho
 kerishullteam
 ketch
 kevala
-keyloop
 kg
 kibeam
 kickback
@@ -5085,6 +5104,7 @@ koreaboo
 kpmg-2
 kraken
 kubecost
+kubra
 kueski
 kumo
 kumospace
@@ -5138,7 +5158,6 @@ levvel
 lexingtonmedical
 liberatii
 lifen
-lifestance
 lightci
 lillio
 lime
@@ -6485,7 +6504,7 @@ zumper
 zuru
 zuva
 
-## ashby (792)
+## ashby (791)
 mercury
 together
 replicate
@@ -6504,7 +6523,6 @@ tessl
 blackpoint
 commure-athelas
 hippocratic
-latitude
 lindy
 remedy
 voyant-photonics
