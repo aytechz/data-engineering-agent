@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3782)
+## greenhouse (3735)
 hingehealth
 maven
 spring
@@ -965,6 +965,7 @@ dl1961
 dmarket
 dmcengineering2024
 dmipartners
+dna
 dnli
 doccla
 dolly
@@ -1148,7 +1149,6 @@ firstkeyhomes
 firstlook
 firstlookmedia
 firstresonance
-firstsanfranciscopartners
 fiveringsevents
 flagstone
 flamboyanfoundation
@@ -1161,6 +1161,7 @@ flickrorg
 flightright
 flipapp
 flipapp1
+flipside
 flockfreight
 flocksafety
 floodbase
@@ -1748,6 +1749,7 @@ leddartech
 ledgerinvesting
 ledgestone
 leftcoastventures
+legatosecurity
 leiainc
 lemmatree
 lemonlightmediainc
@@ -2819,6 +2821,7 @@ sourcescrub
 south8
 southwesttitleloans
 spaceship
+spade
 spanimation
 spanio
 sparkcognition
@@ -3170,98 +3173,48 @@ twinternal
 two
 twonil
 txm
-typeform
-tysonmendesllp
 u410
 uchicagoepic
 uiflow
-ultimagenomics
 ultimaker
 ultramobile
-umojabiopharma
-umt
 unbounce
 uncacheable_attributes
 uncommongoods
-underdogfantasy
-understoodcare
-unframe
 unionai
 uniplaces
-unisonhomeownershipinvestors
-unispace
-unispacelifesciences
 uniswapfoundation
 uniswaplabs
 unit21
 unitedmasters
-unitedmasterstranslation
-unitedmedia
 unitedstatesgolfassociation
-unity3d
-universalaudio
-universaldx
 universalhydrogen
 universeenergy
 universityofchicago
-unknownworlds
-unlimitedtechnology
-unlock
-unlockhealth
 unohealth
-unqork
-unrealsnacks
-unybrands
-up
-upbound
-upboundext
-updater
-upgrade
-upkeep
-upshop
 upsolver
-upstart
-upstartlab
 upstatement
 upstreamcare
-upstreamusa
 uptake
 uptivhealth
-upwardhealth
-upwork
 upworthy
 urban
-urbancompass
 urbanfootprint
-urbansky
-urbansportsclub
-urbansystems
 urbint
 urbnleaf
-urgentcareforchildren
-urpt
-ursamajor
-urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
-usenourish
-usergems
 userinterviews
 userleap
 ushur
 usjetaa
 ustwo
 ustwogames
-utahtitleloansinc
 utilityapi
-uvimco
 vac
 vacasa
-vacationinc
-vaco
 vailclinicincdbavailhealthhospital
-valaratomics
 valerahealth
 valiantharborinternationalllc
 valimailinc
@@ -3785,7 +3738,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2717)
+## lever (2718)
 netflix
 shopify
 github
@@ -6041,6 +5994,7 @@ stardog
 starknet
 starship
 startuplifers
+startuptap
 statesproject
 statflo
 statuspageio
@@ -6504,7 +6458,7 @@ zumper
 zuru
 zuva
 
-## ashby (791)
+## ashby (789)
 mercury
 together
 replicate
@@ -6788,7 +6742,6 @@ frameplay
 freeagency
 freeplay
 frequence
-fruitist
 fulcrum-research
 fundamentalresearchlabs
 future-find
@@ -7027,7 +6980,6 @@ paysail
 pcg
 pear
 peggy
-people-data-labs
 peopleup
 peppr
 persimmons-ai
