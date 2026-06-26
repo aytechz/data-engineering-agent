@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-06-26 13:22 UTC
+### 1 new matching jobs · 2026-06-26 16:29 UTC
 
 #### From lever (1)
-- **[Senior Graph Database/Semantic Data Architect](https://jobs.lever.co/eleks/b481b0c4-eabb-4eff-80f9-9e924dc1e0b3)** at **eleks** — Remote (Canada) · _lever_
+- **[Senior Lead Data Engineer - R01566889](https://jobs.lever.co/brillio-2/beb6fa9b-bd8a-4093-8c68-b86696f9f81c)** at **brillio-2** — Saint Louis, Missouri, United States · _lever_
