@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4082)
+## greenhouse (4069)
 hingehealth
 maven
 spring
@@ -756,6 +756,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -2988,30 +2989,16 @@ taefusion60
 taginfraestrutura
 tailorbirdinc
 tails
-tailscale
 taittowers
-takealotgroup
-takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspace
-talkspacepsychiatry
-talkspacetherapist
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
 tankww
 tanso
 tapresearch
