@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3942)
+## greenhouse (3927)
 hingehealth
 maven
 spring
@@ -3090,36 +3090,23 @@ thinkmarkets
 thinx
 thirdharmonicbio
 thirdway
-thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tidewatertech
 tiermobility
 tiermobilitygermany
 tifin
 tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
@@ -3132,10 +3119,8 @@ tinkermode
 tintai
 tinuitisecondarypage
 tipaltisolutions
-tippingpointcommunity
 tiptop
 tiree
-tireseasycom
 titan
 titelmedia
 tmc
