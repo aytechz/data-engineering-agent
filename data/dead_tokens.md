@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3690)
+## greenhouse (3685)
 hingehealth
 maven
 spring
@@ -756,7 +756,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -3299,15 +3298,11 @@ vidmob
 vidyard
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
 virtahealth
 virtasant
 virtex
-virtu
 virtualhealth
 visbymedical
-viseai
-visia
 visitingmedia
 visor
 visualconcepts
