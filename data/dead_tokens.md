@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3900)
+## greenhouse (3873)
 hingehealth
 maven
 spring
@@ -75,7 +75,6 @@ cruise
 zoox
 alloycampus
 digs
-fspco-op012325
 klaviyocampus
 0x
 100x
@@ -700,7 +699,6 @@ citystoragesystems
 cityyear
 civicactions
 civiceagleinternships
-civilscience
 civitas
 clair
 clarifai
@@ -722,7 +720,6 @@ clearwateranalytics
 cleo-emea
 cleoai
 clerkchat
-clerri
 clevelandguardiansbops
 clevelandindiansbops
 clickup
@@ -914,6 +911,7 @@ deepscribe
 deepsource
 defineamerican
 defmethod
+delawaretitleloansinc
 deliveroo
 deliverymuch
 delos
@@ -938,6 +936,7 @@ dfinity
 dharma
 dhinternal
 diagram
+dialership
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
@@ -1858,6 +1857,7 @@ magnoliabakery
 magoosh
 mailchimp
 mainstreethub
+maintainx
 majorleaguebaseballadvancedmedia
 makerdao
 makeship
@@ -2193,6 +2193,7 @@ om1
 omaze
 omgcamontreal
 omgcamontrealfr
+omguk
 omnidata
 omnifdn
 omnionpower
@@ -2644,7 +2645,6 @@ samsungcollegeprogram
 sanabilventurestudio
 sandboxaq
 sandstonecarealexandria
-sandstonecareboulder
 sandstonecarebroomfield
 sandstonecaredarien
 sandstonecoloradomedicaldetox
@@ -3065,7 +3065,6 @@ thelandlinecompany
 themanual
 themany
 themarkup
-themarshallproject
 thena
 theoakleafgroupllc
 theoremlp
@@ -3125,54 +3124,31 @@ topcompare
 toposware
 topspot
 tornbannerstudios
-toropark
 torotms
-torq
 totusmedicines
-touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
 tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
-transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
 treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
 trexsolutions
@@ -3187,11 +3163,9 @@ trilogyed
 trilogyinstructionalengagement
 trimarkassociates
 trinityairmedical
-trinityparktalent
 trinks
 trinternational
 tripactions
-tripadvisor
 triparc
 triplebyte
 triplelift
@@ -3205,7 +3179,6 @@ trmlabs
 tropic
 troupehealth
 trove
-trovohealth
 truckstop
 trueanomalyinc
 truebill
@@ -3903,7 +3876,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2737)
+## lever (2725)
 netflix
 shopify
 github
@@ -4391,7 +4364,6 @@ chain
 chainlink
 chamberofprogress
 change
-chargelab-inc
 chariot
 chartio
 chatmeter
@@ -4470,7 +4442,6 @@ combo
 commentsold
 common
 common-networks
-commoncause
 commoncode
 commonfuture
 commonlit
@@ -5083,7 +5054,6 @@ innablr
 innovafeed
 innovationdept
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -5243,6 +5213,7 @@ lambdaschool
 laminiai
 landing
 laserhub-2
+last-energy
 last9
 latticehq
 launchdarkly
@@ -5284,7 +5255,6 @@ lillio
 lime
 limebike
 liminal
-limitbreak
 limitless
 linea
 lingoda
@@ -5316,12 +5286,14 @@ loop-health
 loopinternet
 loopio
 loupetheapp
+lovepop
 lovepopcards
 loyalfordogs
 loyaltylion
 lpainc
 lqdigital
 lrymediagroup
+lsa-hr
 ltse
 lucca
 lucid
@@ -5366,6 +5338,7 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
+mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -5502,6 +5475,7 @@ myplacehealth
 mytraffic
 myvest
 nabis
+nahc
 narmi
 natronenergy
 naturesfynd
@@ -5596,7 +5570,6 @@ ochre-bio
 ockam
 ocrolus
 octane
-octoenergy
 octoml
 octopus
 oda
@@ -5923,7 +5896,6 @@ request
 rescale
 residenthome
 resilience
-resilinc
 resonanceglobal
 respawn
 respondent
@@ -5996,7 +5968,6 @@ runforsomething
 runkeeper
 runningtide
 rushdownstudio
-rws
 rxsavingssolutions-2
 ryzlabs
 saagie
@@ -6066,7 +6037,6 @@ sewerai
 sfcg
 shadow
 shakepay
-shakudo
 shapertools
 sharethrough
 sheerid
@@ -6149,7 +6119,6 @@ spinwheel
 splash-music
 splashfinancial
 sporty
-spreetail
 springboard
 springfreeev
 springhealth
@@ -6345,7 +6314,6 @@ thrasio
 threatconnect
 thredup
 thrillworks
-thrive-therapies
 thrivemarket
 thundertoken
 thycotic
@@ -6357,7 +6325,6 @@ timely-md
 timelycare
 tiplink
 titan
-titanelectric-ga
 titanx
 titmouse
 tivix
@@ -6456,7 +6423,6 @@ upmetrics
 upside
 upstox
 upwork
-usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6497,7 +6463,6 @@ verypossible
 verytechnology
 vesta-tech
 vestahousing
-vestiairecollective
 vetcove
 veteransadvantage
 vevo-ai
@@ -6511,7 +6476,6 @@ vibrenthealth
 victoryhrg
 videahealth
 vidrovr
-vidsy
 vimpelcom
 vinted
 vippetcare
@@ -6520,12 +6484,10 @@ virtuous
 virtus
 visier
 visioncritical
-visioninvest
 vistarmedia-2
 vital-software
 vitalbio
 vitalfarms
-vivacitylabs
 vivsoft
 vivun
 vizion
@@ -6544,7 +6506,6 @@ vrsystems
 vtex
 vts
 vvt
-wachter
 waitrapp
 walnut
 walser
@@ -6642,7 +6603,7 @@ zumper
 zuru
 zuva
 
-## ashby (793)
+## ashby (795)
 mercury
 together
 replicate
@@ -6688,6 +6649,7 @@ alpinex
 amca
 amper
 angelinvest
+anglehealth
 anysource
 apart
 apfusion
@@ -6882,6 +6844,7 @@ essentialai
 ethereum-foundation
 ethglobal
 evenup
+everops
 everydayagents
 exofreight
 exponential
