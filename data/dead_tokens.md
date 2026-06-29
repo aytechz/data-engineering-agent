@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3873)
+## greenhouse (3934)
 hingehealth
 maven
 spring
@@ -1380,7 +1380,6 @@ guidepostchicagoland
 guildeducation
 gunner
 guru
-habitatforhumanitygreatersanfranciscoinc
 halodotscience
 hammerhead
 hamptons
@@ -1833,6 +1832,7 @@ ltkbrazil
 ltkchina
 ltkuk
 luckylincolngaming
+ludiaconsulting
 luganodiamonds
 lumenbioscience
 lumenorbit
@@ -2224,7 +2224,6 @@ openloop
 openmesh
 openphone
 openstore
-operatus
 opj
 oplabs
 opremote
@@ -3098,57 +3097,116 @@ threeflow
 threeships
 thrivecapital
 thriveglobal
+thrivemarket
 throughline
 thumbtack
 thunder
+thunes
 thymecare
+tia
+tide
+tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
+tigargymnastics
+tigera
+tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
+timos
+tines
+tinginternet
 tinkermode
+tintai
 tinuitisecondarypage
+tipaltisolutions
+tippingpointcommunity
+tiptop
+tiree
+tireseasycom
 titan
 titelmedia
 tmc
 tmg
 tminuszero
+toast
 toastmastersinternational
+tobogganlabs
+togetherai
+togetherwork
+toggleai
+tokensecurity
+tollbit
 tomebio
+tomofunfurbo
 tomonetworks
+tomorrow
 tomorrowhealth
+tonixpharmaceuticals
+toogoodtogo
+toojaysdeli
 topcompare
 toposware
+topsort
 topspot
+topsteptrader
+toradex
+torcrobotics
+toriihq
 tornbannerstudios
+toropark
 torotms
+torq
+toshibaglobalcommercesolutions
 totusmedicines
+touchbistro
+towerresearchcapital
+townofsnowmassvillagecolorado
+townsquaremedia
+tpcengineeringholdingsllc
+tpgcareers
 tr1x
+trace3
+tracelinkinc
 trackinglink
 trackmaven
+trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
+traderepublicbank
 tradesy74
+traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
+transactlyconnect
+transcendinc
+transcendtherapeutics
+transfergo
 transferwise
 translationunitedmastersstashed
+transmitsecurity
+trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
+travix
 trayio
 treasury4
 treasuryprime
+treehousefab
+treelinebiosciences
+trellahealth
 trellis
 trellisrx
 trexsolutions
@@ -3163,9 +3221,11 @@ trilogyed
 trilogyinstructionalengagement
 trimarkassociates
 trinityairmedical
+trinityparktalent
 trinks
 trinternational
 tripactions
+tripadvisor
 triparc
 triplebyte
 triplelift
@@ -3179,6 +3239,7 @@ trmlabs
 tropic
 troupehealth
 trove
+trovohealth
 truckstop
 trueanomalyinc
 truebill
@@ -5213,7 +5274,6 @@ lambdaschool
 laminiai
 landing
 laserhub-2
-last-energy
 last9
 latticehq
 launchdarkly
@@ -5286,7 +5346,6 @@ loop-health
 loopinternet
 loopio
 loupetheapp
-lovepop
 lovepopcards
 loyalfordogs
 loyaltylion
@@ -5313,7 +5372,9 @@ lunchboxtechnologies
 luni
 luxe
 luxortechnology
+luxurypresence
 luzia
+lwolf
 lyciatherapeutics
 lykospbc
 lyra
@@ -5338,7 +5399,6 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
-mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -5475,7 +5535,6 @@ myplacehealth
 mytraffic
 myvest
 nabis
-nahc
 narmi
 natronenergy
 naturesfynd
@@ -6157,6 +6216,7 @@ stoic
 stormforge
 storygrounds
 storyprotocol
+stradaeducation
 strapi
 streetcontext
 streetlightdata
@@ -6211,6 +6271,7 @@ tachyus
 tackle
 tactical
 tactilegames
+tag
 tajir-app
 takescoop
 talend
@@ -6603,7 +6664,7 @@ zumper
 zuru
 zuva
 
-## ashby (795)
+## ashby (794)
 mercury
 together
 replicate
@@ -7195,7 +7256,6 @@ rematter
 remi
 renderfoundation
 replicated
-reservoir
 resolvepay
 resourcely
 retain
