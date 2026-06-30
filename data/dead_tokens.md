@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3954)
+## greenhouse (3924)
 hingehealth
 maven
 spring
@@ -966,7 +966,6 @@ dkatalissingapore
 dkjagointernship
 dl1961
 dmarket
-dmcengineering2024
 dmipartners
 dna
 dnli
@@ -1030,6 +1029,7 @@ edgile
 edisonscientific
 edmond
 edobestsandbox
+edreports
 educators
 edx
 edxbootcamps
@@ -1773,7 +1773,6 @@ levelhome
 leverage
 lexer
 lexion
-lextech
 lgcypower
 lhv
 lifeedittherapeutics
@@ -2060,7 +2059,6 @@ mythica
 mythicalgames
 myunidaysltd
 mzwallace
-n2alljobs
 n2cointernal
 n2homeoffice
 n2y
@@ -2462,7 +2460,6 @@ propertyfinder
 prose
 protenus
 protocollabs
-proyectosenmexycentroamerica
 psyonix
 pubgemea
 pubgsanramon
@@ -2651,7 +2648,6 @@ sandstonecarebroomfield
 sandstonecaredarien
 sandstonecoloradomedicaldetox
 sandstonecoloradospringsoutpatient
-sandstoneremote
 sandtech
 sanityio
 sano
@@ -2731,6 +2727,7 @@ shardeumfoundation
 shearersinternalmobility
 shearerssnacks
 shepherd
+sherbournedentalassociates
 sherwoodmedia
 shift
 shift4
@@ -3091,59 +3088,32 @@ theswiftgroup
 thetustingroupasp
 thevets
 thezebra
-thiess
-thinkacademyus
-thinkific
 thinkmarkets
-thinkonward
 thinx
 thirdharmonicbio
-thirdwaveautomation
 thirdway
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
-tifin
-tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
-tintai
 tinuitisecondarypage
-tipaltisolutions
 tippingpointcommunity
 tiptop
 tiree
@@ -3957,7 +3927,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2725)
+## lever (2727)
 netflix
 shopify
 github
@@ -4435,6 +4405,7 @@ catenamedia
 catlabs
 causal-app
 ccmr3
+cef
 celo
 centerfield
 centml
@@ -4470,6 +4441,7 @@ circulo
 cision
 citadelsecurityusa
 citrineinformatics
+civitech
 civitta
 ciwebgroup
 clabs
@@ -6684,7 +6656,7 @@ zumper
 zuru
 zuva
 
-## ashby (794)
+## ashby (790)
 mercury
 together
 replicate
@@ -6772,7 +6744,6 @@ beakon
 beam
 bear
 bedrock
-bedrockocean
 beeper
 bench
 bentoml
@@ -6875,7 +6846,6 @@ d2iq
 dahlia-labs
 dashworks
 datacurve
-datalab
 day9
 daydream-ai
 dedale
@@ -7062,7 +7032,6 @@ kalder
 kalibri-labs
 kalos
 keel
-keep
 keeper
 khan-tech
 kick
@@ -7187,7 +7156,6 @@ openstore
 operator
 opfoundation
 optery
-optimum
 orbitalmaterials
 orby-ai
 ordio
