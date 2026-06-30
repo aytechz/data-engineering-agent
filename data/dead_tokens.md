@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3724)
+## greenhouse (3741)
 hingehealth
 maven
 spring
@@ -102,6 +102,7 @@ klaviyocampus
 6b16e998554a4006a2f0f0a47869e3e2
 777partners
 8451university
+86repairs
 8rivers
 98point6
 a1mreferrals
@@ -571,6 +572,7 @@ cakedefi
 calibrate
 calibratecareers
 caliva
+callibrity
 calvettifergusonexperiencedprofessionals
 calvettifergusoninternships
 cambridgecourt
@@ -622,6 +624,7 @@ catchafire
 catchco
 catchpoint
 category-labs
+catenaclearing
 catenamedia
 cathexis
 catperson
@@ -751,7 +754,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1026,6 +1028,7 @@ ecore
 ecovative
 edgeandnode
 edgile
+edisonscientific
 edmond
 edobestsandbox
 educators
@@ -1686,6 +1689,7 @@ kins
 kinship
 kintentinc
 kintsugi
+kion
 kiosk
 kisbeetherapeutics
 kit
@@ -1700,6 +1704,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2728,6 +2733,8 @@ shearerssnacks
 shepherd
 sherwoodmedia
 shift
+shift4
+shift4lithuania
 shiftleft
 shipengine
 shogun
@@ -2766,7 +2773,6 @@ simplify360
 simpluris
 simspace
 simulamet
-simulauib
 sinch
 singleops
 singlesprout
@@ -2816,6 +2822,7 @@ sofarocean
 sofarsounds
 sofregen
 softermii
+sojern
 solana
 solanafoundation
 solarcycle
@@ -3038,6 +3045,7 @@ terapore
 terrafuse
 terramera
 terraytherapeutics
+tesseract
 texthelp
 textileio
 tezatechnologies
@@ -3258,18 +3266,27 @@ vectornorth
 veedio
 veem
 veesearch
+velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
+velora
 venafi
 vendia
 vendr
 venmo
 venn
+venncity
+venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
+venturewell
 ventustherapeutics
+veocorporatecareers
+veracode
+veracyte
 veranahealth
 verantos
 veratherapeuticsinc
@@ -3727,7 +3744,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2724)
+## lever (2725)
 netflix
 shopify
 github
@@ -3912,6 +3929,7 @@ apartmentlife
 apartmentlist
 apax
 apdscorporate
+aperturehealth
 apex
 api-ux
 apible
@@ -6453,7 +6471,7 @@ zumper
 zuru
 zuva
 
-## ashby (793)
+## ashby (794)
 mercury
 together
 replicate
@@ -6888,6 +6906,7 @@ medbill-ai
 medsender
 meetpace
 mem
+membrane
 mentis
 meridian
 merkle
