@@ -1,4 +1,7 @@
-### 1 new matching jobs · 2026-07-01 18:17 UTC
+### 4 new matching jobs · 2026-07-01 20:55 UTC
 
-#### From hackernews (1)
-- **[Prolific | Senior Software Engineer | Hybrid ONSIDE 1-2 days&#x2F;wk Bay Area | $200k-$250k Prolific is not just another player in the AI space – we are the architects of the human data infrastructure that&#x27;s reshaping the landscape of AI development](https://news.ycombinator.com/item?id=48750245)** at **Prolific** — Location not specified · _hackernews_
+#### From greenhouse (4)
+- **[[P] Data Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5240422008)** at **Anthropic** — San Francisco, CA | New York City, NY · `spark, snowflake, dbt, airflow, kafka, python` · _greenhouse_
+- **[Frontend - Data Platform (Autonomy)](https://www.zipline.com/open-roles?gh_jid=7791991003)** at **Zipline** — South San Francisco, California, USA 🏥 · _greenhouse_
+- **[Backend Engineer, Data Platform](https://job-boards.greenhouse.io/launchdarkly/jobs/7791926003)** at **LaunchDarkly** — Remote - US · `databricks, spark, airflow, kafka, python, sql` · _greenhouse_
+- **[Senior / Staff Data Engineer](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)** at **Nourish** — New York, NY or Remote 🏥🤖 · `snowflake, dbt, sql` · _greenhouse_
