@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3966)
+## greenhouse (4030)
 hingehealth
 maven
 spring
@@ -74,6 +74,7 @@ appliedintuition
 cruise
 zoox
 alloycampus
+avride
 digs
 klaviyocampus
 transcarent
@@ -613,6 +614,7 @@ cartodb
 cartwheelcare
 casago
 cascadedatalabs
+casestatus
 casetext
 casper
 casperretail
@@ -1829,7 +1831,6 @@ logdna
 logichub
 logikcull
 logixboard
-longridge
 loominc
 loop
 loverboy
@@ -1979,6 +1980,7 @@ miraklfr
 mirror
 missionbio
 missionlanellc
+missiontelecom
 missionzerotechnologies
 mixbook
 mixhalo
@@ -2067,6 +2069,7 @@ n2cointernal
 n2homeoffice
 n2y
 nacelle
+nametag
 nanostring
 napster
 nasacademy
@@ -2091,7 +2094,6 @@ nearfoundation
 nearsure
 nedforct
 neighborhoodscom
-neighborsbank
 neondatabase
 neonkoi
 nerdery
@@ -2099,6 +2101,8 @@ nerdwallet
 nesto
 netflixanimation
 nethermind
+neuehealth
+neuraflash
 neuroblade
 neuroflow
 neuron
@@ -2166,6 +2170,7 @@ nylas
 nzero
 nzxt
 o1labs
+oasishealthpartners
 oasislabs
 oasisnetwork
 oasysinternationalcorporation89
@@ -2648,6 +2653,7 @@ samsungaustinsemiconductor
 samsungcollegeprogram
 sanabilventurestudio
 sandboxaq
+sandiegocommunitypower
 sandstonecarealexandria
 sandstonecarebroomfield
 sandstonecaredarien
@@ -3046,46 +3052,104 @@ tensor
 tenthousand
 terakeet
 terapore
+teravision
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
+territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
 thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
 theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
+theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
+themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
+thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
+thepharmacyhub
+thephoenix
+theplaceforchildrenwithautism
+thequalitygroupgmbh1
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
+theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
+thesciongroupllc
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
@@ -3969,7 +4033,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2724)
+## lever (2733)
 netflix
 shopify
 github
@@ -4104,6 +4168,7 @@ alice
 alictus
 alida
 alignable
+alimentiv-2
 alkymi
 allata
 alliance
@@ -4196,6 +4261,7 @@ artificial
 asap
 ascoeq
 asfar
+ashoka
 asimov
 aspiration-2
 assurance
@@ -4266,6 +4332,7 @@ barkleyus
 barley
 barrel
 batterymetals
+battlecreekchurch
 bayzat
 bb2bank
 bcg
@@ -4331,6 +4398,7 @@ bloomcredit
 bloomthat
 blox-route
 blueboard
+bluecatnetworks
 bluecore
 bluedot
 bluejlegal
@@ -4361,6 +4429,7 @@ boostedboards
 boringcompany
 bosta
 bostondynamicsaiinstitute
+bostonimaging
 botify
 bottlerocketstudios
 boulderingproject
@@ -4517,6 +4586,7 @@ codewaystudios
 cofactr
 coffeemeetsbagel
 coforma
+cogentanalytics
 cogentbiosciences
 cogility
 cogitocorp
@@ -5559,6 +5629,7 @@ moveloot
 moxionpower
 mrss
 mryum
+mti-inc
 mtspartners
 multiversx
 munichelectrification
@@ -5833,6 +5904,7 @@ potloc
 ppaz
 ppgnnj
 ppgt
+ppil
 pplwise
 ppncny
 ppnyc
@@ -6359,6 +6431,7 @@ terrascope
 tesorio
 tessian
 textio
+textnow
 tgsmc
 the-sia-foundation
 the-street
@@ -6695,7 +6768,7 @@ zumper
 zuru
 zuva
 
-## ashby (790)
+## ashby (789)
 mercury
 together
 replicate
@@ -7370,7 +7443,6 @@ surreal
 suzy
 switchboard-foundation
 switchboard-hiring
-sylvera
 syndicate
 syndr
 synonym
