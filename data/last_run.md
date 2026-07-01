@@ -1,5 +1,5 @@
-### 2 new matching jobs · 2026-07-01 00:22 UTC
+### 2 new matching jobs · 2026-07-01 05:55 UTC
 
 #### From greenhouse (2)
-- **[Software Engineer - Data Platform](https://job-boards.greenhouse.io/baton/jobs/5177637007)** at **Baton (A Ryder Technology Lab)** — San Francisco, California, United States · `python, sql` · _greenhouse_
-- **[Staff Data Engineer, Core Migrations](https://job-boards.greenhouse.io/machinifyinc/jobs/4303034009)** at **Machinify** — Remote - US 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
+- **[Lead Data Engineer](https://www.thoughtworks.com/careers/jobs/7585052?gh_jid=7585052)** at **Thoughtworks** — Chicago, Illinois, USA · `sql` · _greenhouse_
+- **[Lead Data Engineer - Refer](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7606597)** at **Referrals Only** — Chicago, Illinois, USA · `sql` · _greenhouse_
