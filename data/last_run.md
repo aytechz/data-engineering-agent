@@ -1,7 +1,7 @@
-### 4 new matching jobs · 2026-07-01 20:55 UTC
+### 2 new matching jobs · 2026-07-01 22:41 UTC
 
-#### From greenhouse (4)
-- **[[P] Data Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5240422008)** at **Anthropic** — San Francisco, CA | New York City, NY · `spark, snowflake, dbt, airflow, kafka, python` · _greenhouse_
-- **[Frontend - Data Platform (Autonomy)](https://www.zipline.com/open-roles?gh_jid=7791991003)** at **Zipline** — South San Francisco, California, USA 🏥 · _greenhouse_
-- **[Backend Engineer, Data Platform](https://job-boards.greenhouse.io/launchdarkly/jobs/7791926003)** at **LaunchDarkly** — Remote - US · `databricks, spark, airflow, kafka, python, sql` · _greenhouse_
-- **[Senior / Staff Data Engineer](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)** at **Nourish** — New York, NY or Remote 🏥🤖 · `snowflake, dbt, sql` · _greenhouse_
+#### From ashby (1)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/snowflake/3b60fdc5-385f-49a9-8fa2-d064f4a9b542)** at **snowflake** — US-CA-Menlo Park · `snowflake, airflow, python, sql` · _ashby_
+
+#### From hackernews (1)
+- **[89k for sr data engineer in nyc onsite? thats really depressing if this is what the job market is like ](https://news.ycombinator.com/item?id=48749661)** at **89k for sr data engineer in nyc onsite? thats really depressing if this is what ** — Location not specified · _hackernews_
