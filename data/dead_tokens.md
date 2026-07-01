@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4030)
+## greenhouse (4078)
 hingehealth
 maven
 spring
@@ -74,7 +74,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-avride
 digs
 klaviyocampus
 transcarent
@@ -380,6 +379,7 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
+axonag
 ayun
 azenia
 aztec
@@ -459,6 +459,7 @@ bioptimizers
 bioptimus
 bioskryb
 biospanjobs
+bitbio
 bitcoincom
 bitcoindepot
 bitfarms
@@ -627,6 +628,7 @@ catenaclearing
 catenamedia
 cathexis
 catperson
+cavnue
 cayabacare
 cazoo
 cb4
@@ -1096,6 +1098,7 @@ eventstore
 eventussystemsinc
 everactive1
 everbody
+everchron
 everest
 evergreenaction
 evergreenbloomerang
@@ -1498,6 +1501,7 @@ hubspotmarketing
 hubspotstudents
 huddle01
 hudsonmx
+hugeinc
 humanconditionsafety
 humane
 humu
@@ -1579,6 +1583,7 @@ internationalrecruitment
 internrecruiting
 interpublicgroup
 intersection
+intersystems
 inventables
 invertase
 investorhub
@@ -1830,6 +1835,7 @@ localyze
 logdna
 logichub
 logikcull
+logiwacareers
 logixboard
 loominc
 loop
@@ -2069,7 +2075,6 @@ n2cointernal
 n2homeoffice
 n2y
 nacelle
-nametag
 nanostring
 napster
 nasacademy
@@ -2101,8 +2106,6 @@ nerdwallet
 nesto
 netflixanimation
 nethermind
-neuehealth
-neuraflash
 neuroblade
 neuroflow
 neuron
@@ -2170,7 +2173,6 @@ nylas
 nzero
 nzxt
 o1labs
-oasishealthpartners
 oasislabs
 oasisnetwork
 oasysinternationalcorporation89
@@ -2401,6 +2403,7 @@ pjtpartnersstudents
 placeexchange11
 placemeter
 planera
+planningcenter
 playkids
 playstationeurope
 plenty
@@ -3021,38 +3024,83 @@ tavus
 taxibeat
 taylorstrategy
 tbnr
+tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
+tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
+teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
+tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
 terakeet
 terapore
 teravision
+terniumrevenuecyclemanagement
+terrabis
 terraclear
 terrafuse
 terramera
@@ -4033,7 +4081,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2733)
+## lever (2725)
 netflix
 shopify
 github
@@ -4168,7 +4216,6 @@ alice
 alictus
 alida
 alignable
-alimentiv-2
 alkymi
 allata
 alliance
@@ -4261,7 +4308,6 @@ artificial
 asap
 ascoeq
 asfar
-ashoka
 asimov
 aspiration-2
 assurance
@@ -4332,7 +4378,6 @@ barkleyus
 barley
 barrel
 batterymetals
-battlecreekchurch
 bayzat
 bb2bank
 bcg
@@ -4398,7 +4443,6 @@ bloomcredit
 bloomthat
 blox-route
 blueboard
-bluecatnetworks
 bluecore
 bluedot
 bluejlegal
@@ -4429,7 +4473,6 @@ boostedboards
 boringcompany
 bosta
 bostondynamicsaiinstitute
-bostonimaging
 botify
 bottlerocketstudios
 boulderingproject
@@ -4586,7 +4629,6 @@ codewaystudios
 cofactr
 coffeemeetsbagel
 coforma
-cogentanalytics
 cogentbiosciences
 cogility
 cogitocorp
@@ -5629,7 +5671,6 @@ moveloot
 moxionpower
 mrss
 mryum
-mti-inc
 mtspartners
 multiversx
 munichelectrification
@@ -5904,7 +5945,6 @@ potloc
 ppaz
 ppgnnj
 ppgt
-ppil
 pplwise
 ppncny
 ppnyc
@@ -6194,7 +6234,6 @@ sentibio
 seoulrobotics
 septerna
 seqera
-sesame
 sevenbridges
 sewerai
 sfcg
@@ -6549,6 +6588,7 @@ trustlab
 trusttoken
 truveris
 trycourier
+tsmg
 tubularlabs
 tuftandneedle
 tul
@@ -6768,7 +6808,7 @@ zumper
 zuru
 zuva
 
-## ashby (789)
+## ashby (788)
 mercury
 together
 replicate
@@ -7374,7 +7414,6 @@ rooser
 rootine
 rubicon
 runa
-rutter
 rye
 rythm
 s2
