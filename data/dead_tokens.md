@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3932)
+## greenhouse (3891)
 hingehealth
 maven
 spring
@@ -23,6 +23,7 @@ dbtlabs
 prefect
 dagsterlabs
 astronomer
+scaleai
 huggingface
 weightsandbiases
 anyscale
@@ -96,8 +97,10 @@ transcarent
 3aware
 3q
 48f-relo
+4lu44n1n37w012k
 59studio
 5careferrals
+5wpr
 6b16e998554a4006a2f0f0a47869e3e2
 777partners
 8451university
@@ -1115,6 +1118,8 @@ evolvtechnologies
 evpassport
 exabeam
 exactsales
+excella
+excelsportsmanagement
 execonline
 exfluency
 exo
@@ -1141,6 +1146,7 @@ fazz
 fearless
 featuredjobs
 featurespace
+federato
 feedbackloop
 fenixinternational
 fermataenergy
@@ -1312,6 +1318,7 @@ globalhealthlabs
 globalincomecoin
 globalteletherapyjobs
 globalworldwide
+glooko
 glowbar
 gluo
 gluwa
@@ -1711,7 +1718,6 @@ knab
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2115,6 +2121,7 @@ ngcash
 nginx
 niantic
 nicehealthcare
+nightdivestudios
 nightfall
 nikolalabs
 nilotherapeutics
@@ -3125,89 +3132,46 @@ timeresearch
 timescale
 tinkermode
 tinuitisecondarypage
-tireseasycom
 titan
 titelmedia
 tmc
 tmg
 tminuszero
-toast
 toastmastersinternational
-tobogganlabs
-togetherai
-togetherwork
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
 topcompare
 toposware
-topsort
 topspot
-topsteptrader
-toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
 torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
-touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
 tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
-transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
 treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
-trexsolutions
 trialspark
 tribal
 tribalscale
@@ -3218,20 +3182,15 @@ trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinityairmedical
-trinityparktalent
 trinks
 trinternational
-tripactions
 tripadvisor
-triparc
 triplebyte
 triplelift
 triplepointllp
 triplewhale
 tripwireinteractive
 triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
@@ -6663,7 +6622,7 @@ zumper
 zuru
 zuva
 
-## ashby (790)
+## ashby (791)
 mercury
 together
 replicate
@@ -7448,6 +7407,7 @@ xmtplabs
 xpreso
 yellow3d
 yondercard
+yondr
 youdotcom
 yupp-ai
 zealy
