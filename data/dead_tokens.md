@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3810)
+## greenhouse (3805)
 hingehealth
 maven
 spring
@@ -121,7 +121,6 @@ aboutfresh
 abovelending
 abpartners
 abstract
-accela
 accelbyte
 accion
 acclarity
@@ -212,7 +211,6 @@ alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
 alterahealth
-altisales
 altium
 alto
 altoira
@@ -454,7 +452,6 @@ biltrewards
 binanceus
 biocaremedical
 biograph
-biolumina
 biomechanicsconsultingandresearchllc
 bioptimizers
 bioptimus
@@ -561,7 +558,6 @@ buzzrx
 bva
 bynderjobs
 byrd
-c6bank
 cabin
 cabinethealth
 cadencesolutions
@@ -759,6 +755,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -791,7 +788,6 @@ connecthomes
 connectngo
 connectngofr
 connectrn
-connectwise
 conroyorthodontics
 consensysremote
 constructsecure
@@ -806,7 +802,6 @@ copysmith
 cora
 cordros
 corellium
-corepilot
 corrieluscardiology
 cortexbuildingintelligence
 corvee
@@ -882,6 +877,7 @@ cvjc
 cybergrx
 cybrary
 cybrid
+cytokinetics
 cytotronics
 czimaginginstitute
 dagger
@@ -917,12 +913,10 @@ deardoc
 decisionary
 decodable
 dedrone
-deepmind
 deepscribe
 deepsource
 defineamerican
 defmethod
-delasport
 delawaretitleloansinc
 deliveroo
 deliverymuch
@@ -1023,7 +1017,6 @@ dwelo
 dydx
 dynamotechnologies
 eaf
-eamesinstitute
 earlycareerprograms
 earlycareers
 earlytalentcerebras
@@ -1031,7 +1024,6 @@ earthshotlabs
 ease
 easyllama
 easypost
-eatgron
 eatjustprotein
 echoai
 ecobee
@@ -1056,7 +1048,6 @@ eigerjobs
 eko
 ekoexcelsandbox
 eleanorhealth
-electreon
 electriphi
 elegen
 elementalexcelerator
@@ -1113,7 +1104,6 @@ evergreenaction
 evergreenbloomerang
 everisusainc
 everops
-everpass
 everphone
 evertrue
 everylife
@@ -1134,7 +1124,6 @@ expanse
 explo
 expressvpn
 extra
-extrahopnetworks
 eyecarepartners
 eyeo
 fabfitfun
@@ -1158,7 +1147,6 @@ fenixinternational
 fermataenergy
 fernride
 fetchrewards
-fidelityguarantylife
 fifthgaittechnologies
 figuremarketsinc
 fincent
@@ -1213,7 +1201,6 @@ forallsecure
 forerunner
 forethought
 forgerock
-formaaiinc
 formatservices
 formidable
 forta
@@ -1483,7 +1470,6 @@ homeconstructionregulatoryauthorityvolunteer
 homefielditakamanhattantechsupportcom
 homeinstead
 homeoffice
-homesalivepetsinternal
 homesteadstudio
 hometogo
 honeathome
@@ -1530,7 +1516,6 @@ hyphenate
 hypixelstudios
 hyundaiuam
 ia
-ians
 ibkr
 ibotta
 ibuglobal
@@ -1761,7 +1746,6 @@ lambda
 landis
 langai
 lantern
-laporteuk
 lastline
 latam
 latchbio
@@ -2353,6 +2337,7 @@ paxful
 paybyphone
 paydo
 paysend
+paystack
 paystackprivate4317
 paytronix
 pbinvitation
@@ -3246,13 +3231,23 @@ unit21
 unitedmasters
 unitedstatesgolfassociation
 unity3d
+universalaudio
 universalhydrogen
 universeenergy
 universityofchicago
+unlimitedtechnology
 unohealth
+unrealsnacks
+upbound
+upboundext
+upgrade
+upkeep
 upsolver
+upstart
+upstartlab
 upstatement
 upstreamcare
+upstreamusa
 uptake
 uptivhealth
 upwardhealth
