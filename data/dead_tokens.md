@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3891)
+## greenhouse (3838)
 hingehealth
 maven
 spring
@@ -23,7 +23,6 @@ dbtlabs
 prefect
 dagsterlabs
 astronomer
-scaleai
 huggingface
 weightsandbiases
 anyscale
@@ -97,10 +96,8 @@ transcarent
 3aware
 3q
 48f-relo
-4lu44n1n37w012k
 59studio
 5careferrals
-5wpr
 6b16e998554a4006a2f0f0a47869e3e2
 777partners
 8451university
@@ -643,6 +640,7 @@ ccscorpcareers
 cdataindia
 cdatajapan
 cdatasoftware
+cdbabyjobs
 cdpjobs
 ce
 cedarsolutionsgroup
@@ -758,6 +756,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -804,6 +803,7 @@ copysmith
 cora
 cordros
 corellium
+corescientific
 corrieluscardiology
 cortexbuildingintelligence
 corvee
@@ -1118,8 +1118,6 @@ evolvtechnologies
 evpassport
 exabeam
 exactsales
-excella
-excelsportsmanagement
 execonline
 exfluency
 exo
@@ -1146,7 +1144,6 @@ fazz
 fearless
 featuredjobs
 featurespace
-federato
 feedbackloop
 fenixinternational
 fermataenergy
@@ -1718,6 +1715,7 @@ knab
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -2854,6 +2852,7 @@ sonymusiccanada
 sonymusiccareersafrica
 sonymusiccareersbelgium
 sonymusiccareersitaly
+sonymusiccareersnetherlands
 soroco
 soulcycle
 soundengineeringsolutions
@@ -3174,77 +3173,41 @@ trellis
 trellisrx
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinks
 trinternational
-tripadvisor
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
 trlab
 trmlabs
 tropic
 troupehealth
-trove
-trovohealth
-truckstop
-trueanomalyinc
-truebill
-truecaller
-trueclassicteesllc
-truehold
-trueindependentholdings
 truelogic
 truepiccareers
 truepill
 truework
-trufflesecurity
 trulia
 trulioo
 truloveorthodontics
 trunkclub
 trustana
-trustautomation
-trustbank
-trustedhealth
 trustmachines
 trustory
-trustpilot
 trustwell
-trustwill
-try-picnic
 trykarat
 tshirtventures
-ttcglobal
-tubescience52
-tubitv
-tucows
 tucowscampusrecruitment
-tudorgroup
 tula
-tulip
 tumblr
 tunein
-turbineone
 turbofish
-turbotenant
-turing
 turingportal
 turnkeylenderinc
 turntide
 turo
 turquoisehealth
-turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
@@ -3252,28 +3215,14 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
-twinhealth
 twinstar
-twinstream
 twinternal
-twistbioscience
 two
-twochairs
 twonil
-twosixtechnologies
 txm
-typeface
-typeform
-tyreeanddangelo
-tysonmendesllp
 u410
-uasi
 uchicagoepic
-udacity
-udemybedi
-udio
 uiflow
-ujet
 ukmed
 ultimagenomics
 ultimaker
@@ -3282,8 +3231,6 @@ ultramobile
 umaeducationinc
 umistone
 umojabiopharma
-umt
-unanet
 unbounce
 uncacheable_attributes
 unchainedlabs
@@ -3894,7 +3841,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2726)
+## lever (2727)
 netflix
 shopify
 github
@@ -5794,6 +5741,7 @@ processunity
 proconconsulting
 prodigyeducation
 prodigygame
+productable
 productiv
 progressive-design
 projectcallisto
@@ -6622,7 +6570,7 @@ zumper
 zuru
 zuva
 
-## ashby (791)
+## ashby (792)
 mercury
 together
 replicate
@@ -7251,6 +7199,7 @@ servicebell
 shadow
 sidebar
 signalfire
+signalwire
 sketch
 skillz
 skyebioscience
