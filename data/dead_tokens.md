@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3753)
+## greenhouse (3747)
 hingehealth
 maven
 spring
@@ -757,6 +757,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -2108,11 +2109,9 @@ nethermind
 neuroblade
 neuroflow
 neuron
-newhonorsociety
 newstore
 next47
 nextdoorcampus
-nextleaguellc
 nexuscareers
 nexxen
 nfx
@@ -2334,7 +2333,6 @@ pathwardcareerfair
 patientpop
 patreon
 patterncareers
-paulaschoiceskincare
 pavilion
 pavilionpayments
 pax8
@@ -2700,6 +2698,7 @@ seabankindonesia
 sealed
 sealstorage
 seam
+seamlessai
 searchdiscovery
 secondspectrum
 secretescapes
@@ -3290,15 +3289,10 @@ vendia
 vendr
 venmo
 venn
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
 veranahealth
 verantos
 veratherapeuticsinc
@@ -3756,7 +3750,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2728)
+## lever (2730)
 netflix
 shopify
 github
@@ -4991,6 +4985,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5132,6 +5127,7 @@ levvel
 lexingtonmedical
 liberatii
 lifen
+lifestance
 lightci
 lillio
 limberhealth
@@ -7202,7 +7198,6 @@ treasure
 treasuryprime
 trilitech
 tronic
-troveo
 trunktools
 truss
 truva
@@ -7223,6 +7218,7 @@ vana
 vance
 vantagediscovery
 vantai
+variant-fund
 vaultplatform
 vcluster
 veev
