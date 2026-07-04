@@ -758,6 +758,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -3337,12 +3338,11 @@ vouchinsurance
 vowgroup
 voxel51
 voxglobal
-voxieinc
-voxmedia
 voxy
 voyagertechnologiesinc
 voyagertherapeutics
 vpawashington
+vpawv
 vsapartners
 vscfiresecurityinc
 vsco39
@@ -3686,7 +3686,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2731)
+## lever (2734)
 netflix
 shopify
 github
@@ -4867,6 +4867,7 @@ innablr
 innovafeed
 innovationdept
 insightm
+insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -4921,6 +4922,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5069,6 +5071,7 @@ lime
 limebike
 liminal
 limitless
+lindblad-expeditions
 linea
 lingoda
 linksys
