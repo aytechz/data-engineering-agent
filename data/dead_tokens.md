@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3955)
+## greenhouse (3961)
 hingehealth
 maven
 spring
@@ -758,7 +758,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -3102,16 +3101,23 @@ thesourcery
 theswiftgroup
 thetustingroupasp
 thevets
+thewilshiregroup
 thezebra
+thinkacademyus
 thinkmarkets
 thinx
 thirdharmonicbio
 thirdway
 thnks
+thorn
+thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
@@ -3958,7 +3964,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2731)
+## lever (2732)
 netflix
 shopify
 github
@@ -5193,6 +5199,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
