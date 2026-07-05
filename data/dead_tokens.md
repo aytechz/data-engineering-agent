@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3962)
+## greenhouse (3955)
 hingehealth
 maven
 spring
@@ -3107,18 +3107,11 @@ thinkmarkets
 thinx
 thirdharmonicbio
 thirdway
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
