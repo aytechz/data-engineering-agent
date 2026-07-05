@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3617)
+## greenhouse (3667)
 hingehealth
 maven
 spring
@@ -758,6 +758,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1656,7 +1657,6 @@ jornaya
 joy
 juaai
 jumpstart
-jumptrading
 jungroup
 junomedical
 justfund
@@ -1670,7 +1670,6 @@ kakaomobility
 kaleris
 kalvistapharmaceuticals
 kandola
-karbon
 karriereseite
 karunatherapeutics
 kasaliving
@@ -1715,10 +1714,10 @@ kleerandmembersy
 kloo
 kmgmedicalgroup
 knab
-knock
 knoetic
 knotel
 knotstandard
+knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -1814,7 +1813,6 @@ linushealth
 linx
 lionpoint
 liquiddeath
-lisc
 liscinternships
 lithium
 lithosenergy
@@ -1962,7 +1960,6 @@ metagenomi
 metapack
 meter
 metromile
-metrostarsystems
 mezmo
 mezo
 mfourmobileresearch
@@ -2082,7 +2079,6 @@ nacelle
 nanostring
 napster
 nasacademy
-national
 nationaldbs
 nationbuilder
 nativo
@@ -2114,7 +2110,6 @@ nethermind
 neuroblade
 neuroflow
 neuron
-neweratech
 newstore
 next47
 nextdoorcampus
@@ -3358,53 +3353,102 @@ waldo
 walleyecapital-external-internships
 walmartasr
 walnut
+waltzhealth
 warbyparker
+wargamingen
 wargamingru
 wargamingwelcometothejungle
+warp
+wasabi
+watchduty
+watchmakergenomics
 waterloocoop
+watershed
 watershedclimate
+watsonsfriendsah
 waveapp
+wavelo
 wavemm
+wavemm1
 waverleystreetfoundation
 wavexr
 wayfair
+waymark
+waymo
 wayup
+wayve
+wayvia
 wbpa
 wealthfront
 weareservicemax
 weatherbug
 weatherwaxbio
+weave
 weavegrid
 weavehq
 webai
+webflow
 webgility
+webstacks
+wecommunications
 weconnectrecovery
+wedosupport
 weedmaps
+weedmaps77
+weee
+wehrtyou
+weinsteinproperties
+weissassetmanagement
+welbehealth
+welearn
 well
 wellhealthinc
+wellist
 wellsaidlabs
+wellspringlearningcenters
 wellth
+wellthy-care-network
+weploy
 west10llc
+westbrook
+westcancercenter
+westcoastchildrensclinic
 westmonroe1
 westsidedermatology
 wework
 weworkglobalit
+wfclainc
 wgachidden
+whalarinc
 whatnot
 wheel
+wheelhouse
+wheelhousedmg
+wheely
 wheniwork
 whipmedia
 whiskercloud
+whisperaero
 whispir
 whistlelabs
 whistlesports
 whiteops
+whitetech
+whogivesacrap
+wholesail
+whop
 wideorbit
+wight
 wikimedia
+wikimediaendowment
+wil
 wildalaskancompany
+wildcardcreativegroup
+wildlifestudios
 wildtype
 wileyedgerecruitingportal
 willow-blossom
+willowinnovations
 willowtree
 wilsonelser
 wilsonelserattorneys
@@ -3419,6 +3463,7 @@ wirewheel
 wirexlimited
 wisconsinautotitleloansinc
 wisesystems
+wisetack
 wistia
 withco
 withcoverage
@@ -3435,6 +3480,7 @@ wizinc
 wizixtechnologygroupinc
 wms
 wolt
+woltisrael
 womply
 wonderjobs
 wonderschool
@@ -3455,6 +3501,7 @@ workboard
 workco
 workera
 workforef
+workhelix
 workleap
 workleapfr
 workmarket
@@ -3465,6 +3512,7 @@ workshop
 workshopapd
 workshopdigital
 worksighted
+worksite
 workwize
 world4822stri986des
 worldcoinorg
@@ -3551,6 +3599,7 @@ yugalabs
 yuma
 yummly
 yurtsai
+yuvohealthllc
 zafinlabsamericasinc
 zam
 zambold
@@ -3573,6 +3622,7 @@ zennify
 zennioptical
 zenoti
 zenpayroll
+zenput
 zenrows
 zenvia
 zephyrhome
@@ -3620,7 +3670,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2731)
+## lever (2733)
 netflix
 shopify
 github
@@ -4855,6 +4905,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5061,6 +5112,7 @@ luni
 luxe
 luxortechnology
 luzia
+lvs1
 lyciatherapeutics
 lykospbc
 lyra
