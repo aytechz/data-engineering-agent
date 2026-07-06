@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3829)
+## greenhouse (3853)
 hingehealth
 maven
 spring
@@ -101,7 +101,6 @@ transcarent
 60decibelsinc
 6b16e998554a4006a2f0f0a47869e3e2
 777partners
-7shifts
 8451university
 86repairs
 8rivers
@@ -223,6 +222,7 @@ altovita
 altpep
 altro
 altruistiq
+altscore
 alx
 amb
 ambiencehealthcare
@@ -761,7 +761,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1250,6 +1249,7 @@ fruition
 frukt
 fsg
 ftgoldenwolf
+fulfil
 fullstory
 funga
 funinc
@@ -1500,6 +1500,7 @@ hotwirede
 hotwirees
 hotwireit
 hotwireprus
+houndmoundsincdbapoop911
 howeinc
 howl
 hoyoverse
@@ -2008,6 +2009,7 @@ molecularassemblies
 molecule
 momatherapeutics
 momenthouse
+momentic
 momentmarkets
 monad
 mondo
@@ -2708,6 +2710,7 @@ segmenttw
 seldon
 select
 selfidcareers
+selkirksport
 seluxdiagnostics
 semasiojobs
 semgrep
@@ -3211,17 +3214,38 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
+twinhealth
 twinstar
+twinstream
+twinternal
+twistbioscience
 two
+twochairs
 twonil
+twosixtechnologies
 txm
+typeface
+typeform
+tyreeanddangelo
+tysonmendesllp
 u410
+uasi
 uchicagoepic
+udacity
+udemybedi
+udio
 uiflow
+ujet
+ukmed
+ultimagenomics
 ultimaker
+ultragenyxpharmaceutical
 ultramobile
+umaeducationinc
 umistone
 umojabiopharma
+umt
+unanet
 unbounce
 uncacheable_attributes
 unchainedlabs
@@ -4631,7 +4655,6 @@ episci
 equiphealth
 esper-3
 espresso
-estenda
 ether-fi
 ethereumfoundation
 ethos
@@ -4765,6 +4788,7 @@ fullscreen
 fullstacklabs
 fundapps
 fundera
+fundrise
 fuse
 futurelaboratori
 fynd
