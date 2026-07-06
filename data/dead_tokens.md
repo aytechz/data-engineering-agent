@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4032)
+## greenhouse (4072)
 hingehealth
 maven
 spring
@@ -98,6 +98,7 @@ transcarent
 48f-relo
 59studio
 5careferrals
+60decibelsinc
 6b16e998554a4006a2f0f0a47869e3e2
 777partners
 8451university
@@ -759,6 +760,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1135,6 +1137,7 @@ fabric
 facile
 factoryberlin
 fairwinds
+familydermatology
 fanbyte
 fanduelgrouptvg
 fantasticpixelcastle
@@ -1346,6 +1349,7 @@ goodfeet
 goodtime
 goodworker
 goodworldwide
+googlefiber
 govini
 govos
 govport
@@ -1368,6 +1372,7 @@ graymatterrobotics
 grayscalable
 greatist
 greenlightbiosciences
+greenworkssunriseglobalmarketing
 gregarious
 greycroft
 griffin
@@ -1965,7 +1970,6 @@ mfourmobileresearch
 mfventures
 mgtinsurance
 mic
-micoworks
 microverse
 midtowne
 mightybuildings
@@ -2580,6 +2584,7 @@ reprofreedomforallinternships
 rescue
 reserv
 resi
+retailnext
 retraced
 rev
 revcapital
@@ -3030,32 +3035,67 @@ tdc
 teacherspayteachers
 teads
 team1
+teamlfg
+teammate
 teammobot
+teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
+tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
 tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
 terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
 terranorbitalcorporation
@@ -4035,7 +4075,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2733)
+## lever (2734)
 netflix
 shopify
 github
@@ -4299,7 +4339,6 @@ ava
 avalabs
 avantstay
 avela
-avero
 avioconsulting
 avivesolutions
 avratalent
@@ -4359,7 +4398,6 @@ beyond-creative
 beyondmeat
 beyondpricing
 bfp
-bhvr
 biconomy
 bigfootbiomedical
 biggergames
@@ -4581,6 +4619,7 @@ codecombat
 codecov
 codelitt
 codesee
+codeway
 codewaystudios
 cofactr
 coffeemeetsbagel
@@ -4703,6 +4742,7 @@ dayonebio
 dazn
 dbtlabs
 dds
+dealerware
 dealmaker
 dealpath
 debtsy
@@ -4715,6 +4755,7 @@ deepjudge
 defialliance
 deft
 degreed
+deleteme
 deliveryrelay
 deloitte
 delphix
