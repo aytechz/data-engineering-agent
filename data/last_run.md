@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-07-06 19:06 UTC
+### 1 new matching jobs · 2026-07-06 21:02 UTC
 
-#### From greenhouse (1)
-- **[Senior Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007)** at **Anduril Industries** — Costa Mesa, California, United States 🤖 · `pyspark, spark, dbt, airflow, aws, gcp` · _greenhouse_
+#### From ashby (1)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/onhires/2df1ffc1-4750-4782-a746-5e6760fa13f2)** at **onhires** — Europe (remote) · `pyspark, spark, airflow, kafka, python, sql` · _ashby_
