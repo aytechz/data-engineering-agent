@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3667)
+## greenhouse (3702)
 hingehealth
 maven
 spring
@@ -758,7 +758,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -2486,6 +2485,7 @@ publicrelay
 publicsq
 pulaio
 pulley
+pulse
 punchlistusa
 pursuecare
 pushdigitalgroup
@@ -3324,33 +3324,68 @@ virtasant
 virtex
 virtualhealth
 visbymedical
+viseai
 visor
 vitablehealth
+vitahealth
+vitalvoicesglobalpartnership
+vivcourtevents
 vivian
 vividly
+vividseatsllc
+vivodyne
+vivvi
+vixxo
 vizai
 vizgen
 vizit
+vmlenterprisesolutions
+vogliodigitalmarketing
 voice
+volastratherapeutics
 volleythat
 voltacharging
 voltrondata
+vonage
+vorbiopharma
+voter
+voterev
 votesolar
 vouchinsurance
 vowgroup
 voxel51
 voxglobal
+voxieinc
+voxmedia
 voxy
+voyagertechnologiesinc
 voyagertherapeutics
+vpawashington
+vpawv
+vsapartners
+vscfiresecurityinc
+vsco39
+vtex
+vts
 vuestorefront
+vulcanelements
+vulncheck
 vultr
 vultronai
 vungle
+vynamic
+vynyl
 vytalizehealth
 wagmo
+wakam
 waku
+waldensecurity
 waldo
+walkersands
+wallapop
 walleyecapital-external-internships
+walleyecapital-external-students
+wallstreetprep
 walmartasr
 walnut
 waltzhealth
@@ -3670,7 +3705,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2733)
+## lever (2731)
 netflix
 shopify
 github
@@ -3920,7 +3955,6 @@ attackiq
 attentive
 attentivemobile
 attn
-audinate
 audius
 augmedix
 augustbioservices
@@ -4905,7 +4939,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5112,7 +5145,6 @@ luni
 luxe
 luxortechnology
 luzia
-lvs1
 lyciatherapeutics
 lykospbc
 lyra
@@ -5270,6 +5302,7 @@ multiversx
 munichelectrification
 myassurehealth
 mycelium
+mypassglobal
 myplacehealth
 mytraffic
 myvest
