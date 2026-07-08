@@ -1,4 +1,5 @@
-### 1 new matching jobs · 2026-07-07 23:16 UTC
+### 2 new matching jobs · 2026-07-08 00:15 UTC
 
-#### From greenhouse (1)
-- **[Senior Data Engineer, Tech Strategy & Ops - DROIDS Insights](https://www.riotgames.com/en/work-with-us/job/8002002?gh_jid=8002002)** at **Riot Games** — Los Angeles, USA 🏥 · `databricks, snowflake, dbt, airflow, aws, gcp` · _greenhouse_
+#### From ashby (2)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/vanta/5bbcc326-d2e5-4541-8092-bc07f3d18836)** at **vanta** — Remote - Canada 🏥 · `snowflake, dbt, airflow, aws, sql, terraform` · _ashby_
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/vanta/7600575b-fb06-485e-bc13-626e661a34aa)** at **vanta** — Remote U.S. 🏥 · `snowflake, dbt, airflow, aws, sql, terraform` · _ashby_
