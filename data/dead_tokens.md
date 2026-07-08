@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3711)
+## greenhouse (3663)
 hingehealth
 maven
 spring
@@ -764,7 +764,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1722,7 +1721,6 @@ knack
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -3312,78 +3310,35 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
-vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
-viseai
-visia
-visitingmedia
 visor
-visualconcepts
 vitablehealth
-vitahealth
-vitalfarms
-vitalfarmsinternalcrew
-vitalvoicesglobalpartnership
-vitta
-vivcourtevents
 vivian
 vividly
-vividseatsllc
-vivodyne
-vivvi
-vixxo
 vizai
 vizgen
 vizit
-vmlenterprisesolutions
-vogliodigitalmarketing
 voice
-volastratherapeutics
 volleythat
 voltacharging
 voltrondata
-vonage
-vorbiopharma
-voter
-voterev
 votesolar
 vouchinsurance
 vowgroup
 voxel51
 voxglobal
-voxieinc
-voxmedia
 voxy
-voyagertechnologiesinc
 voyagertherapeutics
-vpawashington
-vpawv
-vsapartners
-vscfiresecurityinc
-vsco39
-vtex
-vts
 vuestorefront
-vulcanelements
-vulncheck
 vultr
 vultronai
 vungle
-vynamic
-vynyl
 vytalizehealth
 wagmo
 wakam
@@ -3420,7 +3375,6 @@ wayfair
 waymark
 waymo
 wayup
-wayve
 wayvia
 wbpa
 wealthfront
@@ -3546,7 +3500,6 @@ workco
 workera
 workforef
 workhelix
-workleap
 workleapfr
 workmarket
 workonteamgaryvee
@@ -3575,7 +3528,6 @@ wppmedia
 wrapbook
 wrike
 wunder
-wundercapital
 wunderflats
 wunderkind
 wundermanthompson
@@ -3714,7 +3666,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2737)
+## lever (2738)
 netflix
 shopify
 github
@@ -4952,6 +4904,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
