@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3915)
+## greenhouse (3886)
 hingehealth
 maven
 spring
@@ -17,7 +17,6 @@ dispatchhealth
 veeva
 healthify
 nourish
-databricks
 snowflakecomputing
 airbyte
 dbtlabs
@@ -76,7 +75,6 @@ cruise
 zoox
 alloycampus
 digs
-diligentcorporation
 klaviyocampus
 transcarent
 0x
@@ -90,6 +88,7 @@ transcarent
 1848ventures
 1906newhighs
 21co
+240certification
 2kearlycareers
 2seventybioinc
 2uevents
@@ -378,11 +377,9 @@ avaxambassador
 avea
 avelaeducation
 avenueone
-avimedical
 avitapropertymanagement
 awarehealthcare
 away
-axial
 axiomquant
 axioshq1
 axisapp
@@ -1088,7 +1085,6 @@ engieenergyaccess
 englishscore
 ensembleai
 ensitefulinternalpositions
-enterrasolutions
 entreehealth
 envato
 envisionthearapyco
@@ -1143,6 +1139,7 @@ facile
 factoryberlin
 fairwinds
 familydermatology
+familyoffice
 fanbyte
 fanduelgrouptvg
 fantasticpixelcastle
@@ -1160,6 +1157,7 @@ fenixinternational
 fermataenergy
 fernride
 fetchrewards
+fieldwire
 fifthgaittechnologies
 figuremarketsinc
 fincent
@@ -1183,6 +1181,7 @@ flashbots
 flashpoint
 flatfileio
 flaunt
+fleetio
 flickrorg
 flightright
 flipapp
@@ -1199,6 +1198,7 @@ flybyrobotics
 flyhomes
 flyinghorse
 focusedlabs
+focusfinancialpartners
 fogpharma
 followupboss
 fonoa
@@ -1218,6 +1218,7 @@ formatservices
 formidable
 forta
 fortbend
+forteracorporation
 forthealth
 fortifyiq
 fortitudemining
@@ -1277,8 +1278,10 @@ galileoai
 galy
 gamedevsofcolor
 gamelight
+gameseven
 gamesys
 gameto
+gardacp
 garnerhealthconfidential
 gatewayfm
 gather
@@ -1286,6 +1289,7 @@ gathertown
 geekhivejobs
 gelato
 geminitherapeutics
+generalcatalyst
 generalcatalystpartners
 generatecapital
 generationbio
@@ -1353,6 +1357,7 @@ goldsky
 gomedia
 gonimbly
 goodfeet
+goodshufflepro
 goodtime
 goodworker
 goodworldwide
@@ -1397,6 +1402,7 @@ guerrilla
 guerrilla-games
 guestready
 guideline
+guidepoint
 guidepostchicagoland
 guildeducation
 gunner
@@ -1454,6 +1460,7 @@ hellosign
 helloskylight
 helmai
 helmpointsolutions
+heritageholdings
 hidden
 hiddenroad
 high5games
@@ -1668,6 +1675,7 @@ jumpstart
 jungroup
 junomedical
 justfund
+justworks
 jwplayer
 kadenallc
 kaiahealth
@@ -1676,11 +1684,13 @@ kaikosystems
 kajabi
 kakaomobility
 kaleris
+kallesgroup
 kalvistapharmaceuticals
 kandola
 karriereseite
 karunatherapeutics
 kasaliving
+kaseya
 kasian
 katrisk
 kava
@@ -1688,6 +1698,7 @@ kcftechnologies
 keap
 keeleycompanies
 keeptruckin
+kensingtontours
 kernagency
 ketchumuscareers
 keyfactorinccampusrecruiting
@@ -1726,7 +1737,6 @@ knack
 knoetic
 knotel
 knotstandard
-knowbe4
 knowde
 kobaltmusicgroup
 kobie
@@ -1934,7 +1944,6 @@ meaningfulgigscreativecommunitydesigndisciplines
 meatifoods
 medallion
 medarrive
-mediabrands
 mediacurrent
 medialabaiinc
 mediamonks
@@ -2021,13 +2030,13 @@ moneylion
 monoceros
 monomipark
 monthly
+monzoreferrals
 moonpay
 moovelna
 moovtechnologiesinc
 moovx
 morf3d
 morsemicro
-morty
 mosaic
 mosaicml
 mosaictechnologiesgroup
@@ -2051,7 +2060,6 @@ mullenlowe
 mullenlowegroupuk
 multivista
 mundipagg
-muonspace
 mural
 mursion
 museumoficecream
@@ -2068,6 +2076,7 @@ mycarrier
 mycase
 mycoworks
 myforestfoods
+myfundedfutures
 mynd
 myntra
 myntraphoenix
@@ -2121,6 +2130,7 @@ neuron
 newstore
 next47
 nextdoorcampus
+nextroll
 nexuscareers
 nexxen
 nfx
@@ -2171,6 +2181,7 @@ ntop
 nuclearpromisex
 nugget
 nulogy
+numagroupgmbh
 numeradecareers
 numohealthcurieai
 nuna
@@ -2566,11 +2577,13 @@ redbooth
 redesignhealth
 redis
 redpandadata
+redwoodsoftware
 reefparking
 reemahealth
 referralonly
 refinery29
 reflexionmedical
+refurbed
 regionalspotonsales
 regrow
 reifyhealthjobs
@@ -2609,6 +2622,7 @@ ridecell
 ridedott
 ridedott-ground-roles
 rightfoot51
+rightwayhealthcare
 ringba
 rinsed
 riotgamesinc
@@ -2901,6 +2915,7 @@ sproutsocialcollege
 sprouttherapy
 sprucehealth
 squadformersinc
+squarespace
 squintopera
 squire
 srtx_fr
@@ -2912,6 +2927,7 @@ standardai
 stardust
 starry
 startree
+stashinvest
 statement
 status72
 stauer
@@ -3000,6 +3016,7 @@ synfindo
 synthesia
 syrup
 sysdig
+systemiq
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3147,87 +3164,45 @@ toposware
 topspot
 tornbannerstudios
 totusmedicines
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
 tr1x
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
-transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
 treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
-trexsolutions
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinityairmedical
-trinityparktalent
-trinks
 trinternational
-tripactions
-tripadvisor
-triparc
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
 troupehealth
 trove
-trovohealth
-truckstop
-trueanomalyinc
-truebill
-truecaller
-trueclassicteesllc
-truehold
-trueindependentholdings
 truelogic
 truepiccareers
 truepill
@@ -3243,15 +3218,11 @@ trustbank
 trustedhealth
 trustmachines
 trustory
-trustpilot
 trustwell
 trustwill
-try-picnic
 trykarat
 tshirtventures
-ttcglobal
 tubescience52
-tubitv
 tucows
 tucowscampusrecruitment
 tudorgroup
@@ -3918,7 +3889,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2738)
+## lever (2739)
 netflix
 shopify
 github
@@ -4935,6 +4906,7 @@ granicus
 granular
 grapesworldwide
 grav
+gravie
 graylog
 grayscale
 greenroompr
