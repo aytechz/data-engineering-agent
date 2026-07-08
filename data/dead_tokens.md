@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3940)
+## greenhouse (3921)
 hingehealth
 maven
 spring
@@ -887,7 +887,6 @@ cybrary
 cytokinetics
 cytotronics
 czimaginginstitute
-d2l
 dagger
 dailyharvest
 dailypayinc
@@ -3125,36 +3124,18 @@ tiltingpoint
 timeinc
 timeresearch
 timescale
-tines
-tinginternet
 tinkermode
 tinuitisecondarypage
-tipaltisolutions
-tippingpointcommunity
-tiptop
-tiree
-tireseasycom
 titan
 titelmedia
 tmc
 tmg
 tminuszero
-toast
-toastmastersinternational
-tobogganlabs
-togetherai
-togetherwork
 toggleai
 tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
 topcompare
 toposware
 topsort
@@ -6682,7 +6663,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (806)
+## ashby (807)
 mercury
 together
 replicate
@@ -6798,6 +6779,7 @@ boost
 breadboard
 bridge
 brightmeds
+builder-prime
 buildwithfern
 buoyant
 c-side
