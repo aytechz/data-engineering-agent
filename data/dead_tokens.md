@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3860)
+## greenhouse (3847)
 hingehealth
 maven
 spring
@@ -209,6 +209,7 @@ aloft
 alpenlabs
 alphaawmeur
 alphahawaii
+alphasenseindia
 alphataraxia
 alteradigitalhealth
 alteradigitalhealthcanada
@@ -247,6 +248,7 @@ anchorage
 anchorpoint
 ancientnutrition
 andela
+andesite
 androstechnologies
 anewclimate
 angi
@@ -616,7 +618,6 @@ carsdotcom
 cartodb
 cartwheelcare
 casa
-casago
 cascadedatalabs
 casestatus
 casetext
@@ -1195,7 +1196,6 @@ floyd
 flybyrobotics
 flyhomes
 flyinghorse
-focused
 focusedlabs
 fogpharma
 followupboss
@@ -2158,6 +2158,7 @@ nori
 northone
 northrichland
 northstar
+northstarfund
 notablehealth
 notablelabs
 nourishingredients
@@ -2514,7 +2515,6 @@ quiltllc
 quin
 quintar
 quiqinc
-quisitivejobs
 qumulo
 quora
 quorum
@@ -3036,6 +3036,7 @@ tbwawh
 tcgcapital
 tdc
 teacherspayteachers
+teachinglab
 teads
 team1
 teammobot
@@ -3206,14 +3207,11 @@ tucowscampusrecruitment
 tumblr
 tunein
 turbofish
-turbotenant
-turing
 turingportal
 turnkeylenderinc
 turntide
 turo
 turquoisehealth
-turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
@@ -3221,22 +3219,11 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
-twinhealth
 twinstar
-twinstream
-twinternal
-twistbioscience
 two
-twochairs
 twonil
-twosixtechnologies
 txm
-typeface
-typeform
-tyreeanddangelo
-tysonmendesllp
 u410
-uasi
 uchicagoepic
 udacity
 udemybedi
@@ -3863,7 +3850,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2743)
+## lever (2742)
 netflix
 shopify
 github
@@ -4205,7 +4192,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
