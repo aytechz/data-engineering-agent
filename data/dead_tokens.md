@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3847)
+## greenhouse (3854)
 hingehealth
 maven
 spring
@@ -74,7 +74,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-digs
 klaviyocampus
 transcarent
 0x
@@ -209,7 +208,6 @@ aloft
 alpenlabs
 alphaawmeur
 alphahawaii
-alphasenseindia
 alphataraxia
 alteradigitalhealth
 alteradigitalhealthcanada
@@ -248,7 +246,6 @@ anchorage
 anchorpoint
 ancientnutrition
 andela
-andesite
 androstechnologies
 anewclimate
 angi
@@ -358,6 +355,7 @@ atomwise
 atticus
 audicus
 audigent
+audioeye
 aurorasustainablelands
 authorhealth
 autograph
@@ -395,6 +393,7 @@ balto
 bam
 banyansecurity
 banyucarbon
+banza
 bardelentertainment
 barinthusbiotherapeutics
 barkley
@@ -490,7 +489,6 @@ blockstream
 blocpower
 blokparty
 bloombergassociates
-bloomworks
 blowfish
 blueapron
 bluebeam
@@ -2645,7 +2643,6 @@ rubyreceptionists
 rudderstack
 runelabs
 runpod
-russett
 rvedufreelancenetwork
 rvfreelancenetwork
 rvohcontentfreelance
@@ -3036,7 +3033,6 @@ tbwawh
 tcgcapital
 tdc
 teacherspayteachers
-teachinglab
 teads
 team1
 teammobot
@@ -3219,11 +3215,22 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
+twinhealth
 twinstar
+twinstream
+twinternal
+twistbioscience
 two
+twochairs
 twonil
+twosixtechnologies
 txm
+typeface
+typeform
+tyreeanddangelo
+tysonmendesllp
 u410
+uasi
 uchicagoepic
 udacity
 udemybedi
@@ -3850,7 +3857,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2742)
+## lever (2740)
 netflix
 shopify
 github
@@ -6143,7 +6150,6 @@ stoic
 stormforge
 storygrounds
 storyprotocol
-stradaeducation
 strapi
 streetcontext
 streetlightdata
@@ -6357,7 +6363,6 @@ trip-ninja
 tripleblind
 triplebyte
 triplewhale
-trivenibio
 trolley
 trueaccord
 truenorth
@@ -6594,7 +6599,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (808)
+## ashby (809)
 mercury
 together
 replicate
@@ -7016,6 +7021,7 @@ machinery-partner
 machinify
 madcitywindows
 magicbrief
+magicschool
 magna
 magnadigital
 mahway
