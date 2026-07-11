@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3771)
+## greenhouse (3729)
 hingehealth
 maven
 spring
@@ -76,7 +76,9 @@ zoox
 alloycampus
 klaviyocampus
 morsecorpcoop
+planetlabs
 transcarent
+vardaspace
 0x
 100x
 1047games
@@ -762,6 +764,7 @@ codetta
 codex
 codility
 cofertility
+cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -3261,95 +3264,50 @@ usjetaa
 ustwo
 ustwogames
 utilityapi
-uvimco
 vac
 valiantharborinternationalllc
 valimailinc
 valleyview
 valon
 valorainc
-valspec
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanleeuwenicecream
 vannahealth
 vanta
 vantaiinc
 vareto
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
-verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
@@ -3774,7 +3732,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2749)
+## lever (2748)
 netflix
 shopify
 github
@@ -5021,7 +4979,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
