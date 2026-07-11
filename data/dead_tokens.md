@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3767)
+## greenhouse (3789)
 hingehealth
 maven
 spring
@@ -3256,33 +3256,57 @@ urbnleaf
 urx
 usablemachines
 usaforunhcr
+usenourish
+usergems
 userinterviews
 userleap
 ushur
 usjetaa
 ustwo
 ustwogames
+utahtitleloansinc
 utilityapi
+uvimco
 vac
+vacasa
+vacationinc
+vaco
+vailclinicincdbavailhealthhospital
+valaratomics
+valerahealth
 valiantharborinternationalllc
 valimailinc
+valleyhospital
 valleyview
+valohealth
 valon
 valorainc
+valspec
+valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanguarddermatology
+vanleeuwenicecream
+vanmetre
 vannahealth
+vannevarlabs
 vanta
 vantaiinc
 vareto
+variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
+vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
-vecnyc
 vectara
 vectornorth
 vectranetworks
@@ -3293,6 +3317,7 @@ veem
 veesearch
 vegaamericas
 veir
+velir
 velir-private
 velocityelectronics
 velocityglobal
@@ -3320,7 +3345,6 @@ verbenergy
 veriff
 verifone
 veriforce
-veriheal
 verisign
 veristainc
 veritasvetpartners
@@ -3370,7 +3394,6 @@ vidmob
 vidyard
 vikingglobalinvestors
 vileon
-vim
 vimeo
 vipvermontinformationprocessing
 vipvermontinformationprocessing2
@@ -3385,7 +3408,6 @@ virtualhealth
 visbymedical
 viseai
 visia
-visitingmedia
 visor
 visualconcepts
 vitablehealth
