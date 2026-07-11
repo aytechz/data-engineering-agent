@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3789)
+## greenhouse (3794)
 hingehealth
 maven
 spring
@@ -3253,6 +3253,7 @@ urban
 urbanfootprint
 urbint
 urbnleaf
+ursamajor
 urx
 usablemachines
 usaforunhcr
@@ -3307,6 +3308,7 @@ vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
+vecnyc
 vectara
 vectornorth
 vectranetworks
@@ -3345,6 +3347,7 @@ verbenergy
 veriff
 verifone
 veriforce
+veriheal
 verisign
 veristainc
 veritasvetpartners
@@ -3394,6 +3397,7 @@ vidmob
 vidyard
 vikingglobalinvestors
 vileon
+vim
 vimeo
 vipvermontinformationprocessing
 vipvermontinformationprocessing2
@@ -3408,6 +3412,7 @@ virtualhealth
 visbymedical
 viseai
 visia
+visitingmedia
 visor
 visualconcepts
 vitablehealth
@@ -6542,7 +6547,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (812)
+## ashby (813)
 mercury
 together
 replicate
@@ -7276,6 +7281,7 @@ trilitech
 tronic
 trunktools
 truss
+trustlab
 truva
 tryprospect
 tryvital
