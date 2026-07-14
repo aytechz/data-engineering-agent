@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3878)
+## greenhouse (3868)
 hingehealth
 maven
 spring
@@ -73,14 +73,10 @@ shippo
 appliedintuition
 cruise
 zoox
-alarmcom
 alloycampus
-attentive
 klaviyocampus
 morsecorpcoop
-rocketlawyer
 transcarent
-xpengmotors
 0x
 100x
 1047games
@@ -137,7 +133,6 @@ achronixsemiconductor
 achs
 aclara
 acloudguru
-acog
 acorns
 acrerewards
 acronis
@@ -505,6 +500,7 @@ bluecoreinc
 bluegranite
 blueground
 blueoriginllc
+blueprintmedicines
 bluevine
 blurstudio
 bmf
@@ -790,6 +786,7 @@ common
 commonwealth
 communitychange
 comparablysandboxsandbox
+comstock
 conceptarthouse
 condorcomputing
 conductor
@@ -841,7 +838,6 @@ creditasen
 creditbook
 creditkarma
 crestline
-cribl
 crigroup
 crisistextline86
 criticalideas
@@ -856,6 +852,7 @@ crowdtap
 crownpeak
 cruiseuniversity
 crunchbase
+csciconsulting
 csgconsultantsassistant-planner-full-time-hybrid
 csgconsultantsassociate-plan-check-engineer-full-time
 csgconsultantsassociate-planner
@@ -961,6 +958,7 @@ dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
 diamondstatefinancialgroup
 dianahealth
+dianahealth94
 dice
 digibeeinc
 digit
@@ -1118,6 +1116,7 @@ evergreenbloomerang
 everisusainc
 everops
 everphone
+evertrue
 everylife
 evidation
 evive
@@ -1270,6 +1269,7 @@ futurewise
 fwdus
 fyllo
 g2crowd
+g2vp
 gabbwirelessinc
 gafg
 gaia
@@ -1378,7 +1378,6 @@ gravitywell
 grayling
 graymatterrobotics
 grayscalable
-grayscaleinvestments
 greatist
 greenlightbiosciences
 gregarious
@@ -2212,7 +2211,6 @@ offerfit
 offerupcontract
 ogdenguidepost
 ogilvyjapan
-ogilvymena
 ohi
 ohmygreen
 ojolabs
@@ -2476,7 +2474,6 @@ presonus
 pricespider
 primeprotocol
 primetrust
-proconex
 prodlyjobs
 productboard
 productiv
@@ -2698,6 +2695,7 @@ sbinternal
 scalecomputing
 scalefactor
 scaletowinllc
+scanditlinkedin
 scholarshipportal
 schoolleaders2324schoolyear
 schweigerdermatologygroup
@@ -3131,7 +3129,6 @@ thirdway
 thnks
 thoughtful
 thoughtspot
-thoughtworksreferral
 thousandeyes
 thread
 threeflow
@@ -3152,7 +3149,6 @@ timeresearch
 timescale
 tinkermode
 tinuitisecondarypage
-tiptop
 titan
 titelmedia
 tmc
@@ -3219,19 +3215,15 @@ trustwell
 trykarat
 tshirtventures
 tucowscampusrecruitment
-tudorgroup
 tula
-tulip
 tumblr
 tunein
-turbineone
 turbofish
 turingportal
 turnkeylenderinc
 turntide
 turo
 turquoisehealth
-turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
@@ -3239,9 +3231,7 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
-twinhealth
 twinstar
-twinstream
 twinternal
 twistbioscience
 two
@@ -3881,7 +3871,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2752)
+## lever (2755)
 netflix
 shopify
 github
@@ -5129,6 +5119,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6318,8 +6309,10 @@ themuse
 thenotcompany
 thentwrk
 thenudge
+theodo
 theorem
 theoremonellc
+thepieexecsearch
 thepillclub
 therabodycorp
 therecount
@@ -6803,7 +6796,6 @@ compass-reg
 comulate
 conductorone
 connecthum
-contentoo
 continua
 continue
 contrast-security
@@ -6837,6 +6829,7 @@ deel
 definelycareers
 delian
 delphos-labs
+deltia
 delve
 deno
 deta
@@ -7148,7 +7141,6 @@ openphilanthropy
 openstore
 operator
 opfoundation
-opslevel
 optery
 orbitalmaterials
 orby-ai
@@ -7268,6 +7260,7 @@ rye
 rythm
 s2
 safebase
+safety
 sales-marker
 same
 sauron
