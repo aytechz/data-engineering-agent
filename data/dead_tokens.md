@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4080)
+## greenhouse (4029)
 hingehealth
 maven
 spring
@@ -32,7 +32,9 @@ roboflow
 cohere2
 mistral
 pinecone
+stripe
 plaid
+discord
 notion
 canva
 wise
@@ -762,7 +764,6 @@ codetta
 codex
 codility
 cofertility
-cognite
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1088,6 +1089,7 @@ envisionthearapyco
 envoy
 ephemeral
 epicsummerresearch
+epirus
 eql
 equals
 equatic
@@ -1108,6 +1110,7 @@ everbody
 everest
 evergreenaction
 evergreenbloomerang
+evergreennephrology
 everisusainc
 everops
 everphone
@@ -1498,12 +1501,14 @@ hooglandslandscape
 hopin
 hoppr
 hopscotchhealth
+horacemannagents
 horizenlabs
 horizon3
 horizons
 hotelengine
 hotelenginereferrals
 hotjar
+hotmartcareersen
 hotwireau
 hotwirede
 hotwirees
@@ -1521,6 +1526,7 @@ humanconditionsafety
 humane
 humu
 huspy
+hut8
 hutsoninc
 huttaorthodonticspecialists
 hwco
@@ -1553,7 +1559,9 @@ immpactbio
 immunai
 impossiblefoods
 imprint
+imubit
 inariagriculture
+incode
 incubator
 indevets
 indexexchange
@@ -1585,6 +1593,7 @@ insomniacgames
 instituteforclinicalandeconomicreview
 instnt
 insureyourfuturega
+integrainterns
 integraladscience
 integralneuro
 integrate
@@ -1593,6 +1602,7 @@ integrityinstitute
 intelextechnologies
 intelligo
 interchain
+intercom
 interfaceai
 internationalcruiseandexcursionsinc
 internationalrecruitment
@@ -1607,6 +1617,7 @@ invitae
 invokestudiosen
 inworldai
 iob
+iovancebiotherapeutics
 iovlabsltd
 irhythm
 irisautomation
@@ -1618,6 +1629,7 @@ isrg
 ittakesavillage
 iversoft
 ivoyant
+ivxhealth
 ixco
 ixlayercareers
 izotopecareers
@@ -1625,6 +1637,7 @@ jabrahearing
 jackhealth
 jackpocket
 jago
+janestreet
 janetechnologies
 january
 janushealth
@@ -1692,6 +1705,7 @@ kcftechnologies
 keap
 keeleycompanies
 keeptruckin
+kentik
 kernagency
 ketchumuscareers
 keyfactorinccampusrecruiting
@@ -1846,6 +1860,7 @@ localehospitality
 locals
 localytics
 localyze
+lodestarspace
 logdna
 logichub
 logikcull
@@ -2008,6 +2023,7 @@ mobility
 mocafi
 modaoperandi
 modeanalytics
+modernhealth
 modernizingmedicineinc
 modernmeadow
 modularai
@@ -2086,11 +2102,13 @@ myunidaysltd
 mzwallace
 n2cointernal
 n2homeoffice
+n2publishingglassdoor
 n2y
 nacelle
 nanostring
 napster
 nasacademy
+natera
 nationaldbs
 nationbuilder
 nativo
@@ -2118,6 +2136,7 @@ nerdwallet
 nesto
 netflixanimation
 nethermind
+netradyne
 neumora
 neuroblade
 neuroflow
@@ -2402,7 +2421,6 @@ phonic
 phreesia
 piclo
 picnichealth
-picsart
 pika
 piktochart
 pillar
@@ -2457,6 +2475,7 @@ postmates
 powbio
 powerfinance
 powershiftnetwork
+preciselyusjobs
 precisioneffect
 precisionscientia
 precisionsystemsinc
@@ -3045,138 +3064,64 @@ tcgcapital
 tdc
 teacherspayteachers
 teads
-teads1
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
-teampathy
 teampay
-teampicnic
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
 techtalentandstrategy
-tecovas
-tegnainc
-tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
-temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
-tenet3
 tenetfintechgroup
-tennesseetitleloansinc
 tenon
 tensor
-tenstorrent
-tenstreet
 tenthousand
-teracore
 terakeet
 terapore
-teravision
-terniumrevenuecyclemanagement
-terrabis
-terraclear
 terrafuse
 terramera
-terranorbitalcorporation
 terraytherapeutics
-terremotobiosciencesinc
-territorialdentalclinic
 tesseract
-tesseratherapeutics
-testendouble
-testlio
-testnisc
-tetra
-texasairsystems
-texascartitleandpaydayloanservicesinc
-texaschillersystemsasp
 texthelp
 textileio
-textio
-textus
 tezatechnologies
 thalamusgme
-thanx
-thatch
 thatlot
 thatsnomoonentertainment
-theagencyre
-thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
-thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
 theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
-themarshallproject
-thematherevanston
 themjcos
 themotleyfool
 themuseumofscience
 thena
-thenewyorktimes
 thenuclearcompany
 theoakleafgroupllc
 theoncologyinstitute
@@ -3219,6 +3164,7 @@ thiess
 thinkacademyus
 thinkific
 thinkingmachines
+thinkmarkets
 thinkofus
 thinkonward
 thinx
@@ -3257,6 +3203,7 @@ tide
 tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
 tigargymnastics
 tigera
 tigergraph
@@ -3306,6 +3253,8 @@ toradex
 torcrobotics
 toriihq
 tornbannerstudios
+toropark
+torotms
 torq
 toshibaglobalcommercesolutions
 totusmedicines
@@ -4083,7 +4032,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2754)
+## lever (2753)
 netflix
 shopify
 github
@@ -5332,7 +5281,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6839,7 +6787,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (815)
+## ashby (816)
 mercury
 together
 replicate
@@ -7063,6 +7011,7 @@ dune-security
 dynamic
 earnedwealth
 ecarxgroup
+echo
 edge-node-ventures
 ediphi
 electricai
