@@ -1,4 +1,5 @@
-### 1 new matching jobs · 2026-07-15 14:10 UTC
+### 2 new matching jobs · 2026-07-15 15:51 UTC
 
-#### From greenhouse (1)
-- **[Senior AI-First Data Engineer](https://www.smartcat.com/career/?gh_jid=6114673004)** at **Smartcat** — Armenia - Remote; Europe; Georgia - Remote; Portugal - Remote; Serbia - Remote; Spain - Remote 🤖 · `databricks, dbt, airflow, python, sql` · _greenhouse_
+#### From greenhouse (2)
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/goatgroup/jobs/4714483005)** at **GOAT Group** — Remote US 🏥 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
+- **[Senior Software Engineer, Big Data](https://job-boards.greenhouse.io/ziprecruiter/jobs/6557032)** at **ZipRecruiter** — Remote 🏥 · `databricks, spark, kafka, azure` · _greenhouse_
