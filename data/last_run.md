@@ -1,5 +1,7 @@
-### 2 new matching jobs · 2026-07-15 15:51 UTC
+### 2 new matching jobs · 2026-07-15 17:39 UTC
 
-#### From greenhouse (2)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/goatgroup/jobs/4714483005)** at **GOAT Group** — Remote US 🏥 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
-- **[Senior Software Engineer, Big Data](https://job-boards.greenhouse.io/ziprecruiter/jobs/6557032)** at **ZipRecruiter** — Remote 🏥 · `databricks, spark, kafka, azure` · _greenhouse_
+#### From ashby (1)
+- **[Data Engineer (Senior to Staff level)](https://jobs.ashbyhq.com/sanity/ab9f7931-7dce-463f-8de9-e5f09a15da03)** at **sanity** — San Francisco Bay Area 🤖 · `dbt, airflow, python, sql, terraform` · _ashby_
+
+#### From greenhouse (1)
+- **[Staff+ Software Engineer, Data Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5114768008)** at **Anthropic** — San Francisco, CA | Seattle, WA · `spark, dbt, airflow, aws, gcp, python` · _greenhouse_
