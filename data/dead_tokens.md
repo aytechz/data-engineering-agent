@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3980)
+## greenhouse (4023)
 hingehealth
 maven
 spring
@@ -2464,6 +2464,7 @@ precisionscientia
 precisionsystemsinc
 precisionxtract
 predictivehr
+predictiveindex
 prendiodbaprendiobioprocure
 preparedmontessorian
 preply
@@ -3087,56 +3088,98 @@ theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
+thebrattlegroup
 thedailybeast31
 theeverycompany
 theflatironschool
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
+theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
+themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
+thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
+thepharmacyhub
+thephoenix
+theplaceforchildrenwithautism
+thequalitygroupgmbh1
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
+theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
+thesciongroupllc
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
+thetradedesk
 thetustingroupasp
+thevascularcaregroup
 thevets
+theweathercompany
+thewilshiregroup
 thezebra
+thiess
+thinkacademyus
+thinkific
+thinkingmachines
 thinkmarkets
 thinkofus
 thinkonward
 thinx
 thirdharmonicbio
+thirdlove
+thirdpoleinc
 thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
 thomasvillechildcare
 thorn
+thoropass
 thoughtful
 thoughtspot
 thoughtworks
 thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
@@ -3983,7 +4026,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2755)
+## lever (2756)
 netflix
 shopify
 github
@@ -5233,6 +5276,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
