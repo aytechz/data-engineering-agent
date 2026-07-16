@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3985)
+## greenhouse (3980)
 hingehealth
 maven
 spring
@@ -576,6 +576,7 @@ caliva
 callibrity
 calvettifergusonexperiencedprofessionals
 calvettifergusoninternships
+calyxinstitute
 cambridgecourt
 caminofinancial
 campusedu
@@ -589,7 +590,6 @@ cannalysislabs
 canonicaljobs
 canvas
 canvasconstruction
-capitolis
 capraconsulting
 capstack
 capstonedc
@@ -1262,7 +1262,6 @@ funinc
 futronics
 futurehouse
 futurewise
-fwdus
 fyllo
 g2crowd
 g2vp
@@ -2242,7 +2241,6 @@ oni
 onistudios
 onlyone
 onna
-onnitlabs
 onsights
 onsiteiq
 op3n
@@ -2306,7 +2304,6 @@ pactum
 paddle
 pado
 pagarme
-pagerduty
 pagoda
 paige
 palmnftstudioinc
@@ -2782,7 +2779,6 @@ sibros
 sidearmsports
 sidebycare
 sidewalklabs
-sierrallc
 siftscience
 sigmoidinternational
 signaladvisors
@@ -3124,24 +3120,23 @@ theswiftgroup
 thetustingroupasp
 thevets
 thezebra
+thinkmarkets
+thinkofus
+thinkonward
 thinx
 thirdharmonicbio
-thirdpoleinc
 thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
 thomasvillechildcare
 thorn
-thoropass
 thoughtful
 thoughtspot
 thoughtworks
 thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
@@ -3988,7 +3983,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2763)
+## lever (2755)
 netflix
 shopify
 github
@@ -5184,7 +5179,6 @@ innovafeed
 innovationdept
 inpay-2
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -5239,7 +5233,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5870,7 +5863,6 @@ pond5
 poplarhomes
 popmenu
 popsa
-portagepointpartners
 poshtech
 possiblefinance
 potentialmotors
@@ -5890,7 +5882,6 @@ practicebetter
 preligens
 prelim
 premia
-premiertruck
 prescriptivedata
 prestashop
 prestigedevelopment
@@ -5920,10 +5911,8 @@ projectcallisto
 projector-2
 projectyx
 promaxo
-prometheanworld
 pronto-ai
 propelplm
-proper
 protegrity
 protocol
 proxima
@@ -5954,7 +5943,6 @@ qover
 qredo
 qualified
 qualtekservices
-qualysoft
 quantgene
 quantlabs
 quantumworkplace
@@ -6070,7 +6058,6 @@ riptidetech
 risklabs
 ritual
 ritual-technologies
-riverdale
 riveron
 rivosinc
 rld-foundation
