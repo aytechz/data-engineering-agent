@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3944)
+## greenhouse (3929)
 hingehealth
 maven
 spring
@@ -2120,7 +2120,6 @@ nerdwallet
 nesto
 netflixanimation
 nethermind
-neumora
 neuroblade
 neuroflow
 neuron
@@ -2179,7 +2178,6 @@ nuclearpromisex
 nugget
 nulogy
 numeradecareers
-numerix
 numohealthcurieai
 nuna
 nursedash
@@ -2400,6 +2398,7 @@ pharmbills
 phasefour
 phcglobal
 phenogy
+philadelphiaeaglesgameday
 philadelphiaphilliesrddepartment
 phiture2
 phonic
@@ -2633,7 +2632,6 @@ riversideresearch
 rivian
 robertrauschenbergfoundation
 rocketreach
-rockstargames
 rockstarinternships
 rocksteadymusicschool
 roidna
@@ -2866,7 +2864,6 @@ soluna
 somespiderstudios
 sonder
 sondermind
-sonothera
 sonyinteractiveentertainmentplaystation
 sonymusic
 sonymusicasiacareers
@@ -3158,33 +3155,21 @@ tminuszero
 tomebio
 tomonetworks
 tomorrowhealth
-tonixpharmaceuticals
 topcompare
 toposware
-topsort
 topspot
-topsteptrader
-toradex
-torcrobotics
 toriihq
 tornbannerstudios
-toropark
-torotms
-torq
 toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
 towerresearchcapital
-townofsnowmassvillagecolorado
 townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
 tr1x
 trace3
 tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
@@ -3947,7 +3932,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2753)
+## lever (2755)
 netflix
 shopify
 github
@@ -5196,6 +5181,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6578,6 +6564,7 @@ vippetcare
 vir
 virtuous
 virtus
+visby
 visier
 visioncritical
 vistarmedia-2
