@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3723)
+## greenhouse (3765)
 hingehealth
 maven
 spring
@@ -497,8 +497,10 @@ bluecoreinc
 bluegranite
 blueground
 blueoriginllc
+bluestatedigital
 bluevine
 blurstudio
+blusharkdigital
 bmf
 boardable
 boatwright
@@ -3314,20 +3316,47 @@ ventureglobal
 venturegloballng
 ventustherapeutics
 verbenergy
+verifone
 veriforce
+veriheal
+verisign
+veristainc
+veritasvetpartners
 veritone
 veronapharma
+verramobility
+versaterm
+verse
+versprite
+vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
+verusen
+verygoodventures
+vesalius
 vesartex
 vestahealthcare
 vestal
+vestmark
+vestwell
+veterans
+veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
+vgw
 vhsys
+via
+viaduct
 viagogo
+vialogic
+viamrobotics
+vianttechnology
 viber
+vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3337,16 +3366,29 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
+vileon
+vim
 vimeo
 vipvermontinformationprocessing
+vipvermontinformationprocessing2
+viralnation
+virbiotechnologyinc
 virtahealth
 virtasant
 virtex
+virtru
+virtu
 virtualhealth
 visbymedical
+viseai
+visia
+visitingmedia
 visor
 visualconcepts
 vitablehealth
+vitahealth
+vitalfarms
 vitalfarmsinternalcrew
 vitalvoicesglobalpartnership
 vitta
@@ -3726,7 +3768,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2759)
+## lever (2760)
 netflix
 shopify
 github
@@ -6365,6 +6407,7 @@ virtus
 visby
 visier
 visioncritical
+visotrust
 vistarmedia-2
 vital-software
 vitalbio
