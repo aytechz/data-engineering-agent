@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3639)
+## greenhouse (3600)
 hingehealth
 maven
 spring
@@ -75,7 +75,6 @@ cruise
 zoox
 alloycampus
 capitalrx
-gingerlabsinc
 klaviyocampus
 morsecorpcoop
 transcarent
@@ -2071,7 +2070,6 @@ mutiny
 mutinyjobs
 mux
 mventures
-mw-tech-grad
 mwnaintern
 mybrandforce
 mybrandforceinternalpositions
@@ -2109,14 +2107,12 @@ navigatr
 navigatrgroupinternal
 navis
 nayahomes
-nayya
 nazare
 ncsoftwest
 ncx
 near
 neara
 nearby
-nearfoundation
 nearsure
 nedforct
 neighborhoodscom
@@ -2206,7 +2202,6 @@ objectstream
 ocadotechnology
 octaneai
 ocus
-odeko
 odkmediainc
 odonate
 odpcorp
@@ -2508,11 +2503,9 @@ psyonix
 pubgemea
 pubgsm
 pubgtokyo
-public-io
 publica
 publicrelay
 publicsq
-pubnub
 pulaio
 pulley
 pulmovant
@@ -2600,7 +2593,6 @@ relic
 relyance
 remergegmbh
 remind
-renaissancelearning-emea
 render
 reorg
 repeatmd
@@ -2608,7 +2600,6 @@ replica
 replicated
 reprise
 rescue
-researchpartnership
 reserv
 resi
 retraced
@@ -2794,12 +2785,10 @@ sidearmsports
 sidebycare
 sidewalklabs
 siftscience
-sigmacomputing
 sigmoidinternational
 signaladvisors
 signatureanalytics
 signavio
-signerscareers
 signifyhealth
 signifyhealthireland
 sigstr
@@ -3428,24 +3417,14 @@ whistlesports
 whiteops
 wideorbit
 wildalaskancompany
-wildcardcreativegroup
-wildlifestudios
 wildtype
 wileyedgerecruitingportal
 willow-blossom
-willowinnovations
 willowtree
-wilsonelser
-wilsonelserattorneys
 winbg
 windfallbio
-wingspan
-winhomeinspection
-winrock
-winton
 wirewheel
 wirexlimited
-wisconsinautotitleloansinc
 wisesystems
 wisetack
 wistia
@@ -3454,46 +3433,27 @@ witheritelawgroup
 within
 withotter
 withumsmithbrown
-wizardcommerce
 wizardsofthecoast
 wizehiveusa
-wizeline
-wizinc
-wizixtechnologygroupinc
-wms
-woltisrael
 womply
 wonderjobs
 wondersco
-woo
-woodlakeanimalhospital
 woodrodgers
 woodruffsawyer
-wooga
-woolpert
 woonetwork
 wordpressvip
-workatbackbase
-workato
 workco
 workera
 workforef
-workhelix
-workleapfr
 workmarket
 workonteamgaryvee
 workrise
-workshop
 workshopapd
 workshopdigital
 worksighted
-worksite
-world4822stri986des
 worldcoinorg
-worldquant
 worlds
 worldsuntold
-worldsurfleague
 wormholefoundation
 wormholelabs
 worthi
@@ -3521,6 +3481,7 @@ xanpool
 xantium
 xapo61
 xdinizioengage
+xealth
 xendit
 xgeeks
 xgs
