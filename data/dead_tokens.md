@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3736)
+## greenhouse (3723)
 hingehealth
 maven
 spring
@@ -3337,29 +3337,16 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
-vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
-viseai
-visia
-visitingmedia
 visor
 visualconcepts
 vitablehealth
-vitahealth
-vitalfarms
 vitalfarmsinternalcrew
 vitalvoicesglobalpartnership
 vitta
