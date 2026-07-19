@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-07-19 06:43 UTC_
+_Last updated: 2026-07-19 09:18 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -186,7 +186,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/hungryroot/jobs/6115905004)** at **Hungryroot** — Remote · `databricks, spark, python` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/iconcareers/jobs/6119090004)** at **ICON** — Austin, Texas, United States 🤖 · `aws, python` · _greenhouse_
 - **[Senior Associate, Data Engineer](https://job-boards.greenhouse.io/iconiq/jobs/7621441)** at **ICONIQ** — New York, New York, United States; San Francisco, California, United States 🏥🤖 · `snowflake, python` · _greenhouse_
-- **[Staff Software Engineer - Data Platform](https://job-boards.greenhouse.io/idme/jobs/7723667003)** at **ID.me** — Mountain View, California, United States 🏥🤖 · `airflow, kafka, aws, gcp, python, sql` · _greenhouse_
 - **[Sr. Data Engineer I](https://job-boards.greenhouse.io/iherb/jobs/7578260003)** at **iHerb** — United States of America - Remote / Home Office 🏥🤖 · `databricks, pyspark, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4709050005)** at **Imagine Pediatrics** — United States (Remote) 🏥 · `snowflake, dbt, aws, python, sql` · _greenhouse_
 - **[Staff Data Engineer](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4687925005)** at **Imagine Pediatrics** — United States (Remote) 🏥 · `snowflake, dbt, aws, python, sql, terraform` · _greenhouse_
@@ -208,3 +207,4 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Staff Engineer, Data Platform](https://job-boards.greenhouse.io/lilasciences/jobs/4222065009)** at **Lila Sciences** — Cambridge, MA USA; San Francisco, CA USA 🏥🤖 · `airflow, aws, python, sql` · _greenhouse_
 - **[Senior Software Engineer, Data Platform](https://job-boards.greenhouse.io/lithic/jobs/5833301004)** at **Lithic** — Remote · `spark, snowflake, dbt, airflow, kafka, aws` · _greenhouse_
 - **[Senior Software Engineer, Data Platform](https://job-boards.greenhouse.io/lithic/jobs/5977140004)** at **Lithic** — Remote · `spark, snowflake, dbt, airflow, kafka, aws` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5236354008)** at **LVT** — American Fork, Utah, United States 🤖 · `snowflake, dbt, airflow, python, sql` · _greenhouse_
