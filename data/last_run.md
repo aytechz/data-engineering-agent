@@ -1,4 +1,9 @@
-### 1 new matching jobs · 2026-07-20 16:03 UTC
+### 4 new matching jobs · 2026-07-20 18:20 UTC
 
-#### From lever (1)
-- **[Senior Solutions Consultant - Open Data Platform](https://jobs.lever.co/acceldata/1d0ccbc3-01c5-4139-a673-0638ad4b8645)** at **acceldata** — California · _lever_
+#### From ashby (1)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/foley/d292fa96-260a-4e03-9e39-853d085ff134)** at **foley** — Remote US 🏥🤖 · `aws, python, sql` · _ashby_
+
+#### From greenhouse (3)
+- **[Data Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4716623005)** at **Bloomerang** — Remote, US 🏥 · `databricks, snowflake, python, sql` · _greenhouse_
+- **[Senior Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638244002)** at **Plume** — United States 🏥🤖 · `spark, aws, gcp` · _greenhouse_
+- **[Staff Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638223002)** at **Plume** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
