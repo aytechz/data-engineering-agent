@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-07-20 18:20 UTC_
+_Last updated: 2026-07-20 20:41 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,16 +8,15 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Data Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4716623005)** at **Bloomerang** — Remote, US 🏥 · `databricks, snowflake, python, sql` · _greenhouse_
-- **[Senior Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638244002)** at **Plume** — United States 🏥🤖 · `spark, aws, gcp` · _greenhouse_
-- **[Staff Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638223002)** at **Plume** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/foley/d292fa96-260a-4e03-9e39-853d085ff134)** at **foley** — Remote US 🏥🤖 · `aws, python, sql` · _ashby_
-- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Staff Data Engineer - Data Engineering](https://coreweave.com/careers/job?4698414006&board=coreweave&gh_jid=4698414006)** at **CoreWeave** — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA 🏥 · `spark, kafka, python, sql` · _greenhouse_
+- **[Senior ECAD Library & Engineering Data Engineer](https://www.zipline.com/open-roles?gh_jid=7810086003)** at **Zipline** — South San Francisco, California, USA 🏥 · `python, sql` · _greenhouse_
+- **[Senior Data Engineer - Finance](https://job-boards.greenhouse.io/oura/jobs/4308541009)** at **Ōura** — Hybrid - San Francisco, California 🏥 · `databricks, spark, dbt, aws, python, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Sr. Specialist Solutions Architect - Data Engineering & Warehousing](https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002)** at **Databricks** — United States · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
 - **[Sr. Staff Production Engineer - Data Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002)** at **Databricks** — Mountain View, California; San Francisco, California 🏥🤖 · `databricks, spark, aws, gcp, azure, python` · _greenhouse_
-- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/scaleai/jobs/4649903005)** at **Scale AI** — San Francisco, CA; New York, NY · `spark, snowflake` · _greenhouse_
 - **[Senior Data Engineer, People Analytics](https://careers.airbnb.com/positions/7988010?gh_jid=7988010)** at **Airbnb** — United States 🤖 · `airflow, aws, python, sql` · _greenhouse_
 - **[Senior Staff Data Engineer - Data Stewardship](https://careers.airbnb.com/positions/7998356?gh_jid=7998356)** at **Airbnb** — United States · `spark, sql` · _greenhouse_
@@ -91,7 +90,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Revenue Operations Analyst (CRM & Data Systems)](https://job-boards.greenhouse.io/accuweather/jobs/7914946)** at **AccuWeather Careers** — State College, PA or Remote 🏥 · _greenhouse_
 - **[Data Architect](https://job-boards.greenhouse.io/aclu/jobs/8618052002)** at **ACLU - National Office** — New York, New York, United States; San Francisco, California, United States; Washington, District of Columbia, United States 🏥🤖 · `snowflake, dbt, azure, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/aclu/jobs/8568852002)** at **ACLU - National Office** — New York, New York, United States 🏥 · `snowflake, dbt, airflow, aws, azure, python` · _greenhouse_
-- **[Senior Data Engineer II](https://www.actblue.com/careers/available-positions/?gh_jid=8462387002)** at **ActBlue** — Remote 🏥🤖 · `databricks, dbt, aws, python, sql` · _greenhouse_
 - **[Senior Staff Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/6089839004)** at **Afresh** — United States 🏥 · `databricks, pyspark, snowflake, dbt, airflow, python` · _greenhouse_
 - **[Senior AI & Data Engineer](https://job-boards.greenhouse.io/alamarbiosciences/jobs/5997271004)** at **Alamar Biosciences** — Fremont, California 🏥🤖 · `databricks, snowflake, dbt, airflow, python, sql` · _greenhouse_
 - **[Sr. Data Engineer](https://job-boards.greenhouse.io/allworthfinancial/jobs/8552118002)** at **Allworth Financial** — Dallas, Texas, United States 🏥 · `pyspark, spark, azure, sql` · _greenhouse_
@@ -116,6 +114,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Staff Software Engineer, Data Infrastructure, AI Compute Platform](https://job-boards.greenhouse.io/biohub/jobs/7793810)** at **Biohub** — Redwood City, CA (Hybrid) 🤖 · `databricks, aws, gcp, azure, python, terraform` · _greenhouse_
 - **[Staff Data Engineer - Governance](https://job-boards.greenhouse.io/blip-global/jobs/4033025009)** at **Blip Global** — Remote - Brazil 🤖 · `spark, kafka, python, sql` · _greenhouse_
 - **[Senior Data Engineer, Risk](http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008)** at **Block** — Bay Area, CA, United States of America 🏥 · `databricks, snowflake, dbt, airflow, python, sql` · _greenhouse_
+- **[Data Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4716623005)** at **Bloomerang** — Remote, US 🏥 · `databricks, snowflake, python, sql` · _greenhouse_
 - **[Sr. Data Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4716127005)** at **Bloomerang** — Remote, US 🏥 · `databricks, pyspark, snowflake, dbt, kafka, aws` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/bluefishai/jobs/5217308008)** at **Bluefish AI** — Berlin, Remote in Germany 🤖 · `aws, python` · _greenhouse_
 - **[Data Engineer II](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5169164007)** at **BlueLabs, Inc.** — Remote 🏥 · `snowflake, dbt, python, sql` · _greenhouse_
@@ -146,6 +145,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Data Engineer III](https://boards.greenhouse.io/crunchyroll/jobs/7568347?gh_jid=7568347)** at **Crunchyroll, LLC** — Los Angeles, California, United States; San Francisco, CA, United States 🏥 · `kafka, aws, python` · _greenhouse_
 - **[Staff Data Engineer](https://boards.greenhouse.io/crunchyroll/jobs/7967086?gh_jid=7967086)** at **Crunchyroll, LLC** — Los Angeles, California, United States 🏥🤖 · `databricks, pyspark, spark, dbt, airflow, aws` · _greenhouse_
 - **[Data Engineer](https://job-boards.greenhouse.io/cybermediatechnologies/jobs/5101263008)** at **CyberMedia Technologies** — Remote, United States 🏥 · `databricks, pyspark, spark, azure, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5213780008)** at **Datavant** — Remote - United States 🏥 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
 - **[FDE Data Engineer- Space](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169676007)** at **Defense Unicorns** — United States - Remote 🏥🤖 · `spark, airflow, kafka, aws, gcp, azure` · _greenhouse_
 - **[Senior Engineer - Data Platform](https://job-boards.greenhouse.io/defenseunicorns/jobs/5165082007)** at **Defense Unicorns** — Remote, United States 🏥 · `kafka, aws, gcp, azure, python, terraform` · _greenhouse_
 - **[Senior FDE Data Engineer](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169665007)** at **Defense Unicorns** — United States - Remote 🏥🤖 · `spark, airflow, kafka, aws, gcp, azure` · _greenhouse_
@@ -199,8 +199,8 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Associate, Software Engineer – Data Platform & AI Applications](https://job-boards.greenhouse.io/jordanparkgroup/jobs/5813897004)** at **Jordan Park Group** — San Francisco, California, United States 🏥🤖 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/keebo/jobs/4770626008)** at **Keebo** — Canada - Remote, US - Remote, Europe - Remote 🏥🤖 · `snowflake, aws, gcp, python` · _greenhouse_
 - **[Snowflake Data Architect](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4701450005)** at **Keeley Construction** — St. Louis, Missouri, United States 🤖 · `snowflake, dbt, azure, python, sql` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8556870002)** at **Komodo Health** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8527016002)** at **Komodo Health** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8556870002)** at **Komodo Health** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
 - **[Staff Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8508919002)** at **Komodo Health** — United States 🏥🤖 · `spark, python, sql` · _greenhouse_
 - **[Lead Full-Stack Platform Engineer - KFI Data Platform (Remote)](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8564753002)** at **KBRA** — Remote (Remote only in CA, CO, DC, FL, IL, MD, NJ, MA, NY, PA, SC, TX, VA) · `snowflake, aws, azure, python, sql, terraform` · _greenhouse_
 - **[Senior Cloud Data Engineer](https://job-boards.greenhouse.io/kunai/jobs/5125076007)** at **Kunai** — Remote - United States · `snowflake, kafka, aws, gcp, sql, terraform` · _greenhouse_

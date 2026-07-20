@@ -1,9 +1,6 @@
-### 4 new matching jobs · 2026-07-20 18:20 UTC
-
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/foley/d292fa96-260a-4e03-9e39-853d085ff134)** at **foley** — Remote US 🏥🤖 · `aws, python, sql` · _ashby_
+### 3 new matching jobs · 2026-07-20 20:41 UTC
 
 #### From greenhouse (3)
-- **[Data Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4716623005)** at **Bloomerang** — Remote, US 🏥 · `databricks, snowflake, python, sql` · _greenhouse_
-- **[Senior Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638244002)** at **Plume** — United States 🏥🤖 · `spark, aws, gcp` · _greenhouse_
-- **[Staff Software Engineer (Data Engineer)](https://www.plume.com/career-opportunities/?gh_jid=8638223002)** at **Plume** — United States 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
+- **[Staff Data Engineer - Data Engineering](https://coreweave.com/careers/job?4698414006&board=coreweave&gh_jid=4698414006)** at **CoreWeave** — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA 🏥 · `spark, kafka, python, sql` · _greenhouse_
+- **[Senior ECAD Library & Engineering Data Engineer](https://www.zipline.com/open-roles?gh_jid=7810086003)** at **Zipline** — South San Francisco, California, USA 🏥 · `python, sql` · _greenhouse_
+- **[Senior Data Engineer - Finance](https://job-boards.greenhouse.io/oura/jobs/4308541009)** at **Ōura** — Hybrid - San Francisco, California 🏥 · `databricks, spark, dbt, aws, python, sql` · _greenhouse_
