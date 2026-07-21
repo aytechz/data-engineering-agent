@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3783)
+## greenhouse (3784)
 hingehealth
 maven
 spring
@@ -3328,6 +3328,7 @@ ventureforamerica
 ventureglobal
 venturegloballng
 ventustherapeutics
+veracode
 veracyte
 veranahealth
 verantos
@@ -3786,7 +3787,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2761)
+## lever (2762)
 netflix
 shopify
 github
@@ -5038,6 +5039,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
