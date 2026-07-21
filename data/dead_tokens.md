@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3583)
+## greenhouse (3625)
 hingehealth
 maven
 spring
@@ -36,7 +36,6 @@ plaid
 notion
 canva
 wise
-chime
 pelotoncycle
 doordash
 ramp
@@ -75,7 +74,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-andurilindustries
 capitalrx
 klaviyocampus
 morsecorpcoop
@@ -1088,7 +1086,6 @@ energizecapital
 energyfoundation
 energysolutionsinternships
 energywebfoundation
-enformion
 engieenergyaccess
 englishscore
 ensembleai
@@ -1226,7 +1223,6 @@ formatservices
 formidable
 forta
 fortbend
-forter
 forthealth
 fortifyiq
 fortitudemining
@@ -1556,6 +1552,7 @@ iconiqcapital
 ideas42
 ideoorg
 iedigital
+ieqcapital
 ifood
 iguazio
 ihiterrasun
@@ -1566,6 +1563,7 @@ imagendarystudios
 imagentechnologies
 immpactbio
 immunai
+impact
 impossiblefoods
 imprint
 inariagriculture
@@ -1682,6 +1680,7 @@ joinuplift
 jornaya
 joy
 juaai
+jumia
 jumo
 jumpstart
 junglescout
@@ -1764,6 +1763,7 @@ korukids
 kovitz
 kraftheinz
 kraftonsea
+kreativekids
 kronosbio
 ksqtxcareers
 kuncie
@@ -2265,7 +2265,6 @@ onsiteiq
 op3n
 opaque
 opendoor
-openeye
 openfertility
 openfin95
 opengamma
@@ -2313,7 +2312,6 @@ overtime
 ovo
 owc
 owkin
-ownwell
 owscapitalmanagement
 oyster
 p72pi
@@ -2385,7 +2383,6 @@ paytronix
 pbinvitation
 pbs
 pbsusa
-pdmgroupasp
 peachtree
 peachtreebioresearchsolutions
 pearcommerce
@@ -2401,7 +2398,6 @@ penrodsoftware
 penumbralabs
 peopledatalabs
 peopledoc
-peoplefinders
 peoplestrata
 pepperjam
 peptilogics
@@ -2824,7 +2820,6 @@ simplefinance
 simplehealth
 simplesurance
 simplify360
-simpluris
 simply
 simspace
 sinch
@@ -3476,41 +3471,88 @@ workrise
 workshopapd
 workshopdigital
 worksighted
+workwize
+world4822stri986des
 worldcoinorg
+worldlabs
+worldquant
 worlds
 worldsuntold
+worldsurfleague
 wormholefoundation
 wormholelabs
 worthi
+wovencare
+wpp
 wppit
+wppmedia
 wrapbook
+wrike
 wunder
+wundercapital
+wunderflats
+wunderkind
+wundermanthompson
 wurl
+wurljobs
 wursta
 wurstacorporation
+ww
 wyndlabs
 wysemetersolutionsinc
+xai
+xairatherapeutics
 xanpool
+xantium
+xapo61
+xdinizioengage
+xealth
+xendit
 xgeeks
 xgs
 xhiring
 xlabs
 xmtp
+xohealthinc
+xometry
+xometryeurope
+xometryturkey
+xosinc
+xphealth
+xpinc
 xpincmlhr3
+xtillion
+xtxmarketstechnologies
 xwing
+yaleinvestmentsoffice
+yalochatinc
 yaypay
+yellowbrickdata
 yembo
 yepjobs
+yerbamadre
 yesshecodes
 yeti
+yext
+yieldmo
 yieldstreet
+yipitdata
+yipitdatajobs
+yld
+ylopo
 yohana
+yoodliinc
+yotpo
+youcom
 yougov
 youhealthproviders
+youngmindsdc
 yoursuper
 yousician
 youthinc
 yprime
+ysoftcorporation
+yugabyte
 yugalabs
 yuma
 yummly
@@ -3586,7 +3628,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2761)
+## lever (2763)
 netflix
 shopify
 github
@@ -4327,6 +4369,7 @@ dronesense
 dru-app
 dscout
 dten
+duffel
 duolingo
 dwavesys
 dydx-ops
@@ -5199,6 +5242,7 @@ moxionpower
 mrss
 mryum
 mtspartners
+mulliganfunding
 multiversx
 munichelectrification
 myassurehealth
@@ -6349,7 +6393,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (819)
+## ashby (820)
 mercury
 together
 replicate
@@ -6892,6 +6936,7 @@ pear
 peggy
 peopleup
 peppr
+perfect-venue
 persimmons-ai
 personio
 phare
