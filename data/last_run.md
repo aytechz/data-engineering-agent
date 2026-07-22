@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-07-21 23:13 UTC
+### 1 new matching jobs · 2026-07-22 00:09 UTC
 
 #### From greenhouse (1)
-- **[Data Engineer](https://job-boards.greenhouse.io/lightningai/jobs/7790915003)** at **Lightning AI** — New York, New York, United States 🏥 · `dbt, python, sql` · _greenhouse_
+- **[[C] Data Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5247446008)** at **Anthropic** — San Francisco, CA | New York City, NY · `spark, snowflake, dbt, airflow, kafka, python` · _greenhouse_
