@@ -1,7 +1,4 @@
-### 4 new matching jobs · 2026-07-23 16:46 UTC
+### 1 new matching jobs · 2026-07-23 18:38 UTC
 
-#### From greenhouse (4)
-- **[Staff Data Engineer](https://job-boards.greenhouse.io/checkr/jobs/8078265)** at **Checkr** — Denver, Colorado, United States; San Francisco, California, United States 🏥🤖 · `databricks, pyspark, spark, snowflake, kafka, aws` · _greenhouse_
-- **[Staff Software Engineer, Data Infrastructure Services](https://coreweave.com/careers/job?4699406006&board=coreweave&gh_jid=4699406006)** at **CoreWeave** — Sunnyvale, CA / Bellevue, WA 🏥 · `kafka, python` · _greenhouse_
-- **[Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8081556)** at **FanDuel** — Atlanta, Georgia, United States 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _greenhouse_
-- **[Senior Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8081618)** at **FanDuel** — Atlanta, Georgia, United States 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _greenhouse_
+#### From ashby (1)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/g2i/2c099b1c-c783-4385-aa71-9bee7bb995ab)** at **g2i** — USA 🏥 · `databricks, snowflake, kafka, aws, terraform` · _ashby_
