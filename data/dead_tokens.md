@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4172)
+## greenhouse (4164)
 hingehealth
 maven
 spring
@@ -58,10 +58,8 @@ kobold
 quantumscape
 sunrun
 arcadiapower
-netlify
 sentry
 segmentio
-elastic
 hashicorp
 linear
 retool
@@ -69,7 +67,6 @@ posthog
 substack
 beehiiv
 loomhq
-otter
 copilot
 zapier
 shippo
@@ -77,7 +74,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-aquaticcapitalmanagement
 capitalrx
 klaviyocampus
 morsecorpcoop
@@ -92,7 +88,6 @@ transcarent
 174powerglobal
 1848ventures
 1906newhighs
-2026_summer_intern_program
 21co
 240tutoringinc
 2kearlycareers
@@ -142,7 +137,6 @@ achronixsemiconductor
 achs
 aclara
 acloudguru
-acornhealth
 acorns
 acrerewards
 acronis
@@ -280,7 +274,6 @@ apartmentlist
 apeel
 apellis
 apercenpartnersllc
-aperiasolutions
 apexlogic
 apiascholars
 apisero
@@ -392,12 +385,10 @@ avenueone
 avitapropertymanagement
 awarehealthcare
 away
-awin
 axiomquant
 axioshq1
 axisapp
 axissecurity
-ayahealthcare
 ayun
 azenia
 aztec
@@ -688,7 +679,6 @@ chalkinc
 chameleonconsultinggroup
 changedotorgsourcing
 changeorg58
-changethenypd
 chanzuckerbergbiohub
 chanzuckerbergbiohubny
 chapter
@@ -757,14 +747,12 @@ climavision
 clipboard
 clipboardarchive
 clockwise
-clockworksystems
 closedloop
 cloudagronomics
 cloudbees
 cloudcampaign
 cloudian
 cloudops
-cloverhealth
 clue
 clydegroup
 cmc
@@ -3044,13 +3032,17 @@ sylva
 symblai47
 symbolica
 symend
+symmetry
 symmetrysoftware
+synack
+synacksrt
 synccomputing
 synchron
 syncron
 synctera
 syndigo
 syndio
+synerg
 synfindo
 synthesia
 synthesishealth
@@ -6942,7 +6934,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (825)
+## ashby (824)
 mercury
 together
 replicate
@@ -7247,7 +7239,6 @@ futurice
 gadget
 game-plan-tech
 garden
-gardens
 gendo
 general-counsel-ai
 genesis-ai
