@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-07-25 03:37 UTC
+### 1 new matching jobs · 2026-07-25 06:29 UTC
 
 #### From greenhouse (1)
-- **[Staff Software Engineer - Infrastructure, Data Platform](https://job-boards.greenhouse.io/baton/jobs/5196180007)** at **Baton (A Ryder Technology Lab)** — San Francisco, California, United States 🏥 · `databricks, spark, kafka, python` · _greenhouse_
+- **[Senior DataOps Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4324213009)** at **Voyager Technologies, Inc.** — Remote - United States 🏥 · `databricks, pyspark, spark, snowflake, dbt, airflow` · _greenhouse_
