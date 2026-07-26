@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3785)
+## greenhouse (3759)
 hingehealth
 maven
 spring
@@ -253,7 +253,6 @@ ancientnutrition
 andela
 andgosystems
 androstechnologies
-anellophotonics
 anewclimate
 angi
 angusreidgroup
@@ -541,7 +540,6 @@ branch32
 brands4friends
 bravehealth
 breakthroughenergy38
-breezeairways
 bridgekesandbox
 bridgengsandbox
 brightai1
@@ -668,7 +666,6 @@ censia
 centerforhumancompatibleartificialintelligence
 centerforreproductiverights
 cerebrassystems
-ceros
 cerqlar
 cetraruddy
 cff
@@ -2636,7 +2633,6 @@ relic
 relyance
 remergegmbh
 remind
-remotereferralboardinternaluseonly
 render
 reorg
 repeatmd
@@ -2646,7 +2642,6 @@ reprise
 rescue
 reserv
 resi
-residential
 retraced
 rev
 revcapital
@@ -2669,10 +2664,8 @@ ridedott-ground-roles
 rightfoot51
 ringba
 rinsed
-riotgames
 riotgamesinc
 ripcord
-ripcpc
 ripplcare
 ripplematch
 ripplematchinterns
@@ -2699,7 +2692,6 @@ route06casual
 roxe
 rsgur
 rsinternboard
-rstudio
 rtwfoundation
 rubilaboratories33
 rubyreceptionists
@@ -2797,7 +2789,6 @@ sentilink
 sequoiabiotech
 sequoiaconsulting
 serotonin
-sertis
 serviceexpertsllc
 servicetitan
 sessions
@@ -3399,7 +3390,6 @@ vidmob
 vidyard
 vimeo
 vipvermontinformationprocessing
-viralnation
 virtahealth
 virtasant
 virtex
@@ -3408,29 +3398,15 @@ visbymedical
 visor
 vitablehealth
 vitahealth
-vitalfarms
-vitalfarmsinternalcrew
-vitalvoicesglobalpartnership
-vitta
-vivcourtevents
 vivian
 vividly
-vividseatsllc
-vivodyne
-vivvi
-vixxo
 vizai
 vizgen
 vizit
-vmlenterprisesolutions
-vogliodigitalmarketing
 voice
-volastratherapeutics
 volleythat
 voltacharging
 voltrondata
-vonage
-vorbiopharma
 voter
 voterev
 votesolar
@@ -3438,7 +3414,6 @@ vouchinsurance
 vowgroup
 voxel51
 voxglobal
-voxieinc
 voxmedia
 voxy
 voyagertechnologiesinc
@@ -3456,7 +3431,6 @@ vulncheck
 vultr
 vultronai
 vungle
-vynamic
 vynyl
 vytalizehealth
 wagmo
@@ -3788,7 +3762,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2771)
+## lever (2767)
 netflix
 shopify
 github
@@ -3902,7 +3876,6 @@ aifund
 aigen
 ailens
 aira
-aircall
 airhouse
 airprotein
 airship
@@ -3927,7 +3900,6 @@ alida
 alignable
 alkymi
 allata
-allegiantair
 alliance
 allinbits
 allstripes
@@ -4082,7 +4054,6 @@ baller
 bambee
 bamtradingservices
 banglalink
-bannerbank
 barbaricum
 barecremation
 barefootproximity
@@ -4192,7 +4163,6 @@ boulevard
 bound
 boweryfarming
 box
-boxlunch
 brainnest
 brand-knew
 braveventurelabs
