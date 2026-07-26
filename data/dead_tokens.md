@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3759)
+## greenhouse (3786)
 hingehealth
 maven
 spring
@@ -3388,25 +3388,50 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
+vileon
+vim
 vimeo
 vipvermontinformationprocessing
+viralnation
+virbiotechnologyinc
 virtahealth
 virtasant
 virtex
+virtru
+virtu
 virtualhealth
 visbymedical
+viseai
+visia
+visitingmedia
 visor
+visualconcepts
 vitablehealth
 vitahealth
+vitalfarms
+vitalfarmsinternalcrew
+vitalvoicesglobalpartnership
+vitta
+vivcourtevents
 vivian
 vividly
+vividseatsllc
+vivodyne
+vivvi
+vixxo
 vizai
 vizgen
 vizit
+vmlenterprisesolutions
+vogliodigitalmarketing
 voice
+volastratherapeutics
 volleythat
 voltacharging
 voltrondata
+vonage
+vorbiopharma
 voter
 voterev
 votesolar
@@ -3414,6 +3439,7 @@ vouchinsurance
 vowgroup
 voxel51
 voxglobal
+voxieinc
 voxmedia
 voxy
 voyagertechnologiesinc
@@ -3431,6 +3457,7 @@ vulncheck
 vultr
 vultronai
 vungle
+vynamic
 vynyl
 vytalizehealth
 wagmo
@@ -5019,7 +5046,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6261,6 +6287,7 @@ tokenwin
 tombras
 tomonetworks
 tonal
+tonsser
 topanga
 tophat
 tophatter
