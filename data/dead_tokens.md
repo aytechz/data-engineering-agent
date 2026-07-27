@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4010)
+## greenhouse (3931)
 hingehealth
 maven
 spring
@@ -221,7 +221,6 @@ altisales
 altium
 alto
 altoira
-altoslabs
 altovita
 altpep
 altro
@@ -309,7 +308,6 @@ archetypeentertainment
 archetypesg
 arcticwolfnetworks
 arenaai
-arenaim
 arenanet
 argent
 argo
@@ -410,7 +408,6 @@ basehq
 basejobs
 basepowercompany
 batonhealth
-bayasystems
 baymeadows
 bccampus
 bcgdv
@@ -540,7 +537,6 @@ braintechnologies
 braintree
 braintrust
 branch32
-brandnewschool
 brands4friends
 bravehealth
 breakthroughenergy38
@@ -960,6 +956,8 @@ designmind
 designpickle
 designwithinreach
 desktopmetal
+destinationcanada
+destinationcanadafr
 deutschnewyork
 developforgood
 devries
@@ -1059,7 +1057,6 @@ ecobeeeb
 ecoinc
 econetwork
 ecore
-ecosio
 ecovative
 edgeandnode
 edgile
@@ -1549,7 +1546,6 @@ hqdigital
 hubspotmarketing
 hubspotstudents
 huddle01
-hudl
 hudsonmx
 humanconditionsafety
 humane
@@ -1599,6 +1595,7 @@ infinitereality
 inflammatix
 influential
 influxdb
+infomedia
 infusemedia
 infuseukraine
 ingenuitystudios
@@ -1651,7 +1648,6 @@ iseatz
 islandsxyzinc
 isrg
 ittakesavillage
-ivalua
 iversoft
 ivoyant
 ixco
@@ -1700,7 +1696,6 @@ joinsharenow
 joinunifiedvision
 joinuplift
 jornaya
-joskoasp
 journee
 joy
 juaai
@@ -1845,7 +1840,6 @@ lifeedittherapeutics
 lifehouse
 lightblocks
 lightforgegames
-lightningai
 lightship
 lightspeedhq
 lightspeedhqfr
@@ -1909,7 +1903,6 @@ lumenbioscience
 lumenorbit
 luminar
 lumos
-lumosfiber
 lunchbox
 luster
 lydalltas
@@ -1947,7 +1940,6 @@ marathondigitalholdings
 markerlearning
 marketmuse
 markets
-markforged
 maro
 marro
 marsdiscoverydistrict
@@ -1969,7 +1961,6 @@ maximon
 maxrewards
 mayfair
 mbaundergrad
-mbooth
 mccrayglobalprotectioncorp
 mcculloughrobertson
 mckinsey
@@ -2230,6 +2221,7 @@ numeradecareers
 numohealthcurieai
 nuna
 nursedash
+nutrabolt
 nuvalent
 nuview
 nuvocargo
@@ -2294,7 +2286,6 @@ onistudios
 onlyone
 onna
 onnitlabs
-onrunning
 onsights
 onsiteiq
 op3n
@@ -2406,7 +2397,6 @@ pathwardcareerfair
 patientpop
 patreon
 patterncareers
-paulaschoiceskincare
 pavilion
 pavilionpayments
 pax8
@@ -2533,7 +2523,6 @@ productiv
 productops
 productschool
 profiletechnologiesinc
-profluent
 programaestferias
 project44opportunities
 projectdiscoveryinc
@@ -2629,7 +2618,6 @@ recogni
 recorainc
 recroom
 recrutastone
-rectanglehealth
 recur
 recurrent
 redbooth
@@ -2863,6 +2851,7 @@ simplehealth
 simplesurance
 simplify360
 simply
+simpplr
 simspace
 sinch
 singleops
@@ -3135,13 +3124,11 @@ tenetfintechgroup
 tensor
 tenthousand
 terapore
-terrabis
 terrafuse
 terramera
 terraytherapeutics
 territorialdentalclinic
 tesseract
-texaschillersystemsasp
 texthelp
 textileio
 tezatechnologies
@@ -3153,7 +3140,6 @@ thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
 thedailybeast31
-theeconomistgroup
 theeverycompany
 theflatironschool
 thegivingblock
@@ -3218,7 +3204,6 @@ timescale
 tinkermode
 tinuitisecondarypage
 tippingpointcommunity
-tireseasycom
 titan
 titelmedia
 tmc
@@ -3230,128 +3215,64 @@ tomorrowhealth
 topcompare
 toposware
 topspot
-topsteptrader
-toradex
-toriihq
 tornbannerstudios
-toropark
-torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
-tpcengineeringholdingsllc
-tpgcareers
 tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
-transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
-treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
-trexsolutions
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinityairmedical
-trinityparktalent
-trinks
 trinternational
-tripactions
-tripadvisor
-triparc
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
 troupehealth
-trove
-trovohealth
-truckstop
-trueanomalyinc
-truebill
-truecaller
-trueclassicteesllc
-truehold
-trueindependentholdings
 truelogic
 truepiccareers
 truepill
 truework
-trufflesecurity
 trulia
 trulioo
 truloveorthodontics
 trunkclub
 trustana
-trustautomation
-trustbank
-trustedhealth
 trustmachines
 trustory
-trustpilot
 trustwell
-trustwill
-try-picnic
 trykarat
 tshirtventures
 ttcglobal
 tubescience52
-tubitv
-tucows
 tucowscampusrecruitment
-tudorgroup
 tula
-tulip
 tumblr
 tunein
 turbineone
@@ -4013,7 +3934,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2767)
+## lever (2766)
 netflix
 shopify
 github
@@ -4657,7 +4578,6 @@ cruise
 crunchbase
 crusoeenergy
 cruxinformatics
-crypto
 crypto-innovation
 csaassociates
 culturetrip
@@ -6782,7 +6702,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (827)
+## ashby (829)
 mercury
 together
 replicate
@@ -7252,6 +7172,7 @@ miga
 mind-company
 mitiga-solutions
 mnemonic
+mobasi
 modefair
 moneyworld
 monitaur
@@ -7433,6 +7354,7 @@ searchlight
 secoda
 seis
 select-labs
+sensat
 sensorita
 seriesai
 servicebell
