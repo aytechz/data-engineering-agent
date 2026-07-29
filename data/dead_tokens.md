@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3818)
+## greenhouse (3878)
 hingehealth
 maven
 spring
@@ -111,6 +111,7 @@ a1mreferrals
 a3ce416456924276a59de91bca740028
 aalphabio
 aavaa
+aavantgardebio
 abacusgroup
 abatatherapeutics
 abbycare
@@ -1237,13 +1238,16 @@ forage
 forallsecure
 forerunner
 forethought
+forgehealth
 forgerock
 formatservices
+formbio
 formidable
 forta
 fortbend
 forthealth
 fortifyiq
+fortisgames
 fortitudemining
 fortra
 fortunafi
@@ -1318,6 +1322,7 @@ generatecapital
 generationbio
 geneva
 genies
+genomenoninc
 genpopinteractiveinc
 genuine
 geocaching
@@ -1378,6 +1383,7 @@ gomedia
 gonimbly
 gonyc
 goodfeet
+goodfire
 goodtime
 goodworker
 goodworldwide
@@ -1707,6 +1713,7 @@ jumpstart
 junglescout
 jungroup
 junomedical
+junoveterinary
 justfund
 jwp
 jwplayer
@@ -1720,6 +1727,7 @@ kalderos
 kaleris
 kalvistapharmaceuticals
 kandola
+kapitus
 karriereseite
 karunatherapeutics
 kasaliving
@@ -1931,6 +1939,7 @@ makerdao
 makeship
 managedbyq
 manoproject
+manscaped
 manticoregames
 mantl
 mantle
@@ -2136,6 +2145,7 @@ nanostring
 napster
 nasacademy
 nationaldbs
+nationalpublicradioinc
 nationbuilder
 nativo
 nautiluslabs
@@ -2153,6 +2163,7 @@ ncx
 near
 neara
 nearby
+nearform
 nearsure
 nedforct
 neighborhoodscom
@@ -2238,6 +2249,7 @@ nylas
 nzero
 nzxt
 o1labs
+oafkenya
 oasislabs
 oasisnetwork
 oasysinternationalcorporation89
@@ -2256,6 +2268,7 @@ offensivesecurity
 offerfit
 offerupcontract
 ogdenguidepost
+ogilvygermany
 ogilvyjapan
 ohi
 ohmygreen
@@ -2296,6 +2309,7 @@ onna
 onnitlabs
 onsights
 onsiteiq
+oodlefinance
 op3n
 opaque
 opendoor
@@ -2306,6 +2320,7 @@ openloop
 openly
 openmesh
 openphone
+openspace
 openstore
 opj
 oplabs
@@ -2410,6 +2425,7 @@ pavilion
 pavilionpayments
 pax8
 paxful
+paxlabs
 paybyphone
 paydo
 paysend
@@ -2442,6 +2458,7 @@ periscopedata
 permutive
 perrystreetsoftware
 persado
+perscholashires
 persona
 perspective
 petdesk
@@ -2624,6 +2641,7 @@ rebelliondefense
 recentgraduates
 recharge
 reciprocity
+recodetherapeutics
 recogni
 recorainc
 recroom
@@ -2639,9 +2657,11 @@ reemahealth
 referralonly
 refinery29
 reflexionmedical
+regionalcenteroftheeastbay
 regionalspotonsales
 regrow
 reifyhealthjobs
+relativity
 relic
 relyance
 remergegmbh
@@ -2694,6 +2714,7 @@ rockstarinternships
 rocksteadymusicschool
 roidna
 rollstack
+roo
 root
 rootly
 rootstrap
@@ -2711,6 +2732,7 @@ rubyreceptionists
 rudderstack
 runelabs
 runpod
+runwise
 rvedufreelancenetwork
 rvfreelancenetwork
 rvohcontentfreelance
@@ -2809,6 +2831,7 @@ seveneightcapital
 sevenrooms
 sevenroomssgp
 sevenroomsuae
+sevenroomsuk
 sfgiants
 sgs
 shaker
@@ -2858,6 +2881,7 @@ simple
 simplefinance
 simplehealth
 simplesurance
+simpletechnologysolutions
 simplify360
 simply
 simpplr
@@ -2928,6 +2952,7 @@ sonymusic
 sonymusicasiacareers
 sonymusiccanada
 sonymusiccareersafrica
+sonymusiccareersaustralia
 sonymusiccareersitaly
 soroco
 soulcycle
@@ -2938,6 +2963,7 @@ sourcegraph
 sourcepassinc
 sourcescrub
 south8
+southernpovertylawcenter
 southworks
 spaceship
 spade
@@ -2974,6 +3000,7 @@ sprintray
 sproutsocialcollege
 sprouttherapy
 sprucehealth
+spyretherapeutics
 squadformersinc
 squintopera
 squire
@@ -3133,6 +3160,7 @@ tenetfintechgroup
 tensor
 tenthousand
 terapore
+terraclear
 terrafuse
 terramera
 terraytherapeutics
@@ -3226,6 +3254,9 @@ topspot
 tornbannerstudios
 totusmedicines
 touchbistro
+townsquaremedia
+tpgcareers
+tracelinkinc
 trackinglink
 trackmaven
 tracktik
@@ -3262,6 +3293,7 @@ trlab
 trmlabs
 tropic
 troupehealth
+trueanomalyinc
 trueclassicteesllc
 truelogic
 truepiccareers
@@ -3295,6 +3327,7 @@ tweag
 twiliostudents
 twillhealth
 twinstar
+twinstream
 twinternal
 two
 twonil
@@ -3303,6 +3336,7 @@ u410
 uchicagoepic
 uiflow
 ultimaker
+ultragenyxpharmaceutical
 ultramobile
 uncacheable_attributes
 uncommongoods
@@ -3355,31 +3389,57 @@ vantaiinc
 vareto
 varsitytutors
 vatcllc123
+vaticlabs
 vault
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
+vectara
 vectornorth
+vectranetworks
+veeamsoftware
 veedio
 veem
 veesearch
+vegaamericas
+veir
+velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
+velora
 venafi
 vendia
 vendr
 venmo
 venn
+venncity
 ventureforamerica
 ventureglobal
 venturegloballng
+venturewell
 ventustherapeutics
+veocorporatecareers
+veracode
+veracyte
+veranahealth
+verantos
+veratherapeuticsinc
 verbenergy
+veriff
+verifone
 veriforce
+veriheal
+verisign
+veristainc
+veritasvetpartners
 veritone
 veronapharma
+verramobility
+versaterm
+verse
 versprite
 vertexservicepartners
 verticalbridge
@@ -3821,7 +3881,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2768)
+## lever (2769)
 netflix
 shopify
 github
@@ -5076,6 +5136,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6591,7 +6652,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (829)
+## ashby (830)
 mercury
 together
 replicate
@@ -6882,6 +6943,7 @@ foodhealthco
 fortytwo
 fourth-power
 fractional
+fractional-ai
 frameai
 framenergy
 frameplay
