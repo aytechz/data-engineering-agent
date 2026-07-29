@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4067)
+## greenhouse (4041)
 hingehealth
 maven
 spring
@@ -107,7 +107,6 @@ transcarent
 86repairs
 8rivers
 98point6
-9thwayinsignia
 a1mreferrals
 a3ce416456924276a59de91bca740028
 aalphabio
@@ -1370,7 +1369,6 @@ go1us
 goalturkey
 goalzimbabwe
 goclio
-godfreydadichpartners
 gofoundation
 gogratia
 gohealth
@@ -1741,7 +1739,6 @@ keylinespa
 keyme
 keystonestrategy
 khealth
-kiavi
 kicksaw
 kilpatricktownsendstocktonllp
 kinaxis
@@ -2874,7 +2871,6 @@ sinch
 singleops
 singlesprout
 singular
-singulargenomics
 siteline
 sitelineinc
 skeletonkey
@@ -3176,51 +3172,29 @@ theorg
 theoutline
 thepennyhoarder
 thephoenix
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
-thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
-thetradedesk
 thetustingroupasp
-thevascularcaregroup
 thevets
-theweathercompany
-thewilshiregroup
 thezebra
-thiess
-thinkacademyus
-thinkific
-thinkingmachines
-thinkmarkets
-thinkofus
-thinkonward
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
 thomasvillechildcare
-thorn
 thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
 threatlocker
@@ -4070,7 +4044,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2770)
+## lever (2771)
 netflix
 shopify
 github
@@ -5156,6 +5130,7 @@ healthebay
 healthline
 healthtensor
 healthverity
+healx
 heard
 hearsaysystems
 heartflow
@@ -5512,6 +5487,7 @@ lpainc
 lqdigital
 lrymediagroup
 lsa-hr
+lsaweb
 ltse
 lucca
 lucid
@@ -6084,7 +6060,6 @@ reali
 realscout
 realvision
 realworklabs
-recast-software
 recess
 recormedical
 recur
