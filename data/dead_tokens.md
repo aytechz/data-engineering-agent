@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3851)
+## greenhouse (3842)
 hingehealth
 maven
 spring
@@ -2548,7 +2548,6 @@ protenus
 protocollabs
 psyonix
 pubgemea
-pubgseattle
 pubgsm
 pubgtokyo
 publica
@@ -2984,7 +2983,6 @@ stambaughness
 standardai
 stardust
 starry
-startree
 statement
 status72
 stauer
@@ -3349,19 +3347,13 @@ valorainc
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanleeuwenicecream
-vanmetre
 vannahealth
 vanta
 vantaiinc
 vareto
-variantbio
-varicent
 varsitytutors
 vatcllc123
-vaticlabs
 vault
-vaxcyte
 vayu
 vdxtvakaexponentialinteractive
 vecma
@@ -3370,7 +3362,6 @@ vectara
 vectornorth
 vectranetworks
 vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
@@ -3854,7 +3845,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2769)
+## lever (2768)
 netflix
 shopify
 github
@@ -5109,7 +5100,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6625,7 +6615,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (831)
+## ashby (830)
 mercury
 together
 replicate
@@ -6755,7 +6745,6 @@ cartloop
 casap
 cased
 cassidy
-catchafire
 catena-labs
 census
 center
