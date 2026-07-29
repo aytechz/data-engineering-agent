@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3800)
+## greenhouse (3818)
 hingehealth
 maven
 spring
@@ -429,7 +429,6 @@ beeshiringday
 beeswax
 beewise
 belharratherapeutics
-bellacanvas
 belonghome
 benchling
 bendhealth
@@ -1348,7 +1347,6 @@ glean
 glia
 glidepathventuresllcdbaprospect14
 glmx
-globalfishingwatch
 globalhealthlabs
 globalincomecoin
 globalteletherapyjobs
@@ -2063,6 +2061,7 @@ mojo
 molecularassemblies
 molecule
 momatherapeutics
+momence
 momenthouse
 momentmarkets
 monad
@@ -3381,18 +3380,36 @@ verbenergy
 veriforce
 veritone
 veronapharma
+versprite
+vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
+verusen
 verygoodventures
 vesalius
 vesartex
 vestahealthcare
 vestal
+vestmark
+vestwell
+veterans
+veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
+vgw
 vhsys
+via
+viaduct
+viagogo
+vialogic
+viamrobotics
+vianttechnology
 viber
+vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3402,6 +3419,7 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
 vileon
 vim
 vimeo
@@ -6573,7 +6591,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (830)
+## ashby (829)
 mercury
 together
 replicate
@@ -7089,7 +7107,6 @@ onehealth
 onepay
 open-ledger
 opengovsg
-openhomefoundation
 openphilanthropy
 openstore
 operator
