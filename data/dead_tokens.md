@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4124)
+## greenhouse (4165)
 hingehealth
 maven
 spring
@@ -138,6 +138,7 @@ achronixsemiconductor
 achs
 aclara
 acloudguru
+acommerce
 acorns
 acrerewards
 acronis
@@ -189,6 +190,7 @@ airspeed
 airtime
 airworks
 aiserajobs
+aisi
 akriveiatherapeutics
 alby
 alchemy
@@ -623,6 +625,7 @@ careervillage
 careof
 carerev
 carewell
+cariadinc
 carmera
 carmichaellynch
 carnegiescience
@@ -1125,6 +1128,7 @@ ergeon
 ericbuckleygetupsidegreenhouseio
 erin
 escribe
+ethos
 ethyca
 euclidpower
 eurowingsdigital
@@ -2143,7 +2147,6 @@ nacelle
 nanostring
 napster
 nasacademy
-natera
 nationaldbs
 nationbuilder
 nativo
@@ -3117,31 +3120,69 @@ tbwawh
 tcgcapital
 tdc
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
+teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
+tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
 terakeet
 terapore
 teravision
@@ -4127,7 +4168,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2770)
+## lever (2769)
 netflix
 shopify
 github
@@ -4290,7 +4331,6 @@ anagram
 analog
 analuisa
 ancestry
-anchorage
 anduril
 angaza
 angel
@@ -7231,7 +7271,6 @@ greylock
 gridium
 gridwise
 groombuggy
-groundnews
 groundtruthlabs
 growtherapy
 growthtroops
@@ -7580,6 +7619,7 @@ sorcerer
 source-health
 soxton
 spearbit
+spherical
 spiritus
 springandbond
 ssi
