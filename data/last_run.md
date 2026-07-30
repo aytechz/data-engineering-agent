@@ -1,6 +1,8 @@
-### 3 new matching jobs · 2026-07-30 14:32 UTC
+### 3 new matching jobs · 2026-07-30 16:50 UTC
 
-#### From greenhouse (3)
-- **[Platform Engineer - Self-Service Data Platform](https://job-boards.eu.greenhouse.io/bioptimus8/jobs/4912061101)** at **Bioptimus** — Paris / Remote EU 🏥🤖 · `airflow, aws, python, sql, terraform` · _greenhouse_
-- **[Data Architect](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8658384002)** at **T-Rex Solutions** — 100% Remote 🏥 · `spark, kafka` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/ww/jobs/5370248008)** at **Weight Watchers** — United States - Remote 🏥 · `snowflake, airflow, python, sql` · _greenhouse_
+#### From greenhouse (2)
+- **[Forward Deployed Engineer, Data Platform](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4340341009)** at **Beacon Biosignals** — Boston, MA / Remote 🏥 · `snowflake, python, sql` · _greenhouse_
+- **[Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8055450?gh_jid=8055450)** at **Roblox** — San Mateo, CA, United States 🤖 · `pyspark, airflow, aws, gcp, azure, sql` · _greenhouse_
+
+#### From lever (1)
+- **[Data Engineer / Lead Data Engineer](https://jobs.lever.co/campusworksinc/48e659d2-8f9f-4fd4-9f74-b515afef25ea)** at **campusworksinc** — Remote · `databricks, azure` · _lever_
