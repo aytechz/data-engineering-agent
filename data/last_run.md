@@ -1,7 +1,6 @@
-### 2 new matching jobs · 2026-07-30 12:05 UTC
+### 3 new matching jobs · 2026-07-30 14:32 UTC
 
-#### From ashby (1)
-- **[Staff Software Engineer, Data Platform](https://jobs.ashbyhq.com/sentilink/9bc3de0b-1638-4310-8df1-2dd965f0bdf4)** at **sentilink** — United States 🤖 · `spark, kafka, aws, gcp, azure, python` · _ashby_
-
-#### From greenhouse (1)
-- **[Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=8090268)** at **phData** — India - Remote 🏥 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+#### From greenhouse (3)
+- **[Platform Engineer - Self-Service Data Platform](https://job-boards.eu.greenhouse.io/bioptimus8/jobs/4912061101)** at **Bioptimus** — Paris / Remote EU 🏥🤖 · `airflow, aws, python, sql, terraform` · _greenhouse_
+- **[Data Architect](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8658384002)** at **T-Rex Solutions** — 100% Remote 🏥 · `spark, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/ww/jobs/5370248008)** at **Weight Watchers** — United States - Remote 🏥 · `snowflake, airflow, python, sql` · _greenhouse_
