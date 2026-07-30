@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-07-30 03:28 UTC_
+_Last updated: 2026-07-30 06:42 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,7 +8,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Data Engineering - Consultant](https://job-boards.greenhouse.io/formativgroup/jobs/4336266009)** at **FormativGroup** — Remote/India - Full-Time 🤖 · `databricks, spark, snowflake, aws, gcp, azure` · _greenhouse_
+- **[Senior Staff Data Engineer, Databricks (R5492)](https://jobs.lever.co/shieldai/2058ba68-40fe-4a42-9d60-633dc7e4142a)** at **shieldai** — Remote · `databricks` · _lever_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Sr. Specialist Solutions Architect - Data Engineering & Warehousing](https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002)** at **Databricks** — United States · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
@@ -172,11 +172,11 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer - Data Platform](https://www.zipline.com/open-roles?gh_jid=7810390003)** at **Zipline** — South San Francisco, California, USA 🏥 · `snowflake, dbt, airflow, aws, python` · _greenhouse_
 - **[Senior ECAD Library & Engineering Data Engineer](https://www.zipline.com/open-roles?gh_jid=7810086003)** at **Zipline** — South San Francisco, California, USA 🏥 · `python, sql` · _greenhouse_
 - **[Senior Data Engineer (5+ years)](https://job-boards.greenhouse.io/foresitelabs/jobs/8544870002)** at **Foresite Labs** — San Francisco, CA 🏥🤖 · `spark, dbt, airflow, aws, gcp, python` · _greenhouse_
+- **[Data Engineering - Consultant](https://job-boards.greenhouse.io/formativgroup/jobs/4336266009)** at **FormativGroup** — Remote/India - Full-Time 🤖 · `databricks, spark, snowflake, aws, gcp, azure` · _greenhouse_
 - **[Design Lead - Data Platform](https://job-boards.greenhouse.io/formativgroup/jobs/4288414009)** at **FormativGroup** — Remote/Austin, TX - Full-Time 🏥 · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/fsastorecom/jobs/8496861002)** at **FSAStore.com** — United States 🏥 · `spark, azure, python, sql` · _greenhouse_
 - **[Principal Data Engineer](https://job-boards.greenhouse.io/gatherai/jobs/5186046007)** at **Gather AI** — Remote (India) · `dbt, aws, gcp, azure, sql` · _greenhouse_
 - **[Lead Data Platform Developer - AI Platform](https://job-boards.greenhouse.io/geotab/jobs/5271055008)** at **Geotab** — Remote - Singapore 🤖 · `aws, gcp, azure, python` · _greenhouse_
-- **[Senior Data Platform Developer - AI Platform](https://job-boards.greenhouse.io/geotab/jobs/5200046008)** at **Geotab** — Atlanta, Georgia - USA 🏥🤖 · `aws, gcp, azure, python` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/getbuilt/jobs/4706138005)** at **Built Technologies** — Remote - USA 🏥🤖 · `snowflake, dbt, kafka, python` · _greenhouse_
 - **[Data Infrastructure Engineer](https://job-boards.greenhouse.io/glyphicbiotechnologies/jobs/4194165009)** at **Glyphic Biotechnologies** — Berkeley, CA 🏥🤖 · `snowflake, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/goatgroup/jobs/4714483005)** at **GOAT Group** — Remote US 🏥 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
