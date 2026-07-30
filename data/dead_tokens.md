@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4071)
+## greenhouse (4124)
 hingehealth
 maven
 spring
@@ -324,6 +324,7 @@ arkesystems
 arkoselabscostarica
 around
 arrantabiocareers
+arteriaai
 articulate
 artivest
 artlogic
@@ -970,7 +971,6 @@ dfinity
 dharma
 dhinternal
 diagram
-dialership
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
@@ -1012,6 +1012,7 @@ domainmoney
 domeyard
 domo
 donorschoosestaffandreferrals
+doordashaustralia
 doordashhighvolume
 dotcomtherapy
 dotdotdash
@@ -1128,7 +1129,6 @@ ethyca
 euclidpower
 eurowingsdigital
 eventbriteinc
-eventsandinterns
 eventstore
 eventussystemsinc
 everactive1
@@ -1293,7 +1293,6 @@ ftgoldenwolf
 fullstory
 funga
 funinc
-fusionworldwide
 futronics
 futurehouse
 futurewise
@@ -1513,7 +1512,6 @@ historynet
 hitachidigitalservices
 hitachivantaracorporation
 hitostudios
-hivefinancialsystems
 hivemq
 hiya
 hofy
@@ -1555,7 +1553,6 @@ houseaccount
 howeinc
 howl
 hoyoverse
-hpiq
 hqdigital
 hubspotmarketing
 hubspotstudents
@@ -1731,7 +1728,6 @@ kalderos
 kaleris
 kalvistapharmaceuticals
 kandola
-karat
 karriereseite
 karunatherapeutics
 kasaliving
@@ -1824,7 +1820,6 @@ launchyourcareer
 laurel
 lcgboston
 ldinternships
-leadingeducators
 leafguard
 leaftfoods
 leanix
@@ -2148,6 +2143,7 @@ nacelle
 nanostring
 napster
 nasacademy
+natera
 nationaldbs
 nationbuilder
 nativo
@@ -2748,8 +2744,8 @@ sanabilventurestudio
 sandboxaq
 sandstonecarebroomfield
 sandstonecaredarien
+sandstonecoloradomedicaldetox
 sandstonecoloradospringsoutpatient
-sandstonedenver
 sandstoneremote
 sandtech
 sanityio
@@ -3146,41 +3142,94 @@ tenet
 tenetfintechgroup
 tensor
 tenthousand
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
 territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
+thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
 theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
+thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
 theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
 themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
+thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
+thepharmacyhub
 thephoenix
 theplaceforchildrenwithautism
 thequalitygroupgmbh1
@@ -3194,13 +3243,17 @@ theroom
 thesanfranciscochronicle
 thesciongroupllc
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
+thetradedesk
 thetustingroupasp
+thevascularcaregroup
 thevets
 theweathercompany
+thewilshiregroup
 thezebra
 thiess
 thinkacademyus
@@ -4074,7 +4127,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2772)
+## lever (2770)
 netflix
 shopify
 github
@@ -4237,6 +4290,7 @@ anagram
 analog
 analuisa
 ancestry
+anchorage
 anduril
 angaza
 angel
@@ -4770,7 +4824,6 @@ delphix
 deltadental
 delv
 density
-deputy
 desafiolatam
 desbytech
 descript-2
@@ -4793,7 +4846,6 @@ dioxycle
 directi
 dispo
 disruptivegames
-distru
 divergent3d
 diversifiedradiology
 diversio
@@ -6306,7 +6358,6 @@ skava
 skello
 sketch
 skill-lync
-skillerszone
 skilljar
 skillshare
 skims
@@ -6848,7 +6899,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (832)
+## ashby (834)
 mercury
 together
 replicate
@@ -6967,7 +7018,6 @@ boost
 breadboard
 bridge
 brightmeds
-brooklyn-health
 buildwithfern
 buoyant
 c-side
@@ -7181,6 +7231,7 @@ greylock
 gridium
 gridwise
 groombuggy
+groundnews
 groundtruthlabs
 growtherapy
 growthtroops
@@ -7371,6 +7422,7 @@ openstore
 operator
 opfoundation
 optery
+orbit
 orbitalmaterials
 orby-ai
 ordio
@@ -7538,6 +7590,7 @@ statewide
 stationlabs
 statisfy
 statsig
+stay22
 stealthventurecapitalfirm
 stelolabs
 stemma
