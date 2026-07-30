@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4041)
+## greenhouse (4059)
 hingehealth
 maven
 spring
@@ -609,6 +609,7 @@ capsulecares
 carbonbuiltemployment
 carbonfuture
 cardinalcommerce
+cardinalpoint
 cardioone
 cardlytics
 carebridgehealth
@@ -1314,6 +1315,7 @@ gather
 gathertown
 geekhivejobs
 gelato
+gelfandrennertfeldman
 geminitherapeutics
 generalcatalystpartners
 generatecapital
@@ -1405,8 +1407,10 @@ graymatterrobotics
 grayscalable
 greatist
 greenlightbiosciences
+greenpeace
 gregarious
 greycroft
+greynoiseintelligence
 griffin
 grindr
 grist
@@ -2770,6 +2774,7 @@ scribeconcepts
 scribetherapeutics
 scribexindeed
 scrollio
+scsfinancial
 scuba
 scytherobotics
 sdash
@@ -3184,17 +3189,30 @@ theskimm
 thesourcery
 theswiftgroup
 thetustingroupasp
+thevascularcaregroup
 thevets
+thewilshiregroup
 thezebra
+thiess
+thinkific
+thinkmarkets
+thinkonward
 thinx
 thirdharmonicbio
+thirdlove
+thirdpoleinc
+thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
 thomasvillechildcare
+thorn
 thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
 threatlocker
@@ -4044,7 +4062,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2771)
+## lever (2768)
 netflix
 shopify
 github
@@ -4623,7 +4641,6 @@ common
 common-networks
 commoncode
 commonfuture
-commonlit
 communityboost
 companyon
 compasslexecon
@@ -5130,7 +5147,6 @@ healthebay
 healthline
 healthtensor
 healthverity
-healx
 heard
 hearsaysystems
 heartflow
@@ -5487,7 +5503,6 @@ lpainc
 lqdigital
 lrymediagroup
 lsa-hr
-lsaweb
 ltse
 lucca
 lucid
