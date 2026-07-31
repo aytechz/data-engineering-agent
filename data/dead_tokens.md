@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3865)
+## greenhouse (3884)
 hingehealth
 maven
 spring
@@ -1122,6 +1122,7 @@ epicsummerresearch
 eql
 equals
 equatic
+equipmentsharecom
 equitymultiple
 ergeon
 ericbuckleygetupsidegreenhouseio
@@ -1141,6 +1142,7 @@ evergreenaction
 evergreenbloomerang
 everisusainc
 everops
+everpass
 everphone
 evertrue
 everylife
@@ -1227,6 +1229,7 @@ floornfts
 flowcarbon
 flowforge
 floyd
+fluxx
 flybyrobotics
 flyflat
 flyhomes
@@ -2240,7 +2243,6 @@ numus
 nuna
 nursedash
 nutrabolt
-nuvalent
 nuview
 nuvocargo
 nyanheroes
@@ -2407,7 +2409,6 @@ parkerandace
 parkmobileus
 particle
 particlehealth
-partnercentricinc
 partnerstack
 partstech
 pascal
@@ -3016,6 +3017,7 @@ stensul
 stitchmoneyptyltd
 stitchpeo
 stonecomercial
+stonepatrocina
 stord13
 storeno8
 storicardmx
@@ -3170,7 +3172,6 @@ theinformation
 thejpbfoundation
 thejuice
 thelandlinecompany
-thelastmile
 theloomaproject
 themanual
 themany
@@ -3220,7 +3221,6 @@ thunder
 thymecare
 tiermobility
 tiermobilitygermany
-tigera
 tillatechnologies
 tiltingpoint
 timeinc
@@ -3281,7 +3281,6 @@ trlab
 trmlabs
 tropic
 troupehealth
-trove
 trueclassicteesllc
 trueindependentholdings
 truelogic
@@ -3342,7 +3341,6 @@ universeenergy
 universityofchicago
 unohealth
 unrealsnacks
-unybrands
 upsolver
 upstatement
 upstreamcare
@@ -3353,6 +3351,7 @@ urban
 urbanfootprint
 urbint
 urbnleaf
+urgentcareforchildren
 urx
 usablemachines
 usaforunhcr
@@ -3362,28 +3361,48 @@ ushur
 usjetaa
 ustwo
 ustwogames
+utahtitleloansinc
 utilityapi
 vac
+valerahealth
 valiantharborinternationalllc
 valimailinc
+valleyhospital
 valleyview
+valohealth
 valon
 valorainc
+valspec
+valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanguarddermatology
+vanleeuwenicecream
+vanmetre
 vannahealth
+vannevarlabs
 vanta
 vantaiinc
 vareto
+variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
+vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
+vectara
 vectornorth
+vectranetworks
+vedantabiosciences
 veeamsoftware
 veedio
 veem
@@ -3868,7 +3887,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2773)
+## lever (2776)
 netflix
 shopify
 github
@@ -3981,7 +4000,6 @@ aifoundation
 aifund
 aigen
 ailens
-aipconnect
 aira
 airhouse
 airprotein
@@ -4030,6 +4048,7 @@ amused-group
 amyris
 anagram
 analog
+analogfolk
 analuisa
 ancestry
 anduril
@@ -4160,6 +4179,7 @@ baller
 bambee
 bamtradingservices
 banglalink
+bannerbank
 barbaricum
 barecremation
 barefootproximity
@@ -4184,6 +4204,7 @@ bedrockocean
 beemenergy
 beetalents
 bellhops
+bellotalabs
 belonghome
 benlabs
 bestegg
@@ -4196,6 +4217,7 @@ beyond-creative
 beyondmeat
 beyondpricing
 bfp
+bhvr
 biconomy
 bigfootbiomedical
 biggergames
@@ -4289,7 +4311,6 @@ broadwaytechnology
 bssp
 btc
 btse
-buckmason
 buildatmos
 buildgc
 buildkite
@@ -4632,6 +4653,7 @@ easyagile
 eaze
 ebury
 ecocart
+economicmodeling
 ecosia
 edacious
 edenhealth
@@ -6643,7 +6665,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (839)
+## ashby (840)
 mercury
 together
 replicate
@@ -6682,6 +6704,7 @@ alby
 aletiq
 allinbits
 alloyenterprises
+almabase
 alpaca
 alpha
 alpinex
@@ -6735,7 +6758,6 @@ beeper
 believer
 bench
 bentoml
-bettercloud
 beyondsports
 biconomy
 bigeye
@@ -7168,6 +7190,7 @@ openphilanthropy
 openstore
 operator
 opfoundation
+opslevel
 optery
 orbit
 orbitalmaterials
