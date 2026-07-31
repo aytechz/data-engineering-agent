@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3847)
+## greenhouse (3865)
 hingehealth
 maven
 spring
@@ -840,6 +840,7 @@ cotap
 coursehero
 coursekey
 coursemojo
+coursera
 covacareers
 covant
 covetool
@@ -1158,6 +1159,7 @@ exo
 expa
 expanse
 explo
+explorasolutions
 expressvpn
 extra
 eyecarepartners
@@ -2405,6 +2407,7 @@ parkerandace
 parkmobileus
 particle
 particlehealth
+partnercentricinc
 partnerstack
 partstech
 pascal
@@ -3167,6 +3170,7 @@ theinformation
 thejpbfoundation
 thejuice
 thelandlinecompany
+thelastmile
 theloomaproject
 themanual
 themany
@@ -3216,6 +3220,7 @@ thunder
 thymecare
 tiermobility
 tiermobilitygermany
+tigera
 tillatechnologies
 tiltingpoint
 timeinc
@@ -3276,6 +3281,7 @@ trlab
 trmlabs
 tropic
 troupehealth
+trove
 trueclassicteesllc
 trueindependentholdings
 truelogic
@@ -3336,6 +3342,7 @@ universeenergy
 universityofchicago
 unohealth
 unrealsnacks
+unybrands
 upsolver
 upstatement
 upstreamcare
@@ -3377,23 +3384,34 @@ vdxtvakaexponentialinteractive
 vecma
 vecnyc
 vectornorth
+veeamsoftware
 veedio
 veem
 veesearch
+vegaamericas
+veir
+velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
+velora
 venafi
 vendia
 vendr
 venmo
 venn
+venncity
+venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
+veocorporatecareers
+veracode
 veracyte
+veranahealth
 verantos
 veratherapeuticsinc
 verbenergy
@@ -3850,7 +3868,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2769)
+## lever (2773)
 netflix
 shopify
 github
@@ -3963,6 +3981,7 @@ aifoundation
 aifund
 aigen
 ailens
+aipconnect
 aira
 airhouse
 airprotein
@@ -4270,6 +4289,7 @@ broadwaytechnology
 bssp
 btc
 btse
+buckmason
 buildatmos
 buildgc
 buildkite
@@ -5501,6 +5521,7 @@ netvirta
 neuralink
 neurolabs-ai
 neurologica
+nevados
 newculturefood
 newfrontinsurance
 newton-school
@@ -6503,6 +6524,7 @@ vistarmedia-2
 vital-software
 vitalbio
 vitalfarms
+vivacitylabs
 vivsoft
 vivun
 vizion
@@ -7269,6 +7291,7 @@ safety
 sales-marker
 same
 sauron
+savvyinsurance-trellis
 scaler
 scicommedia
 scratchpad
@@ -7452,7 +7475,6 @@ xmtplabs
 xpreso
 yellow3d
 yondercard
-yondr
 youdotcom
 yumaai
 yupp-ai
