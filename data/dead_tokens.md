@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4216)
+## greenhouse (4192)
 hingehealth
 maven
 spring
@@ -59,7 +59,6 @@ quantumscape
 sunrun
 arcadiapower
 sentry
-amplitude
 segmentio
 hashicorp
 linear
@@ -110,12 +109,14 @@ transcarent
 98point6
 a1mreferrals
 a3ce416456924276a59de91bca740028
+aacpnw
 aalphabio
 aavaa
 aavantgardebio
 abacusgroup
 abatatherapeutics
 abbycare
+abbyy
 abclabs
 abdielcapital
 abetterchicago
@@ -828,7 +829,6 @@ consensysremote
 constructsecure
 consumertrack
 contentive
-convelocareers
 converginttechnologiesllc
 convertkit
 coolplanet
@@ -1136,7 +1136,6 @@ eql
 equals
 equatic
 equitymultiple
-erasca
 ergeon
 ericbuckleygetupsidegreenhouseio
 erin
@@ -1161,7 +1160,6 @@ everphone
 evertrue
 everylife
 evidation
-evismart
 evive
 evmos
 evolutionaryscale
@@ -1829,7 +1827,6 @@ l5
 la2028
 lagrange
 lakesidesoftware
-lambcareers
 lambda
 landis
 langai
@@ -2168,6 +2165,7 @@ nacelle
 nanostring
 napster
 nasacademy
+nationalallianceforpubliccharterschools
 nationaldbs
 nationbuilder
 nativo
@@ -2259,6 +2257,7 @@ numeradecareers
 numohealthcurieai
 numus
 nuna
+nurdie
 nursedash
 nutrabolt
 nuview
@@ -2757,7 +2756,6 @@ rxvantage
 saasacademy
 sada
 sadaindia
-safariai
 safebase
 sagardcareers
 sailthru
@@ -2779,7 +2777,6 @@ sandstonecoloradospringsoutpatient
 sandstonemaryland
 sandstoneremote
 sandtech
-sanfranciscocampusforjewishliving
 sanityio
 sano
 sapphireventuresllc
@@ -2991,7 +2988,6 @@ sparrowventures
 spartanradar
 spec
 specialized
-speechify
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3072,7 +3068,6 @@ styra
 successkpiinc
 sugar
 sullyai
-summer
 summerinternships
 summit
 summitpublicschools
@@ -3126,40 +3121,25 @@ taginfraestrutura
 tailorbirdinc
 tails
 taittowers
-takealotcom
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspacepsychiatry
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
-tandemlaunch
-tandemmoneylimited
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
-tankww
 tanso
 tapresearch
 targetrwe
-tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
-taskrabbit
 tastylive
 tastytrade
 tavus
 taxbit
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
@@ -3167,15 +3147,11 @@ tbwawh
 tcgcapital
 tdc
 tdg
-tdinternational
 tds
-teachablecareers
 teacherspayteachers
 teachforall
 teachinglab
-teachstone
 teads
-teads1
 teague
 tealmedia
 team1
@@ -4219,7 +4195,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2774)
+## lever (2773)
 netflix
 shopify
 github
@@ -6433,7 +6409,6 @@ sidequest
 sigfig-2
 sightviewsoftware
 signalfx
-silasg
 silo
 silvercar
 silviaterra
@@ -6995,7 +6970,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (838)
+## ashby (837)
 mercury
 together
 replicate
@@ -7090,7 +7065,6 @@ beyondsports
 biconomy
 bigeye
 bind
-bioptimizers
 biorender
 bird
 bitcoin-talent-co
