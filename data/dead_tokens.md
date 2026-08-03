@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4066)
+## greenhouse (4125)
 hingehealth
 maven
 spring
@@ -189,6 +189,7 @@ airspeed
 airtime
 airworks
 aiserajobs
+akerotherapeutics
 akriveiatherapeutics
 alby
 alchemy
@@ -612,6 +613,7 @@ canonicaljobs
 canvas
 canvasconstruction
 capellaspace
+capitolis
 capraconsulting
 capstack
 capstonedc
@@ -640,7 +642,6 @@ carsandbids
 carsdotcom
 cartodb
 cartwheelcare
-casago
 cascadedatalabs
 casestatus
 casetext
@@ -802,8 +803,10 @@ collectiveretreats
 collectivfood
 collectorsuniverse
 collegeforsocialinnovation
+collegetrack
 collegevine
 cologixinc
+colossalbiosciences
 columnsoftware
 commercehub
 common
@@ -865,6 +868,7 @@ creditas
 creditasen
 creditbook
 creditkarma
+crescendohealth
 crestline
 crigroup
 crisistextline86
@@ -1113,6 +1117,7 @@ emulate
 enchargeai
 endpoint
 endurance
+energage
 energicorelimited
 energizecapital
 energyfoundation
@@ -1193,6 +1198,7 @@ farasisenergy
 farmersbusinessnetwork
 farmstead
 fastforward
+fastspring
 fathom
 fazz
 fearless
@@ -1450,7 +1456,6 @@ guestready
 guideline
 guidepostchicagoland
 guildeducation
-gulfwindtechnology
 gunner
 guru
 h5pgroup
@@ -1599,6 +1604,7 @@ ia
 ibkr
 ibotta
 iconiqcapital
+idahotitleloansinc
 ideas42
 ideoorg
 iedigital
@@ -1836,6 +1842,7 @@ latam
 latchbio
 latentai
 laudioinc
+launchdarkly
 launchyourcareer
 laurel
 lcgboston
@@ -1853,6 +1860,7 @@ ledgerinvesting
 ledgestone
 leftcoastventures
 legatosecurity
+legendcareers
 leiainc
 lemmatree
 lemonlightmediainc
@@ -1887,11 +1895,13 @@ lineleap
 lingolive
 lingumi
 linkfire
+linkhealth
 linksdao
 linushealth
 linx
 lionpoint
 liquidinstruments
+liquidpersonnel
 liscinternships
 lithium
 lithosenergy
@@ -1928,6 +1938,7 @@ lovetoknowmedia
 loyal
 ltkbrazil
 ltkchina
+lucidbots
 luckylincolngaming
 luganodiamonds
 lumahealth
@@ -2032,6 +2043,7 @@ merchantesolutions
 merge
 meridian
 merit
+meruhealth
 mesamember
 meshpayments
 meshy
@@ -2334,6 +2346,7 @@ openly
 openmesh
 openphone
 openstore
+ophelia
 opj
 oplabs
 opremote
@@ -2354,6 +2367,7 @@ orpc
 orum
 osmo
 osmosisdex
+ossiumhealth
 ostrohealth
 otainsightltd
 othersideentertainment
@@ -2385,6 +2399,7 @@ pactum
 paddle
 pado
 pagarme
+pagerhealth
 pagoda
 paidyinc
 paige
@@ -2437,6 +2452,7 @@ pavilion
 pavilionpayments
 pax8
 paxful
+paxlabs
 paybyphone
 paydo
 paysend
@@ -2478,12 +2494,14 @@ phantom45
 phantomai
 pharmbills
 phasefour
+phasev
 phcglobal
 phenogy
 philadelphiaphilliesrddepartment
 phiture2
 phonic
 phreesia
+phynetdermatology
 piclo
 picnichealth
 pika
@@ -2541,6 +2559,7 @@ postmates
 powbio
 powerfinance
 powershiftnetwork
+praxisprecisionmedicines
 precisioneffect
 precisionscientia
 precisionsystemsinc
@@ -2567,6 +2586,7 @@ projectdiscoveryinc
 projectfarma
 projectmanagercom
 prolificmachines
+prometheusrealestategroup
 promptworks
 proofxyz
 propel
@@ -2814,6 +2834,7 @@ searchdiscovery
 secondspectrum
 secretescapes
 securitybankbettercareers
+securly13
 segmed
 segment
 segmenttw
@@ -2972,6 +2993,7 @@ sourcegraph
 sourcepassinc
 sourcescrub
 south8
+southwesttitleloans
 southworks
 spaceship
 spade
@@ -3068,6 +3090,7 @@ summerinternships
 summit
 summitpublicschools
 sumo
+sumofus
 sunnymorningfoods
 sunshine
 supabase
@@ -3174,6 +3197,7 @@ territorialdentalclinic
 tesseract
 texthelp
 textileio
+textus
 tezatechnologies
 thalamusgme
 thatlot
@@ -3195,43 +3219,74 @@ themanual
 themany
 themarkup
 themarshallproject
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
 theoremlp
 theorg
+theoriamedical
 theoutline
+thepacgroup
 thepennyhoarder
+theperfectworkout
+thepharmacyhub
 thephoenix
+theplaceforchildrenwithautism
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
+theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
+thetradedesk
 thetustingroupasp
+thevascularcaregroup
 thevets
+theweathercompany
 thewilshiregroup
 thezebra
+thiess
+thinkacademyus
 thinkific
+thinkingmachines
+thinkmarkets
+thinkofus
+thinkonward
 thinx
 thirdharmonicbio
+thirdlove
+thirdpoleinc
+thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
 thomasvillechildcare
+thorn
+thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
 thrivecart
+thrivedigital
 thriveglobal
 thrivemarket
 throughline
@@ -3240,11 +3295,14 @@ thunder
 thunes
 thymecare
 tia
+tide
 tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
 tigargymnastics
 tigera
+tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
@@ -3252,6 +3310,7 @@ timeresearch
 timescale
 timos
 tines
+tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
@@ -4069,7 +4128,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2775)
+## lever (2777)
 netflix
 shopify
 github
@@ -5328,6 +5387,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5470,6 +5530,7 @@ lexingtonmedical
 liberatii
 lifen
 lightci
+lightship
 lillio
 limberhealth
 lime
@@ -5483,6 +5544,7 @@ linktree
 linq
 linuxacademy
 lionheartkid
+lirvanalabs
 littleotter
 livechatinc
 livefront
@@ -6188,7 +6250,6 @@ root16
 roserocket
 roundglass
 routethis
-roy-cooper
 royal
 rqteam
 rsandf-2
@@ -6846,7 +6907,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (839)
+## ashby (838)
 mercury
 together
 replicate
@@ -6885,7 +6946,6 @@ alby
 aletiq
 allinbits
 alloyenterprises
-almabase
 alpaca
 alpha
 alpinex
