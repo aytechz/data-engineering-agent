@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4062)
+## greenhouse (4066)
 hingehealth
 maven
 spring
@@ -78,7 +78,6 @@ capitalrx
 klaviyocampus
 morsecorpcoop
 transcarent
-verainstituteofjustice
 0x
 100x
 1047games
@@ -94,7 +93,6 @@ verainstituteofjustice
 2kearlycareers
 2seventybioinc
 2uevents
-31stunion
 350org
 360campaignconsulting
 3aware
@@ -115,7 +113,6 @@ aalphabio
 aavaa
 aavantgardebio
 abacusgroup
-abacusinsights
 abatatherapeutics
 abbycare
 abclabs
@@ -374,6 +371,7 @@ atticus
 attune
 audicus
 audigent
+aurorainnovation
 aurorasustainablelands
 authorhealth
 autograph
@@ -420,6 +418,7 @@ basehq
 basepowercompany
 batonhealth
 baymeadows
+bbot
 bccampus
 bcgdv
 bcgdvalumnireferrals
@@ -853,13 +852,13 @@ covacareers
 covant
 covetool
 covey
+cowbellcyber
 cowswap
 coyuchi
 craevents
 craftco
 craftdocs
 crafty
-creativex
 creatordao
 creatorland
 creditas
@@ -903,7 +902,6 @@ cti
 cti-unpublished
 cubeler
 culthealth
-culturebiosciences
 curalate
 curated
 curativeinc
@@ -983,7 +981,6 @@ dfinity
 dharma
 dhinternal
 diagram
-dialecticch
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
@@ -1068,6 +1065,7 @@ eastridgeacademy
 eastsidedermatology
 easyllama
 easypost
+eatgron
 eatjustprotein
 echoai
 eclipsyssolutions
@@ -1113,7 +1111,6 @@ emids
 emotiveio
 emulate
 enchargeai
-endorlabs
 endpoint
 endurance
 energicorelimited
@@ -1453,6 +1450,7 @@ guestready
 guideline
 guidepostchicagoland
 guildeducation
+gulfwindtechnology
 gunner
 guru
 h5pgroup
@@ -1855,7 +1853,6 @@ ledgerinvesting
 ledgestone
 leftcoastventures
 legatosecurity
-legendyounggraduateeu
 leiainc
 lemmatree
 lemonlightmediainc
@@ -1900,6 +1897,7 @@ lithium
 lithosenergy
 litmus46
 littleotter
+littlewisekids
 liveintent
 lively
 livelyhearingcorporation
@@ -2318,7 +2316,6 @@ onelocal
 onelogin
 onemodel
 onesignal
-onestudyteam
 oni
 onistudios
 onlyone
@@ -2478,6 +2475,7 @@ petdesk
 petfolk
 petuum
 phantom45
+phantomai
 pharmbills
 phasefour
 phcglobal
@@ -3085,7 +3083,6 @@ surfair
 surgicalnotes
 surveymonkey
 sustainlife
-svetness
 swagup
 swanbitcoin
 swarmaero
@@ -3109,7 +3106,6 @@ synfindo
 synthesia
 syrup
 sysdig
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3154,6 +3150,7 @@ technisyscareers
 techridge
 techstars
 techtalentandstrategy
+tekion
 teknema
 teladochealth
 telemedicine
@@ -3236,19 +3233,25 @@ threeships
 thrivecapital
 thrivecart
 thriveglobal
+thrivemarket
 throughline
 thumbtack
 thunder
+thunes
 thymecare
+tia
+tidewatertech
 tiermobility
 tiermobilitygermany
+tigargymnastics
+tigera
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
 timos
-tinginternet
+tines
 tinkermode
 tintai
 tinuitisecondarypage
@@ -3266,6 +3269,7 @@ toast
 toastmastersinternational
 tobogganlabs
 togetherai
+togetherwork
 toggleai
 tokensecurity
 tollbit
@@ -4065,7 +4069,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2776)
+## lever (2775)
 netflix
 shopify
 github
@@ -6588,7 +6592,6 @@ trailofbits
 trainual
 transfrvr
 transitscreen
-translifeline
 transmutex
 transwest
 travala
@@ -6843,7 +6846,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (841)
+## ashby (839)
 mercury
 together
 replicate
@@ -7185,7 +7188,6 @@ happeo
 hashboard
 healnow
 health-universe
-heirloomcarbon
 helika
 her
 herojourneyclub
@@ -7277,7 +7279,6 @@ machinery-partner
 machinify
 madcitywindows
 magicbrief
-magicschool
 magna
 magnadigital
 mahway
