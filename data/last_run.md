@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-04 15:35 UTC
+### 1 new matching jobs · 2026-08-04 18:04 UTC
 
-#### From hackernews (1)
-- **[Relevant Healthcare | Lead Software Engineer | Remote (US) | Full-time Relevant builds a data platform that helps safety-net healthcare providers deliver better care using data from their electronic health records](https://news.ycombinator.com/item?id=49170014)** at **Relevant Healthcare** — Location not specified 🏥 · _hackernews_
+#### From greenhouse (1)
+- **[Senior Data Platform Engineer](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8099895&gh_jid=8099895)** at **Gemini** — New York, New York; Miami, Florida; Remote (USA) · `databricks, kafka, aws, python, terraform` · _greenhouse_
