@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3891)
+## greenhouse (3827)
 hingehealth
 maven
 spring
@@ -607,7 +607,6 @@ campuswayfair
 camundaservices
 canary
 candex
-candidly
 candy
 cannalysislabs
 canonicaljobs
@@ -951,6 +950,7 @@ ddbremedy
 dealerinspire
 deardoc
 decisionary
+decisions
 decodable
 dedrone
 deepscribe
@@ -2214,7 +2214,6 @@ nilotherapeutics
 nimblegiant
 nimbustherapeutics
 nirvana
-nisc
 nitricity
 nobellfoods
 nobl9
@@ -2275,7 +2274,6 @@ objective
 objectstream
 ocadotechnology
 octaneai
-octanelending
 ocus
 odkmediainc
 odonate
@@ -2301,7 +2299,6 @@ omaze
 omgcamontreal
 omgcamontrealfr
 omguk
-omidyarnetwork
 omnidata
 omnifdn
 omnionpower
@@ -2379,7 +2376,6 @@ ovo
 owc
 owkin
 owscapitalmanagement
-oxosmedical
 oyster
 p72pi
 pachyderm
@@ -3397,92 +3393,42 @@ vantaiinc
 vareto
 varsitytutors
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
-vectara
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
-verygoodventures
 vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
-vgw
 vhsys
-via
-viaduct
-viagogo
-vialogic
-viamrobotics
-vianttechnology
 viber
-vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3492,24 +3438,14 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
 vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
-viseai
-visia
-visitingmedia
 visor
 visualconcepts
 vitablehealth
@@ -6670,7 +6606,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (837)
+## ashby (838)
 mercury
 together
 replicate
@@ -7404,6 +7340,7 @@ terrafirma
 thanksben
 thesis
 thewfsgroup
+theydo
 thoughtful
 thresh-power
 tigereye
