@@ -1,4 +1,5 @@
-### 1 new matching jobs · 2026-08-04 03:37 UTC
+### 2 new matching jobs · 2026-08-04 06:41 UTC
 
-#### From ashby (1)
-- **[Software Engineer, Monetization Data Platform](https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c)** at **openai** — Mountain View · `python` · _ashby_
+#### From greenhouse (2)
+- **[Software Engineer II, Data Platform](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6133925004)** at **PlayStation Global** — United States, Aliso Viejo, CA 🏥 · `databricks, spark, kafka, aws, gcp, python` · _greenhouse_
+- **[Software Engineer II, Data Platform](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6133926004)** at **PlayStation Global** — United States, Los Angeles, CA 🏥 · `databricks, spark, kafka, aws, gcp, python` · _greenhouse_
