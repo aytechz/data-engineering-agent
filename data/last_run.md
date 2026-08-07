@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-07 20:59 UTC
+### 1 new matching jobs · 2026-08-07 21:56 UTC
 
 #### From greenhouse (1)
-- **[Staff Data Engineer, Data Platform (Lakehouse & Streaming)](https://job-boards.greenhouse.io/duettoresearch/jobs/7831446)** at **Duetto Research** — United States 🤖 · `databricks, pyspark, spark, dbt, airflow, aws` · _greenhouse_
+- **[Staff Software Engineer - Data Platform](https://pantheon.io/about/careers/detail?gh_jid=8056102)** at **Pantheon Systems, Inc** — Canada (Remote) 🏥🤖 · `snowflake, airflow, python, terraform` · _greenhouse_
