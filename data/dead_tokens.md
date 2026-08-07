@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4088)
+## greenhouse (4020)
 hingehealth
 maven
 spring
@@ -423,6 +423,7 @@ barkley
 basehq
 basepowercompany
 batonhealth
+bayada
 baymeadows
 bbot
 bccampus
@@ -497,6 +498,7 @@ bitfury
 bitly
 bitly46
 bitmex
+bitmovin
 bitreactor
 bittrex
 bjss
@@ -646,6 +648,7 @@ carmera
 carmichaellynch
 carnegiescience
 carolinapaydayloansinc
+carolinatitleloansinc
 carrumhealth
 carsandbids
 carsdotcom
@@ -798,7 +801,6 @@ codetta
 codex
 codility
 cofertility
-coherehealth
 cohesity
 cohesityuniversityhiring
 coindesk
@@ -1248,6 +1250,7 @@ floodbase
 floornfts
 flowcarbon
 flowforge
+flowfuse
 floyd
 flybyrobotics
 flyflat
@@ -1419,6 +1422,7 @@ govini
 govos
 govport
 grabango
+gradial
 gradientcomfort
 gradientlearning
 graft
@@ -1431,6 +1435,7 @@ gratadata
 gravitate
 gravitypayments
 gravitywell
+gravwell
 grayling
 graymatterrobotics
 grayscalable
@@ -1451,6 +1456,7 @@ groupblack
 groupninemedia
 growflow
 growtherapy
+gruns
 gtcr
 guayaki
 guerrilla
@@ -1487,6 +1493,7 @@ headborneai-gmbh
 headoutreferrals
 headspace
 headway
+healios
 healthfidelity
 healthgorilla
 healthgrades
@@ -1603,6 +1610,7 @@ hyphenate
 hypixelstudios
 hyundaiuam
 ia
+ians
 ibkr
 ibotta
 iconiqcapital
@@ -1663,6 +1671,7 @@ integrityinstitute
 intelextechnologies
 intelligo
 interchain
+interdependence
 interfaceai
 internationalcruiseandexcursionsinc
 internationalrecruitment
@@ -1752,7 +1761,6 @@ kadenallc
 kaiahealth
 kaiahealthsoftwaregmbh
 kaikosystems
-kairospower
 kajabi
 kakaomobility
 kalderos
@@ -1798,7 +1806,6 @@ kisbeetherapeutics
 kit
 kittycad
 kkr
-klanggames
 klaratechnologies
 kleerandmembersy
 kloo
@@ -1841,7 +1848,6 @@ lambda
 landis
 langai
 lantern
-laportefr
 lastline
 latam
 latchbio
@@ -1849,8 +1855,6 @@ latentai
 laudioinc
 launchyourcareer
 laurel
-layerhealth
-layerzerolabs
 lcgboston
 ldinternships
 leafguard
@@ -2052,7 +2056,6 @@ metaco
 metacore
 metadata
 metagenomi
-metalab
 metapack
 meter
 metromile
@@ -2076,7 +2079,6 @@ mindsdb
 mindtheproduct
 mindvalley
 mineral
-mineralystherapeutics
 minthouse
 mintmobile
 minware
@@ -2086,7 +2088,6 @@ missionbio
 missionlanellc
 missiontelecom
 missionzerotechnologies
-mississippititleloansinc
 mixbook
 mixhalo
 mncannabiscompany
@@ -2173,10 +2174,13 @@ mzwallace
 n2cointernal
 n2homeoffice
 n2y
+nabis
 nacelle
 nanostring
 napster
 nasacademy
+national
+nationalallianceforpubliccharterschools
 nationaldbs
 nationbuilder
 nativo
@@ -2253,7 +2257,6 @@ northstar
 northstarfund
 notablehealth
 notablelabs
-nothing
 nourishingredients
 novalabs
 novetta
@@ -2438,6 +2441,7 @@ parity
 parker
 parkerandace
 parkmobileus
+parsleyhealth
 particle
 particlehealth
 partnerstack
@@ -2554,6 +2558,7 @@ postmates
 powbio
 powerfinance
 powershiftnetwork
+pqshield
 precisioneffect
 precisionscientia
 precisionsystemsinc
@@ -2693,8 +2698,6 @@ relic
 relyance
 remergegmbh
 remind
-renaissancelearning-emea
-renaissancelearning-nam
 render
 reorg
 repeatmd
@@ -2729,7 +2732,6 @@ rinsed
 riotgamesinc
 ripcord
 ripplcare
-ripple
 ripplematch
 ripplematchinterns
 riseforfamilies
@@ -2737,7 +2739,6 @@ riseinteractive
 riskoptics
 ritualdental
 riverfinancial
-riversidenaturalfoodsltd
 riversideresearch
 rivian
 robertrauschenbergfoundation
@@ -2881,7 +2882,6 @@ shift4
 shift4lithuania
 shiftleft
 shipengine
-shipmonk
 shipwell
 shogun
 shopee
@@ -2938,7 +2938,6 @@ slayer
 slicareers
 smalldoor
 smarkets
-smartbear
 smartbiz
 smartcitykitchens
 smartdesignworldwide
@@ -2984,8 +2983,6 @@ sonymusicasiacareers
 sonymusiccanada
 sonymusiccareersafrica
 sonymusiccareersitaly
-sonypicturesimageworks
-soraunion
 soroco
 soulcycle
 soundengineeringsolutions
@@ -3254,146 +3251,81 @@ thoughtful
 thoughtspot
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
 thrivecart
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
 thymecare
 tiermobility
 tiermobilitygermany
-tigargymnastics
-tigera
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
 tippingpointcommunity
-tiptop
-tireseasycom
 titan
 titelmedia
 tmc
 tmg
 tminuszero
-toast
-toastmastersinternational
-tobogganlabs
-togetherai
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
 topcompare
 toposware
-topsort
 topspot
-topsteptrader
-toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
-torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
 tpcengineeringholdingsllc
 tpgcareers
-tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
-transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
-treasuryprime
 treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
 trexsolutions
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinityairmedical
-trinityparktalent
-trinks
 trinternational
-tripactions
-tripadvisor
-triparc
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
 troupehealth
 trove
-trovohealth
 truckstop
 trueanomalyinc
 truebill
@@ -4091,7 +4023,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2779)
+## lever (2780)
 netflix
 shopify
 github
@@ -4603,6 +4535,7 @@ chironhealth
 chooosejobs
 chronicled-2
 chyronhego
+cimgroup
 cinchy
 ciphertrace
 circleco
@@ -6872,7 +6805,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (841)
+## ashby (842)
 mercury
 together
 replicate
@@ -6913,6 +6846,7 @@ alpaca
 alpha
 alpinex
 altercall
+altura
 amca
 amper
 angelinvest
