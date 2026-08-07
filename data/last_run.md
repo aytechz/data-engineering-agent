@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-07 19:15 UTC
+### 1 new matching jobs · 2026-08-07 20:02 UTC
 
 #### From greenhouse (1)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/cortex/jobs/5380208008)** at **Cortex** — Remote 🏥 · `dbt, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/inmarket/jobs/8114866)** at **InMarket** — Remote 🏥 · `spark, airflow, python, sql` · _greenhouse_
