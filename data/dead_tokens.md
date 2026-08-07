@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4347)
+## greenhouse (4368)
 hingehealth
 maven
 spring
@@ -2993,28 +2993,49 @@ spec
 specialized
 spideroak
 spinlaunch
+spinnakersupport
+spins
 spinskinnylabsinc
 spiralyze
 splash
+splashfinancial
 spliced
 splicedjobs
 split
+splitero
 splitmetrics
+splootveterinarycare
+spoileralert
 spokeo
 spongeuk
+sponsorsforeducationalopportunity
+sportandspinephysicaltherapy
 sporttrade
 spotai
+spothopper
+spotme
 spotnanatechnology
 spotoncorporate
 spotonproduct
+spotter
+sprchrgr
 spreadgroup
 sprig
+springboard
+springboardmentors
 springdiscovery
+springfertility
+springhealth66
+springsworkstherapeutics
 sprinklr
+sprintersportses
 sprintray
+sprocketsecurity
+sproutsocial
 sproutsocialcollege
 sprouttherapy
 sprucehealth
+spsnorthamerica
 spycloud
 spyretherapeutics
 squadformersinc
@@ -4350,7 +4371,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2780)
+## lever (2779)
 netflix
 shopify
 github
@@ -5611,7 +5632,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -7232,11 +7252,11 @@ bitewell
 bitnomial
 bizly
 bjak
+bjakcareer
 blackpointcyber
 bland-ai
 blankashby2
 blast-io
-blockworks
 blowfish
 bluesky
 boatsetter
