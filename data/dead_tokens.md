@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4189)
+## greenhouse (4185)
 hingehealth
 maven
 spring
@@ -307,6 +307,7 @@ aptopayments
 aptos
 aputure
 aquant
+aquia
 aradenabattlegrounds
 arcdev
 arcellx
@@ -340,6 +341,7 @@ as
 ascendanalytics
 ascertain
 ascidiantherapeutics
+ashfieldmedcomms
 askmediagroup
 asknicely
 aspinity
@@ -477,6 +479,7 @@ bilsilananotechnologies
 biltrewards
 binanceus
 biocaremedical
+biofourmis
 biograph
 biolumina
 biomechanicsconsultingandresearchllc
@@ -600,6 +603,7 @@ calibrate
 calibratecareers
 caliva
 callibrity
+calm
 calvettifergusonexperiencedprofessionals
 calvettifergusoninternships
 calyxinstitute
@@ -636,7 +640,6 @@ careervillage
 careof
 carerev
 carewell
-cariadinc
 carmera
 carmichaellynch
 carnegiescience
@@ -646,6 +649,7 @@ carsandbids
 carsdotcom
 cartodb
 cartwheelcare
+casago
 cascadedatalabs
 casestatus
 casetext
@@ -1369,7 +1373,6 @@ gitpod
 glaciergrid
 glassdoor
 glean
-glenechogroup
 glia
 glidepathventuresllcdbaprospect14
 glmx
@@ -2021,7 +2024,6 @@ medmen
 meetelise
 meltano
 memed
-memglobal
 memorahealth
 memphismeats
 memryx
@@ -2245,6 +2247,7 @@ novetta
 novig
 novo
 novy
+noyocareers
 nstech
 ntop
 ntx
@@ -2361,6 +2364,7 @@ otainsightltd
 othersideentertainment
 otrium
 otrtransportation
+ottoaviation
 outerbiosciences
 outgo
 outlier
@@ -2380,6 +2384,7 @@ owscapitalmanagement
 oyster
 p72pi
 pachyderm
+pacificdermatologyspecialist
 paciolan
 packlink
 pactlabs
@@ -2415,6 +2420,7 @@ parallaxvolatilityadvisers
 parallelbio
 parallelfinance
 paralleljobs
+parallellearning
 paramountpallet
 parasail
 parento
@@ -2458,14 +2464,12 @@ pebblepost
 pecanai
 peek
 pelacase
-pennylinn
 penrodsoftware
 penumbralabs
 peopledatalabs
 peopledoc
 peoplestrata
 pepperjam
-peptilogics
 perfectday
 periscopedata
 permutive
@@ -2526,7 +2530,6 @@ polygence
 polysign
 pomelo
 poolzup
-popsugar
 populus
 porchdotcommexico
 portagecareers
@@ -2573,6 +2576,7 @@ propellercommunications
 propellerhealth
 propellerindustries
 propertyfinder
+propublica02
 prose
 proteinqureinc
 protenus
@@ -2772,7 +2776,6 @@ sandstonecarealexandria
 sandstonecarebroomfield
 sandstonecaredarien
 sandstonecoloradospringsoutpatient
-sandstonedenver
 sandstonemaryland
 sandstoneremote
 sandtech
@@ -3016,6 +3019,7 @@ squintopera
 squire
 srtx_fr
 st6
+stackexchange
 stacksphere
 stairwell
 stambaughness
@@ -3142,18 +3146,10 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
 tdinternational
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
 teampathy
 teampay
@@ -4850,7 +4846,6 @@ curology
 currencycloud
 curri
 custodiabank
-cxtsoftware
 cybcube
 cybercare
 cyberfame
@@ -5301,6 +5296,7 @@ hexagonusfederal
 hicleo
 highfidelity
 highlight
+highspot
 highwirepr
 hike
 himama
@@ -5814,7 +5810,6 @@ moxionpower
 mrss
 mryum
 mtspartners
-mulliganfunding
 multiversx
 munichelectrification
 myassurehealth
@@ -6222,6 +6217,7 @@ reddit
 reddogmedia
 redwoodresearch
 reebelo
+refed
 reflectorentertainment
 refuel
 regalvoice
@@ -6972,7 +6968,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (839)
+## ashby (842)
 mercury
 together
 replicate
@@ -7171,6 +7167,7 @@ daydream-ai
 dclimate
 dedale
 deel
+deepwalk
 definelycareers
 delian
 delphos-labs
@@ -7271,6 +7268,7 @@ frequence
 fruitist
 fulcrum-research
 fullstory
+fundamentalresearchlabs
 future-find
 futureaudioworkshop
 futurice
@@ -7623,6 +7621,7 @@ savvyinsurance-trellis
 scaler
 scicommedia
 scratchpad
+screenverse
 scribd
 scrunch-ai
 sealed
