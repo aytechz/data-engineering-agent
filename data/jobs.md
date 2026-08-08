@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-08-08 15:46 UTC_
+_Last updated: 2026-08-08 16:52 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,7 +8,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Cloud Data Architect](https://job-boards.greenhouse.io/oddball/jobs/7835835003)** at **Oddball** — Remote 🏥🤖 · `databricks, aws, azure` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Sr. Specialist Solutions Architect - Data Engineering & Warehousing](https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002)** at **Databricks** — United States · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
@@ -208,3 +207,4 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Salesforce Data Architect](https://job-boards.greenhouse.io/neuraflash/jobs/5569997004)** at **NeuraFlash, Part of Accenture** — Remote - United States 🤖 · `aws, sql` · _greenhouse_
 - **[Staff Data Engineer](https://www.nexhealth.com/careers/open-positions?gh_jid=5584552004)** at **NexHealth** — San Francisco, California, United States 🏥 · `snowflake, python, sql` · _greenhouse_
 - **[Software Engineer III/Senior, Data Platform](https://job-boards.greenhouse.io/ngrokinc/jobs/5802058004)** at **ngrok Inc.** — United States 🏥 · `dbt, kafka, aws, python, sql, terraform` · _greenhouse_
+- **[Sr. Data Engineer (Brazil and Argentina Only)](https://www.niche.com/about/jobs?gh_jid=6017673004)** at **Niche** — Remote · `snowflake, dbt, airflow, kafka, python, sql` · _greenhouse_
