@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-10 17:09 UTC
+### 1 new matching jobs · 2026-08-10 18:04 UTC
 
-#### From ashby (1)
-- **[Member of the Technical Staff - Data Engineer](https://jobs.ashbyhq.com/standinsurance/5f076dfd-80ff-4d09-bbcb-b7342cee4f7d)** at **standinsurance** — San Francisco 🤖 · `dbt, airflow` · _ashby_
+#### From greenhouse (1)
+- **[Staff Data Engineer - Data Infrastructure](https://job-boards.greenhouse.io/discord/jobs/8691572002)** at **Discord** — San Francisco Bay Area · `dbt, python, sql` · _greenhouse_
