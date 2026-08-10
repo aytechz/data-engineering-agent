@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-10 18:04 UTC
+### 1 new matching jobs · 2026-08-10 19:17 UTC
 
-#### From greenhouse (1)
-- **[Staff Data Engineer - Data Infrastructure](https://job-boards.greenhouse.io/discord/jobs/8691572002)** at **Discord** — San Francisco Bay Area · `dbt, python, sql` · _greenhouse_
+#### From ashby (1)
+- **[Senior Data Engineer (Python)](https://jobs.ashbyhq.com/pyyne/0b89eb38-dfbb-496f-823d-4ce3d7701026)** at **pyyne** — Brazil (Remote) 🤖 · `airflow, python` · _ashby_
