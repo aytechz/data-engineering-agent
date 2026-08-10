@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-10 15:17 UTC
+### 1 new matching jobs · 2026-08-10 17:09 UTC
 
-#### From greenhouse (1)
-- **[Senior Data Platform Developer - AI Platform](https://job-boards.greenhouse.io/geotab/jobs/5219540008)** at **Geotab** — Atlanta, Georgia - USA 🏥🤖 · `aws, gcp, azure, python` · _greenhouse_
+#### From ashby (1)
+- **[Member of the Technical Staff - Data Engineer](https://jobs.ashbyhq.com/standinsurance/5f076dfd-80ff-4d09-bbcb-b7342cee4f7d)** at **standinsurance** — San Francisco 🤖 · `dbt, airflow` · _ashby_
