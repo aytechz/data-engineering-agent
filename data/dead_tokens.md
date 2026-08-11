@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3957)
+## greenhouse (3985)
 hingehealth
 maven
 spring
@@ -420,7 +420,6 @@ barkley
 basehq
 basepowercompany
 batonhealth
-bayada
 baymeadows
 bbot
 bccampus
@@ -3092,6 +3091,7 @@ surfair
 surgicalnotes
 surveymonkey
 sustainlife
+svetness
 swagup
 swanbitcoin
 swarmaero
@@ -3338,6 +3338,7 @@ turnkeylenderinc
 turntide
 turo
 turquoisehealth
+turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
@@ -3345,23 +3346,50 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
+twinhealth
 twinstar
+twinstream
 twinternal
+twistbioscience
 two
+twochairs
 twonil
+twosixtechnologies
 txm
+typeface
+typeform
+tyreeanddangelo
+tysonmendesllp
 u410
+uasi
 uchicagoepic
+udacity
+udemybedi
+udio
 uiflow
+ujet
+ukmed
+ultimagenomics
 ultimaker
+ultragenyxpharmaceutical
 ultramobile
+umaeducationinc
+umistone
+umojabiopharma
+umt
 unanet
 unbounce
 uncacheable_attributes
+unchainedlabs
 uncommongoods
+undeadlabsllc
+underdogfantasy
+understood
 understoodcare
+unframe
 unionai
 uniplaces
+unisonhomeownershipinvestors
 unispace
 unispacelifesciences
 uniswapfoundation
