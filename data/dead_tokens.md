@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3900)
+## greenhouse (3941)
 hingehealth
 maven
 spring
@@ -64,7 +64,6 @@ hashicorp
 linear
 retool
 posthog
-cloudflare
 substack
 beehiiv
 loomhq
@@ -78,7 +77,6 @@ alloycampus
 capitalrx
 klaviyocampus
 morsecorpcoop
-sharkninjaoperatingllc
 transcarent
 0x
 100x
@@ -166,7 +164,6 @@ aequitabioworks
 aerodome
 aerospike
 aetion
-aevexaerospace
 aevum
 aevumdefense
 afcvolunteers
@@ -216,7 +213,6 @@ allturtles
 alma
 aloft
 alpenlabs
-alphaalternatives
 alphaawmeur
 alphahawaii
 alteradigitalhealth
@@ -232,7 +228,6 @@ altpep
 altro
 altruistiq
 altscore
-alumis
 alx
 amb
 ambiencehealthcare
@@ -448,6 +443,7 @@ beeshiringday
 beeswax
 beewise
 belharratherapeutics
+bellbros
 belonghome
 benchling
 bendhealth
@@ -492,6 +488,7 @@ bioptimus
 biorasillc
 bioskryb
 biospanjobs
+bird
 bitbio
 bitcoincom
 bitcoindepot
@@ -515,7 +512,6 @@ blisspointmediatinuiti
 blitzapp
 blockdaemon
 blockfi
-blockrenovation
 blockstream
 blocpower
 blokparty
@@ -554,7 +550,6 @@ bosonprotocol
 boundlessbio
 boundlessimmigration
 boxedwholesale
-braineffectjobs
 braingu
 brainly
 braintechnologies
@@ -576,7 +571,6 @@ brightinsight
 broadvoice
 brookfieldproperties
 brooklinen
-bseglobal
 bsr
 btqfinancial
 btsecondaryboard
@@ -1857,6 +1851,7 @@ latentai
 laudioinc
 launchyourcareer
 laurel
+lawmatics
 lcgboston
 ldinternships
 leafguard
@@ -1993,7 +1988,6 @@ markerlearning
 marketmuse
 markets
 maro
-marqeta
 marsdiscoverydistrict
 martinaireaviation
 maslanskycareers
@@ -2093,7 +2087,6 @@ missionzerotechnologies
 mixbook
 mixhalo
 mixmode
-mixtiles
 mncannabiscompany
 mobility
 mocafi
@@ -2201,9 +2194,9 @@ ncx
 near
 neara
 nearby
-nearspacelabs
 nearsure
 nedforct
+neighborhoodscom
 neondatabase
 neonkoi
 neptunebio
@@ -2497,6 +2490,7 @@ perspective
 petdesk
 petfolk
 petuum
+pfm
 phantom45
 pharmbills
 phasefour
@@ -2528,6 +2522,7 @@ placeexchange11
 placemeter
 planera
 planningcenter
+planomatic
 playkids
 playstationeurope
 plenty
@@ -2699,6 +2694,7 @@ relic
 relyance
 remergegmbh
 remind
+renaissancelearning-nam
 render
 reorg
 repeatmd
@@ -2791,7 +2787,6 @@ sandstonecarealexandria
 sandstonecarebroomfield
 sandstonecaredarien
 sandstonecoloradospringsoutpatient
-sandstonemaryland
 sandstoneremote
 sandtech
 sanityio
@@ -3041,7 +3036,6 @@ stambaughness
 standardai
 stardust
 starry
-stashinvest
 statement
 status72
 stauer
@@ -3084,6 +3078,7 @@ studiosarchitecture
 styleseat32
 stylitics
 styra
+subsplash
 successkpiinc
 sugar
 sullyai
@@ -3098,7 +3093,6 @@ superbet
 superblocks
 superhuman
 superlayer
-supernal
 superrarelabs
 supio
 supportlogic
@@ -3328,7 +3322,6 @@ trmlabs
 tropic
 troupehealth
 trove
-trovohealth
 trueclassicteesllc
 trueindependentholdings
 truelogic
@@ -3386,58 +3379,106 @@ universeenergy
 universityofchicago
 unohealth
 upsolver
+upstart
 upstartlab
 upstatement
 upstreamcare
+upstreamusa
 uptake
 uptivhealth
+upwardhealth
+upwork
 upworthy
 urban
+urbancompass
 urbanfootprint
+urbansky
+urbansportsclub
+urbansystems
 urbint
 urbnleaf
+urgentcareforchildren
+urpt
+ursamajor
+urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
+usenourish
+usergems
 userinterviews
 userleap
 ushur
 usjetaa
 ustwo
 ustwogames
+utahtitleloansinc
 utilityapi
+uvimco
 vac
+vacasa
+vacationinc
+vaco
+vailclinicincdbavailhealthhospital
+valaratomics
+valerahealth
 valiantharborinternationalllc
 valimailinc
+valleyhospital
 valleyview
+valohealth
 valon
 valorainc
+valspec
+valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanguarddermatology
+vanleeuwenicecream
+vanmetre
 vannahealth
+vannevarlabs
 vanta
 vantaiinc
 vareto
+variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
+vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
+vectara
 vectornorth
+vectranetworks
+vedantabiosciences
+veeamsoftware
 veedio
 veem
 veesearch
+vegaamericas
+veir
+velir
 velir-private
+velocityelectronics
 velocityglobal
 velodyne
+velora
 venafi
 vendia
 vendr
 venmo
 venn
+venncity
+venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
@@ -3903,7 +3944,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2783)
+## lever (2785)
 netflix
 shopify
 github
@@ -5476,6 +5517,7 @@ milliondollarbabyco
 mindbloom
 mindsdb
 mineral
+minesense
 minimumltd
 minthouse
 mirror
@@ -5802,6 +5844,7 @@ poshtech
 possiblefinance
 potentialmotors
 potloc
+powdevs
 ppaz
 ppgnnj
 ppgt
