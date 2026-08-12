@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4164)
+## greenhouse (4106)
 hingehealth
 maven
 spring
@@ -1373,6 +1373,7 @@ giphy
 github
 gitpod
 glaciergrid
+glance
 glassdoor
 glean
 glia
@@ -2823,7 +2824,6 @@ sealed
 sealstorage
 seam
 seamlessai
-seaporttherapeutics
 searchdiscovery
 secondspectrum
 secretescapes
@@ -2901,7 +2901,6 @@ signifyhealthireland
 sigstr
 sigtech
 siilo
-silananotechnologies
 silvare
 silverfin
 silvus-international-opportunites
@@ -2955,7 +2954,6 @@ snappy
 snowcompanies
 snowpeak
 snyk
-socialfinance
 socialpoint
 sociummedia
 socure
@@ -3186,102 +3184,47 @@ tenetfintechgroup
 tensor
 tenthousand
 terapore
-terniumrevenuecyclemanagement
-terrabis
 terrafuse
 terramera
-terranorbitalcorporation
 terraytherapeutics
-terremotobiosciencesinc
 territorialdentalclinic
 tesseract
-tesseratherapeutics
-testendouble
-testlio
-testnisc
-tetra
-texasairsystems
-texascartitleandpaydayloanservicesinc
-texaschillersystemsasp
 texthelp
 textileio
-textio
-textus
 tezatechnologies
 thalamusgme
-thanx
-thatch
 thatlot
-thatsnomoonentertainment
-theagencyre
-thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
-thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
 theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
-thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
 theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
-themotleyfool
-themuseumofscience
 thena
-thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
-theoncologyinstitute
-theorchard
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
-thepharmacyhub
 thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
 thesiscareers
 thesisdefense
@@ -3301,7 +3244,6 @@ thinkific
 thinkingmachines
 thinkmarkets
 thinkofus
-thinkonward
 thinx
 thirdharmonicbio
 thirdlove
@@ -4167,7 +4109,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2789)
+## lever (2785)
 netflix
 shopify
 github
@@ -5179,7 +5121,6 @@ goconsensus
 goeverbright
 goforward
 gogolook
-gohighlevel
 gojek
 gokenamerica1
 goldcast
@@ -5191,7 +5132,6 @@ goodgamestudios
 goodrx
 gordian-bio
 gorgias
-gorh
 gorillalogic
 goshippo
 gotit
@@ -5435,7 +5375,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6417,7 +6356,6 @@ skilljar
 skillshare
 skims
 skulabs
-skyslope
 slab
 slang
 sleuth
