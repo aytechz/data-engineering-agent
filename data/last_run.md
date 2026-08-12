@@ -1,9 +1,8 @@
-### 4 new matching jobs · 2026-08-12 17:13 UTC
+### 3 new matching jobs · 2026-08-12 18:08 UTC
 
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/ambiencehealthcare/75820fb1-fd8e-4128-bb2b-880c9e5873e5)** at **ambiencehealthcare** — San Francisco 🏥 · `snowflake, dbt, airflow, python, sql` · _ashby_
+#### From greenhouse (2)
+- **[Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)** at **Samsara** — Remote - US 🤖 · `databricks, snowflake, dbt, python, sql` · _greenhouse_
+- **[Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)** at **Samsara** — Remote - Canada 🤖 · `databricks, snowflake, dbt, python, sql` · _greenhouse_
 
-#### From greenhouse (3)
-- **[Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8126023)** at **Instacart** — Canada - Remote (ON, AB, BC, or NS Only) · `spark, snowflake, dbt, airflow, python, sql` · _greenhouse_
-- **[Marketing Science Senior Analyst - BI, Conversational Analytics & Data Engineering](https://job-boards.greenhouse.io/criticalmass/jobs/8043943)** at **Critical Mass** — San Jose · `sql` · _greenhouse_
-- **[Senior Data Engineer](https://www.revmed.com/careers-list/?gh_jid=7775242003)** at **Revolution Medicines** — Redwood City, California, United States 🏥🤖 · `databricks, spark, dbt, airflow, python, sql` · _greenhouse_
+#### From lever (1)
+- **[Distinguished Software Engineer, Data Platform](https://jobs.lever.co/saviynt/d598946b-5f3a-4d59-82c3-4719fff0c1f7)** at **saviynt** — Milpitas, California 🤖 · _lever_
