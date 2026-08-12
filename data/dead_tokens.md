@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4076)
+## greenhouse (4075)
 hingehealth
 maven
 spring
@@ -35,7 +35,6 @@ pinecone
 plaid
 notion
 canva
-wise
 pelotoncycle
 doordash
 ramp
@@ -107,9 +106,9 @@ transcarent
 86repairs
 8rivers
 98point6
-9thwayinsignia
 a1mreferrals
 a3ce416456924276a59de91bca740028
+aacpnw
 aavaa
 aavantgardebio
 abacusgroup
@@ -119,8 +118,8 @@ abclabs
 abdielcapital
 abetterchicago
 ability
+able
 ableto
-ably30
 abodo
 abodu
 aboutfresh
@@ -188,6 +187,7 @@ airbase
 aircore
 airlifttechnologies
 airpacairlines
+airspace
 airspeed
 airtime
 airworks
@@ -207,7 +207,6 @@ allbirdsretail
 allbooked
 allconnect
 allegro
-allenintegratedsolutions
 allergandatalabs
 alleycorp
 alliedglobalmarketing
@@ -219,6 +218,7 @@ aloft
 alpenlabs
 alphaawmeur
 alphahawaii
+alpineeagle
 alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
@@ -232,7 +232,6 @@ altpep
 altro
 altruistiq
 altscore
-aluinternalopenings
 alx
 amb
 ambiencehealthcare
@@ -241,6 +240,7 @@ ambientai
 ambit
 amcrawfordinc
 amedigital
+amendconsulting
 amenitiz
 americaneedsyou
 americannational
@@ -298,6 +298,7 @@ applytoonbrand
 applytoprefix
 applytoroadforge
 applytowhoosh
+appnovation
 appomni
 apprentice
 appsumocareers
@@ -397,10 +398,10 @@ avaxambassador
 avea
 avelaeducation
 avenueone
-aviatornation
 avitapropertymanagement
 awarehealthcare
 away
+axicorpfinancialservicesptyltd
 axiomquant
 axioshq1
 axisapp
@@ -410,7 +411,6 @@ azenia
 aztec
 aztecgroup
 azumo
-azuritypharmaceuticals
 babbel
 backlight
 baincapitalventures
@@ -457,6 +457,7 @@ benepass
 benevity
 bensonhillinc
 bernie2020
+bessemerventurepartners
 bessemerventurepartnersfellows
 betsierivervet
 better
@@ -533,6 +534,7 @@ blueoriginllc
 bluevine
 blumira
 blurstudio
+blytheco
 bmf
 boardable
 boatwright
@@ -577,6 +579,7 @@ broadvoice
 brookfieldproperties
 brooklinen
 bsr
+bti36021
 btqfinancial
 btsecondaryboard
 bubble
@@ -732,6 +735,7 @@ chief
 childandfamily
 chilipiper
 chopraglobal
+chowbus
 chromamedicine
 chronicled
 churchill
@@ -786,6 +790,7 @@ cloudbees
 cloudcampaign
 cloudian
 cloudops
+clubcolors
 clue
 clydegroup
 cmc
@@ -848,6 +853,7 @@ coop
 copperleaf
 copysmith
 cora
+corcepttherapeutics
 cordros
 corellium
 corepilot
@@ -859,7 +865,6 @@ corvusinsurance
 cosseandsilmonorthodontics
 cota
 cotap
-coupanginternal
 coursehero
 coursekey
 coursemojo
@@ -916,6 +921,7 @@ cti
 cti-unpublished
 cubeler
 culthealth
+cultureamp
 curalate
 curated
 curativeinc
@@ -1057,6 +1063,7 @@ drobockyorthodontics
 droit
 drop
 dropps
+drsquatch
 drw
 dtljobs
 dualityroboticsinc
@@ -1133,6 +1140,7 @@ energysolutionsinternships
 energywebfoundation
 engieenergyaccess
 englishscore
+ensco
 enscohotjobs
 ensembleai
 ensitefulinternalpositions
@@ -1170,6 +1178,7 @@ everops
 everpass
 everphone
 evertrue
+everway
 everylife
 evidation
 evive
@@ -1218,6 +1227,8 @@ fenixinternational
 fermataenergy
 fernride
 fetchrewards
+fictiv
+fieldwire
 fifthgaittechnologies
 figuremarketsinc
 fincent
@@ -1237,6 +1248,7 @@ firstlookmedia
 firstresonance
 firstsanfranciscopartners
 fiveringsevents
+flagshippioneeringinc
 flagstone
 flamboyanfoundation
 flashbots
@@ -1275,6 +1287,7 @@ foodspring
 forage
 forallsecure
 forerunner
+foresightmentalhealth
 forethought
 forgerock
 formatservices
@@ -1291,6 +1304,7 @@ forwardfinancing
 fossa
 foundation
 foundationforahealthystpetersburg
+foundationriskpartners
 foundersintelligence
 foundrydigital
 foundrydigitalinternships
@@ -1417,10 +1431,12 @@ goldsky
 gomedia
 gonimbly
 goodfeet
+goodnotes
 goodtime
 goodunited
 goodworker
 goodworldwide
+goremutualinsurance
 govini
 govos
 govport
@@ -1457,6 +1473,7 @@ groupblack
 groupninemedia
 growflow
 growtherapy
+grvty
 gtcr
 guayaki
 guerrilla
@@ -1594,7 +1611,6 @@ huddle01
 hudsonmx
 humanconditionsafety
 humane
-humansignal
 humu
 huspy
 hutsoninc
@@ -1757,6 +1773,7 @@ junglescout
 jungroup
 junomedical
 justfund
+juvare
 jwp
 jwplayer
 jwplumbingheatingair
@@ -1940,6 +1957,7 @@ logichub
 logikcull
 logiwacareers
 logixboard
+lokajobs
 longridge
 lookout
 lookoutinc
@@ -1991,6 +2009,7 @@ maple
 mara
 marakonevents
 marathondigitalholdings
+margaux
 markerlearning
 marketmuse
 markets
@@ -2189,6 +2208,7 @@ nativo
 nautiluslabs
 nava
 navdy
+navierai
 navigationfund
 navigatr
 navigatrgroupinternal
@@ -2237,9 +2257,11 @@ nilotherapeutics
 nimblegiant
 nimbustherapeutics
 nirvana
+nisc
 nitricity
 nobellfoods
 nobl9
+noble
 nocdinc
 nogginit
 nohozephyrinc
@@ -2575,6 +2597,7 @@ pricespider
 primeprotocol
 primetrust
 privacy
+privateequityinsights
 prodlyjobs
 productboard
 productiv
@@ -2867,6 +2890,7 @@ sevenrooms
 sevenroomssgp
 sevenroomsuae
 sfgiants
+sfox
 sgs
 shaker
 shapeshift
@@ -3035,7 +3059,6 @@ srtx_fr
 st6
 stackexchange
 stacksphere
-stage
 stairwell
 stambaughness
 standardai
@@ -3092,6 +3115,7 @@ summitpublicschools
 sumo
 sunnymorningfoods
 sunshine
+suntimes
 supabase
 superbet
 superblocks
@@ -3114,7 +3138,6 @@ swingeducation
 swirlds
 swishanalytics
 syapse
-sylogist
 sylva
 symblai47
 symbolica
@@ -3126,6 +3149,7 @@ syncron
 synctera
 synfindo
 synthesia
+synthetaic
 syrup
 sysdig
 tab
@@ -3226,6 +3250,7 @@ theorg
 theoutline
 thepennyhoarder
 thephoenix
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
@@ -3242,6 +3267,7 @@ thevets
 thezebra
 thinkific
 thinkingmachines
+thinkonward
 thinx
 thirdharmonicbio
 thirdway
@@ -3277,46 +3303,19 @@ titelmedia
 tmc
 tmg
 tminuszero
-tobogganlabs
-togetherai
-togetherwork
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
-toogoodtogo
-toojaysdeli
 topcompare
 toposware
-topsort
 topspot
-topsteptrader
-toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
-torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
-towerresearchcapital
-townofsnowmassvillagecolorado
-townsquaremedia
-tpcengineeringholdingsllc
 tpgcareers
-tr1x
 trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
@@ -6865,7 +6864,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (856)
+## ashby (855)
 mercury
 together
 replicate
@@ -6932,7 +6931,6 @@ atomicindustries
 atrato
 auditboard
 auger
-august
 authenticins
 autone
 avalanchefusion
