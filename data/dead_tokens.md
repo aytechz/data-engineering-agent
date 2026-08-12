@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4104)
+## greenhouse (4164)
 hingehealth
 maven
 spring
@@ -66,7 +66,6 @@ posthog
 substack
 beehiiv
 loomhq
-otter
 copilot
 zapier
 shippo
@@ -467,6 +466,7 @@ beyondidcareers
 beyondidentity
 beyondidtalentcommunity
 beyondmissioncapablesolutionsllc
+bfiprep
 bfmateship
 bgbgroup
 bhub
@@ -981,8 +981,6 @@ designmind
 designpickle
 designwithinreach
 desktopmetal
-destinationcanada
-destinationcanadafr
 deutschnewyork
 developforgood
 devries
@@ -2825,6 +2823,7 @@ sealed
 sealstorage
 seam
 seamlessai
+seaporttherapeutics
 searchdiscovery
 secondspectrum
 secretescapes
@@ -2902,6 +2901,7 @@ signifyhealthireland
 sigstr
 sigtech
 siilo
+silananotechnologies
 silvare
 silverfin
 silvus-international-opportunites
@@ -2955,6 +2955,7 @@ snappy
 snowcompanies
 snowpeak
 snyk
+socialfinance
 socialpoint
 sociummedia
 socure
@@ -3185,61 +3186,120 @@ tenetfintechgroup
 tensor
 tenthousand
 terapore
+terniumrevenuecyclemanagement
+terrabis
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
 territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
+thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
 theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
+thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
 theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
 themarshallproject
+thematherevanston
 themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
 thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
+thepharmacyhub
 thephoenix
+theplaceforchildrenwithautism
+thequalitygroupgmbh1
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
+theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
+thesciongroupllc
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
 thetradedesk
 thetustingroupasp
+thevascularcaregroup
 thevets
+theweathercompany
+thewilshiregroup
 thezebra
+thiess
 thinkacademyus
 thinkific
 thinkingmachines
+thinkmarkets
 thinkofus
 thinkonward
 thinx
@@ -4107,7 +4167,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2786)
+## lever (2789)
 netflix
 shopify
 github
@@ -4806,6 +4866,7 @@ deloitte
 delphix
 deltadental
 delv
+demiurgestudios
 density
 desafiolatam
 desbytech
@@ -5118,6 +5179,7 @@ goconsensus
 goeverbright
 goforward
 gogolook
+gohighlevel
 gojek
 gokenamerica1
 goldcast
@@ -5129,6 +5191,7 @@ goodgamestudios
 goodrx
 gordian-bio
 gorgias
+gorh
 gorillalogic
 goshippo
 gotit
@@ -6895,7 +6958,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (855)
+## ashby (854)
 mercury
 together
 replicate
@@ -7231,7 +7294,6 @@ greylock
 gridium
 gridwise
 groombuggy
-groundtruthlabs
 growtherapy
 growthtroops
 guaranteed
