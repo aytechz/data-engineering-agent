@@ -1,5 +1,4 @@
-### 2 new matching jobs · 2026-08-13 02:47 UTC
+### 1 new matching jobs · 2026-08-13 05:05 UTC
 
-#### From greenhouse (2)
-- **[Sr. Data Engineer](https://job-boards.eu.greenhouse.io/teachablecareers/jobs/4935450101)** at **Teachable** — Remote - Brazil · `spark, dbt, airflow, kafka, aws, python` · _greenhouse_
-- **[Software Engineer - X Data Engineering](https://job-boards.greenhouse.io/xai/jobs/5182183007)** at **SpaceXAI** — Palo Alto, California 🏥 · `spark, kafka, python, sql` · _greenhouse_
+#### From greenhouse (1)
+- **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/startree/jobs/6142775004)** at **StarTree** — India (Remote) · `python, sql` · _greenhouse_
