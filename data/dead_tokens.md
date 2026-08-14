@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4126)
+## greenhouse (4162)
 hingehealth
 maven
 spring
@@ -33,7 +33,6 @@ cohere2
 mistral
 pinecone
 plaid
-discord
 notion
 canva
 pelotoncycle
@@ -108,7 +107,6 @@ transcarent
 86repairs
 8rivers
 98point6
-a16z
 a1mreferrals
 a3ce416456924276a59de91bca740028
 aavaa
@@ -879,6 +877,7 @@ creditkarma
 crestline
 crigroup
 crisistextline86
+crisprecruit
 criticalideas
 crocscorporate
 crossbeam
@@ -976,7 +975,6 @@ delterra
 demandbase
 denim
 density
-denverbroncosteamllc
 dermavant20
 dermbiont
 designitnorthamerica
@@ -1131,7 +1129,6 @@ energysolutionsinternships
 energywebfoundation
 engieenergyaccess
 englishscore
-enlacehealth
 enscohotjobs
 ensembleai
 ensitefulinternalpositions
@@ -1157,6 +1154,7 @@ ethyca
 euclidpower
 eurowingsdigital
 eventbriteinc
+eventsandinterns
 eventstore
 eventussystemsinc
 everactive1
@@ -1304,6 +1302,7 @@ frankieone
 franklincovey
 freedamedia
 freedomofthepressfoundation
+freenow
 freetrade
 freewill
 frequenceinc
@@ -2790,6 +2789,7 @@ samlabs
 samsungaustinsemiconductor
 samsungcollegeprogram
 sanabilventurestudio
+sanabiotech
 sandboxaq
 sandstonecarebroomfield
 sandstonecaredarien
@@ -2919,6 +2919,7 @@ simple
 simplefinance
 simplehealth
 simplesurance
+simplifed
 simplify360
 simpluris
 simply
@@ -2987,6 +2988,7 @@ sonymusicasiacareers
 sonymusiccanada
 sonymusiccareersafrica
 sonymusiccareersitaly
+sonymusicinternshipsus
 soroco
 soulcycle
 soundengineeringsolutions
@@ -3007,7 +3009,6 @@ sparrowventures
 spartanradar
 spec
 specialized
-sphereentertainment
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3122,6 +3123,7 @@ symblai47
 symbolica
 symend
 symmetrysoftware
+synacksrt
 synccomputing
 synchron
 syncron
@@ -3151,6 +3153,7 @@ talos
 tamanna
 tangocard
 tangoio
+tanius
 tanso
 tapresearch
 targetrwe
@@ -3192,6 +3195,7 @@ tenderfood
 tenet
 tenetfintechgroup
 tensor
+tenstorrent
 tenthousand
 terapore
 terrafuse
@@ -3201,31 +3205,63 @@ territorialdentalclinic
 tesseract
 texthelp
 textileio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
+thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
 theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
+thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
 theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
 themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
 thepacgroup
 thepennyhoarder
@@ -4129,9 +4165,8 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2794)
+## lever (2792)
 netflix
-spotify
 shopify
 github
 quora
@@ -4174,8 +4209,6 @@ upstart
 nuro2
 anysignal
 aofl
-hermeus
-shieldai
 10up-2
 174powerglobal
 1776
@@ -4187,7 +4220,6 @@ shieldai
 3box
 3dhubs
 3eco
-3pillarglobal
 3xmgroup
 42dot
 4mation
@@ -4262,6 +4294,7 @@ alation
 albedo
 alchemy
 alcion
+alertus
 aleysian
 algolia
 algorex
@@ -5541,6 +5574,7 @@ levvel
 lexingtonmedical
 liberatii
 lifen
+lifestance
 lightci
 lillio
 limberhealth
@@ -6925,7 +6959,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (855)
+## ashby (856)
 mercury
 together
 replicate
@@ -7470,6 +7504,7 @@ pahdo
 parable
 paradigm-ai
 parallel-biosystems
+parallel-fluidics
 parasol
 parcha
 parrot
