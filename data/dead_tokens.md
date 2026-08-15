@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4158)
+## greenhouse (4190)
 hingehealth
 maven
 spring
@@ -77,6 +77,7 @@ capitalrx
 klaviyocampus
 morsecorpcoop
 transcarent
+visiersolutionsinc
 0x
 100x
 1047games
@@ -540,6 +541,7 @@ bolt42
 bombfell
 bondbrothersinc
 bondfinancialtechnologies
+bondora
 bonobos
 bonzzu
 booker
@@ -548,6 +550,7 @@ boomsupersonic
 boostinc
 boostinsurance
 bosonprotocol
+boulevard
 boundlessbio
 boundlessimmigration
 boxedwholesale
@@ -558,6 +561,7 @@ braintree
 braintrust
 branch32
 brands4friends
+brandwatch
 bravehealth
 breakthroughenergy38
 breezeairways
@@ -574,6 +578,7 @@ broadvoice
 brookfieldproperties
 brooklinen
 bsr
+bstocksolutions
 btqfinancial
 btsecondaryboard
 bubble
@@ -619,6 +624,7 @@ candex
 candidly
 candy
 cannalysislabs
+cannondesign
 canonicaljobs
 canvas
 canvasconstruction
@@ -822,6 +828,7 @@ common
 commonwealth
 communitychange
 comparablysandboxsandbox
+compliancygroupllc
 conceptarthouse
 condorcomputing
 conductor
@@ -1230,8 +1237,10 @@ firstlookmedia
 firstresonance
 firstsanfranciscopartners
 fiveringsevents
+fivesky
 flagstone
 flamboyanfoundation
+flash
 flashbots
 flashpoint
 flatfileio
@@ -1270,6 +1279,7 @@ forallsecure
 forerunner
 forethought
 forgerock
+formaaiinc
 formatservices
 formidable
 forta
@@ -2767,6 +2777,7 @@ rvohcontentfreelance
 rxmosaic
 rxvantage
 saasacademy
+saatva
 sada
 sadaindia
 safebase
@@ -2879,6 +2890,7 @@ shift
 shift4
 shift4lithuania
 shiftleft
+shinola
 shipengine
 shipwell
 shogun
@@ -2912,6 +2924,7 @@ simple
 simplefinance
 simplehealth
 simplesurance
+simplifed
 simplify360
 simpluris
 simply
@@ -2962,6 +2975,7 @@ sodahealth
 soeffects
 sofarocean
 sofarsounds
+sofi
 sofregen
 softermii
 sojern
@@ -2974,6 +2988,7 @@ soluna
 somespiderstudios
 sonder
 sondermind
+sonic
 sonyinteractiveentertainmentplaystation
 sonymusic
 sonymusicasiacareers
@@ -3028,6 +3043,7 @@ squadformersinc
 squintopera
 squire
 srtx_fr
+ssreferrals
 st6
 stackexchange
 stacksphere
@@ -3164,6 +3180,7 @@ teammobot
 teampathy
 teampay
 teamworthy
+tebra
 techietalent
 technisyscareers
 techridge
@@ -3182,21 +3199,36 @@ tempus
 tencent
 tenderfood
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
 terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
 terremotobiosciencesinc
 territorialdentalclinic
 tesseract
 tesseratherapeutics
+testendouble
 testlio
 testnisc
+tetra
+texasairsystems
 texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
 textio
