@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4077)
+## greenhouse (4097)
 hingehealth
 maven
 spring
@@ -528,7 +528,6 @@ bluegranite
 blueground
 blueoriginllc
 bluevine
-bluewaterthinking
 blumira
 blurstudio
 bmf
@@ -3001,7 +3000,6 @@ sparrowventures
 spartanradar
 spec
 specialized
-specialty1
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3060,7 +3058,6 @@ storicardmx
 storkclub
 stormpath
 storyblocks
-stratacareers
 strataidentity
 strategicresolutionexperts
 strava
@@ -3242,35 +3239,58 @@ thinkific
 thinkingmachines
 thinx
 thirdharmonicbio
+thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
 thomasvillechildcare
+thorn
+thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
 thrivecart
+thrivedigital
 thriveglobal
+thrivemarket
 throughline
 thumbtack
 thunder
+thunes
 thymecare
+tia
+tide
+tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
+tigargymnastics
+tigera
+tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
+timos
+tines
+tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
+tipaltisolutions
 tippingpointcommunity
+tiptop
 tiree
+tireseasycom
 titan
 titelmedia
 tmc
@@ -4080,7 +4100,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2792)
+## lever (2791)
 netflix
 shopify
 github
@@ -6654,7 +6674,6 @@ tunein
 tunnl-data
 turing-labs
 tuskventures
-tutorintelligence
 tweeq
 twelvelabs
 twentyfirstcenturybrand
