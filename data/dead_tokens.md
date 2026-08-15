@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4189)
+## greenhouse (4183)
 hingehealth
 maven
 spring
@@ -1270,7 +1270,6 @@ forallsecure
 forerunner
 forethought
 forgerock
-formationbio
 formatservices
 formidable
 forta
@@ -1291,7 +1290,6 @@ foundrydigitalinternships
 foundrytechnologiesinc
 fountain
 fountain-mx
-fourcornersaviation
 foursight
 foursquare26
 foxrobotics
@@ -3170,12 +3168,8 @@ techietalent
 technisyscareers
 techridge
 techstars
-techstars57
 techtalentandstrategy
-tecovas
-tegnainc
 tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
