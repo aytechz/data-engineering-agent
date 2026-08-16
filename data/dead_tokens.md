@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3953)
+## greenhouse (3937)
 hingehealth
 maven
 spring
@@ -3365,10 +3365,8 @@ ultramobile
 unbounce
 uncacheable_attributes
 uncommongoods
-understood
 unionai
 uniplaces
-unispace
 uniswapfoundation
 uniswaplabs
 unit21
@@ -3378,18 +3376,7 @@ unity3d
 universalhydrogen
 universeenergy
 universityofchicago
-unlockhealth
 unohealth
-unqork
-unrealsnacks
-unybrands
-up
-upbound
-upboundext
-updater
-upgrade
-upkeep
-upshop
 upsolver
 upstart
 upstartlab
@@ -3398,13 +3385,11 @@ upstreamcare
 upstreamusa
 uptake
 uptivhealth
-upwardhealth
 upwork
 upworthy
 urban
 urbancompass
 urbanfootprint
-urbansky
 urbansportsclub
 urbansystems
 urbint
@@ -3412,7 +3397,6 @@ urbnleaf
 urgentcareforchildren
 urpt
 ursamajor
-urschellaboratoriesinc
 urx
 usablemachines
 usaforunhcr
