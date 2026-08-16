@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4248)
+## greenhouse (4192)
 hingehealth
 maven
 spring
@@ -1213,7 +1213,6 @@ fernride
 fetchrewards
 fifthgaittechnologies
 figuremarketsinc
-financialtechnologypartners
 fincent
 findanomaly
 finepointconsulting
@@ -1396,7 +1395,6 @@ go1au
 go1blinkist
 go1eu
 go1us
-goalhaiti
 goalturkey
 goalzimbabwe
 goclio
@@ -1455,7 +1453,6 @@ gtcr
 guayaki
 guerrilla
 guestready
-guidelighthealth
 guideline
 guidepostchicagoland
 guildeducation
@@ -2105,7 +2102,6 @@ molecule
 momatherapeutics
 momenthouse
 momentmarkets
-momentous
 monad
 mondo
 moneylion
@@ -2151,9 +2147,7 @@ mutiny
 mutinyjobs
 mux
 mventures
-mw-tech-grad
 mwnaintern
-mx51
 mybrandforce
 mybrandforceinternalpositions
 mybrandforcereferrals
@@ -2209,7 +2203,6 @@ nerdery
 nerdwallet
 nerdy
 nesto
-netdocuments
 netflixanimation
 nethermind
 networkoptix
@@ -2385,7 +2378,6 @@ otainsightltd
 othersideentertainment
 otrium
 otrtransportation
-otterbein
 ottoaviation
 outerbiosciences
 outgo
@@ -3117,28 +3109,20 @@ sweeten
 swingeducation
 swirlds
 swishanalytics
-swoogo
 syapse
 sylva
 symblai47
 symbolica
 symend
-symmetry
 symmetrysoftware
 synccomputing
 synchron
 syncron
 synctera
-syndigo
-syndio
-synerg
 synfindo
 synthesia
-synthetaic
 syrup
 sysdig
-systemiq
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3149,79 +3133,39 @@ tacombi
 taefusion60
 taginfraestrutura
 tailorbirdinc
-tailorcare2023
 tails
-tailscale
 taittowers
-takealotcom
-takealotgroup
-takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspace
-talkspacepsychiatry
-talkspacetherapist
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
-tandemlaunch
-tandemmoneylimited
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
-tankww
 tanso
 tapresearch
 targetrwe
-tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
-taskrabbit
-tastylive
-tastytrade
 tavus
-taxbit
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
 tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teads1
-teague
-tealmedia
 team1
 teamlfg
-teammate
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
 technergetics
 technicalassent
@@ -4251,7 +4195,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2791)
+## lever (2792)
 netflix
 shopify
 github
@@ -5620,6 +5564,7 @@ labelbox
 lambdal
 lambdaschool
 laminiai
+lamudi
 landing
 laserhub-2
 last9
