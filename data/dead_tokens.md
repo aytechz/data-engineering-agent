@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4217)
+## greenhouse (4265)
 hingehealth
 maven
 spring
@@ -94,6 +94,7 @@ transcarent
 2kearlycareers
 2seventybioinc
 2uevents
+31stunion
 350org
 360campaignconsulting
 3aware
@@ -130,6 +131,7 @@ abstract
 accelbyte
 accion
 acclarity
+accordion
 accruenthq
 accumulussynergyinc
 accurx
@@ -144,6 +146,7 @@ acronis
 actioniq
 actiumhealth
 activehours
+acumen
 acvauctions
 adahealth
 adamosecurity
@@ -1011,6 +1014,7 @@ digitalonus
 digitaltrends
 digitaltrendsfreelance
 dimensionalenergy1
+discmedicine
 discoxyz
 disqus
 distran
@@ -1141,7 +1145,6 @@ envisionthearapyco
 envoy
 ephemeral
 epicsummerresearch
-episodesixlinkedin
 eql
 equals
 equatic
@@ -1211,13 +1214,11 @@ fearless
 featuredjobs
 featurespace
 feedbackloop
-fender
 fenixinternational
 fermataenergy
 fernride
 fetchrewards
 fifthgaittechnologies
-figureai
 figuremarketsinc
 fincent
 findanomaly
@@ -1235,7 +1236,6 @@ firstlook
 firstlookmedia
 firstresonance
 firstsanfranciscopartners
-five9
 fiveringsevents
 flagstone
 flamboyanfoundation
@@ -1275,6 +1275,7 @@ foodpandasingapore
 foodspring
 forage
 forallsecure
+foratravel
 forerunner
 forethought
 forgerock
@@ -1283,14 +1284,15 @@ formbio
 formidable
 forta
 fortbend
+forter
 forthealth
 fortifyiq
-fortisgames
 fortitudemining
 fortra
 fortunafi
 fortune
 forwardfinancing
+forwardnetworks
 fossa
 foundation
 foundationforahealthystpetersburg
@@ -1313,6 +1315,7 @@ freetrade
 freewill
 frequenceinc
 freshbooks
+freshprints
 freshrealm
 frgjobs
 frieda
@@ -1347,6 +1350,7 @@ gamedevsofcolor
 gamelight
 gamesys
 gameto
+gapinternational
 garnerhealthconfidential
 gatewayfm
 gathertown
@@ -1359,6 +1363,7 @@ generatecapital
 generationbio
 geneva
 genies
+geniezipusa
 genpopinteractiveinc
 genuine
 geocaching
@@ -1377,6 +1382,7 @@ ghostsecurity
 giantprotocol
 giantspoon
 gic
+gigfinesse
 gigster
 gimletmedia
 ginger
@@ -1423,6 +1429,7 @@ goodtime
 goodunited
 goodworker
 goodworldwide
+goody
 govini
 govos
 govport
@@ -1453,10 +1460,12 @@ grindr
 grist
 gro
 groove
+gropyus
 groq
 groundtruth
 groupblack
 groupninemedia
+grovecollaborative
 growflow
 growtherapy
 gtcr
@@ -1628,12 +1637,14 @@ ihiterrasun
 iinktech
 ilabsinnovationlabsinc
 illumio
+imafinancialgroup
 imagendarystudios
 imagentechnologies
 immpactbio
 immunai
 impossiblefoods
 imprint
+imre
 inariagriculture
 incubator
 indevets
@@ -1954,6 +1965,7 @@ ltkbrazil
 ltkchina
 luckylincolngaming
 luganodiamonds
+lumahealth
 lumenbioscience
 lumenorbit
 luminar
@@ -2716,6 +2728,7 @@ repeatmd
 replica
 replicated
 reprise
+reproductivefreedomforall
 rescue
 reserv
 resi
@@ -2843,6 +2856,7 @@ sealstorage
 seam
 seamlessai
 searchdiscovery
+seatgeek
 secondspectrum
 secretescapes
 securitybankbettercareers
@@ -2996,6 +3010,7 @@ sonymusiccareersafrica
 sonymusiccareersitaly
 soroco
 soulcycle
+soundcloud71
 soundengineeringsolutions
 sounderbenefits
 soundhoundinc
@@ -3033,6 +3048,7 @@ spotonproduct
 spreadgroup
 sprig
 springdiscovery
+springhealth66
 sprinklr
 sprintray
 sproutsocialcollege
@@ -3063,6 +3079,7 @@ stellarelements
 stellarhealth
 stellic
 stensul
+stitchfix
 stitchmoneyptyltd
 stitchpeo
 stonecomercial
@@ -3108,6 +3125,7 @@ superhuman
 superlayer
 superrarelabs
 supio
+supplyhouse
 supportlogic
 supraoracles
 surfair
@@ -3122,6 +3140,8 @@ sweeten
 swingeducation
 swirlds
 swishanalytics
+swissitgermany
+swoogo
 syapse
 sylogist
 sylva
@@ -3129,14 +3149,23 @@ symblai47
 symbolica
 symend
 symmetrysoftware
+synack
 synccomputing
 synchron
 syncron
 synctera
+syndigo
+syndio
+synerg
 synfindo
 synthesia
+synthetaic
 syrup
 sysdig
+syskahennessy
+system
+systemiq
+systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3147,31 +3176,53 @@ tacombi
 taefusion60
 taginfraestrutura
 tailorbirdinc
+tailorcare2023
 tails
+tailscale
 taittowers
+takealotcom
+takealotgroup
+takecommandhealth
+taketwo
 tala
 talent_community
 talentscreditas
+talkdesk2
+talkspace
+talkspacepsychiatry
+talkspacetherapist
 tally
 tallywallet
+talonone
 talos
 tamanna
+tandemlaunch
+tandemmoneylimited
 tangocard
+tangogameworks
 tangoio
+tangotherapeutics
 tanso
 tapresearch
 targetrwe
+tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
+taskrabbit
+tastytrade
 tavus
+taxbit
 taxibeat
+taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
 tdinternational
+tds
 teachablecareers
 teacherspayteachers
 teachforall
@@ -3187,15 +3238,14 @@ teammate
 teammobot
 teampathy
 teampay
+teamrubicon
 teamworthy
 tebra
 teccweb
-techholding
 techietalent
 technergetics
 technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
 techstars57
@@ -3211,8 +3261,6 @@ telesign
 teletrackingtechnologiesinc
 telgorithm
 telixus
-tellerparkvet
-tellius
 telnyx54
 telusdigitalbr
 templafy
@@ -4220,9 +4268,8 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2810)
+## lever (2800)
 netflix
-spotify
 shopify
 github
 quora
@@ -4256,7 +4303,6 @@ zip
 brex2
 pilot
 faire
-zerotier
 benchling
 patreon
 discord2
@@ -4266,8 +4312,6 @@ upstart
 nuro2
 anysignal
 aofl
-hermeus
-solopulseco
 10up-2
 174powerglobal
 1776
@@ -4275,9 +4319,7 @@ solopulseco
 1910genetics
 1password
 21
-21hhs
 2a
-2brains
 3box
 3dhubs
 3eco
@@ -4306,12 +4348,10 @@ accesso
 accompanyhealth
 accrue
 accurate
-achievers
 acl
 aclaimant
 acpl
 act
-activecampaign
 ad2games
 ada
 ada-diamonds
@@ -4325,8 +4365,6 @@ advancednavigation
 aechelon
 aeler
 aerialapplications
-aero
-aeva
 afarmedia
 affinity
 affirm
@@ -4364,7 +4402,6 @@ algolia
 algorex
 algotive
 alice
-alice-bob
 alictus
 alida
 alignable
@@ -4375,7 +4412,6 @@ alliance
 allinbits
 allstripes
 alpineimmunesciences
-altaml
 altoida
 altrio
 aluna
@@ -4388,7 +4424,6 @@ amberflo
 ambrook
 amerisave
 amiri
-amityfdn
 amobee
 amplitude
 ams-corp
@@ -4398,7 +4433,6 @@ anagram
 analog
 analuisa
 ancestry
-andersencorp
 anduril
 angaza
 angel
@@ -4548,7 +4582,6 @@ beam-impact
 beamy
 beanstalkagtech
 beautyhaul
-beaverprocess
 bebop
 bedrockocean
 beemenergy
@@ -5212,6 +5245,7 @@ genesistherapeutics
 genome-medical
 genomicsplc
 gentibio
+geocomply-2
 geophy
 geotab
 getansa
@@ -5442,6 +5476,7 @@ infogrid
 infogridlinks
 infrastructureandcapitalprojects
 infrastructureontario
+infstones
 initialized
 injectivelabs
 inlight
@@ -5466,6 +5501,7 @@ internationalbudget
 intersectpower
 intive
 intouchgroup
+intrafi
 intrepid
 intricately
 intro
@@ -5475,6 +5511,7 @@ invisible-ai
 invokestaffing
 inworld
 iobeya
+ion
 ionic
 ionicpartners
 iovlabs
@@ -5603,6 +5640,7 @@ kyte
 kyverna
 laagencia
 labelbox
+lalamove
 lambdal
 lambdaschool
 laminiai
@@ -7032,7 +7070,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (860)
+## ashby (861)
 mercury
 together
 replicate
@@ -7083,6 +7121,7 @@ apfusion
 apply-opengradient
 appsmith
 arborxr
+arcada
 argolabs
 argus
 ario
