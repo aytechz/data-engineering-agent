@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4323)
+## greenhouse (4316)
 hingehealth
 maven
 spring
@@ -35,6 +35,7 @@ pinecone
 plaid
 notion
 canva
+duolingo
 pelotoncycle
 doordash
 ramp
@@ -73,9 +74,13 @@ appliedintuition
 cruise
 zoox
 alloycampus
+astranis
 capitalrx
+didi
+haizelabs
 klaviyocampus
 morsecorpcoop
+northspyre
 transcarent
 0x
 100x
@@ -88,7 +93,6 @@ transcarent
 174powerglobal
 1848ventures
 1906newhighs
-204951305985924
 21co
 240tutoringinc
 2kearlycareers
@@ -273,6 +277,7 @@ ans
 answersnow
 antimetal
 antler
+anydesk
 anz
 apartmentlist
 apeel
@@ -292,6 +297,7 @@ applytocedar
 applytocloudforge
 applytonectar
 applytoonbrand
+applytopassagehealth
 applytoprefix
 applytoroadforge
 applytowhoosh
@@ -310,12 +316,14 @@ aquia
 aradenabattlegrounds
 arcdev
 arcellx
+arcesiumllc
 archetypeentertainment
 archetypesg
 arcticwolfnetworks
 arenaai
 arenaim
 arenanet
+arevonenergyimpltest
 argent
 argo
 argo83
@@ -402,17 +410,20 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
+axisteletherapy
 ayun
 azenia
 aztec
 aztecgroup
 azumo
+b2c2
 babbel
 backlight
 baincapitalventures
 ballotready
 balto
 bam
+bamboohr17
 banyaninfrastructure
 banyansecurity
 banyucarbon
@@ -447,6 +458,7 @@ beeshiringday
 beeswax
 beewise
 belharratherapeutics
+belltowerfundgroup
 belonghome
 benchling
 bendhealth
@@ -552,13 +564,16 @@ bosonprotocol
 boundlessbio
 boundlessimmigration
 boxedwholesale
+bozzuto
 braingu
 brainly
 braintechnologies
 braintree
 braintrust
 branch32
+brandnewschool
 brands4friends
+brandwatch
 bravehealth
 breakthroughenergy38
 breezeairways
@@ -597,6 +612,7 @@ bynderjobs
 byrd
 cabinethealth
 cadencesolutions
+cadimensions
 caffeine
 cahillcontractorsgeneralapplication
 cajal-tx
@@ -719,6 +735,7 @@ check
 checkalt
 chelseaavondale
 cherry
+cherryventures
 chess-at-three-sg
 chessatthree
 chewielabs
@@ -760,6 +777,7 @@ clearbanc
 clearcover
 clearfork
 clearmatics
+clearpathforveterans
 cleartrace
 clearwateranalytics
 cleo-emea
@@ -791,6 +809,7 @@ cms
 coactivesystems
 coalitionforgreencapital
 coastenergy
+cobaltservicepartners
 cobo
 cocolab
 coconutsoftware
@@ -1108,6 +1127,7 @@ eleanorhealth
 electriphi
 elegen
 elementalexcelerator
+elementcritical
 elemy
 eleo
 elephantenergy
@@ -1170,6 +1190,7 @@ everphone
 evertrue
 everylife
 evidation
+evismart
 evive
 evmos
 evolutionaryscale
@@ -1187,6 +1208,7 @@ expanse
 explo
 explorasolutions
 expressvpn
+extend
 extra
 eyecarepartners
 eyeo
@@ -1204,6 +1226,7 @@ fantasticpixelcastle
 farasisenergy
 farmersbusinessnetwork
 farmstead
+fashionnova
 fastforward
 fathom
 fazz
@@ -1211,10 +1234,12 @@ fearless
 featuredjobs
 featurespace
 feedbackloop
+fender
 fenixinternational
 fermataenergy
 fernride
 fetchrewards
+fidelityguarantylife
 fifthgaittechnologies
 figuremarketsinc
 fincent
@@ -1244,6 +1269,7 @@ flickrorg
 flightright
 flipapp
 flipapp1
+flipdish
 flipside
 flockfreight
 flocksafety
@@ -1280,6 +1306,7 @@ formbio
 formidable
 forta
 fortbend
+forter
 forthealth
 fortifyiq
 fortitudemining
@@ -1403,6 +1430,7 @@ go1eu
 go1us
 goalturkey
 goalzimbabwe
+goatgroup
 goclio
 gofoundation
 gogratia
@@ -1414,6 +1442,7 @@ goldflora
 goldsky
 gomedia
 gonimbly
+gonyc
 goodfeet
 goodtime
 goodunited
@@ -1426,6 +1455,7 @@ grabango
 gradientcomfort
 gradientlearning
 graft
+gramgamescareers
 grammarly
 grandofprospect
 grandpeaks
@@ -1481,6 +1511,7 @@ hatchhirescontractors
 hatchinternships
 havenhub
 havenly
+hawthornemachineryco
 haydenai
 haydenconsultinggroupllc
 hazeltechnologies
@@ -1593,7 +1624,9 @@ huddle01
 hudsonmx
 humanconditionsafety
 humane
+humanrightswatch
 humu
+hungryroot
 huspy
 hutsoninc
 huttaorthodonticspecialists
@@ -1611,6 +1644,7 @@ hyundaiuam
 ia
 ibkr
 ibotta
+ibuglobal
 iconiqcapital
 idahotitleloansinc
 ideas42
@@ -1715,6 +1749,7 @@ jaris
 jasper
 jasper23
 javelinagency
+jazzx-ai
 jdcom
 jdpower
 jeli
@@ -1919,6 +1954,7 @@ lithosenergy
 litmus46
 littleotter
 littlewisekids
+littlewordsproject
 liveintent
 lively
 livelyhearingcorporation
@@ -1984,6 +2020,7 @@ manoproject
 manticoregames
 mantl
 mantle
+mantrahealth
 manufactured
 manychat-featured
 mapbox
@@ -2326,6 +2363,7 @@ omaze
 omgcamontreal
 omgcamontrealfr
 omguk
+omidyarnetwork
 omnidata
 omnifdn
 omnionpower
@@ -2756,7 +2794,6 @@ rocketreach
 rockstarinternships
 rocksteadymusicschool
 roidna
-roku
 rollstack
 root
 rootly
@@ -2785,7 +2822,6 @@ saasacademy
 sada
 sadaindia
 safebase
-safetyworxs
 sagansystems
 sagardcareers
 sailthru
@@ -2793,7 +2829,6 @@ salaryfinance83
 saleslabx
 saltclick
 saltlending
-samaraaerospace
 sambatv
 samcarthiring
 samlabs
@@ -2936,7 +2971,6 @@ sinch
 singleops
 singlesprout
 singular
-sisense
 sitelineinc
 skeletonkey
 skillcentrix
@@ -2958,8 +2992,6 @@ smartcitykitchens
 smartdesignworldwide
 smartersorting
 smartfinancial
-smartling
-smartypantsvitamins
 smc
 smilegatebarcelona
 smileidentity
@@ -2999,7 +3031,6 @@ sonymusiccanada
 sonymusiccareersafrica
 sonymusiccareersitaly
 soroco
-sothebys
 soulcycle
 soundengineeringsolutions
 sounderbenefits
@@ -3077,11 +3108,7 @@ storicardmx
 storkclub
 stormpath
 storyblocks
-storyblok
 strataidentity
-stratainformationgroup
-strategichr
-strategicprojectpartners
 strategicresolutionexperts
 strava
 stream
@@ -3089,68 +3116,34 @@ streamlinedefense
 streamyard
 stridehealth
 stridertechnologies
-striiminc
-strike
 stringandkey
 stripes
-striveworks
 strongarmtechnologies
 strongholdim
-strongpointpartners
 stryber
 studentfounders
 studentloanhero
-studentplacements
 studiodesigner
-studiokraftonboard
 studiosarchitecture
-studioscience
-studsinc
-studycareers
-studycontractors
 styleseat32
 stylitics
-stylusmedicine
 styra
-subarupacific
-submittable
-subskribe
-subsplash
-successacademycharterschool
 successkpiinc
 sugar
-suitsupply
-suki
 sullyai
-summer
 summerinternships
 summit
-summitpartnerslp
 summitpublicschools
 sumo
-sumofus
-sumologic
-sumup
-sunnova
 sunnymorningfoods
-sunnyside
-sunset
 sunshine
-suntimes
 supabase
 superbet
 superblocks
-supergoop
 superhuman
-superjoy
 superlayer
-superluminalrx
-supermetricsoy
 supernal
-superpayments
 superrarelabs
-superset
-supersod
 supio
 supplyhouse
 supportingstrategies
@@ -5062,7 +5055,6 @@ dockwa
 dogdrop
 domio
 done
-doola
 doppler
 dorahacks
 dott
@@ -5625,6 +5617,7 @@ kamcord
 kandji
 kaporcapital
 karat
+karmacheck
 kava
 kavalabs
 kddia
