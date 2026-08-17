@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4225)
+## greenhouse (4217)
 hingehealth
 maven
 spring
@@ -80,7 +80,6 @@ transcarent
 0x
 100x
 1047games
-10alabs
 10pearls
 10up
 10xgenomics
@@ -91,7 +90,6 @@ transcarent
 1906newhighs
 204951305985924
 21co
-240certification
 240tutoringinc
 2kearlycareers
 2seventybioinc
@@ -146,11 +144,9 @@ acronis
 actioniq
 actiumhealth
 activehours
-acumen
 acvauctions
 adahealth
 adamosecurity
-adamsstreetpartners
 adaptive3d
 adelphigraduatecareers
 adelphiresearch
@@ -179,7 +175,6 @@ afterverse
 afterverse31
 agcbiologics
 agentsync
-agilesix
 agilesixv2
 agilespaceindustries
 agolo
@@ -200,9 +195,7 @@ akriveiatherapeutics
 alby
 alchemy
 alcority
-alethea
 alexispointe
-algolia
 alignerr
 alkymi
 allakos
@@ -715,7 +708,6 @@ changeorg58
 chanzuckerbergbiohub
 chanzuckerbergbiohubny
 chapter
-chariotenergy
 charlesandlynnschustermanfamilyphilanthropies
 charlesandlynnshustermanfamilyfoundation
 charley
@@ -1103,7 +1095,6 @@ edreports
 educators
 edx
 edxbootcamps
-eei
 eero
 effectual
 eharmony
@@ -1128,8 +1119,6 @@ embroker
 emerycellibrinckerhoffabadywardmaazelllp
 emids
 emotiveio
-employerdirecthealthcare
-empowerbrands
 emulate
 enchargeai
 encompasstechnologiesllp
@@ -1151,9 +1140,8 @@ envato
 envisionthearapyco
 envoy
 ephemeral
-epicgames
 epicsummerresearch
-eplusinc
+episodesixlinkedin
 eql
 equals
 equatic
@@ -1176,7 +1164,6 @@ everbody
 everest
 evergreenaction
 evergreenbloomerang
-evergreennephrology
 everisusainc
 everops
 everphone
@@ -1195,7 +1182,6 @@ exactsales
 execonline
 exfluency
 exo
-exodus54
 expa
 expanse
 explo
@@ -1204,7 +1190,6 @@ expressvpn
 extra
 eyecarepartners
 eyeo
-ezcaterinc
 ezinc
 fabfitfun
 fabric
@@ -1226,11 +1211,13 @@ fearless
 featuredjobs
 featurespace
 feedbackloop
+fender
 fenixinternational
 fermataenergy
 fernride
 fetchrewards
 fifthgaittechnologies
+figureai
 figuremarketsinc
 fincent
 findanomaly
@@ -1248,6 +1235,7 @@ firstlook
 firstlookmedia
 firstresonance
 firstsanfranciscopartners
+five9
 fiveringsevents
 flagstone
 flamboyanfoundation
@@ -1297,6 +1285,7 @@ forta
 fortbend
 forthealth
 fortifyiq
+fortisgames
 fortitudemining
 fortra
 fortunafi
@@ -1382,7 +1371,6 @@ getprospa
 getro
 getsafe
 getshogun
-getwellnetwork
 ghd
 ghostautonomy
 ghostsecurity
@@ -1485,7 +1473,6 @@ halodotscience
 hammerhead
 hamptons
 handled
-hanwharenewables
 happifyhealth
 harbingerhealth
 harbor
@@ -1577,7 +1564,6 @@ homeinstead
 homeoffice
 homesteadstudio
 hometogo
-homeward
 homewardhealth
 honeathome
 honestmedicalgroup
@@ -2023,7 +2009,6 @@ mastercardfoundationelev
 mastercardfoundationscholars
 materialevolution
 materialize
-matherintysons
 matianfirm
 matrixx
 matx
@@ -2470,7 +2455,6 @@ parker
 parkerandace
 parkmobileus
 particle
-particle41llc
 particlehealth
 partnerstack
 partstech
@@ -2519,7 +2503,6 @@ permutive
 perrystreetsoftware
 persado
 persona
-personalizedbeautydiscoveryincdbaipsy
 perspective
 petdesk
 petfolk
@@ -2531,7 +2514,6 @@ phcglobal
 phenogy
 philadelphiaphilliesrddepartment
 phiture2
-phoenixcontact
 phonic
 phreesia
 piclo
@@ -2545,10 +2527,8 @@ pineparkhealth
 pinnacle
 pinterestjobadvertisements
 pioneeringevolution
-pipe17
 pismo
 pitch
-pitchbookdata
 pivotalsoftware
 pixiebrix
 pixlee
@@ -2560,7 +2540,6 @@ placemeter
 planera
 planningcenter
 playkids
-playq
 playstationeurope
 plenty
 pleo
@@ -2689,7 +2668,6 @@ rapha
 rapidrobotics
 rasa
 rattle
-rayeitconsulting
 razorgroupgmbh
 rbicareers
 rcpmk
@@ -2820,7 +2798,6 @@ samcarthiring
 samlabs
 samsungaustinsemiconductor
 samsungcollegeprogram
-samsungnext
 sanabilventurestudio
 sandboxaq
 sandstonecarebroomfield
@@ -3011,7 +2988,6 @@ soluna
 somespiderstudios
 sonder
 sondermind
-sonyhondamobilityofamerica
 sonyinteractiveentertainmentplaystation
 sonymusic
 sonymusicasiacareers
@@ -3046,7 +3022,6 @@ splash
 spliced
 splicedjobs
 split
-splitero
 splitmetrics
 spokeo
 spongeuk
@@ -3068,7 +3043,6 @@ squintopera
 squire
 srtx_fr
 st6
-stackav
 stackexchange
 stacksphere
 stairwell
@@ -3139,7 +3113,6 @@ supraoracles
 surfair
 surgicalnotes
 surveymonkey
-sustainabletalent
 sustainlife
 swagup
 swanbitcoin
@@ -3199,19 +3172,38 @@ tbwawh
 tcgcapital
 tdc
 tdinternational
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
 teampathy
 teampay
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
 tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
@@ -4228,8 +4220,9 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2809)
+## lever (2810)
 netflix
+spotify
 shopify
 github
 quora
@@ -4263,6 +4256,7 @@ zip
 brex2
 pilot
 faire
+zerotier
 benchling
 patreon
 discord2
@@ -4272,6 +4266,8 @@ upstart
 nuro2
 anysignal
 aofl
+hermeus
+solopulseco
 10up-2
 174powerglobal
 1776
@@ -4279,7 +4275,9 @@ aofl
 1910genetics
 1password
 21
+21hhs
 2a
+2brains
 3box
 3dhubs
 3eco
@@ -4308,10 +4306,12 @@ accesso
 accompanyhealth
 accrue
 accurate
+achievers
 acl
 aclaimant
 acpl
 act
+activecampaign
 ad2games
 ada
 ada-diamonds
@@ -4325,6 +4325,8 @@ advancednavigation
 aechelon
 aeler
 aerialapplications
+aero
+aeva
 afarmedia
 affinity
 affirm
@@ -4362,6 +4364,7 @@ algolia
 algorex
 algotive
 alice
+alice-bob
 alictus
 alida
 alignable
@@ -4372,6 +4375,7 @@ alliance
 allinbits
 allstripes
 alpineimmunesciences
+altaml
 altoida
 altrio
 aluna
@@ -4384,6 +4388,7 @@ amberflo
 ambrook
 amerisave
 amiri
+amityfdn
 amobee
 amplitude
 ams-corp
@@ -4393,6 +4398,7 @@ anagram
 analog
 analuisa
 ancestry
+andersencorp
 anduril
 angaza
 angel
@@ -4542,6 +4548,7 @@ beam-impact
 beamy
 beanstalkagtech
 beautyhaul
+beaverprocess
 bebop
 bedrockocean
 beemenergy
@@ -4645,8 +4652,6 @@ brewbird
 bridge
 bridge2rwanda
 bridgebio
-brighte
-brightedge
 brighthealthplan
 brightseedbio
 brightspot
@@ -4679,7 +4684,6 @@ button
 buyboxexperts
 bvaccel
 c16bio
-cagents
 call9
 callistomedia
 calm
@@ -4687,7 +4691,6 @@ calven
 camber
 cambly
 campspot
-candlinspection
 canimmunize
 canva
 capchase
@@ -4932,7 +4935,6 @@ deliveryrelay
 deloitte
 delphix
 deltadental
-deltasands
 delv
 density
 desafiolatam
@@ -4975,7 +4977,6 @@ dott
 doubledown
 dragonarmy
 drchrono
-dreamgolf
 dreamsports
 drip
 drivekyte
@@ -5069,7 +5070,6 @@ everlaw
 everli
 evisort-2
 evocalize
-evr
 exa-labs
 exabeam
 exp
@@ -5105,7 +5105,6 @@ ffws
 fiddlerlabs
 fightcamp
 figma
-filevine
 financeinabox
 finchloom
 findmine
@@ -5334,7 +5333,6 @@ healthtensor
 healthverity
 heard
 hearsaysystems
-heartbeathealth
 heartflow
 heirloomtechnologies
 helbiz
@@ -5415,7 +5413,6 @@ icosavax
 ideagen
 idealscorp
 ideayabio
-idt
 if7
 igmbio
 ignite
@@ -5506,7 +5503,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5561,7 +5557,6 @@ kimiatherapeutics
 kingfishgroup
 kinnek
 kinsa
-kippsocal
 kitcheck
 kitopi
 kivaai
@@ -5573,7 +5568,6 @@ klick
 klubworks
 klue
 kmaconsultingllc
-knix
 knock
 knockcrm
 knotch
@@ -6994,7 +6988,6 @@ xilis
 xmodesocial
 xometry
 xxartists
-yardstick
 yassir
 yellowai
 yelp
@@ -7039,7 +7032,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (861)
+## ashby (860)
 mercury
 together
 replicate
@@ -7634,7 +7627,6 @@ prime
 prive
 privy
 probably-good
-procurementsciences
 prodigy-education
 product-updates
 projectgrowth
