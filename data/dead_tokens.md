@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4349)
+## greenhouse (4386)
 hingehealth
 maven
 spring
@@ -98,7 +98,6 @@ transcarent
 3aware
 3q
 48f-relo
-540
 59studio
 5careferrals
 60decibelsinc
@@ -1336,6 +1335,7 @@ gaia
 gainful
 gainternships
 galagames
+galileo
 galileoai
 galileofinancialtechnologies
 galy
@@ -1565,6 +1565,7 @@ honeathome
 honestmedicalgroup
 honey
 honeybook
+honeycomb
 honeylove
 hooglandslandscape
 hopin
@@ -1587,6 +1588,7 @@ howeinc
 howl
 hoyoverse
 hqdigital
+hspgroup
 hubspotmarketing
 hubspotstudents
 huddle01
@@ -1689,6 +1691,7 @@ invision
 invitae
 invokestudiosen
 inworldai
+inzoistudio
 iob
 iovlabsltd
 irhythm
@@ -1698,6 +1701,7 @@ ironhealth
 iseatz
 islandsxyzinc
 isrg
+iterable
 ittakesavillage
 iversoft
 ivoyant
@@ -1763,6 +1767,7 @@ kadenallc
 kaiahealth
 kaiahealthsoftwaregmbh
 kaikosystems
+kailera
 kajabi
 kakaomobility
 kalderos
@@ -1771,6 +1776,7 @@ kalvistapharmaceuticals
 kandola
 karriereseite
 karunatherapeutics
+karya
 kasaliving
 kasian
 katrisk
@@ -1855,6 +1861,7 @@ latam
 latchbio
 latentai
 laudioinc
+launch2
 launchyourcareer
 laurel
 lawmatics
@@ -1949,6 +1956,7 @@ lovetoknowmedia
 loyal
 ltkbrazil
 ltkchina
+lucenia
 luckylincolngaming
 luganodiamonds
 lumahealth
@@ -1973,6 +1981,7 @@ magicleapinc
 magna
 magnoliabakery
 magoosh
+magrathea
 mailchimp
 mainstreethub
 maintainx
@@ -2093,6 +2102,7 @@ missionbio
 missionlanellc
 missiontelecom
 missionzerotechnologies
+mitratech
 mixbook
 mixhalo
 mixmode
@@ -2665,6 +2675,7 @@ rapha
 rapidrobotics
 rasa
 rattle
+rayeitconsulting
 razorgroupgmbh
 rbicareers
 rcpmk
@@ -2713,6 +2724,7 @@ repeatmd
 replica
 replicated
 reprise
+res
 rescue
 reserv
 resi
@@ -2721,6 +2733,7 @@ rev
 revcapital
 revelsystems
 revenuecat
+revero
 revivecareers
 revopsforce
 revprepaid
@@ -2786,6 +2799,7 @@ safebase
 sagansystems
 sagardcareers
 sailthru
+salaryfinance
 salaryfinance83
 saleslabx
 saltclick
@@ -2804,6 +2818,7 @@ sandstonedenver
 sandstoneremote
 sandtech
 sanityio
+sanmar
 sano
 sapphireventuresllc
 saraworks
@@ -2885,6 +2900,7 @@ shapr3d
 shardeumfoundation
 shearersinternalmobility
 shearerssnacks
+shennonbiotechnologies
 shepherd
 sherwoodmedia
 shift
@@ -2919,6 +2935,7 @@ silvare
 silverfin
 silvus-international-opportunites
 silvusearlycareers
+similarweb
 simondata
 simple
 simplefinance
@@ -3032,33 +3049,53 @@ sprig
 springdiscovery
 sprinklr
 sprintray
+sproutsocial
 sproutsocialcollege
 sprouttherapy
 sprucehealth
+spsnorthamerica
+spycloud
+spyretherapeutics
 squadformersinc
+squarepointcapital
+squarespace
 squintopera
 squire
+squishable
+srsacquiom
 srtx_fr
+ssreferrals
 st6
+stabilityai
 stablekernel
+stackadapt
+stackav
 stackblitz
 stackcommerce
 stackexchange
+stackline
 stacklok
 stacksphere
 staffbase
+stage
 stairwell
 stambaughness
 standardai
+standardmetrics
 stanley1913-us
+stannesbelfieldschool
+starburst
 starcloud
 stardust
+starfaceworld
+starfishneuroscience
 starrez
 starry
 startale
 startcampus
 startree
 stashinvest
+stateaffairs
 statement
 status72
 stauer
@@ -4352,7 +4389,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2797)
+## lever (2798)
 netflix
 shopify
 github
@@ -5393,6 +5430,7 @@ granular
 grapesworldwide
 grav
 gravie
+graviticsspace
 graylog
 grayscale
 greenroompr
