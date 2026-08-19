@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4139)
+## greenhouse (4103)
 hingehealth
 maven
 spring
@@ -59,6 +59,7 @@ sunrun
 arcadiapower
 sentry
 segmentio
+elastic
 hashicorp
 linear
 retool
@@ -76,6 +77,7 @@ alloycampus
 capitalrx
 klaviyocampus
 morsecorpcoop
+point72
 transcarent
 0x
 100x
@@ -85,6 +87,7 @@ transcarent
 10xgenomics
 113134
 123
+143studiosinc
 174powerglobal
 1848ventures
 1906newhighs
@@ -93,6 +96,7 @@ transcarent
 2kearlycareers
 2seventybioinc
 2uevents
+31stunion
 350org
 360campaignconsulting
 3aware
@@ -137,6 +141,7 @@ achronixsemiconductor
 achs
 aclara
 acloudguru
+acommerce
 acorns
 acrerewards
 acronis
@@ -2241,7 +2246,6 @@ nilotherapeutics
 nimblegiant
 nimbustherapeutics
 nirvana
-nitricity
 nobellfoods
 nobl9
 noble
@@ -3226,87 +3230,50 @@ theinformation
 thejpbfoundation
 thejuice
 thelandlinecompany
-thelibragroup
 theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-themotleyfool
 thena
 theoakleafgroupllc
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
-thepharmacyhub
 thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
-thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
-thetradedesk
 thetustingroupasp
-thevascularcaregroup
 thevets
-theweathercompany
-thewilshiregroup
 thezebra
-thiess
-thinkacademyus
 thinkific
 thinkingmachines
-thinkmarkets
-thinkofus
-thinkonward
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
 tia
 tide
@@ -3322,16 +3289,13 @@ tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
 tines
-tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
 tipaltisolutions
 tippingpointcommunity
 tiptop
-tiree
 tireseasycom
 titan
 titelmedia
@@ -4142,7 +4106,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2799)
+## lever (2804)
 netflix
 shopify
 github
@@ -4907,6 +4871,7 @@ eargo
 earlybird
 eastwall
 easyagile
+easypost-2
 eaze
 ebury
 ecocart
@@ -4922,6 +4887,7 @@ efront
 egensolutions
 eh2
 einride
+ekimetrics
 elearningmind
 electrifiedthermalsolutions
 electrum
@@ -4931,6 +4897,7 @@ elliemae
 elliveproductions
 elodiegames
 elvah
+emburse
 emeraldtherapeutics
 emersoncollective
 emesent
@@ -4960,6 +4927,7 @@ episci
 equiphealth
 esper-3
 espresso
+esrtreit
 ethenalabs
 ether-fi
 ethereumfoundation
@@ -5412,6 +5380,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
