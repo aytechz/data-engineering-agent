@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-19 15:47 UTC
+### 1 new matching jobs · 2026-08-19 16:47 UTC
 
 #### From greenhouse (1)
-- **[Software Engineer, Inference (AI Data Engineering)](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002)** at **SpaceX** — Palo Alto, CA 🏥🤖 · `python` · _greenhouse_
+- **[Data Engineer - Data Platform](https://job-boards.greenhouse.io/mill/jobs/4722052005)** at **Mill** — San Bruno, California 🤖 · `snowflake, dbt, airflow, python, sql, terraform` · _greenhouse_
