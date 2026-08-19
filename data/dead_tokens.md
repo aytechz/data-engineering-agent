@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4189)
+## greenhouse (4210)
 hingehealth
 maven
 spring
@@ -303,7 +303,6 @@ aprioritechnologies
 aptible
 aptopayments
 aptos
-aptoslabs
 aputure
 aquant
 aquia
@@ -339,10 +338,8 @@ artsy
 arzeda
 as
 ascendanalytics
-ascendhealthcare
 ascertain
 ascidiantherapeutics
-ashfieldmedcomms
 askmediagroup
 asknicely
 aspinity
@@ -590,6 +587,7 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
+builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -844,9 +842,7 @@ consumertrack
 contentive
 converginttechnologiesllc
 convertkit
-convoso
 coolplanet
-coolwillys
 coop
 copperleaf
 copysmith
@@ -1252,7 +1248,6 @@ flipapp1
 flipside
 flockfreight
 flocksafety
-flohealth
 floodbase
 floornfts
 flowcarbon
@@ -1362,7 +1357,6 @@ generalcatalystpartners
 generatecapital
 generationbio
 geneva
-genezenlabs
 genies
 genpopinteractiveinc
 genuine
@@ -1547,7 +1541,6 @@ hilabs
 hillandknowlton
 hillaryforamerica
 himshers
-hipagesgroup
 hired
 hiro
 hispanicaccessfoundation
@@ -1652,13 +1645,11 @@ infinitecommerce
 infinitefield
 infinitereality
 inflammatix
-inflect
 influential
 influxdb
 infusemedia
 infuseukraine
 ingenuitystudios
-inhometherapy
 initialtherapeutics
 inkling
 inlan
@@ -1982,7 +1973,6 @@ magic
 magiceden
 magicleapinc
 magna
-magnolia
 magnoliabakery
 magoosh
 magrathea
@@ -2379,7 +2369,6 @@ openmesh
 openphone
 openstore
 openweb
-openwork
 operantai
 opj
 oplabs
@@ -2490,7 +2479,6 @@ pax8
 paxful
 paybyphone
 paydo
-paypay
 paysend
 paystack
 paystackprivate4317
@@ -2515,6 +2503,7 @@ peopledatalabs
 peopledoc
 peoplestrata
 pepperjam
+perchenergycareers
 perfectday
 periscopedata
 permutive
@@ -3047,7 +3036,6 @@ split
 splitmetrics
 spokeo
 spongeuk
-sportandspinephysicaltherapy
 sporttrade
 spotai
 spotnanatechnology
@@ -3213,26 +3201,58 @@ teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
 terremotobiosciencesinc
 territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
 thanx
@@ -3244,6 +3264,7 @@ thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
 thebrandagency
 thebrattlegroup
@@ -4192,7 +4213,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2812)
+## lever (2803)
 netflix
 shopify
 github
@@ -4213,7 +4234,6 @@ flexport
 opendoor
 compass
 hims
-ro
 omadahealth
 fortyseven
 clover
@@ -4237,7 +4257,6 @@ upstart
 nuro2
 anysignal
 aofl
-tri
 10up-2
 174powerglobal
 1776
@@ -4285,7 +4304,6 @@ adaptavist
 adcolony
 addx
 adeptailabs
-adidevelopments
 adtech
 adthena
 advancednavigation
@@ -4310,7 +4328,6 @@ aifund
 aigen
 ailens
 aira
-airdna
 airhouse
 airprotein
 airship
@@ -4423,7 +4440,6 @@ ark-solutions-inc
 arkbiotech
 arpa
 arrive
-arrivelogistics
 artblocks
 artificial
 asap
@@ -4596,7 +4612,6 @@ boomandbucket
 boostedboards
 boringcompany
 bosta
-boston-materials
 bostondynamicsaiinstitute
 botify
 bottlerocketstudios
@@ -4648,7 +4663,6 @@ buyboxexperts
 bvaccel
 c16bio
 call9
-callan
 callistomedia
 calm
 calven
@@ -4690,7 +4704,6 @@ catenamedia
 catlabs
 causal-app
 ccmr3
-celerion
 celestia
 celo
 centerfield
@@ -4705,7 +4718,6 @@ chain
 chainlink
 chamberofprogress
 change
-chargezoom
 chariot
 chartio
 chatmeter
@@ -7006,7 +7018,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (868)
+## ashby (867)
 mercury
 together
 replicate
@@ -7663,7 +7675,6 @@ robin-ai
 rockerbox
 rocketplace
 rollup
-roompricegenie
 rooser
 rootine
 roots-automation
