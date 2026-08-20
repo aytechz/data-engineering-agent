@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3878)
+## greenhouse (3857)
 hingehealth
 maven
 spring
@@ -1904,6 +1904,7 @@ linushealth
 linx
 lionpoint
 liquidinstruments
+lisc
 lithium
 lithosenergy
 litmus46
@@ -3451,25 +3452,11 @@ verusaerospace
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
-vgw
 vhsys
-via
-viaduct
-viagogo
-vialogic
-viamrobotics
-vianttechnology
 viber
-vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3479,22 +3466,15 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
 vileon
-vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
 virtru
-virtu
 virtualhealth
 visbymedical
-viseai
 visia
 visitingmedia
 visor
@@ -3509,7 +3489,6 @@ vivcourtevents
 vivian
 vividly
 vividseatsllc
-vivodyne
 vivvi
 vixxo
 vizai
@@ -3881,7 +3860,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2802)
+## lever (2804)
 netflix
 shopify
 github
@@ -4194,7 +4173,6 @@ beam-impact
 beamy
 beanstalkagtech
 beautyhaul
-beaverprocess
 bebop
 bedrockocean
 beemenergy
@@ -5153,6 +5131,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5755,6 +5734,7 @@ pillow
 pinata
 pineparkhealth
 pingcap
+pioneer-services
 pip
 pirouettemedical
 pjp
@@ -6600,6 +6580,7 @@ wealthfinancialtechnologies
 wealthsimple
 wearatoms
 weareaccord
+weekdayworks
 weekender-hotels
 weel
 weinfuse
@@ -6685,7 +6666,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (868)
+## ashby (869)
 mercury
 together
 replicate
@@ -7313,6 +7294,7 @@ rallyuxr
 rapid-pioneers
 rattle
 re-cap
+rebuy
 reddit
 reference
 reflex
