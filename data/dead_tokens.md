@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4118)
+## greenhouse (4092)
 hingehealth
 maven
 spring
@@ -1442,7 +1442,6 @@ greatist
 greenlightbiosciences
 greenpeace
 gregarious
-greynoiseintelligence
 griffin
 grindr
 grist
@@ -2221,6 +2220,7 @@ neuroblade
 neuroflow
 neuron
 neweratechnology
+newglobesandbox
 newstore
 nexightgroup
 next47
@@ -3249,61 +3249,35 @@ thesourcery
 theswiftgroup
 thetustingroupasp
 thevets
-theweathercompany
 thezebra
-thiess
-thinkacademyus
 thinkific
 thinkingmachines
-thinkmarkets
-thinkofus
 thinx
 thirdharmonicbio
-thirdlove
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
-threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
 tifin
 tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
@@ -4121,7 +4095,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2812)
+## lever (2815)
 netflix
 shopify
 github
@@ -4480,7 +4454,6 @@ blackpanda
 blackriflecoffee
 blanc-labs
 blendlabs
-blinq
 blocknative
 blockspring
 blockstack
@@ -4545,7 +4518,6 @@ brimstone
 brimstoneenergy
 brinc
 broadwaytechnology
-brooksrunning
 bssp
 btc
 btse
@@ -4568,11 +4540,9 @@ butcherbox
 butterpayments
 button
 buyboxexperts
-bv
 bvaccel
 c16bio
 call9
-callan
 callistomedia
 calm
 calven
@@ -4641,7 +4611,6 @@ chooosejobs
 chronicled-2
 churchatthepark
 chyronhego
-cic
 cinchy
 ciphertrace
 circleco
@@ -4660,7 +4629,6 @@ class
 class101
 clearbit
 clearer
-clearpoint
 clerky
 clevertap
 climate-collaborative
@@ -4746,7 +4714,6 @@ copiapower
 copilotmoney
 copper
 copyai
-corbalt
 cordtechnologies
 coredigitalmedia
 coreresponse
@@ -4772,14 +4739,12 @@ crewbloom
 crickethealth
 criticaltilt
 crossvale
-crowdriff
 cruise
 crunchbase
 crusoeenergy
 cruxinformatics
 crypto-innovation
 csaassociates
-cti-md
 culdesac
 cullinanoncology
 culturetrip
@@ -5005,6 +4970,7 @@ figma
 financeinabox
 finchloom
 find
+findem
 findmine
 findora
 finfit
@@ -5070,6 +5036,7 @@ foundersfactoryafrica
 foundry-ai
 fourth
 foxen
+foxitsoftware
 foxtrotco
 fractional
 framework
@@ -5279,6 +5246,7 @@ hone
 honeybeerobotics
 honeycomb
 honeypot
+honkforhelp
 hopelab
 hopthru
 hostinger
@@ -5403,6 +5371,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5477,6 +5446,7 @@ knrtherapy
 koddi
 kodex
 kodiak
+kogniz
 koho
 kokonetworks
 koldpartners
@@ -5591,6 +5561,7 @@ lpainc
 lqdigital
 lrymediagroup
 ltse
+lucasmuseum
 lucca
 lucid
 lucidmotors
@@ -5610,7 +5581,9 @@ lunchboxtechnologies
 luni
 luxe
 luxortechnology
+luxurypresence
 luzia
+lwolf
 lyciatherapeutics
 lykospbc
 lyra
@@ -5658,10 +5631,13 @@ marketopia
 marlettefunding
 marq
 martinagency
+mashgin
+masterborn-2
 mastreforestation
 mastrics
 masygroup
 mathpresso
+matillion
 mattermark
 mattermost
 matterport
@@ -6823,6 +6799,7 @@ vngrs
 voleon
 volka
 voltacharging
+voltus
 volume-finance
 voodoo
 voro
