@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3858)
+## greenhouse (3850)
 hingehealth
 maven
 spring
@@ -568,6 +568,7 @@ brightflag
 brighthealthgroup
 brightinsight
 brightmode
+brightsign
 broadvoice
 brookfieldproperties
 brooklinen
@@ -3481,17 +3482,8 @@ visitingmedia
 visor
 vitablehealth
 vitahealth
-vitalfarms
-vitalfarmsinternalcrew
-vitalvoicesglobalpartnership
-vitta
-vivcourtevents
 vivian
 vividly
-vividseatsllc
-vivodyne
-vivvi
-vixxo
 vizai
 vizgen
 vizit
@@ -3861,7 +3853,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2814)
+## lever (2802)
 netflix
 shopify
 github
@@ -4359,7 +4351,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -5134,7 +5125,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5236,7 +5226,6 @@ kyte
 kyverna
 laagencia
 labelbox
-lacunatechnologies
 lambdal
 lambdaschool
 laminiai
@@ -5247,7 +5236,6 @@ latticehq
 launchdarkly
 launcherspace
 launchhouse
-launchsquad
 lavictoria
 leadbank
 leadgenius
@@ -5287,7 +5275,6 @@ lime
 limebike
 liminal
 limitless
-lindblad-expeditions
 linea
 lingoda
 linksys
@@ -5361,7 +5348,6 @@ macandmia
 machinalabs
 machinefilab
 machinerypartner
-macquarietechnologygroup
 madbox
 madhive
 madisonei
@@ -5422,7 +5408,6 @@ medium
 meetalbert
 meetgroup
 meetingstreetschools
-meetingtomorrow
 meliuz
 membersy
 memebox
@@ -5505,7 +5490,6 @@ mryum
 mtspartners
 multiversx
 munichelectrification
-muttdata
 myassurehealth
 mycelium
 myplacehealth
@@ -5532,7 +5516,6 @@ nesthealth
 nestig
 nesto
 nestwealth
-netomi
 netvirta
 neuralink
 neurolabs-ai
@@ -5661,7 +5644,6 @@ oso
 osomprivacy
 ouster
 outpacebio
-outreach
 outrider
 overbit
 overbond
@@ -5716,7 +5698,6 @@ peakmetrics
 peckwaterbrands
 peddie
 pelago
-pelmorex
 pennylane
 pento
 peoplefun
@@ -5767,7 +5748,6 @@ plum
 plusgrade
 pockethealth
 pocketworlds
-pointclickcare
 pointonenav
 polarsteps
 policyfly
