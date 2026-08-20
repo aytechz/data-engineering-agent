@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4066)
+## greenhouse (4014)
 hingehealth
 maven
 spring
@@ -33,7 +33,9 @@ cohere2
 mistral
 pinecone
 plaid
+pinterest
 notion
+figma
 canva
 pelotoncycle
 doordash
@@ -360,7 +362,6 @@ ataiwebsite
 atalantatherapeutics
 athenaeducation
 athletics
-athleticsbusinessops
 atlanticcouncil
 atlasnavigatorsllc
 atmoslabs
@@ -377,7 +378,6 @@ audigent
 audipacific
 aurorainnovation
 aurorasustainablelands
-authenticx
 authorhealth
 autograph
 automatainc
@@ -455,6 +455,7 @@ benepass
 benevity
 bensonhillinc
 bernie2020
+bessemerventurepartners
 bessemerventurepartnersfellows
 betsierivervet
 better
@@ -520,6 +521,7 @@ blokparty
 bloombergassociates
 bloomworks
 blowfish
+bloxstaking
 blueapron
 bluebeam
 bluebirdbioinc
@@ -540,15 +542,14 @@ bolt42
 bombfell
 bondbrothersinc
 bondfinancialtechnologies
-bondora
 bonobos
 bonzzu
 booker
 boomentertainment
 boomsupersonic
+boostedai
 boostinc
 boostinsurance
-boostlingo
 bootcampinstructionalengagement
 bosonprotocol
 boundlessbio
@@ -572,7 +573,7 @@ brightflag
 brighthealthgroup
 brightinsight
 brightmode
-brkz
+britive
 broadvoice
 brookfieldproperties
 brooklinen
@@ -596,6 +597,7 @@ buzzrx
 bva
 bynderjobs
 byrd
+bythebayhealth
 cabinethealth
 cadencesolutions
 caffeine
@@ -626,6 +628,7 @@ canonicaljobs
 canvas
 canvasconstruction
 capellaspace
+capgeminideutschlandgmbh
 capraconsulting
 capstack
 capstonedc
@@ -639,6 +642,7 @@ cardioone
 cardlytics
 carebridgehealth
 carecom
+careersatkokua
 careersatpeakenergy
 careersatwonder
 careervillage
@@ -648,7 +652,6 @@ carewell
 carmera
 carmichaellynch
 carnegiescience
-carolinatitleloansinc
 carrumhealth
 carsandbids
 carsdotcom
@@ -737,8 +740,10 @@ cibolo
 circle
 circlereferrals
 ciscomeraki
+cision
 citizen
 cityblockhealth
+cityoffortworth
 citystoragesystems
 cityyear
 civicactions
@@ -869,6 +874,7 @@ covetool
 covey
 cowswap
 coyuchi
+cpm
 craevents
 craftco
 craftdocs
@@ -983,6 +989,7 @@ denim
 density
 dermavant20
 dermbiont
+designedconveyorsystems
 designitnorthamerica
 designmind
 designpickle
@@ -999,6 +1006,7 @@ diagram
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
+dialpad
 diamondstatefinancialgroup
 dianahealth
 dice
@@ -1345,7 +1353,6 @@ gamelight
 gamesys
 gameto
 garnerhealthconfidential
-gatesventures
 gatewayfm
 gathertown
 geekhivejobs
@@ -3292,92 +3299,49 @@ tomorrowhealth
 topcompare
 toposware
 topspot
-toradex
-torcrobotics
 tornbannerstudios
-toropark
-toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
-tpcengineeringholdingsllc
-tpgcareers
-tr1x
-trace3
-tracelinkinc
 trackinglink
 trackmaven
-trackonomysystems
 tracktik
 trackvia
 tractable
 tracylocke
 tradecoffee
-traderepublicbank
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
 transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
 treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
-trexsolutions
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
-trinityairmedical
-trinityparktalent
-trinks
 trinternational
-tripactions
-tripadvisor
-triparc
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
 troupehealth
 trove
-trovohealth
-truckstop
-trueanomalyinc
-truebill
-truecaller
 trueclassicteesllc
-truehold
 trueindependentholdings
 truelogic
 truepiccareers
@@ -3386,34 +3350,18 @@ truework
 trufflesecurity
 trulia
 trulioo
-truloveorthodontics
 trunkclub
 trustana
-trustautomation
-trustbank
-trustedhealth
 trustmachines
 trustory
-trustpilot
 trustwell
 trustwill
-try-picnic
 trykarat
 tshirtventures
-ttcglobal
-tubescience52
-tubitv
-tucows
 tucowscampusrecruitment
-tudorgroup
-tula
-tulip
 tumblr
 tunein
-turbineone
 turbofish
-turbotenant
-turing
 turingportal
 turnkeylenderinc
 turntide
@@ -4069,7 +4017,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2801)
+## lever (2812)
 netflix
 shopify
 github
@@ -5340,6 +5288,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5398,6 +5347,7 @@ kinsa
 kitcheck
 kitopi
 kivaai
+kivaconfections
 kiwico
 kkbox
 klarna
@@ -5482,6 +5432,7 @@ lever
 levvel
 lexingtonmedical
 liberatii
+life
 lifen
 lightci
 lillio
@@ -5553,6 +5504,7 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
+lyrahealth
 lyrebirdstudio
 lyterian
 m-kopa
@@ -5635,11 +5587,13 @@ merkle
 meroxa
 meshcapade
 messari
+metabase
 metagood
 metalpay
 metaprisebanking
 metatheory
 meteor
+metr
 mgac
 mheducation
 micromerchantsystems
@@ -5859,7 +5813,9 @@ oso
 osomprivacy
 ouster
 outpacebio
+outreach
 outrider
+outsight
 overbit
 overbond
 overmoon
@@ -5913,6 +5869,7 @@ peakmetrics
 peckwaterbrands
 peddie
 pelago
+pelmorex
 pennylane
 pento
 peoplefun
@@ -5990,6 +5947,7 @@ ppnyc
 pprm
 ppsenfl
 ppslrswmo
+ppsne
 ppsp
 ppswo
 practicebetter
@@ -6646,6 +6604,7 @@ trustly
 trusttoken
 truveris
 trycourier
+tsmg
 tubularlabs
 tuftandneedle
 tul
