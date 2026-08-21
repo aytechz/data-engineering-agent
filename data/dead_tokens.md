@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3774)
+## greenhouse (3722)
 hingehealth
 maven
 spring
@@ -208,7 +208,6 @@ allegro
 allergandatalabs
 alleycorp
 alliedglobalmarketing
-allinc
 allinternal
 allscripts
 allturtles
@@ -395,7 +394,6 @@ avaxambassador
 avea
 avelaeducation
 avenueone
-aviatornation
 avitapropertymanagement
 awarehealthcare
 away
@@ -403,7 +401,6 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
-axonag
 ayun
 azenia
 aztec
@@ -422,7 +419,6 @@ bardelentertainment
 barinthusbiotherapeutics
 barkley
 basehq
-baselayer
 basepowercompany
 basic
 batonhealth
@@ -595,6 +591,7 @@ buzzrx
 bva
 bynderjobs
 byrd
+cabify
 cabinethealth
 cadencesolutions
 caffeine
@@ -617,6 +614,7 @@ campuswayfair
 camundaservices
 canary
 candex
+candidaturasdirecionadasxpinc
 candidly
 candy
 cannalysislabs
@@ -628,7 +626,9 @@ capraconsulting
 capstack
 capstonedc
 capsulecares
+captivation
 carbonbuiltemployment
+carbonchain
 carbonfuture
 cardflight
 cardinalcommerce
@@ -656,6 +656,7 @@ casestatus
 casetext
 casper
 casperretail
+castlebrook
 castlehillgaming
 catalyst10
 catchafire
@@ -821,6 +822,7 @@ common
 commonwealth
 communitychange
 comparablysandboxsandbox
+compliancygroupllc
 conceptarthouse
 condorcomputing
 conductor
@@ -969,6 +971,7 @@ dedrone
 deepscribe
 deepsource
 defineamerican
+definitivehc
 defmethod
 delasport
 deliveroo
@@ -976,6 +979,7 @@ deliverymuch
 delos
 delterra
 demandbase
+demandscience
 denim
 density
 denverbroncosteamllc
@@ -986,6 +990,7 @@ designmind
 designpickle
 designwithinreach
 desktopmetal
+destinationcanada
 deutschnewyork
 developforgood
 devries
@@ -1074,6 +1079,7 @@ earlytalentcerebras
 earthshotlabs
 ease
 eastridgeacademy
+eastsidedermatology
 easyllama
 easypost
 eatgron
@@ -1142,7 +1148,6 @@ envisionthearapyco
 envoy
 ephemeral
 epicsummerresearch
-eplusinc
 eql
 equals
 equatic
@@ -1151,6 +1156,7 @@ ergeon
 ericbuckleygetupsidegreenhouseio
 erin
 escribe
+essential
 esusu
 ethicinvesting
 ethos
@@ -1174,7 +1180,6 @@ evidation
 evive
 evmos
 evolutionaryscale
-evolutioniq
 evolutionparkingguestservices
 evolvtechnologies
 evoplaygames
@@ -1205,6 +1210,7 @@ fantasticpixelcastle
 farasisenergy
 farmersbusinessnetwork
 farmstead
+fashionnova
 fastforward
 fathom
 fazz
@@ -1229,11 +1235,14 @@ firehydrant
 firewalk
 fireworkcareers
 fireworksai
+firstglobalmanagementservicesinc
 firstkeyhomes
 firstlook
 firstlookmedia
+firstmind
 firstresonance
 firstsanfranciscopartners
+firststepsforkids
 fiveringsevents
 flagstone
 flamboyanfoundation
@@ -1298,6 +1307,7 @@ foundrydigitalinternships
 foundrytechnologiesinc
 fountain
 fountain-mx
+fourcornersaviation
 foursight
 foursquare26
 foxrobotics
@@ -1306,6 +1316,7 @@ fractalfounders
 frankieone
 franklincovey
 freedamedia
+freedomcare
 freedomofthepressfoundation
 freetrade
 freewill
@@ -1406,7 +1417,6 @@ go1us
 goalturkey
 goalzimbabwe
 goclio
-godfreydadichpartners
 gofoundation
 gogratia
 gohealth
@@ -1446,7 +1456,6 @@ greenlightbiosciences
 greenpeace
 greenplaces
 gregarious
-greycroft
 griffin
 grindr
 grist
@@ -1478,6 +1487,7 @@ harbor
 harmonic
 harperdbinc
 harringtonorthodontics
+harrisassociates
 harrysinc
 hashgraph
 hatchhirescontractors
@@ -1628,6 +1638,7 @@ ilabsinnovationlabsinc
 illumio
 imagendarystudios
 imagentechnologies
+immersive
 immpactbio
 immunai
 impossiblefoods
@@ -1646,6 +1657,7 @@ infinitereality
 inflammatix
 influential
 influxdb
+infomedia
 infusemedia
 infuseukraine
 ingenuitystudios
@@ -1673,8 +1685,10 @@ integrateai
 integrityinstitute
 intelextechnologies
 intelligo
+intelluminc
 interchain
 interfaceai
+internationalbusinessuniversity
 internationalcruiseandexcursionsinc
 internationalrecruitment
 internrecruiting
@@ -1751,6 +1765,7 @@ jornaya
 journee
 joy
 juaai
+jumia
 jumo
 jumpstart
 junglescout
@@ -1779,6 +1794,7 @@ kava
 keap
 keebo
 keeleycompanies
+keeleyconstruction
 keeptruckin
 kernagency
 ketchumuscareers
@@ -2090,7 +2106,6 @@ minthouse
 mintmobile
 minware
 miraklfr
-mirakllabs
 mirror
 missionbio
 missionlanellc
@@ -3296,6 +3311,7 @@ topspot
 tornbannerstudios
 totusmedicines
 touchbistro
+tpgcareers
 trackinglink
 trackmaven
 tracktik
@@ -3376,11 +3392,13 @@ twonil
 txm
 u410
 uchicagoepic
+udacity
 uiflow
 ultimaker
 ultramobile
 unbounce
 uncacheable_attributes
+unchainedlabs
 uncommongoods
 underdogfantasy
 unionai
@@ -3454,6 +3472,7 @@ venturewell
 ventustherapeutics
 verbenergy
 veriforce
+verisign
 veritone
 veronapharma
 vertocareers
@@ -3465,6 +3484,7 @@ vetstoria
 vettery
 veza
 vhsys
+vianttechnology
 viber
 vibrant
 vicarioussurgical
@@ -3558,9 +3578,7 @@ whistlesports
 whiteops
 wholesail
 wideorbit
-wil
 wildalaskancompany
-wildcardcreativegroup
 wildtype
 wileyedgerecruitingportal
 willow-blossom
@@ -3568,139 +3586,69 @@ willowtree
 wilsonelserattorneys
 winbg
 windfallbio
-wing
-winhomeinspection
-winrock
-winton
 wirewheel
 wirexlimited
-wisconsinautotitleloansinc
 wisesystems
-wisetack
 wistia
 withco
-withcoverage
 witheritelawgroup
 within
-withmeinc
 withotter
 withumsmithbrown
 wizardsofthecoast
 wizehiveusa
-wizeline
-wizinc
-wizixtechnologygroupinc
-wms
 womply
 wonderjobs
-wonderschool
 wondersco
-woodlakeanimalhospital
 woodrodgers
 woodruffsawyer
 wooga
-woolpert
 woonetwork
-wooreferral
 wordpressvip
-workatbackbase
-workato
-workboard
 workco
 workera
 workforef
-workhelix
-workleap
-workleapfr
 workmarket
 workonteamgaryvee
-workoverseas
 workrise
-workshop
 workshopapd
 workshopdigital
 worksighted
-worksite
-workwize
-world4822stri986des
 worldcoinorg
-worldlabs
-worldquant
 worlds
 worldsuntold
-worldsurfleague
 wormholefoundation
 wormholelabs
 worthi
-wpp
 wppit
-wppmedia
 wrapbook
-wrike
 wunder
-wundercapital
-wunderflats
-wunderkind
-wundermanthompson
 wurl
-wurljobs
 wursta
 wurstacorporation
-ww
 wyndlabs
 wysemetersolutionsinc
-xai
-xairatherapeutics
 xanpool
-xantium
-xapo61
-xdinizioengage
-xealth
-xendit
 xgeeks
 xgs
 xhiring
 xlabs
 xmtp
-xohealthinc
-xometry
-xometryeurope
-xometryturkey
-xosinc
-xphealth
-xpinc
 xpincmlhr3
-xtillion
-xtxmarketstechnologies
 xwing
-yaleinvestmentsoffice
-yalochatinc
 yaypay
-yellowbrickdata
 yembo
 yepjobs
-yerbamadre
 yesshecodes
 yeti
-yext
-yieldmo
 yieldstreet
-yipitdata
-yipitdatajobs
-yld
-ylopo
 yohana
-yoodliinc
-yotpo
-youcom
 yougov
 youhealthproviders
-youngmindsdc
 yoursuper
 yousician
 youthinc
 yprime
-ysoftcorporation
 yugabyte
 yugalabs
 yuma
@@ -3777,7 +3725,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2808)
+## lever (2814)
 netflix
 shopify
 github
@@ -3873,6 +3821,7 @@ adthena
 advancednavigation
 aechelon
 aeler
+aeratechnology
 aerialapplications
 afarmedia
 affinity
@@ -3891,6 +3840,7 @@ aifoundation
 aifund
 aigen
 ailens
+aipconnect
 aira
 airhouse
 airprotein
@@ -3935,6 +3885,7 @@ amiri
 amobee
 amplitude
 ams-corp
+amtengineering
 amused-group
 amyris
 anagram
@@ -4100,6 +4051,7 @@ belonghome
 benlabs
 bestegg
 beta
+betr
 betstamp
 better
 betterlifepartners
@@ -4277,6 +4229,7 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
+cfsenergy
 chain
 chainlink
 chamberofprogress
@@ -4301,6 +4254,7 @@ circlemedical
 circlepharma
 circonus
 circulo
+cirquedusoleil
 cision
 citadelsecurityusa
 citrineinformatics
@@ -6587,7 +6541,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (872)
+## ashby (870)
 mercury
 together
 replicate
@@ -6802,7 +6756,6 @@ deta
 di-ati
 dicefm
 didask
-diffit
 dolarapp
 donut
 doodles
@@ -6922,7 +6875,6 @@ gravitysketch
 grayce
 greenlite
 greenskygames
-greptile
 gretel
 greylock
 gridium
