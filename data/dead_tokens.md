@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4146)
+## greenhouse (4216)
 hingehealth
 maven
 spring
@@ -73,7 +73,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-avepoint
 capitalrx
 klaviyocampus
 morsecorpcoop
@@ -181,7 +180,6 @@ agolo
 agoralabinc
 agoric
 aifleet
-aift
 aipalette
 airbase
 aircore
@@ -191,8 +189,6 @@ airspeed
 airtime
 airworks
 aiserajobs
-aisquared
-akerotherapeutics
 akriveiatherapeutics
 alby
 alchemy
@@ -218,7 +214,6 @@ aloft
 alpenlabs
 alphaawmeur
 alphahawaii
-alphapublicschools
 alpineinternships
 alteradigitalhealth
 alteradigitalhealthcanada
@@ -445,7 +440,6 @@ beautycounter
 beautypie
 bebiopharma
 bedrockrobotics
-beegenius
 beekeeper
 beeshiringday
 beeswax
@@ -1288,7 +1282,6 @@ fortunafi
 fortune
 forwardfinancing
 fossa
-found
 foundation
 foundationforahealthystpetersburg
 foundersintelligence
@@ -3173,55 +3166,131 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
 tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
 teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
 tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
 territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
+thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
+theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
+thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
 theknotworldwide
@@ -3239,6 +3308,7 @@ themjcos
 themotleyfool
 themuseumofscience
 thena
+thenewyorktimes
 thenuclearcompany
 theoakleafgroupllc
 theoncologyinstitute
@@ -4149,7 +4219,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2806)
+## lever (2810)
 netflix
 shopify
 github
@@ -4648,7 +4718,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -5506,6 +5575,7 @@ konviere
 koombea
 kooptechnologies
 koreaboo
+kotm
 kpmg-2
 kraken
 kraken123
@@ -5603,6 +5673,7 @@ loop-health
 loopinternet
 loopio
 loupetheapp
+lovepop
 lovepopcards
 loyalfordogs
 loyaltylion
@@ -5630,6 +5701,7 @@ luni
 luxe
 luxortechnology
 luzia
+lwolf
 lyciatherapeutics
 lykospbc
 lyra
@@ -5651,6 +5723,7 @@ madisonei
 madisonlogic
 madrigalpharma
 magic
+magicalbeginningslc
 magicgames
 magnitudesoftware
 mahanatherapeutics
@@ -5676,6 +5749,7 @@ marketingevolution
 marketopia
 marlettefunding
 marq
+marqvision
 martinagency
 mastreforestation
 mastrics
@@ -5763,6 +5837,7 @@ molcure
 molekule
 moment-ranks
 momentfactory
+momenti-inc
 momentum-inc
 moneytree
 monumental
@@ -5793,7 +5868,6 @@ myplacehealth
 mytraffic
 myvest
 nabis
-nahc
 narmi
 natronenergy
 naturesfynd
@@ -5832,6 +5906,7 @@ nextcaller
 nextdata
 nextgames
 nextmillennium
+nexuse-group
 nfamilyclub-2
 nftnow
 nftpay
@@ -5892,6 +5967,7 @@ octane
 octoml
 octopus
 oda
+odaseva
 odysaviation
 offerpop
 oleria-security
@@ -5950,7 +6026,6 @@ owner
 oxeonpartners
 oxio
 oxman
-oxylabs
 p-1ai
 pachama
 pachyderm
@@ -6605,7 +6680,6 @@ termius
 terms
 terra
 terraformation
-terrascend
 terrascope
 tesorio
 tessian
