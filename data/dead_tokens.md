@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4281)
+## greenhouse (4235)
 hingehealth
 maven
 spring
@@ -309,7 +309,6 @@ aquia
 aradenabattlegrounds
 arcdev
 arcellx
-archer56
 archetypeentertainment
 archetypesg
 arcticwolfnetworks
@@ -327,7 +326,6 @@ arise
 arkansascenterfordatasciences
 arkesystems
 arkoselabscostarica
-armissecurity
 armracolostrum
 around
 arrantabiocareers
@@ -362,7 +360,6 @@ atai
 ataiwebsite
 atalantatherapeutics
 athenaeducation
-athinkingape
 athletics
 atlanticcouncil
 atlasnavigatorsllc
@@ -415,7 +412,6 @@ baincapitalventures
 ballotready
 balto
 bam
-bandwidth
 banyaninfrastructure
 banyansecurity
 banyucarbon
@@ -505,7 +501,6 @@ bitreactor
 bittrex
 bjss
 bkcareers
-blab
 blabuscanada
 blackbill
 blackbird
@@ -713,8 +708,6 @@ charlesandlynnshustermanfamilyfoundation
 charley
 charmindustrial
 chartboost
-charterts
-charterup
 chathamfinancial
 chattermill
 check
@@ -1578,7 +1571,6 @@ horizons
 hotelengine
 hotelenginereferrals
 hotjar
-hotmartcareersbr
 hotmartcareersen
 hotwireau
 hotwirede
@@ -1644,7 +1636,6 @@ infarm
 infinitecommerce
 infinitefield
 infinitereality
-infinitumelectric
 inflammatix
 influential
 influxdb
@@ -1701,7 +1692,6 @@ ironhealth
 iseatz
 islandsxyzinc
 isrg
-its
 ittakesavillage
 iversoft
 ivoyant
@@ -2156,6 +2146,7 @@ mullenlowe
 mullenlowegroupuk
 multivista
 mundipagg
+muonspace
 mural
 mursion
 museumoficecream
@@ -2269,6 +2260,7 @@ noonenergy
 noorahealth
 noredink
 nori
+northbeam
 northone
 northrichland
 northstar
@@ -2504,6 +2496,7 @@ peopledatalabs
 peopledoc
 peoplestrata
 pepperjam
+peptilogics
 perchenergycareers
 perfectday
 periscopedata
@@ -2666,6 +2659,7 @@ radicalnumerics
 radixtrading
 rainberry
 rainesinternational
+raisin
 rakutenmedical18
 rakutenrewards
 rallyhealth
@@ -2760,7 +2754,8 @@ riverfinancial
 riversideresearch
 rivian
 robertrauschenbergfoundation
-rocketchat
+roboforce
+rocketlab
 rocketreach
 rockstarinternships
 rocksteadymusicschool
@@ -2777,10 +2772,13 @@ route06casual
 roxe
 rsgur
 rsinternboard
+rtbhouse
 rubiconcarbon
 rubilaboratories33
+rubrik
 rubyreceptionists
 rudderstack
+ruelala
 runelabs
 runpod
 rvedufreelancenetwork
@@ -2791,6 +2789,7 @@ rxvantage
 saasacademy
 sada
 sadaindia
+safariai
 safebase
 sagansystems
 sagardcareers
@@ -2886,6 +2885,7 @@ sevenrooms
 sevenroomssgp
 sevenroomsuae
 sfgiants
+sfox
 sgs
 shaker
 shapeshift
@@ -3046,6 +3046,7 @@ spreadgroup
 sprig
 springdiscovery
 sprinklr
+sprintersportses
 sprintray
 sproutsocialcollege
 sprouttherapy
@@ -3120,109 +3121,62 @@ superhuman
 superlayer
 superrarelabs
 supio
-supplyhouse
-supportingstrategies
 supportlogic
 supraoracles
 surfair
 surgicalnotes
 surveymonkey
 sustainlife
-sustainment
 swagup
 swanbitcoin
 swarmaero
-swayable
 sweet
 sweeten
-sweetgreen
-swiftsolar
 swingeducation
 swirlds
 swishanalytics
-swissitgermany
-swoogo
 syapse
 sylogist
 sylva
-sylvain
 symblai47
 symbolica
 symend
-symmetry
 symmetrysoftware
-synack
-synacksrt
 synccomputing
 synchron
 syncron
 synctera
-syndigo
-syndio
-synerg
 synfindo
 synthesia
-synthesishealth
-synthetaic
 syrup
 sysdig
-syskahennessy
-system
-systemiq
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
-taboola
 tacnet
 tacobell
 tacobelljobs
 tacombi
-tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
-tailorcare2023
 tails
-tailscale
 taittowers
-takealotcom
-takealotgroup
-takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspace
-talkspacepsychiatry
-talkspacetherapist
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
-tandemlaunch
-tandemmoneylimited
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
-tankww
 tanso
 tapresearch
 targetrwe
-tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
-taskrabbit
-tastylive
-tastytrade
 tavus
-taxbit
 taxibeat
 taxvalet
 taylorstrategy
@@ -4284,7 +4238,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2808)
+## lever (2826)
 netflix
 shopify
 github
@@ -4788,7 +4742,6 @@ chain
 chainlink
 chamberofprogress
 change
-chargezoom
 chariot
 chartio
 chatmeter
@@ -5561,6 +5514,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5602,6 +5556,7 @@ kellytelecom
 keloniatx
 kenko
 kensho
+kepler
 kerishullteam
 ketch
 kevala
@@ -5768,8 +5723,8 @@ lunchboxtechnologies
 luni
 luxe
 luxortechnology
-luxurypresence
 luzia
+lwolf
 lyciatherapeutics
 lykospbc
 lyra
@@ -5785,6 +5740,7 @@ macandmia
 machinalabs
 machinefilab
 machinerypartner
+macquarietechnologygroup
 madbox
 madhive
 madisonei
@@ -5794,6 +5750,7 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
+mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -5809,6 +5766,7 @@ maplemedia
 mapsbcorp
 marcopolo
 marcusmillichap
+margueritecaseyfoundation
 maribelhealth
 markato
 marketcircle
@@ -5929,6 +5887,7 @@ multiversx
 munichelectrification
 myassurehealth
 mycelium
+myollie
 myplacehealth
 mytraffic
 myvest
@@ -6075,6 +6034,7 @@ orbitalinsight
 orcamobility
 orkes
 orum
+osaro
 osmind
 osnational
 oso
@@ -6126,6 +6086,7 @@ payfit
 paymongo
 paystack
 paytmbank
+paytmpayments
 payzen
 pdq
 peachfinance
@@ -6189,6 +6150,7 @@ pocketworlds
 pointonenav
 polarsteps
 policyfly
+policyme
 polleverywhere
 pollyex
 polygon
@@ -6206,6 +6168,8 @@ powdevs
 ppaz
 ppgnnj
 ppgt
+ppil
+ppkeystone
 pplwise
 ppncny
 ppnyc
@@ -6215,6 +6179,7 @@ ppslrswmo
 ppsp
 ppswo
 practicebetter
+precede
 prefixbox
 preligens
 prelim
@@ -6250,6 +6215,7 @@ projectcallisto
 projector-2
 projectyx
 promaxo
+prometheanworld
 pronto-ai
 propelplm
 protegrity
@@ -6281,12 +6247,14 @@ qover
 qredo
 qualified
 qualtekservices
+quandri
 quantgene
 quantlabs
 quantumcircuits
 quantumworkplace
 quartet
 quartethealth
+quenchwater
 quicknode
 quidd
 quidel
@@ -6308,6 +6276,7 @@ radai
 radicalai
 radix
 radpowerbikes-2
+rai
 rainforest
 rainmaking
 raise
@@ -6368,6 +6337,7 @@ resilience
 resonanceglobal
 respawn
 respondent
+restaurant365
 restream
 resultadosdigitais
 retailmenot
@@ -6456,6 +6426,7 @@ salesmsg
 saleswhale
 salo-sciences
 samacare
+sambatv
 sanctuary
 saronic
 sarwa
@@ -6604,6 +6575,7 @@ sprinto
 spruce
 sprucestreetcompinternships
 sprucesystems
+sprymethods
 sqreen-2
 sta
 stable
