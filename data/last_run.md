@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-21 20:42 UTC
+### 1 new matching jobs · 2026-08-21 21:39 UTC
 
 #### From greenhouse (1)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/kunai/jobs/5207153007)** at **Kunai** — Remote - Mexico · `snowflake, dbt, python, sql` · _greenhouse_
+- **[Senior OT Data Engineer](https://job-boards.greenhouse.io/valaratomics/jobs/4341262009)** at **Valar Atomics** — Torrance, California, United States 🏥 · `sql` · _greenhouse_
