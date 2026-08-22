@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-08-22 22:39 UTC_
+_Last updated: 2026-08-22 23:35 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -83,6 +83,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002)** at **AB InBev  | Growth Group** — Remote, Brazil 🤖 · `pyspark, aws, azure, python, sql` · _greenhouse_
 - **[Data Architect](https://job-boards.greenhouse.io/aclu/jobs/8618052002)** at **ACLU - National Office** — New York, New York, United States; San Francisco, California, United States; Washington, District of Columbia, United States 🏥🤖 · `snowflake, dbt, azure, python, sql` · _greenhouse_
 - **[Senior Data Architect](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8645730002)** at **Adaptive Biotechnologies** — Remote (WFH) 🤖 · `databricks, snowflake, dbt, aws, gcp, azure` · _greenhouse_
+- **[Associate, Data Engineer](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008)** at **AffirmedRx, PBC** — Remote 🏥 · `snowflake, dbt, azure, python, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004)** at **Agility Robotics** — Remote 🏥 · `databricks, spark, kafka, aws, gcp, azure` · _greenhouse_
 - **[Senior AI & Data Engineer](https://job-boards.greenhouse.io/alamarbiosciences/jobs/5997271004)** at **Alamar Biosciences** — Fremont, California 🏥🤖 · `databricks, snowflake, dbt, airflow, python, sql` · _greenhouse_
 - **[Sr. Data Engineer](https://job-boards.greenhouse.io/allworthfinancial/jobs/8552118002)** at **Allworth Financial** — Dallas, Texas, United States 🏥 · `pyspark, spark, azure, sql` · _greenhouse_
@@ -207,4 +208,3 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Platform Engineer](https://job-boards.greenhouse.io/medium/jobs/4299193009)** at **Medium** — Remote - US 🏥 · `spark, snowflake, dbt, aws, python` · _greenhouse_
 - **[Data Engineer - Data Platform](https://job-boards.greenhouse.io/mill/jobs/4722052005)** at **Mill** — San Bruno, California 🤖 · `snowflake, dbt, airflow, python, sql, terraform` · _greenhouse_
 - **[Senior Software Engineer - Data Engineering - Moloco Commerce Media](https://job-boards.greenhouse.io/moloco/jobs/7607957003)** at **Moloco** — Menlo Park, California, United States 🏥🤖 · `aws, azure, python, sql` · _greenhouse_
-- **[Senior Data Engineer, Event Data](https://movableink.com/job-listing?gh_jid=7776323)** at **Movable Ink** — Movable Ink - Toronto (Remote) 🏥 · `databricks, kafka, aws, gcp, python, sql` · _greenhouse_
