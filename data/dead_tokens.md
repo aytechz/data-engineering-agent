@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4127)
+## greenhouse (4173)
 hingehealth
 maven
 spring
@@ -840,6 +840,7 @@ convertkit
 coolplanet
 coop
 copperleaf
+copperstatefarms
 copysmith
 cora
 cordros
@@ -848,11 +849,13 @@ corepilot
 corescientific
 corrieluscardiology
 cortexbuildingintelligence
+cortica
 corvee
 corvusinsurance
 cosseandsilmonorthodontics
 cota
 cotap
+cotullaeducation
 coursehero
 coursekey
 coursemojo
@@ -975,6 +978,7 @@ delterra
 demandbase
 denim
 density
+dentalook
 denverbroncosteamllc
 dermavant20
 dermbiont
@@ -991,6 +995,7 @@ dfinity
 dharma
 dhinternal
 diagram
+dialecticch
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
@@ -3202,36 +3207,77 @@ terramera
 terraytherapeutics
 territorialdentalclinic
 tesseract
+testlio
+testnisc
+tetra
+texasairsystems
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
+thatsnomoonentertainment
+theagencyre
+thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
+thebrandagency
+thebrattlegroup
+thechempetitivegroupllc
 thedailybeast31
+thedotcollective
+thedutchie
+theeconomistgroup
+theeverycompany
+thefarmersdog
 theflatironschool
+thefloridapanthers
+thefork
+thegialliancemanagementllccompany
 thegivingblock
+thegoodfoodinstitute80
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
 theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
 themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
 thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
 thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
 thepharmacyhub
 thephoenix
 theplaceforchildrenwithautism
@@ -4210,6 +4256,7 @@ accesso
 accompanyhealth
 accrue
 accurate
+acds
 acl
 aclaimant
 acpl
@@ -5408,7 +5455,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6941,7 +6987,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (871)
+## ashby (870)
 mercury
 together
 replicate
@@ -7042,7 +7088,6 @@ bitewell
 bitnomial
 bizly
 bjak
-bjakcareer
 blackpointcyber
 bland-ai
 blankashby2
