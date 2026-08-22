@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4173)
+## greenhouse (4202)
 hingehealth
 maven
 spring
@@ -840,7 +840,6 @@ convertkit
 coolplanet
 coop
 copperleaf
-copperstatefarms
 copysmith
 cora
 cordros
@@ -849,13 +848,11 @@ corepilot
 corescientific
 corrieluscardiology
 cortexbuildingintelligence
-cortica
 corvee
 corvusinsurance
 cosseandsilmonorthodontics
 cota
 cotap
-cotullaeducation
 coursehero
 coursekey
 coursemojo
@@ -978,7 +975,6 @@ delterra
 demandbase
 denim
 density
-dentalook
 denverbroncosteamllc
 dermavant20
 dermbiont
@@ -995,7 +991,6 @@ dfinity
 dharma
 dhinternal
 diagram
-dialecticch
 dialexa
 dialoguehealthtechnologiesinc
 dialoguetechnologiesdelasanteinc
@@ -3174,43 +3169,77 @@ tcgcapital
 tdc
 tdinternational
 teacherspayteachers
+teachinglab
 teads
 team1
+teammate
 teammobot
 teampathy
 teampay
 teamworthy
+tebra
+teccweb
 techietalent
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
 tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
+temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
 territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
 testlio
 testnisc
 tetra
-texasairsystems
+texascartitleandpaydayloanservicesinc
 texaschillersystemsasp
 texthelp
 textileio
@@ -4176,7 +4205,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2809)
+## lever (2808)
 netflix
 shopify
 github
@@ -4256,7 +4285,6 @@ accesso
 accompanyhealth
 accrue
 accurate
-acds
 acl
 aclaimant
 acpl
