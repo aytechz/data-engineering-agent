@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3899)
+## greenhouse (3901)
 hingehealth
 maven
 spring
@@ -278,7 +278,6 @@ anz
 apartmentlist
 apeel
 apellis
-aperaaiinc
 apexlogic
 apiascholars
 apisero
@@ -518,7 +517,6 @@ blockstream
 blocpower
 blokparty
 bloombergassociates
-bloomreach
 bloomworks
 blowfish
 blueapron
@@ -1119,6 +1117,7 @@ embroker
 emerycellibrinckerhoffabadywardmaazelllp
 emids
 emotiveio
+emplififr
 emulate
 enchantedforest
 enchargeai
@@ -1203,6 +1202,7 @@ farasisenergy
 farmersbusinessnetwork
 farmstead
 fastforward
+fastpaydayloansfloridainc
 fathom
 fazz
 fearless
@@ -3446,11 +3446,10 @@ ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
 veracyte
 veranahealth
 verantos
+veratherapeuticsinc
 verbenergy
 veriff
 verifone
@@ -3466,6 +3465,7 @@ versaterm
 verse
 versprite
 vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
 verusen
@@ -3478,6 +3478,8 @@ vestmark
 vestwell
 veterans
 veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
@@ -3902,7 +3904,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2815)
+## lever (2809)
 netflix
 shopify
 github
@@ -4234,7 +4236,6 @@ beyondcloudconsulting
 beyondmeat
 beyondpricing
 bfp
-bhvr
 biconomy
 bigfootbiomedical
 biggergames
@@ -4403,7 +4404,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cfgi
 chain
 chainlink
 chamberofprogress
@@ -5182,7 +5182,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5332,7 +5331,6 @@ limberhealth
 lime
 limebike
 liminal
-limitbreak
 limitless
 linea
 lingoda
@@ -5407,7 +5405,6 @@ macandmia
 machinalabs
 machinefilab
 machinerypartner
-macquarietechnologygroup
 madbox
 madhive
 madisonei
@@ -5477,7 +5474,6 @@ mentormate
 meridianlink
 merit
 merkle
-merklescience
 meroxa
 meshcapade
 messari
