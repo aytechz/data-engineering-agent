@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3649)
+## greenhouse (3665)
 hingehealth
 maven
 spring
@@ -3642,14 +3642,30 @@ zilliqa
 zilliz
 zing
 zinniaintern
+zinnov
 zip
+zipcolimited
+ziprecruiter
 zitaratechnologiesinc
+zocalohealth
+zocdoc
+zola
 zolar
+zone5technologies
+zonecompanysoftwareconsultingllc
+zoo
+zoominfo
 zora
+zoro
+zscaler
 zscalerredcanary
 ztxfoundation
 zubiad
+zulualphakilo
+zupinnovation
+zwift
 zynga
+zyngacareers
 zyngaearlycareers
 
 ## lever (2809)
