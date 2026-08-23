@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4098)
+## greenhouse (4134)
 hingehealth
 maven
 spring
@@ -3227,41 +3227,77 @@ themany
 themarkup
 themarshallproject
 thena
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
+thepacgroup
 thepennyhoarder
+theperfectworkout
+theperiscopegroup
+thepharmacyhub
 thephoenix
+theplaceforchildrenwithautism
+thequalitygroupgmbh1
+thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
+theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
+thesciongroupllc
 thesis
+thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
+thetradedesk
 thetustingroupasp
+thevascularcaregroup
 thevets
+theweathercompany
+thewilshiregroup
 thezebra
+thiess
+thinkacademyus
 thinkific
 thinkingmachines
+thinkmarkets
+thinkofus
+thinkonward
 thinx
 thirdharmonicbio
+thirdlove
+thirdpoleinc
+thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
+thomasvillechildcare
+thorn
+thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
+thrivecart
+thrivedigital
 thriveglobal
+thrivemarket
 throughline
 thumbtack
 thunder
@@ -6913,7 +6949,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (869)
+## ashby (870)
 mercury
 together
 replicate
@@ -7750,6 +7786,7 @@ wellth
 wemod
 wetransfer
 wherobots
+windmill
 windsurf
 wiremock
 wiseradvisor
