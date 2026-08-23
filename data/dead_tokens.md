@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3929)
+## greenhouse (3905)
 hingehealth
 maven
 spring
@@ -3408,53 +3408,29 @@ ustwo
 ustwogames
 utilityapi
 vac
-valaratomics
-valerahealth
 valiantharborinternationalllc
 valimailinc
-valleyhospital
 valleyview
-valohealth
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
-variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
 vecma
 vecnyc
-vectara
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
 velocityelectronics
 velocityglobal
