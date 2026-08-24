@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3930)
+## greenhouse (3852)
 hingehealth
 maven
 spring
@@ -170,7 +170,6 @@ aerospike
 aetion
 aevum
 aevumdefense
-afcvolunteers
 affecttherapeutics
 affiniatherapeutics
 affinity
@@ -352,7 +351,6 @@ assemblyairemote
 assemblyhq
 assemblyosminc
 assurna
-asteralabs
 astoundcommercesb
 astria
 astrica
@@ -547,11 +545,9 @@ boostinc
 boostinsurance
 bootcampinstructionalengagement
 bosonprotocol
-bottomlinetechnologies
 boundlessbio
 boundlessimmigration
 boxedwholesale
-braeburn
 braingu
 brainly
 braintechnologies
@@ -559,7 +555,6 @@ braintree
 braintrust
 branch32
 brands4friends
-brandtechplus
 bravehealth
 breakthroughenergy38
 breezeairways
@@ -572,7 +567,6 @@ brighthealthgroup
 brightinsight
 brightmode
 broadvoice
-broadwayventures
 brookfieldproperties
 brooklinen
 bsr
@@ -590,7 +584,6 @@ buildxact
 builtinintegrationsandbox
 bulletfarm
 bumble
-burnt
 bursonglobal
 buzzrx
 bva
@@ -625,7 +618,6 @@ canonicaljobs
 canvas
 canvasconstruction
 capellaspace
-capintel
 capraconsulting
 capstack
 capstonedc
@@ -653,7 +645,6 @@ carsandbids
 carsdotcom
 cartodb
 cartwheelcare
-casa
 cascadedatalabs
 casestatus
 casetext
@@ -820,7 +811,6 @@ collegevine
 cologixinc
 columnsoftware
 commercehub
-commerceiq
 common
 commonwealth
 communitychange
@@ -853,10 +843,8 @@ cordros
 corellium
 corepilot
 corescientific
-corestory
 corrieluscardiology
 cortexbuildingintelligence
-cortica
 corvee
 corvusinsurance
 cosseandsilmonorthodontics
@@ -948,7 +936,6 @@ dandelionenergy
 dandy
 dare
 darkburncreative
-darkhorseemergency
 darktracelimited
 das42
 dashq
@@ -1030,7 +1017,6 @@ dkjagointernship
 dl1961
 dmarket
 dmcengineering2024
-dmgevents
 dmipartners
 dna
 dnli
@@ -1143,7 +1129,6 @@ enscohotjobs
 ensembleai
 ensitefulinternalpositions
 enterrasolutions
-entradatherapeutics
 entreehealth
 envato
 envisionthearapyco
@@ -1227,7 +1212,6 @@ figment
 figuremarketsinc
 fincent
 findanomaly
-finepointconsulting
 finfare
 finfare-financial
 fingerprintjs
@@ -1427,7 +1411,6 @@ goodtime
 goodunited
 goodworker
 goodworldwide
-goremutualinsurance
 govini
 govos
 govport
@@ -1660,10 +1643,8 @@ inkling
 inlan
 innovaccer
 innovatel
-innovid
 innovior
 innovusion
-insider
 insideviewin
 insify
 insightec
@@ -1815,7 +1796,6 @@ kiosk
 kisbeetherapeutics
 kit
 kittycad
-kizen
 kkr
 klaratechnologies
 kleerandmembersy
@@ -1856,7 +1836,6 @@ la2028
 lagrange
 lakesidesoftware
 lambda
-landdesign
 landis
 langai
 lantern
@@ -1965,7 +1944,6 @@ lumahealth
 lumenbioscience
 lumenorbit
 luminar
-luminishealth
 lumos
 lunchbox
 luster
@@ -1980,7 +1958,6 @@ maestroqa
 maev
 magic
 magiceden
-magicleap
 magicleapinc
 magna
 magnoliabakery
@@ -2130,7 +2107,6 @@ monad
 mondo
 moneylion
 monoceros
-monocl
 monograph
 monthly
 moonpay
@@ -2924,7 +2900,6 @@ sigmoidinternational
 signaladvisors
 signatureanalytics
 signavio
-signerscareers
 signifyhealth
 signifyhealthireland
 sigstr
@@ -2985,7 +2960,6 @@ snowcompanies
 snowpeak
 snyk
 socialpoint
-socialscienceresearchcouncil
 sociummedia
 socure
 sodahealth
@@ -3175,7 +3149,6 @@ tally
 tallywallet
 talos
 tamanna
-tandemmoneylimited
 tangocard
 tangoio
 tanso
@@ -3193,20 +3166,17 @@ tcgcapital
 tdc
 tdinternational
 teacherspayteachers
-teachinglab
 teads
 team1
 teammobot
 teampathy
 teampay
-teampicnic
 teamworthy
 techietalent
 technisyscareers
 techridge
 techstars
 techtalentandstrategy
-tegnainc
 tekion
 teknema
 teladochealth
@@ -3239,7 +3209,6 @@ thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
 thedailybeast31
-theeconomistgroup
 theflatironschool
 thegivingblock
 thehackerati
@@ -3254,7 +3223,6 @@ themarkup
 themarshallproject
 thena
 theoakleafgroupllc
-theoncologyinstitute
 theoremlp
 theorg
 theoutline
@@ -3273,7 +3241,6 @@ thesourcery
 theswiftgroup
 thetustingroupasp
 thevets
-theweathercompany
 thezebra
 thinkific
 thinkingmachines
@@ -3317,7 +3284,6 @@ topspot
 tornbannerstudios
 totusmedicines
 touchbistro
-townofsnowmassvillagecolorado
 trackinglink
 trackmaven
 tracktik
@@ -3460,68 +3426,32 @@ veedio
 veem
 veesearch
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
-verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
-vgw
 vhsys
-via
-viaduct
-viagogo
-vialogic
-viamrobotics
-vianttechnology
 viber
-vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -3531,19 +3461,11 @@ victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
-vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
 viseai
@@ -3933,7 +3855,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2808)
+## lever (2809)
 netflix
 shopify
 github
@@ -6567,6 +6489,7 @@ ushur
 usmobile
 utopialabs
 utvate
+v2sa
 valence
 valinor
 valoremreply
@@ -6743,7 +6666,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (872)
+## ashby (871)
 mercury
 together
 replicate
@@ -6827,6 +6750,7 @@ bags
 bardo
 bariendo
 base0
+beacons
 beakon
 beam
 bear
@@ -6857,7 +6781,6 @@ bodyard
 bonfire
 boomandbucket
 boost
-botanictonics
 breadboard
 bridge
 brightmeds
@@ -7128,7 +7051,6 @@ italic
 iterative
 ithaca
 izea
-jamssoftware
 jasperai
 jenni-ai
 jerry
