@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4088)
+## greenhouse (4108)
 hingehealth
 maven
 spring
@@ -422,7 +422,6 @@ basic
 batonhealth
 baymeadows
 bbot
-bbyo
 bcapitalgroup54
 bccampus
 bcgdv
@@ -517,7 +516,6 @@ blokparty
 bloombergassociates
 bloomworks
 blowfish
-bloxstaking
 blueapron
 bluebeam
 bluebirdbioinc
@@ -602,6 +600,7 @@ calibrate
 calibratecareers
 caliva
 callibrity
+calm
 calvettifergusonexperiencedprofessionals
 calvettifergusoninternships
 calyxinstitute
@@ -2083,7 +2082,6 @@ missionbio
 missionlanellc
 missiontelecom
 missionzerotechnologies
-mississippititleloansinc
 mixbook
 mixhalo
 mixmode
@@ -2236,6 +2234,7 @@ nirvana
 nobellfoods
 nobl9
 noble
+nobuhoteltoronto
 nocdinc
 nogginit
 nohozephyrinc
@@ -2502,7 +2501,6 @@ phasefour
 phcglobal
 phenogy
 philadelphiaphilliesrddepartment
-phiture
 phiture2
 phonic
 phreesia
@@ -2573,7 +2571,6 @@ predictivehr
 preparedmontessorian
 preply
 presonus
-prezzee
 pricespider
 primeprotocol
 primetrust
@@ -2789,6 +2786,7 @@ samsungcollegeprogram
 sanabilventurestudio
 sandboxaq
 sandstonecarebroomfield
+sandstonecarecastlerock
 sandstonecaredarien
 sandstonecoloradospringsoutpatient
 sandstonedenver
@@ -3246,27 +3244,46 @@ thevets
 thezebra
 thinkific
 thinkingmachines
+thinkmarkets
+thinkofus
+thinkonward
 thinx
 thirdharmonicbio
+thirdlove
+thirdpoleinc
+thirdwaveautomation
 thirdway
 thirtymadison
+thltestcareers
 thnks
+thomasvillechildcare
+thoropass
 thoughtful
 thoughtspot
+thoughtworks
+thoughtworksreferral
 thousandeyes
 thread
+threatlocker
 threeflow
 threeships
 thrivecapital
+thrivecart
+thrivedigital
 thriveglobal
+thrivemarket
 throughline
 thumbtack
 thunder
 thunes
 thymecare
+tia
 tide
+tidewatertech
 tiermobility
 tiermobilitygermany
+tifin
+tigargymnastics
 tigera
 tigergraph
 tillatechnologies
@@ -3280,6 +3297,9 @@ tinginternet
 tinkermode
 tintai
 tinuitisecondarypage
+tipaltisolutions
+tippingpointcommunity
+tiptop
 tiree
 tireseasycom
 titan
@@ -4091,7 +4111,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2811)
+## lever (2814)
 netflix
 shopify
 github
@@ -4390,6 +4410,7 @@ barefootproximity
 barkleyus
 barley
 barrel
+basis
 batterymetals
 battlecreekchurch
 bayzat
@@ -4405,6 +4426,7 @@ beanstalkagtech
 beautyhaul
 bebop
 bedrockocean
+beegreen
 beemenergy
 beetalents
 bellhops
@@ -4573,6 +4595,7 @@ casa
 casdincapital
 casetext
 cashrewards
+caslservice
 catalyze
 catbird
 catenamedia
@@ -5123,8 +5146,10 @@ goodgamestudios
 goodrx
 gordian-bio
 gorgias
+gorh
 gorillalogic
 goshippo
+gostudion
 gotit
 gotogroup
 govini
@@ -5943,7 +5968,6 @@ peckwaterbrands
 peddie
 pelago
 pennylane
-pentagrp
 pento
 peoplefun
 percipient
@@ -6632,7 +6656,6 @@ tonsser
 topanga
 tophat
 tophatter
-topicalsrx
 topl
 toplinepro
 torch
@@ -6904,7 +6927,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (870)
+## ashby (872)
 mercury
 together
 replicate
@@ -7326,6 +7349,7 @@ landbase
 latitud
 latitudecareers
 layern
+learn-ashby
 lempire
 liblab
 life-space-digital
@@ -7589,6 +7613,7 @@ seis
 select-labs
 sensat
 sensorita
+sentient
 seriesai
 servicebell
 shadow
