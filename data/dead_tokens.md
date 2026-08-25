@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4189)
+## greenhouse (4180)
 hingehealth
 maven
 spring
@@ -652,6 +652,7 @@ castlehillgaming
 catalyst10
 catchafire
 catchco
+catchcreationllc
 catchpoint
 category-labs
 catenaclearing
@@ -699,6 +700,7 @@ changeorg58
 chanzuckerbergbiohub
 chanzuckerbergbiohubny
 chapter
+chariotdefense
 charlesandlynnschustermanfamilyphilanthropies
 charlesandlynnshustermanfamilyfoundation
 charley
@@ -2506,6 +2508,7 @@ phonic
 phreesia
 piclo
 picnichealth
+picoquantitativetrading
 pika
 piktochart
 pillar
@@ -3182,28 +3185,16 @@ teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
-temporaltechnologies
 tempus
-tenberke
 tencent
 tenderfood
 tenet
-tenet3
 tenetfintechgroup
-tennesseetitleloansinc
-tenon
 tensor
-tenstorrent
 tenstreet
 tenthousand
 teracore
@@ -4192,7 +4183,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2809)
+## lever (2810)
 netflix
 shopify
 github
@@ -4863,6 +4854,7 @@ cyngn
 cyvl-ai
 d-edge
 daedalean
+daos-hub
 darkslope
 darwinhomes
 dasservicesllc
