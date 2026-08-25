@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-25 11:44 UTC
+### 1 new matching jobs · 2026-08-25 13:12 UTC
 
 #### From greenhouse (1)
-- **[Software Engineer, Data Platform](https://job-boards.greenhouse.io/vercel/jobs/6161129004)** at **Vercel** — Hybrid - San Francisco, New York City 🏥🤖 · `snowflake, kafka, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008)** at **Dragos** — United States · `python` · _greenhouse_
