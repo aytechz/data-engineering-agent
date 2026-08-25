@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-25 16:56 UTC
+### 1 new matching jobs · 2026-08-25 17:46 UTC
 
 #### From greenhouse (1)
-- **[Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)** at **PlayStation Global** — United States, Remote 🏥🤖 · `spark, snowflake, airflow, kafka, aws, gcp` · _greenhouse_
+- **[Principal Data Architect — Databricks Enablement](https://job-boards.greenhouse.io/caylent/jobs/5384758004)** at **Caylent** — USA 🏥🤖 · `databricks, spark, aws, python` · _greenhouse_
