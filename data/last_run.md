@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-08-25 21:44 UTC
+### 1 new matching jobs · 2026-08-25 22:46 UTC
 
-#### From greenhouse (1)
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/evolvevacationrental/jobs/7977457003)** at **Evolve** — Remote - US 🏥🤖 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
+#### From ashby (1)
+- **[Senior Software Engineer, Data Platform](https://jobs.ashbyhq.com/harvey/a725492f-3412-4699-a8cd-0d195bde3450)** at **harvey** — San Francisco · `databricks, spark, snowflake, dbt, airflow, kafka` · _ashby_
