@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4244)
+## greenhouse (4209)
 hingehealth
 maven
 spring
@@ -73,9 +73,12 @@ appliedintuition
 cruise
 zoox
 alloycampus
+billiontoone
 capitalrx
 digs
+drivewealth
 klaviyocampus
+sharkninjaoperatingllc
 transcarent
 0x
 100x
@@ -89,6 +92,7 @@ transcarent
 1848ventures
 1906newhighs
 21co
+240certification
 240tutoringinc
 2kearlycareers
 2seventybioinc
@@ -110,7 +114,6 @@ transcarent
 a1mreferrals
 a3ce416456924276a59de91bca740028
 aavaa
-aavantgardebio
 abacusgroup
 abatatherapeutics
 abbycare
@@ -143,7 +146,6 @@ acronis
 actioniq
 actiumhealth
 activehours
-actpowerservices
 acvauctions
 adahealth
 adamosecurity
@@ -171,11 +173,11 @@ aevumdefense
 affecttherapeutics
 affiniatherapeutics
 affinity
-aftership
 afterverse
 afterverse31
 agcbiologics
 agentsync
+agibank
 agilesixv2
 agilespaceindustries
 agolo
@@ -207,17 +209,18 @@ allconnect
 allegro
 allergandatalabs
 alleycorp
-alliancedefendingfreedom
 alliedglobalmarketing
 allinternal
 allscripts
 allturtles
+allworthfinancial
 alma
 aloft
 alpenlabs
 alphaawmeur
 alphahawaii
 alpineinternships
+alt
 alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
@@ -231,7 +234,6 @@ altro
 altruistiq
 altscore
 alx
-amarok
 amb
 ambiencehealthcare
 ambient
@@ -314,6 +316,7 @@ archetypeentertainment
 archetypesg
 arcticwolfnetworks
 arenaai
+arenaim
 arenanet
 argent
 argo
@@ -448,6 +451,7 @@ beewise
 belharratherapeutics
 belonghome
 benchling
+benchprep
 bendhealth
 benepass
 benevity
@@ -583,6 +587,7 @@ buildxact
 builtinintegrationsandbox
 bulletfarm
 bumble
+bungie
 bursonglobal
 butlr
 buzzrx
@@ -633,6 +638,7 @@ carebridgehealth
 carecom
 careersatpeakenergy
 careersatwonder
+careersday
 careervillage
 careof
 carerev
@@ -814,6 +820,7 @@ commercehub
 common
 commonwealth
 communitychange
+commvault
 comparablysandboxsandbox
 conceptarthouse
 condorcomputing
@@ -920,7 +927,6 @@ curvehealth
 curveroyaltysystems
 cuyana
 cvjc
-cvx
 cybergrx
 cybrary
 cybrid
@@ -965,6 +971,7 @@ decodable
 dedrone
 deepscribe
 deepsource
+deepwatchindia
 defineamerican
 defmethod
 delasport
@@ -975,6 +982,7 @@ delterra
 demandbase
 denim
 density
+dept
 dermavant20
 dermbiont
 designitnorthamerica
@@ -1013,7 +1021,7 @@ distran
 distributional
 dittoliveincorporated
 dius
-divergent
+divcowest
 diversityjobs
 divvyhomes
 dkatalissingapore
@@ -1027,6 +1035,7 @@ dnli
 doccla
 docnetwork
 doctorswithoutborders
+documocareers
 dolly
 domainmoney
 domeyard
@@ -1057,6 +1066,7 @@ drw
 dtljobs
 dualityroboticsinc
 dub
+dubber
 dumol
 dunamu
 duos
@@ -1116,6 +1126,7 @@ embrace
 embroker
 emerycellibrinckerhoffabadywardmaazelllp
 emids
+emotainizioengage
 emotiveio
 emulate
 enchantedforest
@@ -1128,9 +1139,10 @@ energyfoundation
 energysolutionsinternships
 energywebfoundation
 engieenergyaccess
+engineeringatgigs
 englishscore
-enigmaio
 enscohotjobs
+ensemble
 ensembleai
 ensitefulinternalpositions
 enterrasolutions
@@ -1147,7 +1159,6 @@ equitymultiple
 ergeon
 ericbuckleygetupsidegreenhouseio
 erin
-ernesta
 escribe
 esusu
 ethicinvesting
@@ -1205,6 +1216,7 @@ fastforward
 fastpaydayloansfloridainc
 fathom
 fazz
+fcbworldwide
 fearless
 featuredjobs
 featurespace
@@ -1240,12 +1252,12 @@ flatfileio
 flaunt
 flickrorg
 flightright
+flip
 flipapp
 flipapp1
 flipside
 flockfreight
 flocksafety
-flodesk
 floodbase
 floornfts
 flowcarbon
@@ -1288,6 +1300,7 @@ fortunafi
 fortune
 forwardfinancing
 fossa
+fossainc
 foundation
 foundationforahealthystpetersburg
 foundersintelligence
@@ -1354,6 +1367,7 @@ generatecapital
 generationbio
 geneva
 genies
+genomenoninc
 genpopinteractiveinc
 genuine
 geocaching
@@ -1384,6 +1398,7 @@ glean
 glia
 glidepathventuresllcdbaprospect14
 glmx
+globalfishingwatchrfp
 globalhealthlabs
 globalincomecoin
 globalteletherapyjobs
@@ -1399,6 +1414,7 @@ gntemp
 go1blinkist
 go1eu
 go1us
+goalhonduras
 goalturkey
 goalzimbabwe
 goclio
@@ -1410,11 +1426,9 @@ goldendoorscholars
 goldenstatewarriors
 goldflora
 goldsky
-gomaestro
 gomedia
 gonimbly
 goodfeet
-goodr
 goodtime
 goodunited
 goodworker
@@ -1459,6 +1473,7 @@ guayaki
 guerrilla
 guestready
 guideline
+guidepointsecurity
 guidepostchicagoland
 guildeducation
 gunner
@@ -1503,6 +1518,7 @@ heap
 heartex
 heartsoilsupplements
 hebbia
+hederahashgraph77
 hefreelancenetwork
 heir
 helainainc
@@ -1647,7 +1663,6 @@ influential
 influxdb
 infusemedia
 infuseukraine
-ingenuityprep
 ingenuitystudios
 initialtherapeutics
 inkling
@@ -1665,7 +1680,6 @@ insitro
 insomniacgames
 inspiren
 instnt
-instridehealth
 insureyourfuturega
 intecrowd
 integraladscience
@@ -1692,7 +1706,6 @@ invitae
 invokestudiosen
 inworldai
 iob
-ionq
 iovlabsltd
 irhythm
 irisautomation
@@ -1770,7 +1783,6 @@ kajabi
 kakaomobility
 kalderos
 kaleris
-kalshi
 kalvistapharmaceuticals
 kandola
 karriereseite
@@ -1801,7 +1813,6 @@ kinetic
 kineticcommunities
 kineticenginesystems
 kinetik
-kinexus
 kininsurance
 kinneygroup
 kins
@@ -1992,6 +2003,7 @@ manoproject
 manticoregames
 mantl
 mantle
+mantrahealth
 manufactured
 manychat-featured
 mapbox
@@ -1999,7 +2011,6 @@ maple
 mara
 marakonevents
 marathondigitalholdings
-mariadbplc
 markerlearning
 marketmuse
 markets
@@ -2251,9 +2262,7 @@ nikolalabs
 nilotherapeutics
 nimblegiant
 nimbustherapeutics
-nintex
 nirvana
-nlcventures
 nobellfoods
 nobl9
 noble
@@ -2481,10 +2490,8 @@ pavilion
 pavilionpayments
 pax8
 paxful
-pay2dc
 paybyphone
 paydo
-payhawkio
 paysend
 paystack
 paystackprivate4317
@@ -2509,6 +2516,7 @@ peopledoc
 peoplestrata
 pepperjam
 perchenergycareers
+peregrinetechnologies
 perfectday
 periscopedata
 permutive
@@ -2550,10 +2558,10 @@ pjtpartnersprofessionals
 pjtpartnersstudents
 placeexchange11
 placemeter
+placerlabs
 planera
 planningcenter
 playkids
-playq
 playstationeurope
 plenty
 pleo
@@ -2567,7 +2575,6 @@ poatek
 pocket
 pocketco
 pocketgems
-pointdigitalfinance
 policyexpert
 pollen
 polly
@@ -2596,6 +2603,7 @@ precisionsystemsinc
 precisionxtract
 predictivehr
 premierdermatology
+prenuvo
 preparedmontessorian
 preply
 presonus
@@ -2622,6 +2630,7 @@ propellercommunications
 propellerhealth
 propellerindustries
 propertyfinder
+prophet
 prose
 proteinqureinc
 protenus
@@ -2648,6 +2657,7 @@ qcentrix
 qovery
 quadrantstrategies
 qualifiedhealth
+quanata
 quartethealth
 quartzbio
 quartzy
@@ -2716,7 +2726,6 @@ reefparking
 reemahealth
 referralonly
 refinery29
-reflex
 reflexionmedical
 regionalspotonsales
 regrow
@@ -2896,6 +2905,7 @@ sevenrooms
 sevenroomssgp
 sevenroomsuae
 sfgiants
+sfox
 sgs
 shaker
 shapeshift
@@ -3194,80 +3204,35 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
-tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teads1
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
-techstars57
 techtalentandstrategy
-tecovas
-tegnainc
 tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
-temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
-tenet3
 tenetfintechgroup
-tennesseetitleloansinc
-tenon
 tensor
-tenstorrent
-tenstreet
 tenthousand
-teracore
-terakeet
 terapore
-teravision
-terniumrevenuecyclemanagement
-terrabis
-terraclear
 terrafuse
 terramera
 terranorbitalcorporation
@@ -4247,7 +4212,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2812)
+## lever (2816)
 netflix
 shopify
 github
@@ -4338,6 +4303,7 @@ adaptavist
 adcolony
 addx
 adeptailabs
+adhoclabs
 adtech
 adthena
 advancednavigation
@@ -4351,6 +4317,7 @@ afreshtechnologies
 afterpaytouch
 agentnoon
 agerpoint
+agile-defense
 agilesearch
 agotai
 agreena
@@ -4376,7 +4343,6 @@ alation
 albedo
 alchemy
 alcion
-aleph
 aleysian
 algolia
 algorex
@@ -4391,6 +4357,7 @@ alliance
 allinbits
 allstripes
 alpineimmunesciences
+altarum
 altoida
 altrio
 aluna
@@ -4412,6 +4379,7 @@ anagram
 analog
 analuisa
 ancestry
+andersencorp
 anduril
 angaza
 angel
@@ -4562,8 +4530,10 @@ beanstalkagtech
 beautyhaul
 bebop
 bedrockocean
+beedie
 beemenergy
 beetalents
+beghouconsulting
 bellhops
 belong
 belonghome
@@ -4701,7 +4671,6 @@ calven
 camber
 cambly
 campspot
-candlinspection
 canimmunize
 canva
 capchase
@@ -5046,6 +5015,7 @@ emeraldtherapeutics
 emersoncollective
 emesent
 emitwise
+empiricotx
 empowerly
 empowerpartnerships
 enarahealth
@@ -6788,7 +6758,6 @@ tonsser
 topanga
 tophat
 tophatter
-topicalsrx
 topl
 toplinepro
 torch
@@ -7061,7 +7030,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (871)
+## ashby (872)
 mercury
 together
 replicate
@@ -7168,6 +7137,7 @@ blackpointcyber
 bland-ai
 blankashby2
 blast-io
+blink
 blockhouse
 blowfish
 bluesky
