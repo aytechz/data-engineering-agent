@@ -1,7 +1,7 @@
-### 4 new matching jobs · 2026-08-26 19:20 UTC
+### 4 new matching jobs · 2026-08-26 23:33 UTC
 
 #### From greenhouse (4)
-- **[Staff Data Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8063701)** at **Coupang** — Mountain View, USA 🏥 · `dbt, airflow, python, sql` · _greenhouse_
-- **[Staff Data Engineer](https://boards.greenhouse.io/coupanginternal/jobs/8063702?gh_jid=8063702)** at **Coupang Internal** — Mountain View, USA 🏥 · `dbt, airflow, python, sql` · _greenhouse_
-- **[Senior Software Engineer, Data Infrastructure](https://careers.roblox.com/jobs/8011273?gh_jid=8011273)** at **Roblox** — San Mateo, CA, United States · `spark, aws, python, sql, terraform` · _greenhouse_
-- **[Human Capital Data Engineering Lead](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6139042004)** at **Careers at KKR** — New York, New York, United States 🏥 · `python, sql` · _greenhouse_
+- **[Specialist Solutions Architect - Data Engineering & Warehousing](https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
+- **[Senior Data Engineering, Payments](https://careers.airbnb.com/positions/8158533?gh_jid=8158533)** at **Airbnb** — United States · `spark, airflow, python, sql` · _greenhouse_
+- **[Staff Data Engineer / Tech Lead (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6101713004)** at **Afresh** — Remote - Ontario, Canada 🏥🤖 · `databricks, pyspark, snowflake, dbt, python, sql` · _greenhouse_
+- **[Staff Data Engineer / Tech Lead (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6101672004)** at **Afresh** — Remote - United States 🏥🤖 · `databricks, pyspark, snowflake, dbt, python, sql` · _greenhouse_
