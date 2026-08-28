@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4252)
+## greenhouse (4216)
 hingehealth
 maven
 spring
@@ -32,7 +32,6 @@ roboflow
 cohere2
 mistral
 pinecone
-stripe
 plaid
 notion
 canva
@@ -190,12 +189,12 @@ airspeed
 airtime
 airworks
 aiserajobs
-ajboggs
 akriveiatherapeutics
 alby
 alchemy
 alcority
 alexispointe
+align
 alignerr
 alkymi
 allakos
@@ -211,11 +210,14 @@ alliedglobalmarketing
 allinternal
 allscripts
 allturtles
+allwebleads
 alma
 aloft
+aloyoga
 alpenlabs
 alphaawmeur
 alphahawaii
+alphalion
 alpineinternships
 alteradigitalhealth
 alteradigitalhealthcanada
@@ -239,11 +241,11 @@ amcrawfordinc
 amedigital
 amenitiz
 americaneedsyou
+americanmarketingassociation
 americannational
 amika
 aminohealth
 amitechsolutions
-amoriabond
 ampersand
 ampla
 amplehair
@@ -296,7 +298,6 @@ applytoroadforge
 applytowhoosh
 appomni
 apprentice
-appspace
 appsumocareers
 apr
 april
@@ -312,7 +313,6 @@ arcdev
 arcellx
 archetypeentertainment
 archetypesg
-archrival
 arcticwolfnetworks
 arenaai
 arenanet
@@ -338,7 +338,6 @@ artlogic
 artsy
 arzeda
 as
-ascend21
 ascendanalytics
 ascertain
 ascidiantherapeutics
@@ -353,12 +352,10 @@ assemblyairemote
 assemblyhq
 assemblyosminc
 assurna
-asteralabs
 astoundcommercesb
 astria
 astrica
 astropay
-astspacemobile
 atai
 ataiwebsite
 atalantatherapeutics
@@ -366,19 +363,17 @@ athenaeducation
 atlanticcouncil
 atlasnavigatorsllc
 atmoslabs
+atomai
 atome
 atomicvest
-atomicwork
 atomosspace
 atompower
 atomwise
 atropos
 atticus
-attivopartners
 attune
 audicus
 audigent
-aura798
 aurorainnovation
 aurorasustainablelands
 authorhealth
@@ -390,11 +385,9 @@ automatticfinance
 automatticmarketing
 automatticremotive
 autox
-autura
 avalabs
 avalabsecosystem
 avalanchefoundation
-avani
 avantstay
 avaxambassador
 avea
@@ -408,7 +401,6 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
-axogen
 ayun
 azenia
 aztec
@@ -430,7 +422,6 @@ basehq
 basepowercompany
 basic
 batonhealth
-baubap
 baymeadows
 bbot
 bcapitalgroup54
@@ -502,7 +493,6 @@ biospanjobs
 bitcoincom
 bitcoindepot
 bitfarms
-bitfocus
 bitfury
 bitly
 bitly46
@@ -511,7 +501,6 @@ bitreactor
 bittrex
 bjss
 bkcareers
-blab
 blabuscanada
 blackbill
 blackbird
@@ -591,6 +580,7 @@ buildarocketboy
 buildbook
 buildingdecarbonizationcoalition
 buildingindustrypartners
+buildkite-talent-community
 buildout
 buildxact
 builtinintegrationsandbox
@@ -599,7 +589,6 @@ bumble
 bursonglobal
 butlr
 buzzrx
-buzzsolutions
 bva
 bynderjobs
 byrd
@@ -627,9 +616,7 @@ canary
 candex
 candidly
 candy
-cannabisandglass
 cannalysislabs
-cannondesign
 canonicaljobs
 canvas
 canvasconstruction
@@ -723,7 +710,6 @@ charlesandlynnschustermanfamilyphilanthropies
 charlesandlynnshustermanfamilyfoundation
 charley
 charmindustrial
-chartbeatinc
 chartboost
 chathamfinancial
 chattermill
@@ -963,7 +949,6 @@ das42
 dashq
 databook
 dataikujobs
-datakindinc
 datamilkwebsite
 dataminr
 datapeople
@@ -1136,7 +1121,6 @@ embrace
 embroker
 emerycellibrinckerhoffabadywardmaazelllp
 emids
-emnify
 emotiveio
 emulate
 enchantedforest
@@ -1155,14 +1139,12 @@ ensembleai
 ensitefulinternalpositions
 enterrasolutions
 entreehealth
-enumerate
 envato
 envisionthearapyco
 envoy
 ephemeral
 epicsummerresearch
 eql
-equalexperts
 equals
 equatic
 equitymultiple
@@ -1545,11 +1527,13 @@ hexagonbio
 heycar
 hibu
 hidden
+hiddenlayer
 hiddenroad
 high5games
 higharc
 highergroundeducation
 highfi
+highnote
 hightower
 hilabs
 hillandknowlton
@@ -1582,6 +1566,7 @@ honestmedicalgroup
 honey
 honeybook
 honeylove
+hoodhp
 hooglandslandscape
 hopin
 hoppr
@@ -2333,6 +2318,7 @@ offerfit
 offerupcontract
 ogdenguidepost
 ogilvyjapan
+ogilvymena
 ohi
 ohmygreen
 ojolabs
@@ -2565,6 +2551,7 @@ playstationeurope
 plenty
 pleo
 plexium
+plexusworldwidellc
 plotly
 plumguide
 plushcare
@@ -2608,7 +2595,6 @@ presonus
 pricespider
 primeprotocol
 primetrust
-privacy
 prodlyjobs
 productboard
 productiv
@@ -2775,6 +2761,7 @@ riverfinancial
 riversideresearch
 rivian
 robertrauschenbergfoundation
+roblox
 rocketreach
 rockstarinternships
 rocksteadymusicschool
@@ -2795,6 +2782,7 @@ rubiconcarbon
 rubilaboratories33
 rubyreceptionists
 rudderstack
+ruelala
 runelabs
 runpod
 rvedufreelancenetwork
@@ -2912,6 +2900,7 @@ shapr3d
 shardeumfoundation
 shearersinternalmobility
 shearerssnacks
+shednycinc
 shepherd
 sherwoodmedia
 shift
@@ -3195,50 +3184,25 @@ taskhumancoachingcommunity
 taskhumancorporate
 tavus
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
-tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teads1
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
-techstars57
 techtalentandstrategy
-tecovas
-tegnainc
 tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
@@ -7068,7 +7032,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (874)
+## ashby (873)
 mercury
 together
 replicate
@@ -7177,7 +7141,6 @@ bland-ai
 blankashby2
 blast-io
 blink
-blockhouse
 blowfish
 bluesky
 boatsetter
