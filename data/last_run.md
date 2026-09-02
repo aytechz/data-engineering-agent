@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-02 00:15 UTC
+### 1 new matching jobs · 2026-09-02 04:41 UTC
 
 #### From greenhouse (1)
-- **[Data Systems Engineer](https://job-boards.greenhouse.io/stratolaunch/jobs/5413359008)** at **Stratolaunch** — Mojave, California, United States 🏥 · `python` · _greenhouse_
+- **[Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)](https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
