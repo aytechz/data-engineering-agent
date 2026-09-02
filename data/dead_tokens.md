@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3959)
+## greenhouse (3949)
 hingehealth
 maven
 spring
@@ -1385,6 +1385,7 @@ gigster
 gimletmedia
 ginger
 giphy
+girleffect
 github
 gitpod
 glaciergrid
@@ -3039,7 +3040,6 @@ sparrowventures
 spartanradar
 spec
 specialized
-speechmatics
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3451,28 +3451,18 @@ valimailinc
 valleyview
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
-variantbio
 varsitytutors
 vatcllc123
 vault
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
-vecma
 vecnyc
 vectara
 vectornorth
@@ -3962,7 +3952,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2818)
+## lever (2822)
 netflix
 shopify
 github
@@ -4411,6 +4401,7 @@ button
 buyboxexperts
 bvaccel
 c16bio
+caliza-financial-technologies
 call9
 callistomedia
 calm
@@ -4484,6 +4475,7 @@ churchatthepark
 chyronhego
 cinchy
 ciphertrace
+circadiahealth
 circleco
 circlemedical
 circlepharma
@@ -4551,6 +4543,7 @@ commentsold
 common
 common-networks
 commoncode
+communityactionhouse
 communityboost
 companyon
 compasslexecon
@@ -5244,6 +5237,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -6782,7 +6776,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (885)
+## ashby (887)
 mercury
 together
 replicate
@@ -6818,6 +6812,7 @@ airkit
 airplane
 aizen
 alby
+alephalpha
 aletiq
 allinbits
 alpaca
@@ -7328,6 +7323,7 @@ onehealth
 onepay
 open-ledger
 opengovsg
+openhomefoundation
 openphilanthropy
 openstore
 operator
