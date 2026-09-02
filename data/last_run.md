@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-01 21:48 UTC
+### 1 new matching jobs · 2026-09-02 00:15 UTC
 
 #### From greenhouse (1)
-- **[Senior Data Engineer, Bioinformatics, Cheminformatics, Materials](https://job-boards.greenhouse.io/lilasciences/jobs/4377096009)** at **Lila Sciences** — San Francisco, CA USA 🏥 · `airflow, kafka, python, sql` · _greenhouse_
+- **[Data Systems Engineer](https://job-boards.greenhouse.io/stratolaunch/jobs/5413359008)** at **Stratolaunch** — Mojave, California, United States 🏥 · `python` · _greenhouse_
