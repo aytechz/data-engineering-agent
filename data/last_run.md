@@ -1,8 +1,10 @@
-### 3 new matching jobs · 2026-09-02 14:30 UTC
+### 5 new matching jobs · 2026-09-02 18:43 UTC
 
-#### From greenhouse (2)
-- **[Staff Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6179104004)** at **Penn Interactive** — Remote, Canada · `dbt, airflow, azure, python, sql` · _greenhouse_
-- **[Staff Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6179102004)** at **Penn Interactive** — Remote, United States · `dbt, airflow, azure, python, sql` · _greenhouse_
+#### From ashby (1)
+- **[Senior Data Engineer (AWS / Databricks)](https://jobs.ashbyhq.com/onhires/591d4421-59f0-4b25-9d06-b1234fb0de04)** at **onhires** — Europe (remote) · `databricks, pyspark, spark, dbt, aws, python` · _ashby_
 
-#### From lever (1)
-- **[Senior Data Engineer](https://jobs.lever.co/inductivehealth/e07fcf22-d8d5-4544-a30d-a821e9b86c58)** at **inductivehealth** — United States · _lever_
+#### From greenhouse (4)
+- **[Principal Engineer, Big Data Platform](https://www.pinterestcareers.com/jobs/?gh_jid=7683981)** at **Pinterest** — San Francisco, CA, US; Remote, US 🏥 · `spark, aws, python` · _greenhouse_
+- **[Distributed Systems Engineer (Data Platform)](https://job-boards.greenhouse.io/censys/jobs/8730712002)** at **Censys** — Remote (US/Canada) 🤖 · `kafka, aws, gcp, azure` · _greenhouse_
+- **[Distributed Systems Engineer (Data Platform)](https://job-boards.greenhouse.io/censys/jobs/8730643002)** at **Censys** — Remote (US/Canada) 🤖 · `kafka, aws, gcp, azure` · _greenhouse_
+- **[Distributed Systems Engineer (Data Platform)](https://job-boards.greenhouse.io/censys/jobs/8729906002)** at **Censys** — Remote (US/Canada) 🤖 · `kafka, aws, gcp, azure` · _greenhouse_
