@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4090)
+## greenhouse (4084)
 hingehealth
 maven
 spring
@@ -1003,7 +1003,6 @@ destinationcanadafr
 deutschnewyork
 developforgood
 devries
-devtechnology
 dexteritycapital
 dfinity
 dharma
@@ -1430,7 +1429,6 @@ goldsky
 gomedia
 gonimbly
 goodfeet
-goodtime
 goodunited
 goodworker
 goodworldwide
@@ -1470,6 +1468,7 @@ groupblack
 groupninemedia
 growflow
 growtherapy
+grvty
 gtb
 gtcr
 guayaki
@@ -1540,6 +1539,7 @@ helmai
 helmpointsolutions
 henrymeds
 hexagonbio
+hextechnologies
 heycar
 hibu
 hidden
@@ -1725,6 +1725,7 @@ jabrahearing
 jackhealth
 jackpocket
 jago
+jamf
 janetechnologies
 january
 janushealth
@@ -2003,6 +2004,7 @@ manticoregames
 mantl
 mantle
 manufactured
+manychat
 manychat-featured
 mapbox
 maple
@@ -2127,7 +2129,6 @@ modeanalytics
 modernizingmedicineinc
 modernmeadow
 modularai
-moia
 mojito
 mojo
 molecularassemblies
@@ -2943,7 +2944,6 @@ sigtech
 siilo
 silvare
 silverfin
-silverrail
 silvus-international-opportunites
 silvusearlycareers
 simondata
@@ -3011,6 +3011,7 @@ sojern
 solana
 solanafoundation
 solarcycle
+solarisbank
 solsten
 soluna
 somespiderstudios
@@ -3073,7 +3074,6 @@ squintopera
 squire
 srtx_fr
 st6
-stackexchange
 stacksphere
 stairwell
 stambaughness
@@ -3338,19 +3338,13 @@ tractable
 tracylocke
 tradecoffee
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
-transactlyconnect
-transcendinc
 transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
@@ -4223,7 +4217,6 @@ alation
 albedo
 alchemy
 alcion
-aldar
 aleysian
 algolia
 algorex
@@ -4322,6 +4315,7 @@ arkbiotech
 arpa
 arrive
 artblocks
+articulate
 artificial
 asap
 ascoeq
@@ -4428,7 +4422,6 @@ beyondmeat
 beyondpricing
 bfp
 biconomy
-bigblue
 bigfootbiomedical
 biggergames
 bigtime
@@ -5126,6 +5119,7 @@ gojek
 gokenamerica1
 goldcast
 goldfinch
+golfscopeinc
 golucid
 good-party
 goodeggs
@@ -6913,7 +6907,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (889)
+## ashby (888)
 mercury
 together
 replicate
@@ -7319,7 +7313,6 @@ joinsherpa
 jointangelo
 joist-ai
 jordandigitalmarketing
-joyteractive
 judge-me
 juni
 k2space
