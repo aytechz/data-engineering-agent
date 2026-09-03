@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-02 21:50 UTC
+### 1 new matching jobs · 2026-09-03 00:16 UTC
 
-#### From ashby (1)
-- **[Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring](https://jobs.ashbyhq.com/socure/5ee37ea6-a36a-472c-90a9-73067f6d6dac)** at **socure** — Hybrid - San Francisco, CA 🤖 · `databricks, pyspark, spark, airflow, aws, python` · _ashby_
+#### From greenhouse (1)
+- **[Sr. Data Engineer](https://boards.greenhouse.io/octave/jobs/8770612002?gh_jid=8770612002)** at **Octave** — Virtual (Remote) 🏥🤖 · `spark, dbt, aws, gcp, python, sql` · _greenhouse_
