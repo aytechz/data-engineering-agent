@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4176)
+## greenhouse (4183)
 hingehealth
 maven
 spring
@@ -72,6 +72,7 @@ shippo
 appliedintuition
 cruise
 zoox
+affirm
 alloycampus
 capitalrx
 digs
@@ -168,6 +169,7 @@ aerospike
 aetion
 aevum
 aevumdefense
+aeyeinc
 affecttherapeutics
 affiniatherapeutics
 affinity
@@ -456,7 +458,6 @@ benchprep
 bendhealth
 benepass
 benevity
-bennie
 bensonhillinc
 berkadia
 bernie2020
@@ -656,6 +657,7 @@ carsandbids
 carsdotcom
 cartodb
 cartwheelcare
+carvana
 cascadedatalabs
 casestatus
 casetext
@@ -852,14 +854,11 @@ contentful
 contentive
 converginttechnologiesllc
 convertkit
-cooksys
 coolplanet
 coop
-copperhome
 copperleaf
 copysmith
 cora
-corcepttherapeutics
 cordros
 corellium
 corepilot
@@ -1204,7 +1203,6 @@ ezinc
 fabfitfun
 fabric
 facile
-factored
 factoryberlin
 fairviewsmilesdentistry
 fairwinds
@@ -1360,7 +1358,6 @@ gamelight
 gamesys
 gameto
 garnerhealthconfidential
-gassouth
 gatewayfm
 gathertown
 geekhivejobs
@@ -1482,7 +1479,6 @@ guidepostchicagoland
 guildeducation
 gunner
 guru
-gyde
 h5pgroup
 halodotscience
 hammerhead
@@ -1541,7 +1537,6 @@ hellosign
 helloskylight
 helmai
 helmpointsolutions
-help
 henrymeds
 hexagonbio
 heycar
@@ -1730,7 +1725,6 @@ jabrahearing
 jackhealth
 jackpocket
 jago
-janeasystems
 janetechnologies
 january
 janushealth
@@ -1963,7 +1957,6 @@ logichub
 logikcull
 logiwacareers
 logixboard
-logos
 longridge
 loominc
 loop
@@ -2348,7 +2341,6 @@ okerainc
 okex
 okteto
 oleria
-olipop
 oliverplus
 olympiacareers
 om1
@@ -2374,7 +2366,6 @@ onelogin
 onemodel
 onesignal
 oneskin
-onevest
 oni
 onistudios
 onlyone
@@ -2402,7 +2393,6 @@ optimism
 optimismunlimited
 optimustechnologies
 optimylbenefits
-optiverprivate
 optoro
 opustone
 ora
@@ -2668,6 +2658,7 @@ quansight
 quartethealth
 quartzbio
 quartzy
+questbridge
 questpartnersllc
 quiknodeinc
 quiltllc
@@ -2725,7 +2716,6 @@ recruitingprograms
 recrutastone
 recur
 recurrent
-recursionpharmaceuticals
 redbooth
 redesignhealth
 redis
@@ -2953,7 +2943,6 @@ signifyhealthireland
 sigstr
 sigtech
 siilo
-siliconranch
 silvare
 silverfin
 silvus-international-opportunites
@@ -3024,7 +3013,6 @@ solana
 solanafoundation
 solarcycle
 solarisbank
-soloioinc
 solsten
 soluna
 somespiderstudios
@@ -3262,29 +3250,48 @@ thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
 thedailybeast31
+theeconomistgroup
+thefarmersdog
 theflatironschool
 thegivingblock
 thehackerati
+theiconic
 theinformation
+thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
+theknotworldwide
 thelandlinecompany
+thelastmile
+thelibragroup
 theloomaproject
 themanual
 themany
+themaritimeaquarium
 themarkup
 themarshallproject
+thematherevanston
+themjcos
+themotleyfool
+themuseumofscience
 thena
+thenewyorktimes
+thenuclearcompany
 theoakleafgroupllc
+theoncologyinstitute
+theorchard
 theoremlp
 theorg
+theoriamedical
 theoutline
 thepacgroup
 thepennyhoarder
+theperfectworkout
 theperiscopegroup
 thepharmacyhub
 thephoenix
 theplaceforchildrenwithautism
+thequalitygroupgmbh1
 thequalitygroupgmbh2
 theragun
 therealreal
@@ -4179,7 +4186,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2820)
+## lever (2818)
 netflix
 shopify
 github
@@ -4596,7 +4603,6 @@ brewbird
 bridge
 bridge2rwanda
 bridgebio
-brighte
 brighthealthplan
 brightseedbio
 brightspot
@@ -4605,7 +4611,6 @@ brimstone
 brimstoneenergy
 brinc
 broadwaytechnology
-brotherhoodcrusade
 bssp
 btc
 btse
@@ -4638,7 +4643,6 @@ calven
 camber
 cambly
 campspot
-campusworksinc
 canimmunize
 canopyservicing
 canva
@@ -4701,7 +4705,6 @@ chicago2024
 chironhealth
 chooosejobs
 chronicled-2
-churchatthepark
 chyronhego
 cinchy
 ciphertrace
@@ -4832,6 +4835,7 @@ crickethealth
 criticaltilt
 crossvale
 cruise
+crumbl
 crunchbase
 crusoeenergy
 cruxinformatics
@@ -5199,6 +5203,7 @@ glidian
 glints
 glitch
 global-elite
+globalstrategygroup
 gloo
 glowforge
 glu
@@ -7001,7 +7006,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (890)
+## ashby (889)
 mercury
 together
 replicate
@@ -7826,7 +7831,6 @@ vance
 vantagediscovery
 vantai
 variant-fund
-vasco
 vaultplatform
 vcluster
 veev
