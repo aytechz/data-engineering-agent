@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-04 04:33 UTC
+### 1 new matching jobs · 2026-09-04 09:40 UTC
 
 #### From greenhouse (1)
-- **[Data Infrastructure Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)** at **Anthropic** — San Francisco, CA 🤖 · `spark, python` · _greenhouse_
+- **[Copy of Data Engineer Snowflake/Agentic AI](https://job-boards.eu.greenhouse.io/valtech/jobs/4968376101)** at **Valtech** — Colombia - Remote · `databricks, spark, snowflake, kafka, aws, azure` · _greenhouse_
