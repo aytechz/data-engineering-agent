@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4030)
+## greenhouse (4014)
 hingehealth
 maven
 spring
@@ -3396,31 +3396,15 @@ tweag
 twiliostudents
 twillhealth
 twinstar
-twinstream
 twinternal
-twistbioscience
 two
 twonil
-twosixtechnologies
 txm
-typeface
-tyreeanddangelo
 u410
-uasi
 uchicagoepic
-udacity
-udemybedi
-udio
 uiflow
-ujet
-ukmed
-ultimagenomics
 ultimaker
-ultragenyxpharmaceutical
 ultramobile
-umaeducationinc
-umistone
-umojabiopharma
 umt
 unanet
 unbounce
@@ -6855,7 +6839,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (892)
+## ashby (891)
 mercury
 together
 replicate
@@ -7288,7 +7272,6 @@ landbase
 latitud
 latitudecareers
 layern
-learn-ashby
 lempire
 liblab
 life-space-digital
