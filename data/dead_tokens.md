@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4211)
+## greenhouse (4231)
 hingehealth
 maven
 spring
@@ -182,7 +182,6 @@ agilespaceindustries
 agolo
 agoralabinc
 agoric
-ahrefsjobs
 aifleet
 aipalette
 airbase
@@ -257,7 +256,6 @@ amra
 amtrav
 amun
 anaconda
-anaplan
 anchorage
 anchorpoint
 ancientnutrition
@@ -407,10 +405,8 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
-axonius
 ayun
 azenia
-azragames
 aztec
 aztecgroup
 azumo
@@ -580,7 +576,6 @@ brightcove
 brightflag
 brighthealthgroup
 brightinsight
-brillapubliccharterschools
 broadvoice
 brookfieldproperties
 brooklinen
@@ -980,7 +975,6 @@ ddbhealthbarcelona
 ddbremedy
 dealerinspire
 deardoc
-debutbiotech25
 decisionary
 decodable
 dedrone
@@ -1494,7 +1488,6 @@ harbor
 harmonic
 harperdbinc
 harringtonorthodontics
-harrisassociates
 harrysinc
 hashgraph
 hatchinternships
@@ -2088,7 +2081,6 @@ metapack
 meter
 metromile
 metronome
-metrostarsystems
 mezmo
 mezo
 mfourmobileresearch
@@ -2163,7 +2155,6 @@ mountainsidetreatmentcenter
 moveonorg
 moveworks
 movotobrokerage
-moxehealth
 moz
 mozillaai
 mozillaaijobs
@@ -2192,7 +2183,6 @@ mybrandforcereferrals
 mycarrier
 mycase
 mycoworks
-myfitnesspal
 myforestfoods
 mynd
 myntra
@@ -2337,7 +2327,6 @@ ofallonguidepost
 offensivesecurity
 offerfit
 offerupcontract
-offshorelaunch
 ogdenguidepost
 ogilvyjapan
 ohi
@@ -2476,7 +2465,6 @@ paralleljobs
 paramountpallet
 parasail
 parento
-paretocaptiveservicesllc
 parity
 parker
 parkerandace
@@ -2710,7 +2698,6 @@ readyresponders
 readyset29
 reaktor
 real
-realchemistry
 realpha
 realtymogul
 rebelliondefense
@@ -3222,33 +3209,66 @@ teampay
 teamworthy
 techietalent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
 tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
 temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
+territorialdentalclinic
 tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
 tetra
 texasairsystems
+texascartitleandpaydayloanservicesinc
 texaschillersystemsasp
 texthelp
 textileio
