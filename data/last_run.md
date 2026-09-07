@@ -1,4 +1,5 @@
-### 1 new matching jobs · 2026-09-07 10:19 UTC
+### 2 new matching jobs · 2026-09-07 16:28 UTC
 
-#### From greenhouse (1)
-- **[Senior Software Engineer, Data Platform](https://job-boards.greenhouse.io/startree/jobs/6182422004)** at **StarTree** — India (Remote) 🤖 · _greenhouse_
+#### From greenhouse (2)
+- **[Data Engineer](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4969920101)** at **Moniepoint** — Remote, Poland 🤖 · `aws, azure, python, sql, terraform` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4969916101)** at **Moniepoint** — Remote, Nigeria 🤖 · `aws, azure, python, sql, terraform` · _greenhouse_
