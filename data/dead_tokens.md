@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3979)
+## greenhouse (3940)
 hingehealth
 maven
 spring
@@ -33,6 +33,7 @@ cohere2
 mistral
 pinecone
 plaid
+reddit
 notion
 canva
 pelotoncycle
@@ -59,6 +60,7 @@ sunrun
 arcadiapower
 sentry
 segmentio
+elastic
 hashicorp
 linear
 retool
@@ -73,13 +75,17 @@ appliedintuition
 cruise
 zoox
 alloycampus
+andurilindustries
 capitalrx
+cobaltio
 digs
 doubleverify
 glossgenius
 haizelabs
+intrinsicrobotics
 klaviyocampus
 transcarent
+xebiausa
 0x
 100x
 1047games
@@ -236,6 +242,7 @@ altruistiq
 altscore
 aluinternalopenings
 alx
+amarok
 amb
 ambiencehealthcare
 ambient
@@ -330,6 +337,7 @@ ariel
 arine
 arise
 arkansascenterfordatasciences
+arkestroinc
 arkesystems
 arkoselabscostarica
 armracolostrum
@@ -509,6 +517,7 @@ bitreactor
 bittrex
 bjss
 bkcareers
+blab
 blabuscanada
 blackbill
 blackbird
@@ -534,6 +543,7 @@ bluebirdbioinc
 bluecoreinc
 bluegranite
 blueground
+bluelabsanalyticsinc
 blueoriginllc
 bluevine
 blumira
@@ -560,6 +570,7 @@ bosonprotocol
 boundlessbio
 boundlessimmigration
 boxedwholesale
+boxinc
 braingu
 brainly
 braintechnologies
@@ -592,6 +603,7 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
+builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -937,6 +949,7 @@ curology
 currentcatalog
 curvehealth
 curveroyaltysystems
+cuyana
 cvjc
 cybergrx
 cybrary
@@ -976,6 +989,7 @@ ddbhealth
 ddbhealthbarcelona
 ddbremedy
 dealerinspire
+dealpath
 deardoc
 decisionary
 decodable
@@ -1152,6 +1166,7 @@ enterrasolutions
 entreehealth
 envato
 envisionthearapyco
+enviva
 envoy
 ephemeral
 epicsummerresearch
@@ -1186,7 +1201,6 @@ evive
 evmos
 evolutionaryscale
 evolutionparkingguestservices
-evolver
 evolvtechnologies
 evpassport
 exabeam
@@ -1482,6 +1496,7 @@ guidepostchicagoland
 guildeducation
 gunner
 guru
+gymshark
 h5pgroup
 halodotscience
 hammerhead
@@ -1599,7 +1614,6 @@ hotwireit
 hotwireprus
 houndmoundsincdbapoop911
 houseaccount
-housemarque
 howeinc
 howl
 hoyoverse
@@ -2109,6 +2123,7 @@ mindsdb
 mindtheproduct
 mindvalley
 mineral
+minio
 minthouse
 mintmobile
 minware
@@ -2212,6 +2227,7 @@ n2y
 nacelle
 nanonets
 nanostring
+nansen
 napster
 nasacademy
 nationaldbs
@@ -2248,6 +2264,7 @@ nerdy
 nesto
 netflixanimation
 nethermind
+neuehealth
 neuroblade
 neuroflow
 neuron
@@ -2634,6 +2651,7 @@ propertyfinder
 prose
 proteinqureinc
 protenus
+protillionbiosciences
 protocollabs
 providencedig
 psyonix
@@ -3458,106 +3476,52 @@ ustwo
 ustwogames
 utilityapi
 vac
-vaco
-vailclinicincdbavailhealthhospital
 valiantharborinternationalllc
 valimailinc
-valleyhospital
 valleyview
-valohealth
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
-variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
-vecma
 vecnyc
-vectara
 vectornorth
-vectranetworks
 vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
 verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
@@ -3568,7 +3532,6 @@ viaduct
 viagogo
 vialogic
 viamrobotics
-vianttechnology
 viber
 vibesllc
 vibrant
@@ -3582,10 +3545,8 @@ vidmob
 vidyard
 vikingglobalinvestors
 vileon
-vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
 viralnation
 virbiotechnologyinc
 virtahealth
@@ -3982,7 +3943,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2825)
+## lever (2828)
 netflix
 shopify
 github
@@ -4314,7 +4275,6 @@ better
 betterlifepartners
 betterplaceforests
 beyond-creative
-beyondcloudconsulting
 beyondmeat
 beyondpricing
 bfp
@@ -4810,6 +4770,7 @@ enya
 epicio
 episci
 equiphealth
+erpsuccesspartners
 esper-3
 espresso
 estenda
@@ -5327,6 +5288,7 @@ kingfishgroup
 kinnek
 kinsa
 kitcheck
+kitmanlabs
 kitopi
 kivaai
 kiwico
@@ -5635,6 +5597,7 @@ multiversx
 munichelectrification
 myassurehealth
 mycelium
+myollie
 mypassglobal
 myplacehealth
 mytraffic
@@ -6346,7 +6309,6 @@ stoic
 stormforge
 storygrounds
 storyprotocol
-straighterline
 strapi
 streetcontext
 streetlightdata
@@ -6390,6 +6352,7 @@ swingvision
 swiss-mile
 switchboardsoftware
 swoopapp
+swordhealth
 swyftx
 sygnaturediscovery
 sylvera
@@ -6730,6 +6693,7 @@ welocalize
 wemaintain
 wepay
 wesalute
+whereby
 whoop
 wildlight
 windowsbyrba
