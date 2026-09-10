@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-10 09:44 UTC
+### 1 new matching jobs · 2026-09-10 14:27 UTC
 
 #### From greenhouse (1)
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972752101)** at **Moniepoint** — Remote, India 🤖 · `aws, azure, python, sql, terraform` · _greenhouse_
+- **[Lead Data Engineer](https://job-boards.greenhouse.io/onesixsolutions27/jobs/4601983006)** at **OneSix - External** — Remote/US & Canada 🏥🤖 · `snowflake, dbt, airflow, aws, gcp, azure` · _greenhouse_
