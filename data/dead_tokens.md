@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4261)
+## greenhouse (4239)
 hingehealth
 maven
 spring
@@ -1194,6 +1194,7 @@ exfluency
 exo
 expa
 expanse
+experigreen
 explo
 expressvpn
 extra
@@ -1207,6 +1208,7 @@ factoryberlin
 fairviewsmilesdentistry
 fairwinds
 fal
+falconx
 familydermatology
 fanbyte
 fanduelgrouptvg
@@ -2647,7 +2649,6 @@ publicrelay
 publicsq
 pulaio
 pulley
-pulse
 punchlistusa
 pursuecare
 pushdigitalgroup
@@ -3207,7 +3208,6 @@ tapresearch
 targetrwe
 taskhumancoachingcommunity
 taskhumancorporate
-tastylive
 tavus
 taxibeat
 taylorstrategy
@@ -3216,48 +3216,26 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
-tds
-teachablecareers
 teacherspayteachers
-teachforall
 teads
-teague
-tealmedia
 team1
-teamlfg
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
-techstars57
 techtalentandstrategy
 tecovas
-tegnainc
 tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
 teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
 tempo
@@ -4842,6 +4820,7 @@ cohere
 coil
 coiled
 coinflip
+coingecko
 coinshift
 coinsquare
 cointracker
@@ -7011,7 +6990,6 @@ welocalize
 wemaintain
 wepay
 wesalute
-whereby
 whoop
 wildlight
 windowsbyrba
