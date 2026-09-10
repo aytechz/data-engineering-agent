@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4239)
+## greenhouse (4277)
 hingehealth
 maven
 spring
@@ -88,6 +88,7 @@ transcarent
 10xgenomics
 113134
 123
+143studiosinc
 174powerglobal
 1848ventures
 1906newhighs
@@ -634,6 +635,7 @@ capraconsulting
 capstack
 capstonedc
 capsulecares
+captiveaire
 carbonbuiltemployment
 carbonfuture
 cardflight
@@ -692,6 +694,7 @@ cdpjobs
 ce
 celestialai
 celofoundation
+celonis
 censia
 centerforhumancompatibleartificialintelligence
 centerforreproductiverights
@@ -882,6 +885,7 @@ coyuchi
 craftco
 craftdocs
 crafty
+creativefabrica
 creatordao
 creatorland
 creditas
@@ -965,6 +969,7 @@ dataminr
 datapeople
 dataskrive
 datasocietyresearchinstitute
+datavant2
 datavirtuality
 dataworld
 datera
@@ -1194,7 +1199,6 @@ exfluency
 exo
 expa
 expanse
-experigreen
 explo
 expressvpn
 extra
@@ -1208,7 +1212,6 @@ factoryberlin
 fairviewsmilesdentistry
 fairwinds
 fal
-falconx
 familydermatology
 fanbyte
 fanduelgrouptvg
@@ -1303,7 +1306,9 @@ fortune
 forwardfinancing
 fossa
 foundation
+foundationacademies
 foundationforahealthystpetersburg
+foundenergy
 foundersintelligence
 foundrydigital
 foundrydigitalinternships
@@ -1398,6 +1403,7 @@ girleffect
 github
 gitpod
 glaciergrid
+glance
 glassdoor
 glean
 glia
@@ -1604,6 +1610,8 @@ howeinc
 howl
 hoyoverse
 hqdigital
+hspgroup
+hubspotjobs
 hubspotmarketing
 hubspotstudents
 huddle01
@@ -1664,6 +1672,7 @@ influxdb
 infotrust
 infusemedia
 infuseukraine
+ingenious
 ingenuitystudios
 initialtherapeutics
 inkling
@@ -2770,6 +2779,7 @@ ridecell
 ridedott
 ridedott-ground-roles
 rightfoot51
+rimestechnologies
 ringba
 rinsed
 riotgamesinc
@@ -2795,6 +2805,7 @@ rootstrap
 rothys
 roundpointmortgageservicingcorporation
 routable
+route
 route06casual
 roxe
 rsinternboard
@@ -3216,26 +3227,53 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
+tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
+teamlfg
+teammate
 teammobot
 teampathy
 teampay
+teampicnic
+teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
 tecovas
+tegnainc
 tekion
+tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
 teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
 tempo
@@ -4242,7 +4280,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2825)
+## lever (2826)
 netflix
 shopify
 github
@@ -6841,6 +6879,7 @@ trustly
 trusttoken
 truveris
 trycourier
+tsmg
 tubularlabs
 tuftandneedle
 tul
