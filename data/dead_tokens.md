@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4205)
+## greenhouse (4201)
 hingehealth
 maven
 spring
@@ -661,7 +661,6 @@ casestatus
 casetext
 casper
 casperretail
-castlehillgaming
 catalyst10
 catchafire
 catchco
@@ -847,7 +846,6 @@ connectngofr
 connectrn
 conroyorthodontics
 consensysremote
-constellationsoftwareinc
 constructsecure
 consumertrack
 contentful
@@ -1195,6 +1193,7 @@ exfluency
 exo
 expa
 expanse
+experigreen
 explo
 expressvpn
 extra
@@ -1215,6 +1214,7 @@ farasisenergy
 farmersbusinessnetwork
 farmstead
 fastforward
+fastly
 fathom
 fazz
 fearless
@@ -1666,11 +1666,11 @@ ingenuitystudios
 initialtherapeutics
 inkling
 inlan
+innophaseiot
 innovaccer
 innovatel
 innovior
 innovusion
-inovalon
 insideviewin
 insify
 insightec
@@ -1678,6 +1678,7 @@ insightly
 insightmediagroupllc
 insitro
 insomniacgames
+inspiremedicalsystemsinc
 inspiren
 instnt
 insureyourfuturega
@@ -1796,6 +1797,7 @@ kava
 kcftechnologies
 keap
 keebo
+keepersecurity
 keeptruckin
 kernagency
 ketchumuscareers
@@ -1971,6 +1973,7 @@ loyal
 ltkbrazil
 ltkchina
 ltse
+lucidsoftwareextra
 luckybeverageco
 luckylincolngaming
 luganodiamonds
@@ -2161,6 +2164,7 @@ mosaicml
 mosaictechnologiesgroup
 mothflame
 motimatic
+motional
 motivpowersystems
 motorefi
 mountainsidetreatmentcenter
@@ -2268,6 +2272,7 @@ ngcash
 nginx
 niantic
 nicehealthcare
+nift
 nightdivestudios
 nightfall
 nikolalabs
@@ -2566,7 +2571,6 @@ pjtpartnersstudents
 placeexchange11
 placemeter
 planera
-planningcenter
 playkids
 playstationeurope
 plenty
@@ -2835,6 +2839,7 @@ sandstonecarebroomfield
 sandstonecarecastlerock
 sandstonecaredarien
 sandstonecoloradomedicaldetox
+sandstonemaryland
 sandstoneremote
 sandtech
 sanityio
@@ -3160,6 +3165,7 @@ surfair
 surgicalnotes
 surveymonkey
 sustainlife
+svetness
 swagup
 swanbitcoin
 swarmaero
@@ -3259,21 +3265,12 @@ thatlot
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
 thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
-theeverycompany
-thefarmersdog
 theflatironschool
 thefloridapanthers
 thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
@@ -3298,7 +3295,6 @@ themotleyfool
 themuseumofscience
 thena
 thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
 theoncologyinstitute
 theorchard
@@ -4208,7 +4204,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2830)
+## lever (2827)
 netflix
 shopify
 github
@@ -4607,7 +4603,6 @@ boomandbucket
 boostedboards
 boringcompany
 bosta
-boston-materials
 bostondynamicsaiinstitute
 botify
 bottlerocketstudios
@@ -4713,7 +4708,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cfsenergy
 chain
 chainlink
 chamberofprogress
@@ -4828,7 +4822,6 @@ continuumindustries
 contra
 contrastsecurity
 convai-technologies-inc
-convelio
 conversantgroup
 conversenow
 conversica
@@ -4959,7 +4952,6 @@ doppler
 dorahacks
 dott
 doubledown
-dozee
 dragonarmy
 drchrono
 dreamsports
@@ -6863,6 +6855,7 @@ ushur
 usmobile
 utopialabs
 utvate
+v2sa
 valence
 valinor
 valoremreply
