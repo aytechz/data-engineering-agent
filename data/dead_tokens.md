@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4347)
+## greenhouse (4274)
 hingehealth
 maven
 spring
@@ -35,7 +35,6 @@ pinecone
 plaid
 notion
 canva
-twitch
 pelotoncycle
 doordash
 ramp
@@ -75,16 +74,13 @@ cruise
 zoox
 alloycampus
 capitalrx
-cartesiansystems
 doubleverify
 glossgenius
 haizelabs
 klaviyocampus
 transcarent
-vardaspace
 0x
 100x
-103644278
 1047games
 10pearls
 10up
@@ -154,7 +150,6 @@ adamosecurity
 adaptive3d
 adaptivewater
 adaugeohealthcare
-addatainitiative
 adelphigraduatecareers
 adelphiresearch
 adheretech
@@ -199,7 +194,6 @@ airworks
 aiserajobs
 akayshaenergy
 akriveiatherapeutics
-akuity
 alby
 alchemy
 alcority
@@ -231,7 +225,6 @@ alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
 alterahealth
-altisales
 altium
 alto
 altoira
@@ -252,6 +245,7 @@ amcrawfordinc
 amedigital
 amenitiz
 americaneedsyou
+americanmarketingassociation
 americannational
 amika
 aminohealth
@@ -335,7 +329,6 @@ ariacarepartners
 ariel
 arine
 arise
-arizonaliverhealth
 arkansascenterfordatasciences
 arkesystems
 arkoselabscostarica
@@ -470,11 +463,9 @@ berkadia
 bernie2020
 bescareers
 bessemerventurepartnersfellows
-bestpass
 betsierivervet
 better
 bettercloud
-betterdebtsolutions
 betterhealth
 betterindia
 bettersleep
@@ -506,7 +497,6 @@ bioptimizers
 bioptimus
 bioskryb
 biospanjobs
-birdygrey
 bitbio
 bitcoincom
 bitcoindepot
@@ -517,7 +507,6 @@ bitly46
 bitmex
 bitreactor
 bittrex
-bitwarden
 bjss
 bkcareers
 blabuscanada
@@ -553,11 +542,9 @@ bmf
 boardable
 boatwright
 bobsledinc
-bobtail
 boldbusiness
 bolt
 bolt42
-bombas
 bombfell
 bondbrothersinc
 bondfinancialtechnologies
@@ -594,7 +581,6 @@ broadvoice
 brookfieldproperties
 brooklinen
 bsr
-btig27
 btqfinancial
 btsecondaryboard
 bubble
@@ -795,7 +781,6 @@ clifbar15
 climateai
 climatecabinet
 climatefinancesolutions
-climatelead
 climatex
 climavision
 clipboard
@@ -961,7 +946,6 @@ dagger
 dailyharvest
 dailypayinc
 daisybill
-daiyafoodsinc
 dalbergdesign
 dalioeducation
 dandelionenergy
@@ -1039,7 +1023,6 @@ digitaloceancitesremotes
 digitalonus
 digitaltrends
 digitaltrendsfreelance
-dimagi
 dimensionalenergy1
 discoxyz
 disqus
@@ -1147,7 +1130,6 @@ elvahgmbh
 embrace
 embroker
 emids
-emotainizioengage
 emotiveio
 emplifimonster
 emulate
@@ -1242,7 +1224,6 @@ fermataenergy
 fernride
 ferocia
 fetchrewards
-fgsglobal
 fifa-hb-intern-programme
 fifthgaittechnologies
 figment
@@ -1264,6 +1245,7 @@ firstlookmedia
 firstresonance
 firstsanfranciscopartners
 fiveringsevents
+fixify
 flagstone
 flamboyanfoundation
 flashbots
@@ -1350,7 +1332,6 @@ frontrunner
 frostorthodontics
 fruition
 frukt
-fscampusrecruitment
 fsg
 ftgoldenwolf
 fullstory
@@ -1378,6 +1359,7 @@ gamesys
 gameto
 garnerhealthconfidential
 gatewayfm
+gather
 gathertown
 geekhivejobs
 gelato
@@ -1388,7 +1370,6 @@ generalcatalystpartners
 generatecapital
 generationbio
 geneva
-genevatrading
 genies
 genpopinteractiveinc
 genuine
@@ -1402,7 +1383,6 @@ getprospa
 getro
 getsafe
 getshogun
-getyourguide
 ghd
 ghostautonomy
 ghostsecurity
@@ -1422,12 +1402,10 @@ glean
 glia
 glidepathventuresllcdbaprospect14
 glmx
-globalaccelerator
 globalfishingwatch
 globalfishingwatchrfp
 globalhealthlabs
 globalincomecoin
-globalli
 globalteletherapyjobs
 globalworldwide
 glooko
@@ -1444,6 +1422,7 @@ go1us
 goalturkey
 goalzimbabwe
 goclio
+godfreydadichpartners
 gofoundation
 gogratia
 gohealth
@@ -1513,7 +1492,6 @@ happifyhealth
 harbingerhealth
 harbor
 harmonic
-harnessinc
 harperdbinc
 harringtonorthodontics
 harrysinc
@@ -1738,7 +1716,6 @@ ironhealth
 iseatz
 islandsxyzinc
 isrg
-itero-group
 ittakesavillage
 iversoft
 ivoyant
@@ -1894,7 +1871,6 @@ lambda
 landis
 langai
 lantern
-larkinstreetyouthservices
 lastline
 latam
 latchbio
@@ -2185,6 +2161,7 @@ mosaicml
 mosaictechnologiesgroup
 mothflame
 motimatic
+motivity
 motivpowersystems
 motorefi
 mountainsidetreatmentcenter
@@ -2329,8 +2306,8 @@ novetta
 novig
 novo
 novy
-noxgroup
 nstech
+ntconcepts
 ntop
 ntx
 nubank
@@ -2345,6 +2322,7 @@ nutrabolt
 nuview
 nuvocargo
 nyanheroes
+nyiso
 nylas
 nzero
 nzxt
@@ -2640,7 +2618,6 @@ primeprotocol
 primetrust
 prisma
 privategsw
-prms
 prodlyjobs
 productboard
 productiv
@@ -2660,7 +2637,6 @@ propellerhealth
 propellerindustries
 propertyfinder
 prose
-proskill
 proteinqureinc
 protenus
 protocollabs
@@ -2754,6 +2730,7 @@ redbooth
 redesignhealth
 redis
 redpandadata
+redwoodsoftware
 reefparking
 reemahealth
 referralonly
@@ -2767,7 +2744,9 @@ relic
 relyance
 remergegmbh
 remind
+renaissancelearning-emea
 render
+renewedvision
 reorg
 repeatmd
 replica
@@ -2777,7 +2756,6 @@ reprofreedomforallinternships
 rescue
 reserv
 resi
-residential
 retraced
 rev
 revcapital
@@ -2905,6 +2883,7 @@ sealstorage
 seam
 seamlessai
 searchdiscovery
+secondharvest
 secondspectrum
 secretescapes
 securitybankbettercareers
@@ -3013,6 +2992,7 @@ skydio
 skyflow
 skylotechnologies
 skysafe
+skyscanner
 slate
 slayer
 slicareers
@@ -3122,6 +3102,7 @@ standardai
 starcloud
 stardust
 starry
+stashinvest
 statement
 status72
 stauer
@@ -3183,101 +3164,56 @@ superhuman
 superlayer
 superrarelabs
 supio
-supplyhouse
 supportlogic
 supraoracles
-surepay
 surfair
 surgicalnotes
-survata
 surveymonkey
 sustainlife
-suvoda
 swagup
 swanbitcoin
-swanloveland
 swarmaero
-swayable
-swayboxstudios
 sweet
 sweeten
-sweetgreen
-swiftsolar
 swingeducation
 swirlds
 swishanalytics
-swissitgermany
-swoogo
 syapse
 sylogist
 sylva
-sylvain
 symblai47
 symbolica
 symend
-symmetry
 symmetrysoftware
-synack
-synacksrt
 synccomputing
 synchron
 syncron
 synctera
-syndigo
-syndio
-synerg
 synfindo
 synthesia
-synthesishealth
 synthetaic
 syrup
 sysdig
-syskahennessy
-system
-systemiq
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
-taboola
-tacnet
 tacobell
 tacobelljobs
 tacombi
-tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
-tailorcare2023
 tails
-tailscale
 taittowers
-takealotcom
-takealotgroup
-takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
-talkdesk2
-talkspace
-talkspacepsychiatry
-talkspacetherapist
 tally
 tallywallet
-talonone
 talos
 tamanna
-tamara
-tandemlaunch
-tandemmoneylimited
 tangocard
-tangogameworks
 tangoio
-tangotherapeutics
-tanium
-tanius
-tankww
 tanso
 tapresearch
 targetrwe
@@ -3286,37 +3222,28 @@ taskhumancoachingcommunity
 taskhumancorporate
 taskrabbit
 tastylive
-tastytrade
 tavus
 taxbit
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
 tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
 teachinglab
 teachstone
 teads
 teads1
 teague
-tealmedia
 team1
-teamlfg
 teammate
 teammobot
 teampathy
 teampay
 teampicnic
-teamrubicon
 teamworthy
 tebra
 teccweb
@@ -4350,7 +4277,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2833)
+## lever (2835)
 netflix
 shopify
 github
@@ -4371,7 +4298,6 @@ flexport
 opendoor
 compass
 hims
-ro
 omadahealth
 fortyseven
 clover
@@ -4861,6 +4787,7 @@ chain
 chainlink
 chamberofprogress
 change
+chargelab-inc
 chariot
 chartio
 chatmeter
@@ -5642,7 +5569,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5882,7 +5808,6 @@ makeschool
 mamo
 manifest
 manifestfinancial
-manifestmedex
 mantanetwork
 manty
 maple-finance
@@ -5955,7 +5880,6 @@ milliondollarbabyco
 mindbloom
 mindsdb
 mineral
-minesense
 minimumltd
 minthouse
 mirror
@@ -6460,6 +6384,7 @@ retentionscience
 retool
 returnly
 returntocorp
+revefi
 revenuecat
 revenuemanage
 reverielabs
@@ -6471,6 +6396,7 @@ revolut
 revolutionparts
 revzilla
 rewatch
+rfa-2
 rideos
 ridereport
 ridwell
@@ -6663,6 +6589,7 @@ solutionsjournalism
 solvd
 solvhealth
 sonar
+sonarsource
 sonatus
 soundcommerce
 soundstack
@@ -6794,6 +6721,7 @@ tamara
 tamr
 tandemcare
 tangibleplay
+tangraminteriors
 tapasmedia
 tapcart
 taplytics
@@ -6956,6 +6884,7 @@ trustly
 trusttoken
 truveris
 trycourier
+tsmg
 tubularlabs
 tuftandneedle
 tul
@@ -7185,7 +7114,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (902)
+## ashby (900)
 mercury
 together
 replicate
@@ -7235,7 +7164,6 @@ angelinvest
 anglehealth
 anysource
 apart
-apella
 apfusion
 apply-opengradient
 appsmith
@@ -7683,7 +7611,6 @@ meshcapade
 message-broadcast
 messagebird
 metadao
-metal
 metamap
 metaplane
 metawork
