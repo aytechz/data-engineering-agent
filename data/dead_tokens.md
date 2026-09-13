@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4015)
+## greenhouse (4000)
 hingehealth
 maven
 spring
@@ -1202,7 +1202,6 @@ ezinc
 fabfitfun
 fabric
 facile
-factored
 factoryberlin
 fairviewsmilesdentistry
 fairwinds
@@ -1234,7 +1233,6 @@ findanomaly
 finepointconsulting
 finfare
 finfare-financial
-fingerprint
 fingerprintjs
 finsterai
 firehydrant
@@ -1443,7 +1441,6 @@ govini
 govos
 govport
 grabango
-gradial
 gradientcomfort
 gradientlearning
 graft
@@ -1585,7 +1582,6 @@ honestmedicalgroup
 honey
 honeybook
 honeylove
-honorfoods
 hooglandslandscape
 hopin
 hoppr
@@ -1636,7 +1632,6 @@ ibotta
 iconiqcapital
 ideas42
 ideoorg
-ie
 iedigital
 ifood
 iguazio
@@ -1657,7 +1652,6 @@ incommonwith
 incubator
 indevets
 indexexchange
-indomo
 industrious
 industriouslabs
 infarm
@@ -1676,7 +1670,6 @@ inkling
 inlan
 innovaccer
 innovatel
-innovecs
 innovior
 innovusion
 insideviewin
@@ -1698,7 +1691,6 @@ integrityinstitute
 intelextechnologies
 intelligo
 interchain
-interdependence
 interfaceai
 internationalcruiseandexcursionsinc
 internationalrecruitment
@@ -1920,7 +1912,6 @@ lifeedittherapeutics
 lifehouse
 lightblocks
 lightforgegames
-lightrun
 lightship
 lightspeedhq
 lightspeedhqfr
@@ -2252,7 +2243,6 @@ nearsure
 nedforct
 neighborhoodscom
 neighborsbank
-neo4j
 neondatabase
 neonkoi
 neptunebio
@@ -2262,7 +2252,6 @@ nerdy
 nesto
 netflixanimation
 nethermind
-netsage
 neuroblade
 neuroflow
 neuron
@@ -2385,7 +2374,6 @@ onelogin
 onemodel
 onesignal
 oneskin
-onetrust
 oni
 onistudios
 onlyone
@@ -3453,22 +3441,20 @@ universalhydrogen
 universeenergy
 universityofchicago
 unohealth
-unrealsnacks
 up
-upbound
 upsolver
 upstartlab
 upstatement
 upstreamcare
 uptake
 uptivhealth
-upwardhealth
-upwork
 upworthy
 urban
 urbancompass
 urbanfootprint
+urbansky
 urbansportsclub
+urbansystems
 urbint
 urbnleaf
 urgentcareforchildren
@@ -3479,7 +3465,6 @@ urx
 usablemachines
 usaforunhcr
 usenourish
-usergems
 userinterviews
 userleap
 ushur
@@ -4018,7 +4003,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2827)
+## lever (2828)
 netflix
 shopify
 github
@@ -6103,6 +6088,7 @@ reliable
 remedyentertainment
 remine
 remix
+rendernetworks
 repairsmith
 replicant
 repreach
@@ -6847,7 +6833,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (901)
+## ashby (900)
 mercury
 together
 replicate
@@ -7211,7 +7197,6 @@ happeo
 hashboard
 healnow
 health-universe
-healthsherpa
 helika
 her
 herojourneyclub
