@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4054)
+## greenhouse (4116)
 hingehealth
 maven
 spring
@@ -43,6 +43,7 @@ deelinc
 krakenexchange
 opensea
 openai
+anthropic
 character
 adept
 inflection
@@ -75,7 +76,6 @@ zoox
 alloycampus
 capitalrx
 doubleverify
-fiveringsllc
 glossgenius
 haizelabs
 transcarent
@@ -144,10 +144,10 @@ acronis
 actioniq
 actiumhealth
 activehours
-acumen
 acvauctions
 adahealth
 adamosecurity
+adamsstreetpartnersearlycareers
 adaptive3d
 adaptivewater
 adelphigraduatecareers
@@ -188,7 +188,6 @@ airbase
 aircore
 airlifttechnologies
 airpacairlines
-airspace
 airspeed
 airtime
 airworks
@@ -481,6 +480,7 @@ beyondidtalentcommunity
 beyondmissioncapablesolutionsllc
 bfmateship
 bgbgroup
+bgeinc
 bhub
 bigbluemarbleacademy
 bigcommerce
@@ -592,6 +592,7 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
+builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -630,7 +631,6 @@ canonicaljobs
 canvas
 canvasconstruction
 capellaspace
-capitalize
 capraconsulting
 capstack
 capstonedc
@@ -857,9 +857,11 @@ converginttechnologiesllc
 convertkit
 coolplanet
 coop
+copperco
 copperleaf
 copysmith
 cora
+cordance
 cordros
 corellium
 corepilot
@@ -880,6 +882,7 @@ covetool
 covey
 cowswap
 coyuchi
+craevents
 craftco
 craftdocs
 crafty
@@ -1289,6 +1292,7 @@ foodpandasingapore
 foodspring
 forage
 forallsecure
+forcetherapeutics
 forerunner
 forethought
 forgerock
@@ -1397,7 +1401,6 @@ gigster
 gimletmedia
 ginger
 giphy
-girleffect
 github
 gitpod
 glaciergrid
@@ -1939,6 +1942,7 @@ linushealth
 linx
 lionpoint
 liquidinstruments
+lirio
 liscinternships
 lithium
 lithosenergy
@@ -2050,6 +2054,7 @@ mbaundergrad
 mccrayglobalprotectioncorp
 mcculloughrobertson
 mckinsey
+mdbgeneralreferrals
 mdclarity
 meadowlark
 mealpal
@@ -2261,7 +2266,6 @@ neweratechnology
 newstore
 next47
 nextdoorcampus
-nextroll
 nexuscareers
 nexxen
 nfx
@@ -2411,6 +2415,7 @@ orderlynetwork
 originfinancial
 ornatherapeutics
 orpc
+orthosportsmedphysicaltherapyjobs
 orum
 osmo
 osmosisdex
@@ -3061,6 +3066,7 @@ sparrowventures
 spartanradar
 spec
 specialized
+spektrum
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3115,6 +3121,7 @@ stepmobile
 stitchmoneyptyltd
 stitchpeo
 stonecomercial
+storable
 stord13
 storeno8
 storicardmx
@@ -3189,6 +3196,7 @@ synthesia
 synthetaic
 syrup
 sysdig
+syskahennessy
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3356,63 +3364,112 @@ tractable
 tracylocke
 tradecoffee
 tradesy74
+traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
 transactlyconnect
+transcendinc
 transcendtherapeutics
+transfergo
 transferwise
 translationunitedmastersstashed
+transmitsecurity
+trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
+travix
 trayio
 treasury4
 treasuryprime
+treehousefab
+treelinebiosciences
+trellahealth
 trellis
 trellisrx
+trexsolutions
 trialspark
 tribal
+tribalscale
+tribalspain
 tribe
 trilitech
+trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
 trinityairmedical
+trinityparktalent
+trinks
 trinternational
+tripactions
+tripadvisor
+triparc
 triplebyte
+triplelift
+triplepointllp
+triplewhale
+tripwireinteractive
+triumvirateenvironmental
+trivelta
 trlab
 trmlabs
 tropic
 troupehealth
 trove
+trovohealth
+truckstop
+trueanomalyinc
+truebill
+truecaller
 trueclassicteesllc
+truehold
+trueindependentholdings
 truelogic
 truepiccareers
 truepill
 truework
+trufflesecurity
 trulia
 trulioo
+truloveorthodontics
 trunkclub
 trustana
+trustautomation
+trustbank
 trustedhealth
 trustmachines
 trustory
+trustpilot
 trustwell
+trustwill
+try-picnic
 trykarat
 tshirtventures
+ttcglobal
+tubescience52
+tubitv
+tucows
 tucowscampusrecruitment
+tudorgroup
+tula
+tulip
 tumblr
 tunein
+turbineone
 turbofish
+turbotenant
+turing
 turingportal
 turnkeylenderinc
 turntide
 turo
 turquoisehealth
+turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
@@ -3420,12 +3477,17 @@ tvscientific
 tweag
 twiliostudents
 twillhealth
+twinhealth
 twinstar
+twinstream
 twinternal
 twistbioscience
 two
+twochairs
 twonil
+twosixtechnologies
 txm
+typeface
 typeform
 tyreeanddangelo
 tysonmendesllp
@@ -4057,7 +4119,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2833)
+## lever (2835)
 netflix
 shopify
 github
@@ -4287,7 +4349,6 @@ arkbiotech
 arpa
 arrive
 artblocks
-articulate
 artificial
 asap
 ascoeq
@@ -4466,6 +4527,7 @@ boulevard
 bound
 boweryfarming
 box
+boxlunch
 brainnest
 brand-knew
 braveventurelabs
@@ -6294,6 +6356,7 @@ sendoso
 sensefinance
 sensible
 sensortower
+sentibio
 seoulrobotics
 septerna
 seqera
@@ -6806,6 +6869,7 @@ wealthfinancialtechnologies
 wealthsimple
 wearatoms
 weareaccord
+webfx
 weekender-hotels
 weel
 weinfuse
@@ -6892,7 +6956,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (899)
+## ashby (900)
 mercury
 together
 replicate
@@ -7197,7 +7261,6 @@ flocksafety
 flowcarbon
 flowhub
 flux-computing
-fnatic
 focus-ai
 focused-energy
 fonzi-ai
@@ -7251,6 +7314,7 @@ groombuggy
 groundtruthlabs
 growtherapy
 growthtroops
+gruntwork
 guaranteed
 halborn
 halo-cures
@@ -7336,6 +7400,7 @@ landbase
 latitud
 latitudecareers
 layern
+leapsome
 learn-ashby
 lempire
 liblab
