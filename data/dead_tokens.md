@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4116)
+## greenhouse (4081)
 hingehealth
 maven
 spring
@@ -17,6 +17,7 @@ dispatchhealth
 veeva
 healthify
 nourish
+strivehealth
 snowflakecomputing
 airbyte
 dbtlabs
@@ -43,7 +44,6 @@ deelinc
 krakenexchange
 opensea
 openai
-anthropic
 character
 adept
 inflection
@@ -58,6 +58,7 @@ kobold
 quantumscape
 sunrun
 arcadiapower
+vercel
 sentry
 segmentio
 hashicorp
@@ -76,8 +77,8 @@ zoox
 alloycampus
 capitalrx
 doubleverify
+eulerity
 glossgenius
-haizelabs
 transcarent
 0x
 100x
@@ -111,6 +112,7 @@ transcarent
 98point6
 a1mreferrals
 a3ce416456924276a59de91bca740028
+aacpnw
 aavaa
 abacusgroup
 abatatherapeutics
@@ -147,7 +149,6 @@ activehours
 acvauctions
 adahealth
 adamosecurity
-adamsstreetpartnersearlycareers
 adaptive3d
 adaptivewater
 adelphigraduatecareers
@@ -480,7 +481,6 @@ beyondidtalentcommunity
 beyondmissioncapablesolutionsllc
 bfmateship
 bgbgroup
-bgeinc
 bhub
 bigbluemarbleacademy
 bigcommerce
@@ -592,7 +592,6 @@ buildingdecarbonizationcoalition
 buildingindustrypartners
 buildout
 buildxact
-builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -857,11 +856,9 @@ converginttechnologiesllc
 convertkit
 coolplanet
 coop
-copperco
 copperleaf
 copysmith
 cora
-cordance
 cordros
 corellium
 corepilot
@@ -882,7 +879,6 @@ covetool
 covey
 cowswap
 coyuchi
-craevents
 craftco
 craftdocs
 crafty
@@ -1670,7 +1666,6 @@ infinitereality
 inflammatix
 influential
 influxdb
-infotrust
 infusemedia
 infuseukraine
 ingenuitystudios
@@ -2382,7 +2377,6 @@ onesignal
 oneskin
 oni
 onistudios
-onlyone
 onna
 onsights
 onsiteiq
@@ -2415,7 +2409,6 @@ orderlynetwork
 originfinancial
 ornatherapeutics
 orpc
-orthosportsmedphysicaltherapyjobs
 orum
 osmo
 osmosisdex
@@ -2518,6 +2511,7 @@ pearcommerce
 pearlhealth
 pearsonorthodontics
 pebblelife
+pebblepost
 pecanai
 peek
 pelacase
@@ -2601,6 +2595,7 @@ posigen
 possibility
 possiblefinancialinc
 postlight
+postman
 postmates
 powbio
 powerfinance
@@ -3066,7 +3061,6 @@ sparrowventures
 spartanradar
 spec
 specialized
-spektrum
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3121,7 +3115,6 @@ stepmobile
 stitchmoneyptyltd
 stitchpeo
 stonecomercial
-storable
 stord13
 storeno8
 storicardmx
@@ -3196,7 +3189,6 @@ synthesia
 synthetaic
 syrup
 sysdig
-syskahennessy
 tab
 tablecrosskkbyfood
 tableneeds
@@ -3364,70 +3356,44 @@ tractable
 tracylocke
 tradecoffee
 tradesy74
-traegergrills
 trailerpark
 trailofbits
 trails
 trailstonegroup
 transactlyconnect
-transcendinc
 transcendtherapeutics
-transfergo
 transferwise
 translationunitedmastersstashed
-transmitsecurity
-trase
 traveledge
 traveledgenetwork
 traveloka
 travelperk
 traversal
-travix
 trayio
 treasury4
 treasuryprime
-treehousefab
-treelinebiosciences
-trellahealth
 trellis
 trellisrx
-trexsolutions
 trialspark
 tribal
-tribalscale
-tribalspain
 tribe
 trilitech
-trilliumsurveyor
 trilogyed
 trilogyinstructionalengagement
 trimarkassociates
 trinityairmedical
 trinityparktalent
-trinks
 trinternational
-tripactions
 tripadvisor
-triparc
 triplebyte
-triplelift
-triplepointllp
-triplewhale
-tripwireinteractive
-triumvirateenvironmental
-trivelta
 trlab
 trmlabs
 tropic
 troupehealth
 trove
 trovohealth
-truckstop
 trueanomalyinc
-truebill
-truecaller
 trueclassicteesllc
-truehold
 trueindependentholdings
 truelogic
 truepiccareers
@@ -3446,7 +3412,6 @@ trustmachines
 trustory
 trustpilot
 trustwell
-trustwill
 try-picnic
 trykarat
 tshirtventures
@@ -4527,7 +4492,6 @@ boulevard
 bound
 boweryfarming
 box
-boxlunch
 brainnest
 brand-knew
 braveventurelabs
@@ -4963,6 +4927,7 @@ eve
 evenfinancial
 eventbrite
 everc
+evergreenstrategygroup
 evergrow
 everlane
 everlaw
@@ -6956,7 +6921,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (900)
+## ashby (899)
 mercury
 together
 replicate
@@ -7284,6 +7249,7 @@ futurice
 gadget
 game-plan-tech
 garden
+gardens
 gendo
 general-counsel-ai
 genesis-ai
@@ -7343,7 +7309,6 @@ hustlewing
 hydra
 hyperliminal
 iacollaborative
-impossible-foods
 inceptive
 indent
 infracost
@@ -7415,7 +7380,6 @@ lmarena
 localkitchens
 loft-labs
 lore
-lottie
 lowercarboncapital
 lucra-sports
 luma-ai
