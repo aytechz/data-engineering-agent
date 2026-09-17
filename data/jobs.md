@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-09-17 01:25 UTC_
+_Last updated: 2026-09-17 07:40 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,6 +8,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/worldly/80002c19-4c52-4088-990f-f79e486bf3cf)** at **worldly** — United States - Remote 🏥🤖 · `dbt, airflow, kafka, aws, python, sql` · _ashby_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)](https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
@@ -207,4 +208,3 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Staff Software Engineer - Data Platform](https://www.harness.io/company/jobs/apply?gh_jid=5160430007&gh_jid=5160430007)** at **Harness** — Mountain View, California, United States 🏥🤖 · `spark, dbt, kafka, aws, azure, python` · _greenhouse_
 - **[Data Analyst, Data Ops](https://job-boards.greenhouse.io/harrisassociates/jobs/4661489006)** at **Harris Associates** — Chicago, Illinois, United States 🏥 · `snowflake, azure, python, sql` · _greenhouse_
 - **[Data Infrastructure Engineer](https://job-boards.greenhouse.io/heygen/jobs/4779731007)** at **HeyGen** — Los Angeles, Palo Alto, San Francisco, Toronto 🤖 · `python` · _greenhouse_
-- **[Staff Data Platform Engineer](https://boards.greenhouse.io/honor/jobs/8582881002?gh_jid=8582881002)** at **Honor** — Remote Position 🏥🤖 · `dbt, airflow, aws, python` · _greenhouse_
