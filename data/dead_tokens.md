@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4163)
+## greenhouse (4114)
 hingehealth
 maven
 spring
@@ -147,7 +147,6 @@ acvauctions
 adahealth
 adamosecurity
 adaptive3d
-adaptivebiotechnologies
 adaptivewater
 adelphigraduatecareers
 adelphiresearch
@@ -509,6 +508,7 @@ bitreactor
 bittrex
 bjss
 bkcareers
+blab
 blabuscanada
 blackbill
 blackbird
@@ -1023,6 +1023,7 @@ digit
 digitalai
 digitalasset
 digitalbiology
+digitaleclipse
 digitalfemsa
 digitaloceancitesremotes
 digitalonus
@@ -1182,7 +1183,6 @@ everisusainc
 everops
 everphone
 everstreamanalytics
-evertrue
 everylife
 evidation
 evive
@@ -2168,7 +2168,6 @@ motimatic
 motivpowersystems
 motorefi
 mountainsidetreatmentcenter
-moveonorg
 moveworks
 movotobrokerage
 moz
@@ -2278,7 +2277,6 @@ nirvana
 nobellfoods
 nobl9
 noble
-nobuhoteltoronto
 nocdinc
 nogginit
 nohozephyrinc
@@ -2749,6 +2747,7 @@ reprofreedomforallinternships
 rescue
 reserv
 resi
+resolvetosavelives
 retraced
 rev
 revcapital
@@ -2923,7 +2922,6 @@ shearersinternalmobility
 shearerssnacks
 shelf
 shepherd
-sherbournedentalassociates
 sherwoodmedia
 shift
 shift4
@@ -3048,7 +3046,6 @@ sourcegraph
 sourcepassinc
 sourcescrub
 south8
-southeastdermatology
 southworks
 spade
 spanimation
@@ -3096,6 +3093,7 @@ standardai
 starcloud
 stardust
 starry
+startcampus
 statement
 status72
 stauer
@@ -3298,25 +3296,14 @@ thevets
 thezebra
 thinkific
 thinkingmachines
-thinkmarkets
-thinkofus
 thinkonward
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
 threatlocker
@@ -3324,79 +3311,43 @@ threeflow
 threeships
 thrivecapital
 thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
-tifin
 tigargymnastics
-tigera
-tigergraph
 tillatechnologies
 tiltingpoint
 timeinc
 timeresearch
 timescale
-timos
-tines
-tinginternet
 tinkermode
-tintai
 tinuitisecondarypage
-tipaltisolutions
 tippingpointcommunity
-tiptop
-tiree
 tireseasycom
 titan
 titelmedia
 tmc
 tmg
 tminuszero
-toast
-toastmastersinternational
-tobogganlabs
-togetherai
-togetherwork
-toggleai
-tokensecurity
-tollbit
 tomebio
-tomofunfurbo
 tomonetworks
-tomorrow
 tomorrowhealth
-tonixpharmaceuticals
 toogoodtogo
-toojaysdeli
 topcompare
 toposware
-topsort
 topspot
 topsteptrader
 toradex
-torcrobotics
-toriihq
 tornbannerstudios
-toropark
 torotms
-torq
-toshibaglobalcommercesolutions
 totusmedicines
 touchbistro
-towerresearchcapital
 townofsnowmassvillagecolorado
 townsquaremedia
-tpcengineeringholdingsllc
 tpgcareers
 tr1x
 trace3
@@ -4166,7 +4117,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2843)
+## lever (2837)
 netflix
 shopify
 github
@@ -4178,7 +4129,6 @@ kayak
 coursera
 udemy
 classpass
-wealthfront
 betterment
 bolt
 chime2
@@ -4188,7 +4138,6 @@ flexport
 opendoor
 compass
 hims
-ro
 omadahealth
 fortyseven
 clover
@@ -4212,7 +4161,6 @@ upstart
 nuro2
 anysignal
 aofl
-hermeus
 10up-2
 15five
 174powerglobal
@@ -4267,7 +4215,6 @@ adthena
 advancednavigation
 aechelon
 aeler
-aeratechnology
 aerialapplications
 afarmedia
 affinity
@@ -4313,7 +4260,6 @@ alkymi
 allata
 alliance
 allinbits
-alloy
 allstripes
 allworknow
 alpineimmunesciences
@@ -4341,7 +4287,6 @@ ancestry
 anduril
 angaza
 angel
-angellist
 anglehealth
 animaapp
 animaker
@@ -7022,7 +6967,6 @@ clay
 anthropic
 liveramp
 chroma
-hex
 preset
 glean
 wispr
@@ -7733,7 +7677,6 @@ servicebell
 shadow
 sidebar
 signalfire
-signalwire
 sketch
 skillz
 skyebioscience
@@ -7770,6 +7713,7 @@ stimulus
 street-diligence
 structionsite
 studyfetch
+stytch
 sublime-security
 sully-ai
 sunbound
@@ -7861,6 +7805,7 @@ verdance
 vessev
 vibecode
 village-labs
+vinci4d
 visanahealth
 vital
 voicemod
