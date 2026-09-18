@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4296)
+## greenhouse (4263)
 hingehealth
 maven
 spring
@@ -34,12 +34,14 @@ mistral
 pinecone
 plaid
 notion
+figma
 canva
 pelotoncycle
 doordash
 ramp
 rippling
 deelinc
+checkr
 krakenexchange
 opensea
 openai
@@ -74,9 +76,14 @@ cruise
 zoox
 alloycampus
 capitalrx
+charlesriverassociates
+cmt
 doubleverify
+globalizationpartners
 glossgenius
+relaypro
 transcarent
+whitewatermidstream
 0x
 100x
 1047games
@@ -126,6 +133,7 @@ abpartners
 absci
 abstract
 accelbyte
+accesso
 accion
 acclarity
 accruenthq
@@ -194,7 +202,6 @@ alby
 alchemy
 alcority
 alexispointe
-algolia
 alignerr
 alkymi
 allakos
@@ -546,6 +553,7 @@ bolt42
 bombfell
 bondbrothersinc
 bondfinancialtechnologies
+bondvet
 bonobos
 bonzzu
 booker
@@ -594,6 +602,7 @@ buildxact
 builtinintegrationsandbox
 bulletfarm
 bumble
+burnt
 bursonglobal
 butlr
 buzzrx
@@ -612,6 +621,7 @@ calibrate
 calibratecareers
 caliva
 callibrity
+calm
 calvettifergusonexperiencedprofessionals
 calvettifergusoninternships
 calyxinstitute
@@ -635,6 +645,7 @@ capstack
 capstonedc
 capsulecares
 carbonbuiltemployment
+carbondirect
 carbonfuture
 cardflight
 cardinalcommerce
@@ -697,6 +708,7 @@ celofoundation
 censia
 centerforhumancompatibleartificialintelligence
 centerforreproductiverights
+centribusinessconsulting
 cerebral
 cerebralgoogle
 cerebrassystems
@@ -737,6 +749,7 @@ chicagotradingcampushiring
 chief
 chilipiper
 chopraglobal
+choreo
 chromamedicine
 chronicled
 churchill
@@ -770,6 +783,7 @@ classy
 clearballot
 clearbanc
 clearcover
+clearfield
 clearfork
 clearmatics
 cleartrace
@@ -836,6 +850,7 @@ commonwealth
 communitychange
 companycam
 comparablysandboxsandbox
+computergeneratedsolutions
 conceptarthouse
 condorcomputing
 conductor
@@ -860,6 +875,7 @@ copperleaf
 copysmith
 cora
 cordros
+corelight
 corellium
 corepilot
 corescientific
@@ -870,6 +886,7 @@ corvusinsurance
 cosseandsilmonorthodontics
 cota
 cotap
+courierhealth
 coursehero
 coursekey
 coursemojo
@@ -1213,7 +1230,6 @@ familydermatology
 fanbyte
 fanduelgrouptvg
 fantasticpixelcastle
-faradayfuture
 farasisenergy
 farmersbusinessnetwork
 farmstead
@@ -1238,7 +1254,6 @@ findanomaly
 finepointconsulting
 finfare
 finfare-financial
-fingerprint
 fingerprintjs
 finsterai
 firehydrant
@@ -1381,7 +1396,6 @@ genies
 genpopinteractiveinc
 genuine
 geocaching
-georgiadermatology
 getduos
 getepic
 getground
@@ -1520,6 +1534,7 @@ headborneai-gmbh
 headoutreferrals
 headspace
 headway
+healios
 healthfidelity
 healthgorilla
 healthgrades
@@ -1615,6 +1630,7 @@ hqdigital
 hubspotmarketing
 huddle01
 hudsonmx
+hugeinc
 humanconditionsafety
 humane
 humu
@@ -1687,6 +1703,7 @@ insightmediagroupllc
 insitro
 insomniacgames
 inspiren
+instabase
 instnt
 insureyourfuturega
 intecrowd
@@ -1723,6 +1740,7 @@ iseatz
 islandsxyzinc
 isrg
 ittakesavillage
+ivalua
 iversoft
 ivoyant
 ixco
@@ -1790,6 +1808,7 @@ kakaomobility
 kalderos
 kaleris
 kalvistapharmaceuticals
+kambi
 kandola
 karriereseite
 karunatherapeutics
@@ -1800,6 +1819,7 @@ kava
 kcftechnologies
 keap
 keebo
+keepersecurity
 keeptruckin
 kernagency
 ketchumuscareers
@@ -2098,6 +2118,7 @@ metapack
 meter
 metromile
 metronome
+mewssystems
 mezmo
 mezo
 mfourmobileresearch
@@ -2261,6 +2282,7 @@ neuroblade
 neuroflow
 neuron
 neweratechnology
+newrelic
 newstore
 next47
 nextdoorcampus
@@ -2336,8 +2358,6 @@ objective
 objectstream
 ocadotechnology
 octaneai
-octanelending
-octopusmoney
 ocus
 odkmediainc
 odonate
@@ -2369,7 +2389,6 @@ omnionpower
 omnipresent
 oncai
 ondeck
-oneacrefund
 oneacrefundzambia
 onecareers
 onedegree
@@ -2489,7 +2508,6 @@ parkerandace
 parkmobileus
 particle
 particlehealth
-partnerize
 partnerstack
 partstech
 pascal
@@ -2532,7 +2550,6 @@ perchenergycareers
 perfectday
 periscopedata
 permutive
-perryhealthinc
 perrystreetsoftware
 persado
 persona
@@ -2643,7 +2660,6 @@ propertyfinder
 prose
 protenus
 protocollabs
-proton
 providencedig
 psyonix
 pubgemea
@@ -2656,7 +2672,6 @@ publicrelay
 publicsq
 pulaio
 pulley
-pulse
 punchlistusa
 pursuecare
 pushdigitalgroup
@@ -2806,7 +2821,6 @@ roundpointmortgageservicingcorporation
 routable
 route06casual
 roxe
-rsgur
 rsinternboard
 rubiconcarbon
 rubilaboratories33
@@ -2986,7 +3000,6 @@ singleops
 singlesprout
 singular
 sisense
-siteline
 sitelineinc
 sixthstreet
 skedda
@@ -3067,7 +3080,6 @@ spade
 spanimation
 spanio
 sparkcognition
-sparkfund
 sparktechroles
 sparrow
 sparrowventures
@@ -3083,7 +3095,6 @@ spliced
 splicedjobs
 split
 splitmetrics
-spoileralert
 spokeo
 spongeuk
 sporttrade
@@ -3164,7 +3175,6 @@ summit
 summitpublicschools
 sumo
 sunnymorningfoods
-sunnyside
 sunshine
 supabase
 superbet
@@ -3217,93 +3227,50 @@ taittowers
 tala
 talent_community
 talentscreditas
-talkdesk2
 tally
 tallywallet
 talos
 tamanna
-tamara
-tandemmoneylimited
 tangocard
 tangoio
-tanius
 tanso
 tapresearch
 targetrwe
-tarsusrx
 taskhumancoachingcommunity
 taskhumancorporate
-taskrabbit
-tastylive
-tastytrade
 tavus
-taxbit
 taxibeat
-taxvalet
 taylorstrategy
 tbnr
 tbwachiatday
 tbwawh
 tcgcapital
 tdc
-tdg
-tdinternational
-tds
-teachablecareers
 teacherspayteachers
-teachforall
-teachinglab
-teachstone
 teads
-teads1
-teague
-tealmedia
 team1
-teamlfg
-teammate
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technergetics
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
-techstars57
 techtalentandstrategy
-tecovas
-tegnainc
 tekion
-tekmetric
 teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
 temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
 tenet3
 tenetfintechgroup
