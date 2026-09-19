@@ -1,4 +1,7 @@
-### 1 new matching jobs · 2026-09-18 21:42 UTC
+### 2 new matching jobs · 2026-09-19 00:22 UTC
 
 #### From greenhouse (1)
-- **[Data Engineer](https://job-boards.greenhouse.io/onesixsolutions27/jobs/4587655006)** at **OneSix - External** — Remote/LATAM 🏥 · `spark, snowflake, dbt, kafka, aws, azure` · _greenhouse_
+- **[Staff Data Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8188375)** at **Code for America** — Remote (in the U.S.) 🏥🤖 · `snowflake, dbt, python, sql` · _greenhouse_
+
+#### From lever (1)
+- **[Senior Data Engineer (IICS & Redshift) (Independent Contractor)](https://jobs.lever.co/compassx/02b33f9a-16b7-4d75-8c65-35ce8647154b)** at **compassx** — Remote · _lever_
