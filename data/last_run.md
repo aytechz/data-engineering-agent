@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-19 18:02 UTC
+### 1 new matching jobs · 2026-09-19 20:41 UTC
 
 #### From greenhouse (1)
-- **[Software Engineer, Big Data](https://job-boards.greenhouse.io/ziprecruiter/jobs/8209764)** at **ZipRecruiter** — Remote 🏥 · `databricks, spark, kafka, azure, python` · _greenhouse_
+- **[Staff Data Systems Architect](https://job-boards.greenhouse.io/myfitnesspal/jobs/8215899)** at **MyFitnessPal** — Remote - US 🏥🤖 · `snowflake, dbt, airflow, kafka, python, sql` · _greenhouse_
