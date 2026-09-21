@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4265)
+## greenhouse (4220)
 hingehealth
 maven
 spring
@@ -75,7 +75,9 @@ zoox
 alloycampus
 capitalrx
 doubleverify
+ginkgobioworks
 glossgenius
+industrialelectricmanufacturing
 rdccareers
 transcarent
 0x
@@ -89,7 +91,6 @@ transcarent
 174powerglobal
 1848ventures
 1906newhighs
-204951305985924
 21co
 240tutoringinc
 2seventybioinc
@@ -110,6 +111,7 @@ transcarent
 98point6
 a1mreferrals
 a3ce416456924276a59de91bca740028
+aacpnw
 aavaa
 abacusgroup
 abarca
@@ -127,6 +129,7 @@ abovelending
 abpartners
 absci
 abstract
+acadianassetmanagementllc
 accelbyte
 accion
 acclarity
@@ -147,6 +150,7 @@ activehours
 acvauctions
 adahealth
 adamosecurity
+adapter
 adaptive3d
 adaptivewater
 adelphigraduatecareers
@@ -181,11 +185,13 @@ agilespaceindustries
 agolo
 agoralabinc
 agoric
+ahrefsjobs
 aifleet
 aipalette
 airbase
 aircore
 airlifttechnologies
+airnorth
 airpacairlines
 airspeed
 airtime
@@ -220,6 +226,7 @@ alphataraxia
 alpineinternships
 alpineinvestors
 alt
+altanaai
 alteradigitalhealth
 alteradigitalhealthcanada
 alteradigitalhealthindia
@@ -528,7 +535,6 @@ blockstream
 blocpower
 blokparty
 bloombergassociates
-bloomworks
 blowfish
 bloxstaking
 blueapron
@@ -1616,7 +1622,6 @@ howl
 hoyoverse
 hqdigital
 hubspotmarketing
-hubspotstudents
 huddle01
 hudsonmx
 humanconditionsafety
@@ -2556,7 +2561,6 @@ pika
 piktochart
 pillar
 pilot
-pindropsecurity
 pinegaterenewables
 pineparkhealth
 pinnacle
@@ -2589,7 +2593,6 @@ pocketco
 pocketgems
 pollen
 polly
-polychaincapital
 polygence
 polysign
 pomelo
@@ -2630,6 +2633,7 @@ productiv
 productops
 productschool
 profiletechnologiesinc
+programaestferias
 project44opportunities
 projectdiscoveryinc
 projectfarma
@@ -3236,90 +3240,41 @@ team1
 teammobot
 teampathy
 teampay
-teampicnic
-teamrubicon
 teamworthy
-tebra
-teccweb
-techholding
 techietalent
-technicalassent
 technisyscareers
-technologyadvice
 techridge
 techstars
 techtalentandstrategy
-tecovas
-tegnainc
 tekion
 teknema
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
-telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
 temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
-teneolinkedin
 tenet
-tenet3
 tenetfintechgroup
-tennesseetitleloansinc
-tenon
 tensor
-tenstorrent
-tenstreet
 tenthousand
-teracore
-terakeet
 terapore
-teravision
-terniumrevenuecyclemanagement
-terrabis
-terraclear
 terrafuse
 terramera
-terranorbitalcorporation
 terraytherapeutics
-terremotobiosciencesinc
-territorialdentalclinic
-tesseract
-tesseratherapeutics
-testendouble
-testlio
-testnisc
-tetra
-texasairsystems
-texascartitleandpaydayloanservicesinc
-texaschillersystemsasp
 texthelp
 textileio
-textio
-textus
 tezatechnologies
 thalamusgme
-thanx
-thatch
 thatlot
-thatsnomoonentertainment
-theagencyre
-thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
 thebrandagency
 thebrattlegroup
@@ -4268,7 +4223,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2839)
+## lever (2848)
 netflix
 shopify
 github
@@ -4683,10 +4638,12 @@ brazoderecho
 breakwatertech
 brewbike
 brewbird
+bricknetworks
 bridge
 bridge2rwanda
 bridgebio
 brighthealthplan
+brightonjones
 brightseedbio
 brightspot
 brightwheel
@@ -4849,6 +4806,7 @@ coinflip
 coinshift
 coinsquare
 cointracker
+colibrigroup
 collectivei
 collectlyinc
 collegevine
@@ -4924,9 +4882,12 @@ cruise
 crunchbase
 crusoeenergy
 cruxinformatics
+crypto
 crypto-innovation
 csaassociates
+culdesac
 culturetrip
+cuningham
 curbio
 curefit
 curieco
@@ -4977,6 +4938,7 @@ deloitte
 delphix
 deltadental
 delv
+demiurgestudios
 density
 desafiolatam
 desbytech
@@ -5150,6 +5112,7 @@ fellowshiplifeinc
 femalefounders-fund
 ffws
 fiddlerlabs
+field-ai
 fightcamp
 figma
 financeinabox
@@ -5183,7 +5146,6 @@ flightcx
 flipfit
 flipster
 flockjay
-floqast
 floridadems
 flowerave
 flowfoundation
@@ -5307,6 +5269,7 @@ goldcast
 goldfinch
 golfscopeinc
 golucid
+gomaterials
 good-party
 goodeggs
 goodgamestudios
@@ -5322,6 +5285,7 @@ gowanco
 gpsfx
 grab
 grafana
+grailbio
 grandrounds
 granicus
 granular
@@ -5535,6 +5499,7 @@ ionic
 ionicpartners
 iovlabs
 iphi
+ippon
 iron_hack
 ironcladapp
 ironnetcybersecurity
@@ -5558,7 +5523,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -7109,7 +7073,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (903)
+## ashby (907)
 mercury
 together
 replicate
@@ -7209,7 +7173,6 @@ beyondsports
 bhblasted
 biconomy
 bigeye
-billie
 bind
 biorender
 bird
@@ -7503,6 +7466,7 @@ hustlewing
 hydra
 hyperliminal
 iacollaborative
+impossible-foods
 inceptive
 indent
 infracost
@@ -7727,6 +7691,7 @@ plume-network
 pml
 pocketprep
 pocus
+pod-network
 pointe-advisory
 polyester
 pomeloinc
@@ -7749,6 +7714,7 @@ protochain
 publiccloudgroup
 pulley
 pulselive
+pythnetwork
 qawolf
 qeystroke
 qih-group
@@ -7827,6 +7793,7 @@ sensorita
 sentient
 seriesai
 servicebell
+sfg20
 shadow
 sidebar
 signalfire
@@ -7933,6 +7900,7 @@ tryprospect
 tryvital
 turnstile
 tuza
+two-dots
 tydo
 typescouts
 udisc
