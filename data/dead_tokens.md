@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4316)
+## greenhouse (4418)
 hingehealth
 maven
 spring
@@ -32,7 +32,6 @@ roboflow
 cohere2
 mistral
 pinecone
-stripe
 plaid
 notion
 canva
@@ -74,10 +73,10 @@ appliedintuition
 cruise
 zoox
 alloycampus
-aquaticcapitalmanagement
+andurilindustries
 capitalrx
-cartesiansystems
 doubleverify
+eulerity
 glossgenius
 rdccareers
 transcarent
@@ -92,6 +91,7 @@ transcarent
 174powerglobal
 1848ventures
 1906newhighs
+204951305985924
 21co
 240tutoringinc
 2seventybioinc
@@ -114,6 +114,7 @@ a1mreferrals
 a3ce416456924276a59de91bca740028
 aavaa
 abacusgroup
+abacusinsights
 abarca
 abatatherapeutics
 abbycare
@@ -277,7 +278,6 @@ anomalojobs
 anotherball
 ans
 answersnow
-antheia
 antimetal
 antler
 anz
@@ -310,7 +310,6 @@ aprioritechnologies
 aptible
 aptopayments
 aptos
-aptportfolio
 aputure
 aquant
 aquia
@@ -339,6 +338,7 @@ armracolostrum
 around
 arrantabiocareers
 arrayeducation
+arsys
 arteriaai
 articulate
 artivest
@@ -357,7 +357,6 @@ aspireio
 aspireiq
 assembled
 assemblyairemote
-assemblyhealth
 assemblyhq
 assemblyosminc
 assurna
@@ -387,6 +386,7 @@ audipacific
 augmentcomputing
 aurorainnovation
 aurorasustainablelands
+aurosglobal
 authorhealth
 autograph
 automatainc
@@ -404,8 +404,10 @@ avaxambassador
 avea
 avelaeducation
 avenueone
+aviatornation
 avitapropertymanagement
 awalsme
+awardco
 awarehealthcare
 away
 axiomquant
@@ -478,7 +480,6 @@ betterup
 bettervet
 betterworks
 bettygamingca
-bevicareers
 bevy
 beyondidcareers
 beyondidentity
@@ -509,6 +510,7 @@ bitcoincom
 bitcoindepot
 bitfarms
 bitfury
+bitgo
 bitly
 bitly46
 bitmex
@@ -544,7 +546,6 @@ bluecoreinc
 bluegranite
 blueground
 blueoriginllc
-bluestarfamilies
 bluevine
 blurstudio
 bmf
@@ -591,6 +592,7 @@ broadvoice
 brookfieldproperties
 brooklinen
 bsr
+bswift
 btqfinancial
 btsecondaryboard
 bubble
@@ -646,7 +648,7 @@ canto
 canvas
 canvasconstruction
 capellaspace
-capitaltg
+capitalize
 capraconsulting
 capstack
 capstonedc
@@ -658,6 +660,7 @@ cardinalcommerce
 cardinalpoint
 cardioone
 cardlytics
+careaccess
 carebridgehealth
 carecom
 careersatkokua
@@ -804,6 +807,7 @@ climatecabinet
 climatefinancesolutions
 climatex
 climavision
+clinchoice
 clipboard
 clipboardarchive
 clockwise
@@ -824,6 +828,7 @@ coastenergy
 cobo
 cocolab
 coconutsoftware
+cocoon
 coda
 codeacademy
 codeforsciencesociety
@@ -877,7 +882,6 @@ coop
 copperleaf
 copysmith
 cora
-cordellcordell
 cordros
 corellium
 corepilot
@@ -940,7 +944,6 @@ csgconsultantssenior-environmental-planner-full-time-hybrid
 csgconsultantssenior-plan-check-engineer
 csgconsultantssenior-planner-4
 csgconsultantssenior-structural-engineer-2
-css
 cti
 cti-unpublished
 cubeler
@@ -957,6 +960,7 @@ curology
 currentcatalog
 curvehealth
 curveroyaltysystems
+cuyana
 cvjc
 cybergrx
 cybrary
@@ -1000,10 +1004,10 @@ deardoc
 decisionary
 decodable
 dedrone
+deepintent
 deepmind
 deepscribe
 deepsource
-defcon
 defineamerican
 defmethod
 delasport
@@ -1042,7 +1046,6 @@ digit
 digitalai
 digitalasset
 digitalbiology
-digitalcurrencygroup
 digitaleclipse
 digitalfemsa
 digitaloceancitesremotes
@@ -1054,6 +1057,7 @@ discoxyz
 disqus
 distran
 distributional
+distrokid
 dittoliveincorporated
 dius
 diversityjobs
@@ -1149,6 +1153,7 @@ eleo
 elephantenergy
 elevatek12
 elevationcapital
+eleviassociates
 elkcreek
 ellevest
 elvahgmbh
@@ -1185,6 +1190,7 @@ ergeon
 ericbuckleygetupsidegreenhouseio
 erin
 escribe
+esri
 esusu
 ethicinvesting
 ethos
@@ -1210,7 +1216,6 @@ evmos
 evolutionaryscale
 evolutionparkingguestservices
 evolvtechnologies
-evoplaygames
 evpassport
 exabeam
 exactsales
@@ -1252,7 +1257,6 @@ fermataenergy
 fernride
 ferocia
 fetchrewards
-fieldwire
 fifa-hb-intern-programme
 fifthgaittechnologies
 figment
@@ -1317,6 +1321,7 @@ forallsecure
 forcetherapeutics
 forerunner
 forethought
+forgehealth
 forgerock
 formatservices
 formbio
@@ -1348,6 +1353,7 @@ fractalfounders
 frankieone
 franklincovey
 freedamedia
+freedomcare
 freedomofthepressfoundation
 freetrade
 freewill
@@ -1387,6 +1393,7 @@ gamelight
 gamesys
 gameto
 garnerhealthconfidential
+gassouth
 gatewayfm
 gather
 gathertown
@@ -1447,6 +1454,7 @@ gnosis
 gntemp
 go1blinkist
 go1eu
+go1vn
 goalcast
 goalturkey
 goalzimbabwe
@@ -1569,7 +1577,6 @@ hellosign
 helloskylight
 helmai
 helmpointsolutions
-henrymeds
 heycar
 hibu
 hidden
@@ -1611,6 +1618,7 @@ honey
 honeybook
 honeylove
 hooglandslandscape
+hook
 hopin
 hoppr
 hopscotchhealth
@@ -1720,13 +1728,17 @@ integrateai
 integrityinstitute
 intelextechnologies
 intelligo
+interbrand
 interchain
 interfaceai
+internaljobsatlush
 internationalcruiseandexcursionsinc
 internationalrecruitment
+internrecruiting
 interpublicgroup
 intersection
 interviewkickstart
+intradiem
 inventables
 invertase
 investorhub
@@ -1736,6 +1748,7 @@ invitae
 invokestudiosen
 inworldai
 inyova
+inzoistudio
 iob
 iovlabsltd
 irhythm
@@ -1743,13 +1756,14 @@ irisautomation
 irl
 ironhealth
 isaac
-isaraerospace
 iseatz
 islandsxyzinc
 isrg
+itero-group
 ittakesavillage
 iversoft
 ivoyant
+ivxhealth
 ixco
 ixlayercareers
 izotopecareers
@@ -1759,6 +1773,7 @@ jackpocket
 jackpot
 jago
 janeasystems
+janestreetevents
 janetechnologies
 january
 janushealth
@@ -1810,10 +1825,12 @@ kadenallc
 kaiahealth
 kaiahealthsoftwaregmbh
 kaikosystems
+kailera
 kajabi
 kakaomobility
 kalderos
 kaleris
+kalshi
 kalvistapharmaceuticals
 kandola
 karriereseite
@@ -1828,6 +1845,7 @@ keebo
 keeptruckin
 kernagency
 ketchumuscareers
+kettle
 keyfactorinccampusrecruiting
 keylinespa
 keyme
@@ -1863,6 +1881,7 @@ kloo
 kmgmedicalgroup
 knab
 knack
+knightdivisiontactical
 knoetic
 knotel
 knotstandard
@@ -1881,6 +1900,7 @@ koodoo
 korukids
 kovitz
 kraftheinz
+kraftonindia
 kraftonsea
 kronosbio
 kronosresearch
@@ -1892,6 +1912,8 @@ kustomer
 kwaralearn
 kwittken
 kxadvisors
+kymberconsultinggroup
+kyocare
 l5
 la2028
 lagrange
@@ -1905,6 +1927,7 @@ latam
 latchbio
 latentai
 laudioinc
+launchpadtechnologiesinc
 launchyourcareer
 laurel
 lcgboston
@@ -1937,6 +1960,7 @@ lexion
 lextech
 lgcypower
 lhv
+licor
 lifeedittherapeutics
 lifehouse
 lightblocks
@@ -1963,6 +1987,7 @@ linushealth
 linx
 lionpoint
 liquidinstruments
+liquidpersonnel
 liscinternships
 lithium
 lithosenergy
@@ -2001,6 +2026,7 @@ ltse
 lucidsoftwareextra
 luckybeverageco
 luckylincolngaming
+ludiaconsulting
 luganodiamonds
 lumenorbit
 luminar
@@ -2138,6 +2164,7 @@ mindsdb
 mindtheproduct
 mindvalley
 mineral
+minio
 minthouse
 mintmobile
 minware
@@ -2372,8 +2399,8 @@ okcoin
 okerainc
 okex
 okteto
+olaplexcareers
 oleria
-oliverbrazil
 oliverplus
 olympiacareers
 om1
@@ -2385,6 +2412,7 @@ omnidata
 omnifdn
 omnionpower
 omnipresent
+onboardmeetings
 oncai
 ondeck
 onecareers
@@ -2428,7 +2456,6 @@ optoro
 opustone
 orbitaltherapeutics
 orbitfab
-orderly
 orderlynetwork
 originfinancial
 ornatherapeutics
@@ -2522,7 +2549,6 @@ pax8
 paxful
 paybyphone
 paydo
-payhawkio
 paysend
 paystack
 paystackprivate4317
@@ -2532,7 +2558,6 @@ pbs
 pbsusa
 pdmgroupasp
 peachtreebioresearchsolutions
-peakenergy
 pearcommerce
 pearlhealth
 pearsonorthodontics
@@ -2549,7 +2574,6 @@ peoplestrata
 pepperjam
 perchenergycareers
 perfectday
-perfectserve
 periscopedata
 permutive
 perrystreetsoftware
@@ -2590,9 +2614,7 @@ pjtpartnersprofessionals
 pjtpartnersstudents
 placeexchange11
 placemeter
-placerlabs
 planera
-planomatic
 playkids
 playstationeurope
 plenty
@@ -2650,7 +2672,6 @@ productiv
 productops
 productschool
 profiletechnologiesinc
-programaestferias
 project44opportunities
 projectdiscoveryinc
 projectfarma
@@ -2823,7 +2844,6 @@ rocketreach
 rockstarinternships
 rocksteadymusicschool
 roidna
-roivantsciences
 rollstack
 root
 rootly
@@ -2851,7 +2871,6 @@ saasacademy
 sada
 sadaindia
 safebase
-safetyworxs
 sagardcareers
 sailthru
 salaryfinance
@@ -2882,7 +2901,6 @@ satellogic
 saturn
 saturncloud
 saundersrealestate
-savoylife
 savvyinsure
 sbinternal
 scalecomputing
@@ -2922,6 +2940,7 @@ segmenttw
 seldon
 select
 selfidcareers
+selinicapital
 selkirksport
 seluxdiagnostics
 semasiojobs
@@ -2979,6 +2998,7 @@ sibros
 sidearmsports
 sidebycare
 sidewalklabs
+sierrallc
 siftscience
 sigmoidinternational
 signaladvisors
@@ -3034,7 +3054,6 @@ smartdesignworldwide
 smartersorting
 smartfinancial
 smc
-smcp
 smilegatebarcelona
 smileidentity
 smlxl
@@ -3065,6 +3084,7 @@ solarcycle
 solera
 solsten
 soluna
+solutionsbytext
 somespiderstudios
 sonder
 sondermind
@@ -3082,6 +3102,7 @@ soundengineeringsolutions
 sounderbenefits
 soundhoundinc
 sourcegraph
+sourcegraph91
 sourcepassinc
 sourcescrub
 south8
@@ -3096,6 +3117,7 @@ sparrowventures
 spartanradar
 spec
 specialized
+sphinxdefense
 spideroak
 spinlaunch
 spinskinnylabsinc
@@ -3155,6 +3177,7 @@ storicardmx
 storkclub
 stormpath
 strataidentity
+strategichr
 strategicresolutionexperts
 strava
 stream
@@ -3163,85 +3186,164 @@ streamyard
 stressfree
 stridehealth
 stridertechnologies
+strike
 stringandkey
 stripes
+strivepharmacy
 strongarmtechnologies
 strongholdim
+strongpointpartners
 stryber
 studentfounders
 studentloanhero
+studentplacements
+studiodesigner
+studiokraftonboard
 studiosarchitecture
 studioscience
+studsinc
+studycareers
 styleseat32
 stylitics
 stylusmedicine
 styra
+subarupacific
+submittable
 subskribe
+subsplash
+successacademycharterschool
 successkpiinc
 sugar
+suitsupply
+suki
 sullyai
+summer
 summerinternships
 summit
+summitpartnerslp
 summitpublicschools
 sumo
+sumofus
+sumologic
+sumup
+sunnova
 sunnymorningfoods
+sunnyside
+sunset
 sunshine
+suntimes
 supabase
 superbet
 superblocks
+supergoop
 superhuman
+superjoy
 superlayer
+superluminalrx
+supermetricsoy
+supernal
+superpayments
 superrarelabs
+superset
+supersod
 supio
+supplyhouse
+supportingstrategies
+supportingstrategies1
 supportlogic
 supraoracles
+surefirecyber
+surepay
 surfair
 surgicalnotes
+survata
 surveymonkey
+sustainabletalent
+sustainablewestchester
 sustainlife
+sustainment
+suvoda
+svetness
 swagup
 swanbitcoin
+swanloveland
 swarmaero
+swayable
+swayboxstudios
 sweet
 sweeten
+sweetgreen
+swiftsolar
 swingeducation
 swirlds
 swishanalytics
+swissitgermany
+swoogo
 syapse
 sylogist
 sylva
+sylvain
 symblai47
 symbolica
 symend
+symmetry
 symmetrysoftware
+synack
+synacksrt
 synccomputing
 synchron
 syncron
 synctera
+syndigo
+syndio
+synerg
 synfindo
 synthesia
+synthesishealth
 synthetaic
 syrup
 sysdig
+syskahennessy
+system
+systemiq
+systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
+taboola
+tacnet
 tacobell
 tacobelljobs
 tacombi
+tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
+tailorcare2023
 tails
+tailscale
 taittowers
+takealotcom
+takealotgroup
+takecommandhealth
+taketwo
 tala
 talent_community
 talentscreditas
+talkdesk2
+talkspace
+talkspacepsychiatry
+talkspacetherapist
 tally
 tallywallet
+talonone
 talos
 tamanna
+tamara
+tandemlaunch
+tandemmoneylimited
 tangocard
+tangogameworks
 tangoio
 tangotherapeutics
 tanium
@@ -4319,7 +4421,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2843)
+## lever (2845)
 netflix
 shopify
 github
@@ -4813,6 +4915,7 @@ catenamedia
 catlabs
 causal-app
 ccmr3
+cef
 celestia
 cellares
 celo
@@ -5149,7 +5252,6 @@ epicio
 episci
 equiphealth
 erpsuccesspartners
-espace
 esper-3
 espresso
 estenda
@@ -5201,6 +5303,7 @@ feedmedia
 fellowshiplifeinc
 femalefounders-fund
 ffws
+fi
 fiddlerlabs
 fightcamp
 figma
@@ -5236,6 +5339,7 @@ flightcx
 flipfit
 flipster
 flockjay
+floqast
 floridadems
 flowerave
 flowfoundation
@@ -5278,7 +5382,6 @@ fractional
 framework
 franklinai
 freeletics
-fresha
 freshhealth
 freshly
 frontapp
@@ -5326,9 +5429,11 @@ getjerry
 getjones
 getlago
 getmetronome
+getmidas
 getmulberry
 getmysa
 getpatch
+getwingapp
 ghcorps
 ghjadvisors
 gigster
@@ -5346,6 +5451,7 @@ global-elite
 gloo
 glowforge
 glu
+gmo
 go2-markets
 goabstract
 goat
@@ -5398,6 +5504,7 @@ growthtribe
 gscloudsolutions
 gsr
 gts
+guidestareldercare
 guidewire
 guild
 gurobioptimization
@@ -5458,6 +5565,7 @@ hicleo
 highfidelity
 highlight
 highspot
+hightechhigh
 highwirepr
 hihello
 hike
@@ -5611,7 +5719,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5643,7 +5750,6 @@ kandji
 kaporcapital
 kapwing
 karat
-kariusdx
 kava
 kavalabs
 kddia
@@ -5656,7 +5762,6 @@ kensho
 kerishullteam
 ketch
 kevala
-keyloop
 kg
 kibeam
 kickback
@@ -5698,7 +5803,6 @@ konviere
 koombea
 kooptechnologies
 koreaboo
-kpler
 kpmg-2
 kraken
 kraken123
@@ -5716,6 +5820,7 @@ kyte
 kyverna
 laagencia
 labelbox
+lalamove
 lambdal
 lambdaschool
 laminiai
@@ -5825,7 +5930,6 @@ luni
 luxe
 luxortechnology
 luzia
-lvs1
 lyciatherapeutics
 lykospbc
 lyra
@@ -5901,13 +6005,13 @@ medium
 meetalbert
 meetgroup
 meetingstreetschools
-megaport
 meliuz
 membersy
 memebox
 memfault
 memphismeats
 menlovc
+menta
 mentormate
 meridianlink
 merit
@@ -6027,6 +6131,7 @@ nextcaller
 nextdata
 nextgames
 nextmillennium
+nexuse-group
 nfamilyclub-2
 nftnow
 nftpay
@@ -6184,7 +6289,6 @@ payfit
 paymongo
 paystack
 paytmbank
-paytmpayments
 payzen
 pdq
 peachfinance
@@ -7175,7 +7279,6 @@ clay
 anthropic
 liveramp
 chroma
-hex
 preset
 glean
 wispr
@@ -7991,6 +8094,7 @@ truthsystems
 truva
 tryprospect
 tryvital
+turion-space
 turnstile
 tuza
 two-dots
