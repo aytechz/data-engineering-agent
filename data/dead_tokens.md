@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3910)
+## greenhouse (3905)
 hingehealth
 maven
 spring
@@ -76,7 +76,6 @@ alloycampus
 capitalrx
 doubleverify
 glossgenius
-klaviyocampus
 rdccareers
 transcarent
 0x
@@ -282,7 +281,6 @@ anz
 apartmentlist
 apeel
 apellis
-aperiatechnologies
 apexlogic
 apiascholars
 apisero
@@ -339,7 +337,6 @@ around
 arrantabiocareers
 arrayeducation
 arsys
-artefactjobs
 arteriaai
 articulate
 artivest
@@ -348,7 +345,6 @@ artsy
 arzeda
 as
 ascendanalytics
-ascenttechnologies
 ascertain
 ascidiantherapeutics
 askmediagroup
@@ -434,10 +430,8 @@ basehq
 basepowercompany
 basic
 batonhealth
-bayada
 baymeadows
 bbot
-bbposlimited
 bccampus
 bcgdv
 bcgdvalumnireferrals
@@ -672,7 +666,6 @@ carnegiescience
 carrumhealth
 carsandbids
 carsdotcom
-carta
 cartodb
 cartwheelcare
 carveyourownpath
@@ -715,7 +708,6 @@ celofoundation
 censia
 centerforhumancompatibleartificialintelligence
 centerforreproductiverights
-centuracollege
 cerebral
 cerebralgoogle
 cerebrassystems
@@ -762,7 +754,6 @@ chronicled
 churchill
 ciberspringllc
 cibolo
-cipherhealth
 circle
 circlereferrals
 circleso
@@ -779,7 +770,6 @@ civitas
 civitaslearning
 clair
 clarifai
-clariticloudinc
 clarityclinic
 clarityschools
 clark71
@@ -815,7 +805,6 @@ closedloop
 cloudagronomics
 cloudbees
 cloudcampaign
-cloudchamberfr
 cloudian
 cloudops
 cloudwerxinc
@@ -829,7 +818,6 @@ coastenergy
 cobo
 cocolab
 coconutsoftware
-cocoon
 coda
 codeacademy
 codeforsciencesociety
@@ -1153,7 +1141,6 @@ eleo
 elephantenergy
 elevatek12
 elevationcapital
-eliotcommunityhumanservices
 elkcreek
 ellevest
 elvahgmbh
@@ -1744,7 +1731,6 @@ inworldai
 inyova
 iob
 iovlabsltd
-ipfabric
 irhythm
 irisautomation
 irl
@@ -2121,7 +2107,6 @@ merit
 mesamember
 meshpayments
 meshy
-messagelab
 messari
 metaco
 metacore
@@ -2657,6 +2642,7 @@ productiv
 productops
 productschool
 profiletechnologiesinc
+programaestferias
 project44opportunities
 projectdiscoveryinc
 projectfarma
@@ -2874,7 +2860,6 @@ sandstonecarebroomfield
 sandstonecarecastlerock
 sandstonecaredarien
 sandstonecoloradomedicaldetox
-sandstonemaryland
 sandstoneremote
 sandtech
 sanityio
@@ -3569,6 +3554,7 @@ visitingmedia
 visor
 vitablehealth
 vitahealth
+vitta
 vivian
 vividly
 vizai
@@ -3579,28 +3565,36 @@ voice
 volleythat
 voltacharging
 voltrondata
+vonage
 vorbiopharma
 voterev
 votesolar
 vouchinsurance
 vowgroup
+voxel51
 voxglobal
+voxieinc
 voxmedia
 voxy
+voyagertechnologiesinc
 voyagertherapeutics
-vpawashington
 vpawv
-vsapartners
 vsco39
+vtex
+vts
 vuestorefront
+vulncheck
 vultr
 vultronai
 vungle
+vynyl
 vytalizehealth
 wagmo
 wakam
 waku
+waldensecurity
 waldo
+walkersands
 walleyecapital-external-internships
 walmartasr
 walnut
@@ -3610,8 +3604,13 @@ wargamingen
 wargamingru
 wargamingwelcometothejungle
 warp
+wasabi
+watchduty
+watchmakergenomics
 waterloocoop
+watershed
 watershedclimate
+watsonsfriendsah
 waveapp
 wavelo
 wavemm
@@ -3620,7 +3619,9 @@ waverleystreetfoundation
 wavexr
 wayfair
 waymark
+waymo
 wayup
+wayve
 wbpa
 wealthfront
 weareservicemax
@@ -3642,7 +3643,6 @@ weee
 wehrtyou
 weinsteinproperties
 weissassetmanagement
-welbehealth
 welearn
 well
 wellhealthinc
@@ -3770,7 +3770,6 @@ worthi
 wovencare
 wpp
 wppit
-wppmedia
 wrapbook
 wrike
 wunder
@@ -3809,7 +3808,6 @@ xpincmlhr3
 xtillion
 xtxmarketstechnologies
 xwing
-yaleinvestmentsoffice
 yalochatinc
 yaypay
 yellowbrickdata
@@ -3837,14 +3835,12 @@ yousician
 youthinc
 yprime
 ysoftcorporation
-yugabyte
 yugalabs
 yuma
 yummly
 yurtsai
 yuvohealthllc
 zafinlabsamericasinc
-zam
 zambold
 zap
 zapiercareers
@@ -3888,7 +3884,6 @@ zinnia
 zinniaintern
 zinnov
 zip
-zipcolimited
 ziprecruiter
 zitaratechnologiesinc
 zocalohealth
@@ -3913,7 +3908,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2857)
+## lever (2844)
 netflix
 shopify
 github
@@ -4010,7 +4005,6 @@ adtech
 adthena
 advancednavigation
 adverum
-advocate
 aechelon
 aeler
 aerialapplications
@@ -4082,14 +4076,12 @@ anagram
 analog
 analuisa
 ancestry
-andersencorp
 anduril
 angaza
 angel
 anglehealth
 animaapp
 animaker
-animocabrands
 animoto
 anjuna
 anlatan
@@ -4152,7 +4144,6 @@ asap
 ascoeq
 asfar
 asimov
-askfavor
 aspiration-2
 assurance
 astera
@@ -4212,13 +4203,10 @@ backmarket
 backstage
 badal
 bai-inc
-balbix
 baller
 bambee
-bamko
 bamtradingservices
 banglalink
-baoinc
 barbaricum
 barecremation
 barefootproximity
@@ -4249,7 +4237,6 @@ benchsci
 benlabs
 bestegg
 beta
-betr
 betstamp
 better
 betterlifepartners
@@ -4261,17 +4248,14 @@ bfp
 biconomy
 bigfootbiomedical
 biggergames
-bighealth
 bigtime
 bill
 bimone
 binti
 biobot
-biodigital
 bioenergydevco
 bird
 birdcanada
-bis
 bitdefender
 bitly
 bitnami
@@ -4280,8 +4264,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
-bkln
 black-white-zebra
 blackcloak
 blackcrow
@@ -4336,7 +4318,6 @@ boulevard
 bound
 boweryfarming
 box
-boxlunch
 brainnest
 brand-knew
 braveventurelabs
@@ -4380,7 +4361,6 @@ button
 buyboxexperts
 bvaccel
 c16bio
-cagents
 call9
 callistomedia
 calm
@@ -4975,6 +4955,7 @@ good-party
 goodeggs
 goodgamestudios
 goodrx
+gopuff
 gordian-bio
 gorgias
 gorillalogic
@@ -5013,6 +4994,7 @@ guidewire
 guild
 gurobioptimization
 guusto
+h1
 habito
 hackerone
 hadrian
