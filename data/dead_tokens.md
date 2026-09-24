@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4232)
+## greenhouse (4258)
 hingehealth
 maven
 spring
@@ -76,9 +76,6 @@ alloycampus
 capitalrx
 doubleverify
 glossgenius
-inizio
-klaviyocampus
-newsbreak
 rdccareers
 transcarent
 0x
@@ -385,7 +382,6 @@ audipacific
 augmentcomputing
 aurorainnovation
 aurorasustainablelands
-authenticinsurance
 authorhealth
 autograph
 automatainc
@@ -579,7 +575,6 @@ breezeairways
 bridgekesandbox
 bridgengsandbox
 brightai1
-brightcoreenergy
 brightcove
 brightflag
 brighthealthgroup
@@ -666,7 +661,6 @@ carewell
 carmera
 carmichaellynch
 carnegiescience
-carrotfertility
 carrumhealth
 carsandbids
 carsdotcom
@@ -763,7 +757,6 @@ circleso
 ciscomeraki
 citizen
 cityblockhealth
-cityoffortworth
 citystoragesystems
 cityyear
 civicactions
@@ -865,6 +858,7 @@ connectngofr
 connectrn
 conroyorthodontics
 consensysremote
+constrafor
 constructsecure
 consumertrack
 contentive
@@ -879,7 +873,6 @@ cordros
 corellium
 corepilot
 corescientific
-coreweave
 corrieluscardiology
 cortexbuildingintelligence
 corvee
@@ -1587,6 +1580,7 @@ hitachidigitalservices
 hitachivantaracorporation
 hitostudios
 hivemq
+hivewatch
 hiya
 hofy
 hollywoodparksofistadium
@@ -2234,6 +2228,7 @@ myunidaysltd
 mzwallace
 n2cointernal
 n2homeoffice
+n2publishingglassdoor
 n2websites
 n2y
 nacelle
@@ -3262,23 +3257,54 @@ telesign
 telgorithm
 telusdigitalbr
 templafy
+tempo
 temporal
 temporaltechnologies
 tempus
+tenableinc
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
+tenstorrent
+tenstreet
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
+territorialdentalclinic
+tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
+textio
+textus
 tezatechnologies
 thalamusgme
+thanx
+thatch
 thatlot
 thatsnomoonentertainment
 theagencyre
@@ -4235,7 +4261,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2838)
+## lever (2839)
 netflix
 shopify
 github
@@ -4696,6 +4722,7 @@ calven
 camber
 cambly
 campspot
+canarytechnologies
 canimmunize
 canopyservicing
 canva
