@@ -1,9 +1,5 @@
-### 4 new matching jobs · 2026-09-24 22:25 UTC
+### 2 new matching jobs · 2026-09-25 01:31 UTC
 
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/healthleap/16f352ef-d59b-4865-a4e0-6ce41aaa7637)** at **healthleap** — San Francisco Office 🏥 · `python, sql` · _ashby_
-
-#### From greenhouse (3)
-- **[Lead Data Engineer](https://boards.greenhouse.io/capitaltg/jobs/5248632007?gh_jid=5248632007)** at **Capital Technology Group** — Remote 🏥🤖 · `pyspark, spark, dbt, airflow, aws, python` · _greenhouse_
-- **[Data Engineer - US Remote](https://job-boards.greenhouse.io/perfectserve/jobs/6200392004)** at **PerfectServe** — Remote 🏥 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
-- **[Staff Data Engineer - US Remote](https://job-boards.greenhouse.io/perfectserve/jobs/6200382004)** at **PerfectServe** — Remote 🏥 · `databricks, snowflake, dbt, airflow, aws, sql` · _greenhouse_
+#### From ashby (2)
+- **[Software Engineer, Data Infrastructure and Performance Metrics](https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860)** at **artafinance** — Bay Area · _ashby_
+- **[Senior Data Engineer - US](https://jobs.ashbyhq.com/goteleport/9ffa30d6-22c5-42cc-9a99-45c03220d294)** at **goteleport** — San Francisco Bay Area, CA · `snowflake, dbt, python, sql` · _ashby_
