@@ -1,5 +1,4 @@
-### 2 new matching jobs · 2026-09-25 01:31 UTC
+### 1 new matching jobs · 2026-09-25 07:49 UTC
 
-#### From ashby (2)
-- **[Software Engineer, Data Infrastructure and Performance Metrics](https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860)** at **artafinance** — Bay Area · _ashby_
-- **[Senior Data Engineer - US](https://jobs.ashbyhq.com/goteleport/9ffa30d6-22c5-42cc-9a99-45c03220d294)** at **goteleport** — San Francisco Bay Area, CA · `snowflake, dbt, python, sql` · _ashby_
+#### From lever (1)
+- **[PIM Data Engineer](https://jobs.lever.co/bounteous/c14510b3-bf06-47a2-9c06-8b256cafc3c6)** at **bounteous** — United States · _lever_
