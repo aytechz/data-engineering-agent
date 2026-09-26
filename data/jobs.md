@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-09-26 01:34 UTC_
+_Last updated: 2026-09-26 07:41 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,9 +8,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Staff Data Engineer](https://job-boards.greenhouse.io/robotsandpencils/jobs/5339856008)** at **Robots and Pencils** — Remote - Canada 🏥🤖 · `kafka, aws, python, sql` · _greenhouse_
-- **[Senior Software Engineer, Data Platform](https://job-boards.greenhouse.io/zetaglobal/jobs/6198938004)** at **Zeta Global** — San Francisco, CA 🏥🤖 · `spark, airflow, aws, python, terraform` · _greenhouse_
-- **[Principal Infrastructure Architect: Data Platform](https://www.zoominfo.com/careers?gh_jid=8626996002)** at **ZoomInfo Technologies LLC** — Remote 🏥🤖 · `snowflake, airflow, kafka, aws, gcp, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)](https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
@@ -208,3 +205,6 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Data Engineer - Data Platform](https://job-boards.greenhouse.io/mill/jobs/4722052005)** at **Mill** — San Bruno, California 🤖 · `snowflake, dbt, airflow, python, sql, terraform` · _greenhouse_
 - **[Lead Data Engineer](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5435240008)** at **Momentum Financial Services Group** — Hyderabad (Remote) 🏥 · `snowflake, dbt, aws, gcp, azure, python` · _greenhouse_
 - **[Senior Software Engineer, Data Platform](https://motional.com/open-positions/?gh_jid=8003807003#/8003807003)** at **Motional** — Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. 🏥🤖 · `aws, python, sql` · _greenhouse_
+- **[Senior Data Engineer, Event Data](https://movableink.com/job-listing?gh_jid=7776323)** at **Movable Ink** — Movable Ink - Toronto (Remote) 🏥 · `databricks, kafka, aws, gcp, python, sql` · _greenhouse_
+- **[Senior Engineer, Data Platform](https://movableink.com/job-listing?gh_jid=7776175)** at **Movable Ink** — Movable Ink - Toronto (Remote) 🏥🤖 · `databricks, airflow, kafka, aws, gcp, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6093127004)** at **MrBeast** — San Mateo, CA 🏥 · _greenhouse_
