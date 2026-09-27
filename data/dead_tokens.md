@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3976)
+## greenhouse (3957)
 hingehealth
 maven
 spring
@@ -371,7 +371,6 @@ atlanticcouncil
 atlasnavigatorsllc
 atmoslabs
 atome
-atomicmachines
 atomicvest
 atomicwork
 atomosspace
@@ -838,7 +837,6 @@ coinhako
 coinlist
 coinmetrics
 colehourcoheninc
-colemanresearch
 collaborativerobotics
 collagecom
 collectiveinc
@@ -890,7 +888,6 @@ corvusinsurance
 cosseandsilmonorthodontics
 cota
 cotap
-cottinghambutlerinsuranceservicesinc
 coursehero
 coursekey
 coursemojo
@@ -3529,30 +3526,14 @@ venturegloballng
 ventustherapeutics
 verbenergy
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
 verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
 veterinarypracticepartners
 vetevolve
 vetstoria
