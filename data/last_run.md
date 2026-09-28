@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-09-28 06:54 UTC
+### 1 new matching jobs · 2026-09-28 15:28 UTC
 
-#### From greenhouse (1)
-- **[Distributed Systems Engineer (Data Platform)](https://job-boards.greenhouse.io/censys/jobs/8684280002)** at **Censys** — Remote (US/Canada) 🤖 · `kafka, aws, gcp, azure` · _greenhouse_
+#### From ashby (1)
+- **[Staff Data Engineer](https://jobs.ashbyhq.com/clarium/118f8d25-6335-40c8-85af-4fed8776688c)** at **clarium** — Remote/US 🏥🤖 · `spark, snowflake, dbt, airflow, kafka, aws` · _ashby_
