@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4064)
+## greenhouse (3990)
 hingehealth
 maven
 spring
@@ -37,6 +37,7 @@ notion
 canva
 pelotoncycle
 doordash
+brex
 ramp
 rippling
 deelinc
@@ -76,7 +77,9 @@ zoox
 alloycampus
 capitalrx
 doubleverify
+efficientcomputer
 glossgenius
+nice
 practisinglawinstitute
 rdccareers
 transcarent
@@ -191,10 +194,12 @@ airbase
 aircore
 airlifttechnologies
 airpacairlines
+airspace
 airspeed
 airtime
 airworks
 aiserajobs
+aizerhealth
 akriveiatherapeutics
 alby
 alchemy
@@ -295,6 +300,7 @@ apono
 appannie
 appfiretechnologiesllc
 appiabio
+appliedengineering
 applytocedar
 applytocloudforge
 applytonectar
@@ -384,7 +390,6 @@ atomwise
 atropos
 atticus
 attune
-auctane
 audicus
 audigent
 audioeye
@@ -405,7 +410,6 @@ avalabs
 avalabsecosystem
 avalanchefoundation
 avantstay
-avantus
 avaxambassador
 avea
 avelaeducation
@@ -423,12 +427,14 @@ azenia
 aztec
 aztecgroup
 azumo
+azuritypharmaceuticals
 babbel
 backlight
 baincapitalventures
 ballotready
 balto
 bam
+bandwidth
 banyaninfrastructure
 banyansecurity
 banyucarbon
@@ -444,6 +450,7 @@ bbot
 bccampus
 bcgdv
 bcgdvalumnireferrals
+bdainc
 bdtmsd
 beaconplatform
 beaconsoftware
@@ -571,19 +578,18 @@ boostinsurance
 boostlingo
 bootcampinstructionalengagement
 bosonprotocol
-botauto
 boundlessbio
 boundlessimmigration
 boxedwholesale
 braingu
 brainly
+brainpop
 braintechnologies
 braintree
 braintrust
 branch32
 brands4friends
 bravehealth
-braveheartbio
 breakthroughenergy38
 breezeairways
 bridgekesandbox
@@ -677,6 +683,7 @@ carewell
 carmera
 carmichaellynch
 carnegiescience
+carolinapaydayloansinc
 carrumhealth
 carsandbids
 carsdotcom
@@ -909,7 +916,6 @@ covetool
 covey
 cowswap
 coyuchi
-craevents
 craftco
 craftdocs
 crafty
@@ -921,7 +927,6 @@ creditbook
 creditkarma
 crestline
 crigroup
-criminaljusticeagency
 crisistextline86
 criticalideas
 crocscorporate
@@ -1060,7 +1065,6 @@ digitaloceancitesremotes
 digitalonus
 digitaltrends
 digitaltrendsfreelance
-dimagi
 dimensionalenergy1
 discoxyz
 dispatch
@@ -1168,6 +1172,7 @@ ellevest
 elvahgmbh
 embrace
 embroker
+emerycellibrinckerhoffabadywardmaazelllp
 emids
 emotiveio
 emplifimonster
@@ -1218,7 +1223,6 @@ evermore
 everops
 everpass
 everphone
-everstreamanalytics
 everylife
 evidation
 evive
@@ -1231,7 +1235,6 @@ exabeam
 exactsales
 execonline
 exfluency
-exiger
 exo
 exodus54
 expa
@@ -1498,7 +1501,6 @@ grammarly
 grandofprospect
 grandpeaks
 granular
-grassrootsanalytics
 grassrootsvoteroutreach
 gratadata
 gravitate
@@ -1514,7 +1516,6 @@ greenplaces
 gregarious
 griffin
 grindr
-grist
 gro
 groove
 groq
@@ -1678,7 +1679,6 @@ ibkr
 ibotta
 iconiqcapital
 id5
-idahotitleloansinc
 ideas42
 ideoorg
 iedigital
@@ -2144,6 +2144,7 @@ metadata
 metagenomi
 metapack
 meter
+method
 metromile
 metronome
 mezmo
@@ -2157,7 +2158,6 @@ midtowne
 mightybuildings
 migo
 mikebloomberg2020
-mill
 millenniumspacesystems
 mindcaresolutions
 mindfulcare
@@ -2174,7 +2174,6 @@ mirror
 mishimoto
 missionbio
 missionlanellc
-missiontelecom
 missionzerotechnologies
 mixbook
 mixhalo
@@ -2242,7 +2241,6 @@ mutiny
 mutinyjobs
 mux
 mventures
-mwnaintern
 mx51
 mybrandforce
 mybrandforceinternalpositions
@@ -2327,6 +2325,7 @@ nightfall
 nikolalabs
 nilotherapeutics
 nimblegiant
+nimbus
 nirvana
 nobellfoods
 nobl9
@@ -2800,6 +2799,8 @@ relic
 relyance
 remergegmbh
 remind
+remotecom
+remotereferralboardinternaluseonly
 render
 reorg
 repeatmd
@@ -2896,6 +2897,7 @@ sandstonecarecastlerock
 sandstonecaredarien
 sandstonecoloradomedicaldetox
 sandstonecoloradospringsoutpatient
+sandstonedenver
 sandstoneremote
 sandtech
 sanityio
@@ -3138,6 +3140,7 @@ spotonproduct
 spreadgroup
 sprig
 springdiscovery
+springhealth66
 sprinklr
 sprintray
 sproutsocialcollege
@@ -3511,149 +3514,72 @@ upstatement
 upstreamcare
 uptake
 uptivhealth
-upwardhealth
 upworthy
 urban
 urbanfootprint
-urbansky
-urbansportsclub
-urbansystems
 urbint
 urbnleaf
-urgentcareforchildren
-urpt
-ursamajor
-urschellaboratoriesinc
 urx
 usablemachines
-usaforunhcr
-usenourish
-usergems
 userinterviews
 userleap
 ushur
 usjetaa
 ustwo
 ustwogames
-utahtitleloansinc
 utilityapi
-uvimco
 vac
 vacasa
-vacationinc
-vaco
-vailclinicincdbavailhealthhospital
-valaratomics
-valerahealth
 valiantharborinternationalllc
 valimailinc
-valleyhospital
 valleyview
-valohealth
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
 variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
-vecma
-vecnyc
-vectara
 vectornorth
-vectranetworks
 vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
 verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
 vgw
 vhsys
-via
-viaduct
-viagogo
-vialogic
-viamrobotics
-vianttechnology
 viber
 vibesllc
 vibrant
@@ -4067,7 +3993,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2857)
+## lever (2864)
 netflix
 shopify
 github
@@ -4111,6 +4037,7 @@ upstart
 nuro2
 anysignal
 aofl
+zoox
 10up-2
 15five
 174powerglobal
@@ -4190,6 +4117,7 @@ airhouse
 airprotein
 airship
 airshipsyndicate
+airtm
 airwallex
 aisafety
 aiwyn
@@ -4340,9 +4268,11 @@ autonomys
 av
 ava
 avalabs
+avante
 avantstay
 avela
 avero
+avertium
 avioconsulting
 avivesolutions
 avratalent
@@ -4412,6 +4342,7 @@ biggergames
 bigtime
 bill
 bimone
+binance
 binti
 biobot
 bioenergydevco
@@ -4440,6 +4371,7 @@ blockswap
 blocpower
 bloomcredit
 bloomthat
+bloomwellcare
 blox-route
 blueboard
 bluecore
@@ -4490,9 +4422,11 @@ bridge
 bridge2rwanda
 bridgebio
 brighthealthplan
+brightonjones
 brightseedbio
 brightspot
 brightwheel
+brillio-2
 brimstone
 brimstoneenergy
 brinc
@@ -6897,7 +6831,6 @@ zapsurgical
 zayzoon
 zazzle
 zededa
-zeeco
 zeitgold
 zeller
 zendesk
@@ -6926,7 +6859,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (917)
+## ashby (920)
 mercury
 together
 replicate
@@ -7180,6 +7113,7 @@ ecarxgroup
 echo
 echotwin
 edge-node-ventures
+edlink
 electric
 electricai
 electronx
@@ -7279,6 +7213,7 @@ gitpod
 gitstart
 glyphic
 go-augment
+go-nimbly
 gohenry
 goldsky
 goodcover
@@ -7372,6 +7307,7 @@ kintsugi
 kittl
 klarity
 kodif
+kojo
 krepling
 kuru-labs
 kyanhealth
@@ -7652,10 +7588,10 @@ sensat
 sensorita
 seriesai
 servicebell
-sfg20
 shadow
 sidebar
 signalfire
+sio-logistics
 sketch
 skillz
 skyebioscience
