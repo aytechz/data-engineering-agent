@@ -1,9 +1,8 @@
-### 4 new matching jobs · 2026-10-01 18:56 UTC
+### 3 new matching jobs · 2026-10-01 23:13 UTC
 
-#### From greenhouse (3)
-- **[Staff Data Infrastructure Engineer](https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002)** at **Faire** — New York City, NY; San Francisco, CA 🤖 · `databricks, spark, snowflake, airflow, kafka, aws` · _greenhouse_
-- **[Salesforce Data Architect, Revenue Solutions](https://job-boards.greenhouse.io/neuraflash/jobs/6214097004)** at **NeuraFlash, Part of Accenture** — Remote - United States 🤖 · `aws, sql` · _greenhouse_
-- **[Senior Data Engineer, Growth Acquisition (Growth & Marketing Data)](https://careers.roblox.com/jobs/8231390?gh_jid=8231390)** at **Roblox** — San Mateo, CA, United States · `pyspark, spark, airflow, kafka, aws, gcp` · _greenhouse_
+#### From greenhouse (2)
+- **[Senior Data Engineer, Product](http://block.xyz/careers/jobs/5440102008?gh_jid=5440102008)** at **Block** — Bay Area, CA, United States of America 🏥🤖 · `databricks, snowflake, dbt, airflow, python, sql` · _greenhouse_
+- **[Senior Data Platform Engineer](https://job-boards.greenhouse.io/nerostechnologies/jobs/5241234007)** at **Neros Technologies** — Torrance, California, United States 🤖 · `spark, airflow, aws, gcp, azure, python` · _greenhouse_
 
-#### From hackernews (1)
-- **[Relevant Healthcare | Lead Engineer | Remote (US&#x2F;Canada only) | Full-time Relevant builds a data platform that helps safety-net healthcare providers deliver better care using data from their electronic health records](https://news.ycombinator.com/item?id=49923964)** at **Relevant Healthcare** — Location not specified 🏥 · _hackernews_
+#### From lever (1)
+- **[Senior Data Engineer](https://jobs.lever.co/quandri/eaeee943-f9a3-4d02-9462-6648181a33cc)** at **quandri** — Vancouver Hybrid, Remote 🤖 · `databricks, snowflake, dbt, airflow, aws, gcp` · _lever_
