@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4300)
+## greenhouse (4333)
 hingehealth
 maven
 spring
@@ -248,6 +248,7 @@ amcrawfordinc
 amedigital
 amenitiz
 americaneedsyou
+americanmarketingassociation
 americannational
 amika
 aminohealth
@@ -264,7 +265,6 @@ anchorage
 anchorpoint
 ancientnutrition
 andela
-andesite
 androstechnologies
 anewclimate
 angi
@@ -348,7 +348,6 @@ articulate
 artivest
 artlogic
 artsy
-arvinas
 arzeda
 as
 ascendanalytics
@@ -1172,6 +1171,7 @@ enchargeai
 encompasstechnologiesllp
 endpoint
 endurance
+energage
 energicorelimited
 energizecapital
 energyfoundation
@@ -1482,6 +1482,7 @@ goodworldwide
 govini
 govos
 govport
+gr8tech
 grabango
 gradientcomfort
 gradientlearning
@@ -1579,6 +1580,7 @@ hellosign
 helloskylight
 helmai
 helmpointsolutions
+hextechnologies
 heycar
 hibu
 hidden
@@ -1587,6 +1589,7 @@ high5games
 higharc
 highergroundeducation
 highfi
+hightouch
 hightower
 hilabs
 hillandknowlton
@@ -1953,14 +1956,15 @@ lgcypower
 lhv
 lifeedittherapeutics
 lifehouse
+lig
 lightblocks
 lightforgegames
 lightricks
-lightrun
 lightship
 lightspeedhq
 lightspeedhqfr
 lightspeedmanagementcompanyllc
+liginternal
 lila
 lilacsolutionsinc
 lilium
@@ -2377,7 +2381,6 @@ objective
 objectstream
 ocadotechnology
 octaneai
-octopuslegacy
 ocus
 odkmediainc
 odonate
@@ -2428,7 +2431,7 @@ onsights
 onsiteiq
 op3n
 opaque
-opencoreventures
+openap
 opendoor
 openfin95
 opengamma
@@ -2577,6 +2580,7 @@ persado
 persefoniaiinc
 persona
 perspective
+petag
 petdesk
 petfolk
 petuum
@@ -3101,18 +3105,15 @@ soundengineeringsolutions
 sounderbenefits
 soundhoundinc
 sourcegraph
-sourcemeridian
 sourcepassinc
 sourcescrub
 south8
 southeastdermatology
-southshoreskin
 southworks
 spade
 spanimation
 spanio
 sparkcognition
-sparkland
 sparktechroles
 sparrow
 sparrowventures
@@ -3197,7 +3198,6 @@ stryber
 studentfounders
 studentloanhero
 studiosarchitecture
-studioscience
 styleseat32
 stylitics
 stylusmedicine
@@ -3283,39 +3283,72 @@ tbwachiatday
 tbwawh
 tcgcapital
 tdc
+tdg
+tdinternational
+tds
+teachablecareers
 teacherspayteachers
+teachforall
+teachinglab
+teachstone
 teads
+teads1
+teague
+tealmedia
 team1
 teamlfg
+teammate
 teammobot
 teampathy
 teampay
 teampicnic
 teamrubicon
 teamworthy
+tebra
+teccweb
+techholding
 techietalent
+technergetics
+technicalassent
 technisyscareers
+technologyadvice
 techridge
 techstars
+techstars57
 techtalentandstrategy
+tecovas
+tegnainc
 tekion
+tekmetric
+teknema
 teladochealth
 telemedicine
 telesign
+teletrackingtechnologiesinc
 telgorithm
+telixus
+tellerparkvet
+tellius
+telnyx54
 telusdigitalbr
 templafy
+tempo
 temporal
 temporaltechnologies
 tempus
 tenableinc
+tenberke
 tencent
 tenderfood
 teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tennesseetitleloansinc
+tenon
 tensor
 tenstorrent
+tenstreet
 tenthousand
 teracore
 terakeet
@@ -4303,7 +4336,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2857)
+## lever (2860)
 netflix
 shopify
 github
@@ -4445,6 +4478,7 @@ alida
 alignable
 alkymi
 allata
+allegiantair
 alliance
 allinbits
 allstripes
@@ -4472,6 +4506,7 @@ anagram
 analog
 analuisa
 ancestry
+andersencorp
 anduril
 angaza
 angel
@@ -4907,6 +4942,7 @@ complex
 comply
 composer
 compound-2
+compstak
 comtravo
 concordnow
 conduit
@@ -7162,7 +7198,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (917)
+## ashby (919)
 mercury
 together
 replicate
@@ -7201,6 +7237,7 @@ aizen
 alby
 aletiq
 allinbits
+alotten-inc
 alpaca
 alpha
 alpinex
@@ -7869,6 +7906,7 @@ safebase
 safety
 safi
 sales-marker
+salesjack
 same
 sauron
 savvyinsurance-trellis
