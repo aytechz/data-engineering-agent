@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4271)
+## greenhouse (4300)
 hingehealth
 maven
 spring
@@ -264,6 +264,7 @@ anchorage
 anchorpoint
 ancientnutrition
 andela
+andesite
 androstechnologies
 anewclimate
 angi
@@ -612,6 +613,7 @@ bumble
 bursonglobal
 butlr
 buyersedgeplatformrecruiting
+buzzfeed
 buzzrx
 bva
 byheart
@@ -745,7 +747,6 @@ charlesandlynnshustermanfamilyfoundation
 charley
 charmindustrial
 chartboost
-charterts
 chathamfinancial
 chattermill
 chb
@@ -1204,7 +1205,6 @@ eurowingsdigital
 eventstore
 eventussystemsinc
 everactive1
-everagtester
 everbody
 everest
 evergreenbloomerang
@@ -1230,6 +1230,7 @@ exodus54
 expa
 expanse
 explo
+explorasolutions
 expressvpn
 extra
 eyecarepartners
@@ -1685,7 +1686,6 @@ immpactbio
 immunai
 impossiblefoods
 imprint
-imre
 inariagriculture
 incommonwith
 incubator
@@ -1956,6 +1956,7 @@ lifehouse
 lightblocks
 lightforgegames
 lightricks
+lightrun
 lightship
 lightspeedhq
 lightspeedhqfr
@@ -2376,6 +2377,7 @@ objective
 objectstream
 ocadotechnology
 octaneai
+octopuslegacy
 ocus
 odkmediainc
 odonate
@@ -2426,6 +2428,7 @@ onsights
 onsiteiq
 op3n
 opaque
+opencoreventures
 opendoor
 openfin95
 opengamma
@@ -2504,7 +2507,6 @@ pango
 pano
 panoramaed
 pantherlabs
-papapartners
 papaya
 paper
 parabola
@@ -3063,6 +3065,7 @@ snowcompanies
 snowpeak
 snyk
 socialpoint
+socialscienceresearchcouncil
 sociummedia
 socure
 sodahealth
@@ -3098,15 +3101,18 @@ soundengineeringsolutions
 sounderbenefits
 soundhoundinc
 sourcegraph
+sourcemeridian
 sourcepassinc
 sourcescrub
 south8
 southeastdermatology
+southshoreskin
 southworks
 spade
 spanimation
 spanio
 sparkcognition
+sparkland
 sparktechroles
 sparrow
 sparrowventures
@@ -3280,9 +3286,11 @@ tdc
 teacherspayteachers
 teads
 team1
+teamlfg
 teammobot
 teampathy
 teampay
+teampicnic
 teamrubicon
 teamworthy
 techietalent
@@ -3300,16 +3308,37 @@ templafy
 temporal
 temporaltechnologies
 tempus
+tenableinc
 tencent
 tenderfood
+teneolinkedin
 tenet
 tenetfintechgroup
 tensor
+tenstorrent
 tenthousand
+teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
+terrabis
+terraclear
 terrafuse
 terramera
+terranorbitalcorporation
 terraytherapeutics
+terremotobiosciencesinc
+territorialdentalclinic
+tesseract
+tesseratherapeutics
+testendouble
+testlio
+testnisc
+tetra
+texasairsystems
+texascartitleandpaydayloanservicesinc
+texaschillersystemsasp
 texthelp
 textileio
 textio
@@ -4274,7 +4303,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2859)
+## lever (2857)
 netflix
 shopify
 github
@@ -4319,7 +4348,6 @@ nuro2
 anysignal
 aofl
 10up-2
-15five
 174powerglobal
 1776
 18c
@@ -6182,7 +6210,6 @@ pillow
 pinata
 pineparkhealth
 pingcap
-pinkoi
 pip
 pirouettemedical
 pjp
@@ -7135,7 +7162,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (919)
+## ashby (917)
 mercury
 together
 replicate
@@ -7781,7 +7808,6 @@ projectgrowth
 proofofplay
 proofs
 propagate
-propelus
 protectai
 protochain
 publiccloudgroup
@@ -7867,7 +7893,6 @@ servicebell
 shadow
 sidebar
 signalfire
-sio-logistics
 sketch
 skillz
 skyebioscience
