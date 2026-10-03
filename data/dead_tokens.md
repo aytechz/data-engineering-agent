@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3997)
+## greenhouse (3991)
 hingehealth
 maven
 spring
@@ -3577,17 +3577,11 @@ verygoodventures
 vesartex
 vestahealthcare
 vestal
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
 vgw
 vhsys
-via
-vialogic
-viamrobotics
-vianttechnology
 viber
 vibrant
 vicarioussurgical
