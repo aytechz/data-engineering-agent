@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4004)
+## greenhouse (3997)
 hingehealth
 maven
 spring
@@ -1581,6 +1581,7 @@ hellosign
 helloskylight
 helmai
 helmpointsolutions
+henrymeds
 hextechnologies
 heycar
 hibu
@@ -3570,17 +3571,12 @@ verbenergy
 veriforce
 veritone
 veronapharma
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
 verygoodventures
 vesartex
 vestahealthcare
 vestal
-vestmark
-vestwell
-veterinaryemergencygroupst
 veterinarypracticepartners
 vetevolve
 vetstoria
@@ -3589,13 +3585,10 @@ veza
 vgw
 vhsys
 via
-viaduct
-viagogo
 vialogic
 viamrobotics
 vianttechnology
 viber
-vibesllc
 vibrant
 vicarioussurgical
 vice
@@ -4007,7 +4000,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2862)
+## lever (2858)
 netflix
 shopify
 github
@@ -5204,7 +5197,6 @@ hungerfreeamerica
 hungryharvest
 hvmn
 hydrow
-hypebeast
 hypercomply
 hyperlane
 hyperscience
@@ -6678,7 +6670,6 @@ upmetrics
 upside
 upstox
 upwork
-usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6711,7 +6702,6 @@ verafin
 vergesense
 vericred
 verisart
-verisinsights
 veritasinv
 verity
 vero
@@ -6813,7 +6803,6 @@ wonderbly
 wonolo
 work-life
 workbravely
-workingfamilies
 workos
 workramp
 woven-planet
