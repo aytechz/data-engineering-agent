@@ -1,8 +1,7 @@
-### 3 new matching jobs · 2026-10-06 17:12 UTC
+### 4 new matching jobs · 2026-10-06 21:38 UTC
 
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/e2b/64fe2979-3abe-4a32-8a24-ec5b8582c1a1)** at **e2b** — San Francisco 🏥 · `snowflake, aws, python, sql` · _ashby_
-
-#### From greenhouse (2)
-- **[Data Engineer](https://www.orioninc.com/careers/job/?gh_jid=4719159006)** at **Orion Innovation** — Lawrence Township, New Jersey, United States 🏥 · `databricks, pyspark, spark, python, sql` · _greenhouse_
-- **[Staff Data Engineer](https://job-boards.greenhouse.io/sixfold/jobs/5225695008)** at **Sixfold** — Remote 🤖 · `snowflake, python, sql` · _greenhouse_
+#### From greenhouse (4)
+- **[Lead Data Engineer](https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144)** at **Elastic** — United States 🏥 · `spark, dbt, airflow, kafka, gcp, python` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989690101)** at **Valtech** — Portugal - Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989686101)** at **Valtech** — Poland - Remote 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989668101)** at **Valtech** — North Macedonia - Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
