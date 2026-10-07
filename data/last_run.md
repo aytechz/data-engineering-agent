@@ -1,7 +1,5 @@
-### 4 new matching jobs · 2026-10-06 21:38 UTC
+### 2 new matching jobs · 2026-10-07 01:33 UTC
 
-#### From greenhouse (4)
-- **[Lead Data Engineer](https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144)** at **Elastic** — United States 🏥 · `spark, dbt, airflow, kafka, gcp, python` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989690101)** at **Valtech** — Portugal - Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989686101)** at **Valtech** — Poland - Remote 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989668101)** at **Valtech** — North Macedonia - Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+#### From ashby (2)
+- **[Sr. Data Engineer](https://jobs.ashbyhq.com/benepass/fc8553fb-5872-4cf7-830b-0b71d7a47fbc)** at **benepass** — U.S Remote 🏥 · `snowflake, dbt, airflow, kafka, aws, python` · _ashby_
+- **[Staff Data Engineer](https://jobs.ashbyhq.com/chambercardio/bd24406b-1db2-4252-8796-d7550dd2115f)** at **chambercardio** — Remote 🏥 · `snowflake, dbt, airflow, aws, gcp, azure` · _ashby_
