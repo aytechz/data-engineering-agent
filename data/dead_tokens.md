@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3798)
+## greenhouse (3800)
 hingehealth
 maven
 spring
@@ -265,6 +265,7 @@ amra
 amtrav
 amun
 anaconda
+anchanto
 anchorage
 anchorpoint
 ancientnutrition
@@ -1456,6 +1457,7 @@ gmmb
 gnosis
 gntemp
 go1blinkist
+go1us
 go1vn
 goalturkey
 goaluganda
@@ -3801,7 +3803,7 @@ ztxfoundation
 zubiad
 zynga
 
-## lever (2862)
+## lever (2868)
 netflix
 shopify
 github
@@ -3845,6 +3847,7 @@ upstart
 nuro2
 anysignal
 aofl
+levelai
 10up-2
 174powerglobal
 1776
@@ -3944,6 +3947,7 @@ alkymi
 allata
 alliance
 allinbits
+alloy
 allstripes
 allworknow
 alpineimmunesciences
@@ -4048,6 +4052,7 @@ atlan
 atlassian
 atmosphere
 atob
+atomi
 atomic
 atomicmachines
 atonarp
@@ -4209,6 +4214,7 @@ boulevard
 bound
 boweryfarming
 box
+boxbot
 brainnest
 brand-knew
 braveventurelabs
@@ -4216,6 +4222,7 @@ brazoderecho
 breakwatertech
 brewbike
 brewbird
+bricknetworks
 bridge
 bridge2rwanda
 bridgebio
@@ -4463,6 +4470,7 @@ crusoeenergy
 cruxinformatics
 crypto-innovation
 csaassociates
+cscgeneration-2
 culturetrip
 curbio
 curefit
@@ -6665,7 +6673,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (916)
+## ashby (914)
 mercury
 together
 replicate
@@ -6957,7 +6965,6 @@ fal
 fanalysis
 farewill
 farmraise
-fathom
 fauna-robotics
 fella
 fermat
@@ -7338,7 +7345,6 @@ reference
 reflex
 regressiongg
 relayprotocol
-relevanceai
 relevize
 rematter
 remi
