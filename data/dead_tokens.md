@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3797)
+## greenhouse (3798)
 hingehealth
 maven
 spring
@@ -13,6 +13,7 @@ cohere
 cohealth
 aledade
 clipboardhealth
+collectivehealth
 dispatchhealth
 veeva
 healthify
@@ -1673,7 +1674,6 @@ ibanfirst
 ibkr
 ibotta
 iconiqcapital
-id5
 ideas42
 ideoorg
 iedigital
@@ -2616,6 +2616,7 @@ pilot
 pinegaterenewables
 pineparkhealth
 pinnacle
+pinnacolassurance
 pioneeringevolution
 pismo
 pitch
@@ -3800,7 +3801,7 @@ ztxfoundation
 zubiad
 zynga
 
-## lever (2867)
+## lever (2862)
 netflix
 shopify
 github
@@ -4120,7 +4121,6 @@ bebop
 bedrockocean
 beemenergy
 beetalents
-beghouconsulting
 bellhops
 belong
 belonghome
@@ -4155,7 +4155,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-blablacar
 black-white-zebra
 blackcloak
 blackcrow
@@ -4345,6 +4344,7 @@ clearbit
 clearer
 clerky
 clevertap
+clicktime
 climate-collaborative
 climateai
 climatepower
@@ -5101,7 +5101,6 @@ jellysmack
 jina-ai
 jiostar
 jobcase
-jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5274,7 +5273,6 @@ loancrate
 loblawagency
 loblawdigital
 localfoodgroup
-lochgroup
 loft
 logically
 logicmanager
@@ -5450,7 +5448,6 @@ molekule
 moment-ranks
 momentfactory
 momentum-inc
-moneyboxapp
 moneytree
 monumental
 moogsoft
@@ -5715,7 +5712,6 @@ pineparkhealth
 pingcap
 pip
 pirouettemedical
-pivotal
 pjp
 placemeter
 placepass
@@ -6669,7 +6665,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (915)
+## ashby (916)
 mercury
 together
 replicate
@@ -7248,6 +7244,7 @@ openphilanthropy
 openstore
 operator
 opfoundation
+optimum
 orbitalmaterials
 orby-ai
 ordio
