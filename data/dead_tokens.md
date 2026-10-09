@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3929)
+## greenhouse (4001)
 hingehealth
 maven
 spring
@@ -2333,7 +2333,6 @@ nilotherapeutics
 nimblegiant
 nimbus
 nirvana
-nmcareers
 nobellfoods
 nobl9
 noble
@@ -2856,7 +2855,6 @@ riverfinancial
 riversideresearch
 rivian
 robertrauschenbergfoundation
-rocketchat
 rocketreach
 rockstarinternships
 rocksteadymusicschool
@@ -3272,11 +3270,11 @@ sysdig
 tab
 tablecrosskkbyfood
 tableneeds
+tacnet
 tacobell
 tacobelljobs
 tacombi
 taefusion60
-taginfraestrutura
 tailorbirdinc
 tails
 taittowers
@@ -3609,8 +3607,12 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
+vileon
+vim
 vimeo
 vipvermontinformationprocessing
+viralnation
 virtahealth
 virtasant
 virtex
@@ -3619,74 +3621,144 @@ visbymedical
 visia
 visitingmedia
 visor
+visualconcepts
 vitablehealth
 vitahealth
+vitalfarms
+vitalfarmsinternalcrew
+vitalvoicesglobalpartnership
 vitta
+vivcourtevents
 vivian
 vividly
+vividseatsllc
+vivodyne
+vivvi
+vixxo
 vizai
 vizgen
 vizit
+vmlenterprisesolutions
 vogliodigitalmarketing
 voice
 volastratherapeutics
 volleythat
 voltacharging
 voltrondata
+vonage
+vorbiopharma
+voter
 voterev
+votesolar
 vouchinsurance
 vowgroup
+voxel51
 voxglobal
+voxieinc
+voxmedia
 voxy
+voyagertechnologiesinc
 voyagertherapeutics
+vpawashington
 vpawv
+vsapartners
+vscfiresecurityinc
+vsco39
+vtex
+vts
 vuestorefront
+vulcanelements
+vulncheck
 vultr
 vultronai
 vungle
+vynamic
+vynyl
 vytalizehealth
 wagmo
 wakam
 waku
+waldensecurity
 waldo
+walkersands
+wallapop
 walleyecapital-external-internships
+walleyecapital-external-students
+wallstreetprep
 walmartasr
 walnut
 waltzhealth
 warbyparker
+wargamingen
 wargamingru
 wargamingwelcometothejungle
+warp
+wasabi
+watchduty
+watchmakergenomics
 waterloocoop
+watershed
 watershedclimate
+watsonsfriendsah
 waveapp
 wavelo
 wavemm
+wavemm1
+waverleystreetfoundation
 wavexr
 wayfair
+waymark
+waymo
 wayup
 wayve
+wayvia
+wbpa
 wealthfront
 weareservicemax
 weatherbug
 weatherwaxbio
+weave
 weavegrid
 weavehq
 webai
+webflow
 webgility
+webstacks
+wecommunications
 weconnectrecovery
 wedosupport
 weedmaps
+weedmaps77
+weee
+wehrtyou
+weinsteinproperties
+weissassetmanagement
+welbehealth
+welearn
 well
 wellhealthinc
+wellist
+wellsaidlabs
+wellspringlearningcenters
 wellth
+wellthy-care-network
+weploy
 west10llc
+westbrook
+westcancercenter
+westcoastchildrensclinic
 westmonroe1
 westsidedermatology
 wework
 weworkglobalit
+wfclainc
 wgachidden
+whalarinc
 whatnot
 wheel
+wheelhouse
+wheelhousedmg
+wheely
 wheniwork
 whipmedia
 whiskercloud
@@ -3932,7 +4004,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2871)
+## lever (2864)
 netflix
 shopify
 github
@@ -4120,6 +4192,7 @@ anzen
 aon3d
 apartmentlife
 apartmentlist
+apax
 apdscorporate
 aperturehealth
 apex
@@ -4256,7 +4329,6 @@ beetalents
 bellhops
 belong
 belonghome
-belvederetrading
 benchsci
 benlabs
 bestegg
@@ -4269,7 +4341,6 @@ beyond-creative
 beyondmeat
 beyondpricing
 bfp
-bfsaul
 biconomy
 bigfootbiomedical
 biggergames
@@ -4304,7 +4375,6 @@ blockswap
 blocpower
 bloomcredit
 bloomthat
-bloomwellcare
 blox-route
 blueboard
 bluecore
@@ -4490,7 +4560,6 @@ cloaked-app
 cloud-academy
 cloudnc
 cloudwalk
-clovirtualfashion
 clozd
 clubassist
 clubhouse
@@ -4774,7 +4843,6 @@ equiphealth
 erpsuccesspartners
 esper-3
 espresso
-esrtreit
 estenda
 ethenalabs
 ether-fi
@@ -4866,7 +4934,6 @@ flowfoundation
 flowspace
 flpstudio
 fluence
-flynncompanies
 flyrhospitality
 flyrlabs
 flytographer
@@ -4918,11 +4985,9 @@ fundapps
 fundera
 fuse
 futurelaboratori
-futureof-life
 fynd
 fyusion
 g2i
-galatea-associates
 gametime
 gamma
 gantri
@@ -6805,7 +6870,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (914)
+## ashby (912)
 mercury
 together
 replicate
@@ -7121,7 +7186,6 @@ fledge
 flex-living
 flick
 flipsidecrypto
-floatme
 flocksafety
 flowcarbon
 flowhub
@@ -7253,7 +7317,6 @@ kintsugi
 kittl
 klarity
 kodif
-kojo
 krepling
 kuru-labs
 kyanhealth

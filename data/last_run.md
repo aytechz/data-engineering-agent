@@ -1,8 +1,6 @@
-### 3 new matching jobs · 2026-10-09 16:13 UTC
+### 3 new matching jobs · 2026-10-09 20:56 UTC
 
-#### From ashby (1)
-- **[Sr. Data Engineer](https://jobs.ashbyhq.com/clipboard/bbafa141-35bc-46b0-924a-71dc8c1eeb4f)** at **clipboard** — U.S. (Remote) 🏥 · `snowflake, dbt, sql` · _ashby_
-
-#### From greenhouse (2)
-- **[Forward Deployed Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8881403002?gh_jid=8881403002)** at **Abacus Insights** — United States 🏥🤖 · `databricks, spark, snowflake, sql` · _greenhouse_
-- **[Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=8111674)** at **phData** — India - Remote 🏥 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+#### From greenhouse (3)
+- **[Data Engineer, Product](https://job-boards.greenhouse.io/anthropic/jobs/5448481008)** at **Anthropic** — San Francisco, CA | New York City, NY | Seattle, WA · `dbt, airflow, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/bitgo/jobs/8880857002)** at **BitGo** — New York, United States · `spark, snowflake, kafka, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/bitgo/jobs/8880855002)** at **BitGo** — Palo Alto, California, United States · `spark, snowflake, kafka, python, sql` · _greenhouse_
