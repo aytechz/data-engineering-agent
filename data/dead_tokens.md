@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4335)
+## greenhouse (4327)
 hingehealth
 maven
 spring
@@ -98,6 +98,7 @@ transcarent
 204951305985924
 21co
 240certification
+2kearlycareers
 2seventybioinc
 2uevents
 350org
@@ -394,7 +395,6 @@ attune
 audicus
 audigent
 audioeye
-audipacific
 augmentcomputing
 aurorainnovation
 aurorasustainablelands
@@ -1271,6 +1271,7 @@ figment
 figuremarketsinc
 fincent
 findanomaly
+finepointconsulting
 finfare
 finfare-financial
 fingerprintjs
@@ -3224,7 +3225,6 @@ studiokraftonboard
 studiosarchitecture
 styleseat32
 stylitics
-stylusmedicine
 styra
 subarupacific
 subskribe
@@ -3326,20 +3326,13 @@ tekion
 teladochealth
 telemedicine
 telesign
-teletrackingtechnologiesinc
 telgorithm
-telixus
-tellerparkvet
-tellius
 telnyx54
 telusdigitalbr
 templafy
-tempo
 temporal
 temporaltechnologies
 tempus
-tenableinc
-tenberke
 tencent
 tenderfood
 teneolinkedin
@@ -3349,7 +3342,6 @@ tenetfintechgroup
 tennesseetitleloansinc
 tenon
 tensor
-tenstorrent
 tenstreet
 tenthousand
 teracore
@@ -4338,7 +4330,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2870)
+## lever (2869)
 netflix
 shopify
 github
@@ -4462,7 +4454,6 @@ airshipsyndicate
 airwallex
 aisafety
 aiwyn
-ajax
 akashnetwork
 akitasoftware
 alan
@@ -4480,7 +4471,6 @@ alida
 alignable
 alkymi
 allata
-allegiantair
 alliance
 allinbits
 allstripes
@@ -4493,6 +4483,7 @@ amaro
 amaze
 amberbio
 ambercycle
+amberelectric
 amberflo
 ambrook
 amerisave
@@ -4506,8 +4497,6 @@ anagram
 analog
 analuisa
 ancestry
-anchorage
-andersencorp
 anduril
 angaza
 angel
@@ -4532,7 +4521,6 @@ apartmentlife
 apartmentlist
 apax
 apdscorporate
-aperturehealth
 apex
 api-ux
 apible
@@ -4863,6 +4851,7 @@ cherrytechnologies
 chestnutcarbon
 chicago2024
 chironhealth
+chooose
 chooosejobs
 choose
 chronicled-2
@@ -4968,7 +4957,6 @@ contrastsecurity
 convai-technologies-inc
 conversantgroup
 conversenow
-conversica
 copiapower
 copilotmoney
 copper
@@ -4999,11 +4987,13 @@ crewapp
 crewbloom
 crickethealth
 criticaltilt
+crosscountry-consulting
 crossvale
 cruise
 crunchbase
 crusoeenergy
 cruxinformatics
+crypto
 crypto-innovation
 csaassociates
 culturetrip
@@ -5024,6 +5014,7 @@ cye
 cyngn
 cyvl-ai
 d-edge
+dadavidson
 daedalean
 darkslope
 darwinhomes
@@ -5645,6 +5636,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -7070,7 +7062,6 @@ vhx
 viacom18
 vial
 viantinc
-viaseparations
 vibrenthealth
 victoryhrg
 videahealth
@@ -7553,6 +7544,7 @@ future-find
 futureaudioworkshop
 futurice
 gadget
+gaiafamily
 game-plan-tech
 garden
 gendo
@@ -7610,7 +7602,6 @@ hospitalio
 hotspexmedia
 hoxtonfarms
 hqo
-hudu
 humanitec
 humanitru
 hustlewing
