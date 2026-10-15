@@ -1,7 +1,5 @@
-### 2 new matching jobs · 2026-10-15 15:03 UTC
+### 2 new matching jobs · 2026-10-15 19:08 UTC
 
-#### From greenhouse (1)
-- **[Senior Data Engineer](https://www.spoileralert.com/careers-open-positions?gh_jid=6225342004)** at **Spoiler Alert** — U.S. Remote 🏥🤖 · `dbt, airflow, sql` · _greenhouse_
-
-#### From lever (1)
-- **[Principal Data Architect (Data Science)](https://jobs.lever.co/egen/30b7f3ee-99af-4ed8-bd2d-ad53f853d76a)** at **egen** — Remote · _lever_
+#### From ashby (2)
+- **[Staff Data Engineer, Tech Lead](https://jobs.ashbyhq.com/mudflap/1274300e-8a74-4e40-9457-9cd660541f38)** at **mudflap** — Palo Alto, CA 🤖 · `databricks, snowflake, dbt, airflow, python, sql` · _ashby_
+- **[Data Engineer](https://jobs.ashbyhq.com/workos/26377b4d-b392-4fd7-b813-10c2920299f9)** at **workos** — United States & Canada 🏥 · `snowflake, python` · _ashby_
