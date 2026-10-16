@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4497)
+## greenhouse (4471)
 hingehealth
 maven
 spring
@@ -81,6 +81,7 @@ doubleverify
 glossgenius
 practisinglawinstitute
 rdccareers
+spacex
 transcarent
 visiersolutionsinc
 0x
@@ -382,7 +383,6 @@ atai
 ataiwebsite
 atalantatherapeutics
 athenaeducation
-athletics
 atlanticcouncil
 atlasnavigatorsllc
 atmoslabs
@@ -1502,6 +1502,7 @@ gratadata
 gravitate
 gravitypayments
 gravitywell
+gravwell
 grayling
 graymatterrobotics
 grayscalable
@@ -3174,47 +3175,19 @@ sprintray
 sproutsocialcollege
 sprouttherapy
 sprucehealth
-spyretherapeutics
 squadformersinc
-squarepointcapital
-squarespace
 squintopera
 squire
-squishable
-srsacquiom
 srtx_fr
-ssreferrals
 st6
-stabilityai
-stablekernel
-stackadapt
-stackav
-stackblitz
-stackcommerce
-stackexchange
-stackline
-stacklok
 stacksphere
-staffbase
-stage
 stairwell
 stambaughness
 standardai
-standardmetrics
-stanley1913-us
-stannesbelfieldschool
-starburst
 starcloud
 stardust
-starfaceworld
 starfishneuroscience
-starrez
 starry
-startale
-startcampus
-startree
-stashinvest
-stateaffairs
 statement
 status72
 stauer
@@ -3223,28 +3196,21 @@ stealth
 stealth241
 stealthceo
 steelperlotmanagementllc
-steercrm
 stellar
 stellarelements
 stellarhealth
 stellic
-stemhealthcare
 stensul
 stepmobile
-stepstone
-sterlingtonpllc
-sti
 stirlingpdf
 stitchfix
 stitchmoneyptyltd
 stitchpeo
 stockx
-stokespacetechnologies
 stone
 stonebarnscenter
 stonecomercial
 stonekite
-stonepatrocina
 storable
 stord13
 storeno8
@@ -3282,6 +3248,7 @@ strongpointpartners
 stryber
 studentfounders
 studentloanhero
+studentplacements
 studiodesigner
 studiokraftonboard
 studiosarchitecture
@@ -3323,6 +3290,7 @@ superbet
 superblocks
 supergoop
 superhuman
+superjoy
 superlayer
 superluminalrx
 supermetricsoy
@@ -3426,6 +3394,7 @@ talos
 tamanna
 tamara
 tandemlaunch
+tandemmoneylimited
 tangocard
 tangogameworks
 tangoio
@@ -3532,6 +3501,7 @@ terranorbitalcorporation
 terraytherapeutics
 terremotobiosciencesinc
 territorialdentalclinic
+tesseract
 tesseratherapeutics
 testendouble
 testlio
@@ -3555,6 +3525,7 @@ thealleninstitute
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
+thebaltimorebanner
 theblacktux
 thebrandagency
 thebrattlegroup
@@ -3562,6 +3533,7 @@ thechempetitivegroupllc
 thedailybeast31
 thedotcollective
 thedutchie
+theeconomistgroup
 theeverycompany
 thefarmersdog
 theflatironschool
@@ -3647,6 +3619,7 @@ thirtymadison
 thltestcareers
 thnks
 thomasvillechildcare
+thorn
 thoropass
 thoughtful
 thoughtspot
@@ -3731,6 +3704,7 @@ touchbistro
 towerresearchcapital
 townofsnowmassvillagecolorado
 townsquaremedia
+tpcengineeringholdingsllc
 tpgcareers
 tr1x
 trace3
@@ -4500,7 +4474,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2868)
+## lever (2893)
 netflix
 shopify
 github
@@ -4544,6 +4518,7 @@ upstart
 nuro2
 anysignal
 aofl
+shieldai
 10up-2
 174powerglobal
 1776
@@ -4806,6 +4781,7 @@ barrel
 batterymetals
 battlecreekchurch
 bayzat
+bazaarvoice
 bb2bank
 bcg
 bdg
@@ -4821,10 +4797,13 @@ bedrockocean
 beemenergy
 beetalents
 bellhops
+bellwetheram-2
 belong
 belonghome
+belvederetrading
 benchsci
 benlabs
+bespokepost
 bestegg
 beta
 betstamp
@@ -4836,8 +4815,10 @@ beyondmeat
 beyondpricing
 bfp
 biconomy
+bigblue
 bigfootbiomedical
 biggergames
+biggie
 bigtime
 bill
 bimone
@@ -4962,6 +4943,7 @@ canimmunize
 canopyservicing
 canva
 capchase
+capitalsolutionsgroup
 captiv8
 carbon
 carbon6technologies
@@ -5645,6 +5627,7 @@ heretic-fund
 hexa
 hexagonusfederal
 hicleo
+highbarhealth
 highfidelity
 highlight
 highspot
@@ -5749,6 +5732,7 @@ innablr
 innocraft
 innovafeed
 innovationdept
+innovativesol-2
 insightm
 inspiration-mobility
 instawork
@@ -6060,6 +6044,7 @@ marketopia
 marlettefunding
 marq
 martinagency
+massschoolbuildings
 mastreforestation
 mastrics
 masygroup
@@ -6218,6 +6203,7 @@ nfamilyclub-2
 nftnow
 nftpay
 nfx
+niagenbioscience
 nielsen
 nightfall
 nilc
@@ -6329,6 +6315,7 @@ oso
 osomprivacy
 ouster
 outpacebio
+outreach
 outrider
 overbit
 overbond
@@ -6727,6 +6714,7 @@ scalebio
 scalemicrogridsolutions
 scanlinevfx
 schibsted
+schmidt-entities
 scholarsoffinance
 schoolhouseworld
 scienceexchange
@@ -6891,6 +6879,7 @@ stickermule
 stimlabs
 stockpile
 stoic
+stoneridgesoftware
 stormforge
 storygrounds
 storyprotocol
@@ -7036,6 +7025,7 @@ thentwrk
 thenudge
 theorem
 theoremonellc
+theorycraftgames
 thepillclub
 therabodycorp
 therecount
@@ -7085,6 +7075,7 @@ tokenwin
 tombras
 tomonetworks
 tonal
+tonic
 tonsser
 topanga
 tophat
@@ -7092,6 +7083,7 @@ tophatter
 topl
 toplinepro
 torch
+torchdental
 toruslabs
 traba
 trace3
@@ -7110,7 +7102,6 @@ transwest
 travala
 treasure-data
 treecard
-treering
 trela
 trella
 trellis
@@ -7136,6 +7127,7 @@ trustlab
 trustly
 trusttoken
 trustyou
+truv
 truveris
 trycourier
 tubularlabs
@@ -7178,6 +7170,7 @@ upgrade
 upguard
 uplift
 upmetrics
+uprightproject
 upside
 upstox
 upwork
@@ -7195,6 +7188,7 @@ valence
 valinor
 valoremreply
 valorepartners
+vana
 vannevarlabs-2
 vantagepointlogistics
 varicent
@@ -7241,6 +7235,7 @@ vippetcare
 vir
 virtuous
 virtus
+visby
 visier
 visioncritical
 visotrust
@@ -7249,6 +7244,7 @@ vital-software
 vitalbio
 vitalfarms
 vivacitylabs
+vivrelle
 vivsoft
 vivun
 vizion
@@ -7313,6 +7309,7 @@ wonderbly
 wonolo
 work-life
 workbravely
+workinprogress
 workos
 workramp
 woven-planet
@@ -7342,6 +7339,7 @@ zapsurgical
 zayzoon
 zazzle
 zededa
+zeeco
 zeitgold
 zeller
 zendesk
@@ -7351,6 +7349,7 @@ zentail
 zenysis
 zeotap
 zeplin
+zerion
 zerocater
 zerofox
 zesty
