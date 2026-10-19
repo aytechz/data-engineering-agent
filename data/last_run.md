@@ -1,4 +1,7 @@
-### 1 new matching jobs · 2026-10-19 15:37 UTC
+### 2 new matching jobs · 2026-10-19 21:04 UTC
+
+#### From ashby (1)
+- **[Senior Data Engineer](https://jobs.ashbyhq.com/mainstay/a75d839c-8b16-4b40-b9b2-94a4fec8e737)** at **mainstay** — Remote 🤖 · `spark, snowflake, airflow, aws, python, sql` · _ashby_
 
 #### From greenhouse (1)
-- **[Data Engineering Consultant - Databricks (Remote)](https://job-boards.greenhouse.io/formativgroup/jobs/4452007009)** at **FormativGroup** — Remote/India - Full-Time 🤖 · `databricks, spark, snowflake, aws, gcp, azure` · _greenhouse_
+- **[Staff Software Engineer, Infrastructure Data Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=8162539)** at **Pinterest** — New York, NY, US; Remote, US 🏥 · `dbt, aws, python, sql` · _greenhouse_
