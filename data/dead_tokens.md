@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4320)
+## greenhouse (4265)
 hingehealth
 maven
 spring
@@ -244,7 +244,6 @@ altpep
 altro
 altruistiq
 altscore
-aluinternalopenings
 alx
 amb
 ambiencehealthcare
@@ -2624,6 +2623,7 @@ phcglobal
 phenogy
 philadelphiaphilliesrddepartment
 philo
+phiture2
 phonepe
 phonic
 phreesia
@@ -3193,7 +3193,6 @@ squintopera
 squire
 srtx_fr
 st6
-stackexchange
 stacksphere
 stairwell
 stambaughness
@@ -3374,106 +3373,52 @@ thatlot
 theanaeducationalfoundation
 thearenagroup
 theasianamericanfoundationtaaf
-thebaltimorebanner
 theblacktux
-thebrandagency
-thebrattlegroup
-thechempetitivegroupllc
 thedailybeast31
-thedotcollective
-thedutchie
-theeconomistgroup
-theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
-themotleyfool
-themuseumofscience
 thena
-thenewyorktimes
-thenuclearcompany
 theoakleafgroupllc
-theoncologyinstitute
-theorchard
 theoremlp
 theorg
-theoriamedical
 theoutline
-thepacgroup
 thepennyhoarder
-theperfectworkout
-theperiscopegroup
-thepharmacyhub
 thephoenix
-theplaceforchildrenwithautism
-thequalitygroupgmbh1
-thequalitygroupgmbh2
 theragun
 therealreal
 therefinery
-theriversidecompany
 therma
 theroom
 thesanfranciscochronicle
-thesciongroupllc
 thesis
-thesiscareers
 thesisdefense
 theskimm
 thesourcery
 theswiftgroup
-thetradedesk
 thetustingroupasp
-thevascularcaregroup
 thevets
-theweathercompany
-thewilshiregroup
 thezebra
-thiess
-thinkacademyus
 thinkific
 thinkingmachines
 thinkmarkets
-thinkofus
 thinkonward
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
 threatlocker
@@ -4323,7 +4268,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2878)
+## lever (2869)
 netflix
 shopify
 github
@@ -4367,7 +4312,6 @@ upstart
 nuro2
 anysignal
 aofl
-shieldai
 10up-2
 174powerglobal
 1776
@@ -4430,7 +4374,6 @@ afreshtechnologies
 afterpaytouch
 agentnoon
 agerpoint
-agile-defense
 agilesearch
 agotai
 agreena
@@ -5060,7 +5003,6 @@ dimo
 diool
 dioxycle
 directi
-disher
 dispo
 disruptivegames
 divergent3d
@@ -5189,7 +5131,6 @@ exabeam
 exp
 explorejobssearch
 expopulus
-extremenetworks
 extropic
 exygy
 ey-ps
@@ -6921,7 +6862,6 @@ tophatter
 topl
 toplinepro
 torch
-torchdental
 toruslabs
 traba
 trace3
@@ -7054,7 +6994,6 @@ vesta-tech
 vestahousing
 vetcove
 veteransadvantage
-vevo
 vevo-ai
 vhslab
 vhx
@@ -7101,7 +7040,6 @@ vvt
 wahi
 waitrapp
 waitwhat
-walkerconsultants
 walnut
 walser
 wandb
@@ -7125,7 +7063,6 @@ wepay
 wesalute
 whereby
 whoop
-wilburlabs
 wildlight
 windowsbyrba
 windsormanagement
@@ -7147,7 +7084,6 @@ work-life
 workbravely
 workos
 workramp
-workwave
 woven-planet
 wristcheck
 wyld
@@ -7203,7 +7139,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (935)
+## ashby (933)
 mercury
 together
 replicate
@@ -7912,7 +7848,6 @@ rooser
 rootine
 roots-automation
 rubicon
-runa
 rutter
 rye
 rythm
@@ -7943,7 +7878,6 @@ sensat
 sensorita
 seriesai
 servicebell
-sfg20
 shadow
 sidebar
 signalfire
