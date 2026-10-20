@@ -1,7 +1,5 @@
-### 2 new matching jobs · 2026-10-19 21:04 UTC
+### 2 new matching jobs · 2026-10-20 00:21 UTC
 
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/mainstay/a75d839c-8b16-4b40-b9b2-94a4fec8e737)** at **mainstay** — Remote 🤖 · `spark, snowflake, airflow, aws, python, sql` · _ashby_
-
-#### From greenhouse (1)
-- **[Staff Software Engineer, Infrastructure Data Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=8162539)** at **Pinterest** — New York, NY, US; Remote, US 🏥 · `dbt, aws, python, sql` · _greenhouse_
+#### From ashby (2)
+- **[Sr. Staff Data Engineer](https://jobs.ashbyhq.com/illumio/4adc6861-0899-42b8-adf1-be75d766cae1)** at **illumio** — HQ - Sunnyvale (Office) · `pyspark, azure, python, sql` · _ashby_
+- **[Sr Data Engineer](https://jobs.ashbyhq.com/wealth-com/2465ee7d-3e98-4571-bcef-8621c224adde)** at **wealth-com** — Hybrid, New York, Tempe, San Francisco 🏥🤖 · `dbt, airflow, aws, python, sql` · _ashby_
