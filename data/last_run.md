@@ -1,5 +1,6 @@
-### 2 new matching jobs · 2026-10-20 00:21 UTC
+### 3 new matching jobs · 2026-10-20 06:02 UTC
 
-#### From ashby (2)
-- **[Sr. Staff Data Engineer](https://jobs.ashbyhq.com/illumio/4adc6861-0899-42b8-adf1-be75d766cae1)** at **illumio** — HQ - Sunnyvale (Office) · `pyspark, azure, python, sql` · _ashby_
-- **[Sr Data Engineer](https://jobs.ashbyhq.com/wealth-com/2465ee7d-3e98-4571-bcef-8621c224adde)** at **wealth-com** — Hybrid, New York, Tempe, San Francisco 🏥🤖 · `dbt, airflow, aws, python, sql` · _ashby_
+#### From greenhouse (3)
+- **[Senior Software Engineer - Data Infrastructure](https://job-boards.greenhouse.io/backblaze/jobs/5451391008)** at **Backblaze External Website** — Remote - US 🏥 · `terraform` · _greenhouse_
+- **[1174 - Data Engineer](https://careers.gofasti.com/job-application/6228901004?gh_jid=6228901004)** at **GoFasti** — Remote 🤖 · `databricks, snowflake, dbt, airflow, aws, python` · _greenhouse_
+- **[Senior Software Engineer, Data Infrastructure Compute](https://careers.roblox.com/jobs/8042578?gh_jid=8042578)** at **Roblox** — San Mateo, CA, United States · `spark, aws, gcp, python, terraform` · _greenhouse_
