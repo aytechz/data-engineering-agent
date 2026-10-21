@@ -1,6 +1,4 @@
-### 3 new matching jobs · 2026-10-21 19:21 UTC
+### 1 new matching jobs · 2026-10-21 23:19 UTC
 
-#### From greenhouse (3)
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/moniepoint/jobs/5012754101)** at **Moniepoint** — Remote 🤖 · `aws, azure, python, sql, terraform` · _greenhouse_
-- **[Avionics Data Engineer - Payloads](https://job-boards.greenhouse.io/stratolaunch/jobs/5460203008)** at **Stratolaunch** — Mojave, California, United States 🏥 · `python` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4989696101)** at **Valtech** — Bulgaria - Remote 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, kafka` · _greenhouse_
+#### From greenhouse (1)
+- **[Senior Data Engineer, Payments](https://careers.airbnb.com/positions/8300926?gh_jid=8300926)** at **Airbnb** — United States · `spark, airflow, python, sql` · _greenhouse_
