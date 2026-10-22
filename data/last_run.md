@@ -1,7 +1,8 @@
-### 2 new matching jobs · 2026-10-22 20:09 UTC
+### 3 new matching jobs · 2026-10-22 23:23 UTC
 
-#### From ashby (1)
-- **[Senior Data Engineer](https://jobs.ashbyhq.com/zeely/3964fb00-a42e-4fcf-8901-0647175485ed)** at **zeely** — Remote · `dbt, airflow, gcp, python, sql` · _ashby_
+#### From greenhouse (2)
+- **[Sr DataOps Engineer (R14334)](https://job-boards.greenhouse.io/oportun/jobs/4746837005)** at **Oportun** — Remote - MX 🏥 · `databricks, spark, aws, python, sql, terraform` · _greenhouse_
+- **[Software Engineer II -  Data Platform - Seattle](https://www.qualtrics.com/careers/us/en/job/8279068?gh_jid=8279068)** at **Qualtrics** — Seattle, Washington,  United States 🏥 · _greenhouse_
 
-#### From greenhouse (1)
-- **[Principal Data Engineer](https://job-boards.greenhouse.io/serhant/jobs/4464394009)** at **Serhant** — Remote, USA 🤖 · `spark, dbt, airflow, kafka, azure, python` · _greenhouse_
+#### From lever (1)
+- **[Lead Data Engineer](https://jobs.lever.co/redhorsecorp/dbae6e73-e65e-440c-849c-cd874ac46d19)** at **redhorsecorp** — Remote · _lever_
