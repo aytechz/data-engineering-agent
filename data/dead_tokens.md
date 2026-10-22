@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4578)
+## greenhouse (4563)
 hingehealth
 maven
 spring
@@ -81,7 +81,6 @@ doubleverify
 glossgenius
 practisinglawinstitute
 rdccareers
-spacex
 transcarent
 visiersolutionsinc
 0x
@@ -2377,6 +2376,7 @@ northstar
 northstarfund
 notablehealth
 notablelabs
+nothing
 nourishingredients
 novalabs
 novetta
@@ -2727,7 +2727,6 @@ propellercommunications
 propellerhealth
 propellerindustries
 propertyfinder
-propstack
 prose
 protenus
 protillionbiosciences
@@ -3147,30 +3146,19 @@ sonymusiccareersbelgium
 sonymusiccareersitaly
 sonymusiccareersnetherlands
 sonymusicinternshipsus
-soraunion
 sorcero
-sorellalabs
 soroco
-sothebys
 soulcycle
 soundagriculture
-soundcloud71
 soundengineeringsolutions
 sounderbenefits
 soundhoundinc
 sourcegraph
-sourcegraph91
-sourcemeridian
 sourcepassinc
 sourcescrub
-sourcingcour
 south8
-southeastdermatology
-southernpovertylawcenter
-southshoreskin
 southwesttitleloans
 southworks
-sovrn
 spacekinetic
 spaceship
 spacexglobal
@@ -3178,10 +3166,7 @@ spade
 spanimation
 spanio
 sparetech
-sparkadvisors
 sparkcognition
-sparkfund
-sparkland
 sparktechroles
 sparrow
 sparrowventures
@@ -4581,7 +4566,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2875)
+## lever (2902)
 netflix
 shopify
 github
@@ -4674,13 +4659,17 @@ adaptavist
 adcolony
 addx
 adeptailabs
+adora
 adtech
 adthena
+advancedagrilytics
 advancednavigation
 adverum
 aechelon
 aeler
 aerialapplications
+aero
+aethoshotels
 afarmedia
 affinity
 affirm
@@ -4713,16 +4702,20 @@ alation
 albedo
 alchemy
 alcion
+aldar
+aleph
 aleysian
 algolia
 algorex
 algotive
 alice
+alice-bob
 alictus
 alida
 alignable
 alkymi
 allata
+allears-vet
 alliance
 allinbits
 allstripes
@@ -4737,6 +4730,7 @@ amberbio
 ambercycle
 amberelectric
 amberflo
+ambirobotics
 ambrook
 amerisave
 amiri
@@ -4788,6 +4782,7 @@ appliedminds
 applike
 applovin
 applyboard
+appsamurai
 appsilon
 apptegy
 apptimize
@@ -4796,6 +4791,7 @@ apt-deco
 aptible
 aquicore
 aragon
+arbitrumfoundation
 arbol
 arbor
 arborenergy
@@ -4812,6 +4808,7 @@ arkbiotech
 arpa
 arrive
 artblocks
+artera-2
 artificial
 asap
 ascoeq
@@ -4830,6 +4827,7 @@ atlan
 atlassian
 atmosphere
 atob
+atomcomputing
 atomic
 atomicmachines
 atonarp
@@ -4839,13 +4837,17 @@ attackiq
 attentive
 attentivemobile
 attn
+audinate
 audius
 augmedix
 augustbioservices
 aurorainsight
 aurorasolar
 auth0
+authentic8
 autify
+autofi
+automatiq
 automox
 autonomys
 av
@@ -4886,9 +4888,12 @@ barefootproximity
 barkleyus
 barley
 barrel
+base-flowa
+basis
 batterymetals
 battlecreekchurch
 bayzat
+bazaarvoice
 bb2bank
 bcg
 bdg
@@ -4899,10 +4904,13 @@ beam-impact
 beamy
 beanstalkagtech
 beautyhaul
+beaverprocess
 bebop
 bedrockocean
+beedie
 beemenergy
 beetalents
+beghouconsulting
 bellhops
 belong
 belonghome
@@ -4924,6 +4932,7 @@ biggergames
 bigtime
 bill
 bimone
+binance
 binti
 biobot
 bioenergydevco
@@ -5002,6 +5011,7 @@ brewbird
 bridge
 bridge2rwanda
 bridgebio
+brightedge
 brighthealthplan
 brightseedbio
 brightspot
@@ -5042,6 +5052,7 @@ calven
 camber
 cambly
 campspot
+candlinspection
 canimmunize
 canopyservicing
 canva
@@ -5185,6 +5196,7 @@ companyon
 compasslexecon
 complex
 comply
+componentrepairtechnologies
 composer
 compound-2
 comtravo
@@ -7458,7 +7470,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (936)
+## ashby (935)
 mercury
 together
 replicate
@@ -7826,7 +7838,6 @@ goodship
 govworx
 gradia
 gradientnetwork
-gravitysketch
 grayce
 greenlite
 greenskygames
