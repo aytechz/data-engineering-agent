@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4457)
+## greenhouse (4406)
 hingehealth
 maven
 spring
@@ -447,6 +447,7 @@ basehq
 basepowercompany
 basic
 batonhealth
+bayada
 baymeadows
 bbot
 bccampus
@@ -612,7 +613,6 @@ builder
 buildingindustrypartners
 buildout
 buildxact
-builtinintegrationsandbox
 bulletfarm
 bumble
 bursonglobal
@@ -1112,7 +1112,6 @@ dtljobs
 dualityroboticsinc
 dub
 dubber
-duckbilltechnologiesinc
 dumol
 dunamu
 duos
@@ -1200,7 +1199,6 @@ ericbuckleygetupsidegreenhouseio
 erin
 escribe
 esusu
-etelligentgroup
 ethicinvesting
 ethos
 ethyca
@@ -1248,7 +1246,6 @@ facile
 factoryberlin
 fairwinds
 fal
-familydermatology
 fanbyte
 fanduelgrouptvg
 fantasticpixelcastle
@@ -2004,6 +2001,7 @@ linushealth
 linx
 lionpoint
 liquidinstruments
+liquidpersonnel
 lithium
 lithosenergy
 litmus46
@@ -2035,6 +2033,7 @@ lookout
 lookoutinc
 loominc
 loop
+lotlinx
 loverboy
 lovetoknowmedia
 loyal
@@ -2627,6 +2626,7 @@ phasefour
 phcglobal
 phenogy
 philadelphiaphilliesrddepartment
+philliesgameday
 philo
 phonepe
 phonic
@@ -2734,7 +2734,6 @@ protocollabs
 providencedig
 psyonix
 pubgemea
-pubgmadison
 pubgsanramon
 pubgsm
 pubgtokyo
@@ -3055,6 +3054,7 @@ signatureanalytics
 signavio
 signifyhealth
 signifyhealthireland
+signpost
 sigstr
 sigtech
 siilo
@@ -3124,6 +3124,7 @@ sodahealth
 soeffects
 sofarocean
 sofarsounds
+sofi
 sofregen
 softermii
 sojern
@@ -3256,116 +3257,64 @@ subarupacific
 subskribe
 successkpiinc
 sugar
-suitsupply
-suki
 sullyai
 summerinternships
 summit
-summitpartnerslp
 summitpublicschools
 sumo
-sumologic
-sumup
-sunnova
 sunnymorningfoods
-sunnyside
-sunset
 sunshine
 supabase
 superbet
 superblocks
-supergoop
 superhuman
-superjoy
 superlayer
-superluminalrx
-supermetricsoy
 supernal
-superpayments
 superrarelabs
-superset
-supersod
 supio
-supplyhouse
-supportingstrategies
-supportingstrategies1
 supportlogic
 supraoracles
-surefirecyber
-surepay
 surfair
 surgicalnotes
-survata
 surveymonkey
-sustainabletalent
-sustainablewestchester
 sustainlife
-sustainment
-suvoda
-svetness
 swagup
 swanbitcoin
-swanloveland
 swarmaero
-swayable
-swayboxstudios
 sweet
 sweeten
-sweetgreen
-swiftsolar
-swingeducation
 swirlds
 swishanalytics
-swissitgermany
-swoogo
 syapse
-sylogist
 sylva
 sylvain
 symblai47
 symbolica
 symend
-symmetry
 symmetrysoftware
-synack
-synacksrt
 synccomputing
 synchron
 syncron
 synctera
-syndigo
-syndio
-synerg
 synfindo
 synthesia
-synthesishealth
 synthetaic
 syrup
 sysdig
-syskahennessy
-system
-systemiq
-systemstechnologyresearch
 tab
 tablecrosskkbyfood
 tableneeds
-taboola
 tacnet
 tacobell
 tacobelljobs
 tacombi
-tactilegames
 taefusion60
 taginfraestrutura
 tailorbirdinc
-tailorcare2023
 tails
-tailscale
 taittowers
-takealotcom
 takealotgroup
 takecommandhealth
-taketwo
 tala
 talent_community
 talentscreditas
@@ -4460,7 +4409,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2884)
+## lever (2906)
 netflix
 shopify
 github
@@ -4504,6 +4453,12 @@ upstart
 nuro2
 anysignal
 aofl
+eqbank
+palantir
+shieldai
+tri
+verygoodsecurity
+zoox
 10up-2
 174powerglobal
 1776
@@ -4511,6 +4466,7 @@ aofl
 1910genetics
 1password
 21
+21hhs
 2a
 3box
 3dhubs
@@ -4533,6 +4489,7 @@ aofl
 abacus
 ablspacesystems
 abridge
+abt
 abtasty
 academia
 academy
@@ -4546,6 +4503,7 @@ acl
 aclaimant
 acpl
 act
+actionlife
 ad2games
 ada
 ada-diamonds
@@ -4553,6 +4511,7 @@ adaptavist
 adcolony
 addx
 adeptailabs
+adora
 adtech
 adthena
 advancednavigation
@@ -4598,9 +4557,11 @@ algotive
 alice
 alictus
 alida
+alifsemi
 alignable
 alkymi
 allata
+allegiantair
 alliance
 allinbits
 allstripes
@@ -4662,6 +4623,7 @@ aposto
 appacademy
 appboxo
 appcues-2
+appen
 apphub
 appliedminds
 applike
@@ -4868,9 +4830,9 @@ bottlerocketstudios
 boulderingproject
 boulevard
 bound
+bounteous
 boweryfarming
 box
-boxlunch
 brainnest
 brainstorminc
 brand-knew
@@ -4914,7 +4876,6 @@ butterpayments
 button
 bvaccel
 c16bio
-cagents
 call9
 callistomedia
 calm
@@ -4923,6 +4884,7 @@ calven
 camber
 cambly
 campspot
+candlinspection
 canimmunize
 canopyservicing
 canva
@@ -4935,7 +4897,6 @@ carbondirect
 carbonhealth
 cardanofoundation
 cardata
-cardiosense
 cardless
 careaccessresearch
 careerstaffing
@@ -5051,6 +5012,7 @@ coinflip
 coinshift
 coinsquare
 cointracker
+colibrigroup
 collectivei
 collectlyinc
 collegevine
@@ -5067,7 +5029,6 @@ companyon
 compasslexecon
 complex
 comply
-componentrepairtechnologies
 composer
 compound-2
 comtravo
@@ -5149,6 +5110,7 @@ cye
 cyngn
 cyvl-ai
 d-edge
+dadavidson
 daedalean
 darkslope
 darwinhomes
@@ -5204,6 +5166,7 @@ diool
 dioxycle
 directi
 dispo
+disqo
 disruptivegames
 divergent3d
 diversifiedradiology
@@ -5214,6 +5177,7 @@ dnc
 dntanks
 docebo
 dockwa
+dodmg
 dogdrop
 domio
 done
@@ -5273,6 +5237,7 @@ elevatelabs
 elliemae
 elliveproductions
 elodiegames
+elty
 elvah
 emeraldtherapeutics
 emersoncollective
@@ -5344,6 +5309,7 @@ fairmat
 fairmatic
 fama
 fanatics
+fantasy
 farcast
 farmgirlflowers
 farmwise
@@ -5502,6 +5468,7 @@ global-elite
 globalelitecareers
 gloo
 glowforge
+glsllc
 glu
 go2-markets
 goabstract
@@ -5628,7 +5595,6 @@ hireincloud
 hirezstudios
 hiring
 hiro
-hive
 hivebrite
 hively
 hivemapper
@@ -5748,6 +5714,7 @@ invisible-ai
 invokestaffing
 inworld
 iobeya
+ion
 ionic
 ionicpartners
 iovlabs
@@ -5775,6 +5742,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5889,7 +5857,6 @@ latticehq
 launchdarkly
 launcherspace
 launchhouse
-launchhousing
 lavictoria
 leadbank
 leadgenius
@@ -6106,7 +6073,6 @@ mistral
 mit
 mittilabs
 mixtiles
-mobile-action
 mobileintegration-group
 mobisystems
 modern
@@ -6143,6 +6109,7 @@ mous
 moveloot
 moxionpower
 mryum
+mujininc
 multiversx
 munichelectrification
 myassurehealth
@@ -6198,6 +6165,7 @@ nightfall
 nilc
 nimbleai
 nimblerx
+ninjavan
 nio
 nisum
 nithio
@@ -6361,7 +6329,6 @@ peddie
 pelago
 pennylane
 pento
-penumbrainc
 peoplefun
 percipient
 percona
@@ -6753,6 +6720,7 @@ shelfengine
 shippit
 shippo
 shop-canal
+shopback-2
 shopreli
 showcaseidx
 sidebench
@@ -7061,6 +7029,7 @@ token
 tokenmetrics
 tokenwin
 tombras
+tomjames
 tomonetworks
 tonal
 tonsser
@@ -7287,10 +7256,12 @@ wolt
 wolve
 wonderbly
 wonolo
+woodardcurran
 work-life
 workbravely
 workos
 workramp
+woven-by-toyota
 woven-planet
 wristcheck
 wyld
@@ -7532,7 +7503,6 @@ comm
 commandbar
 commit
 commonroom
-commons
 communityphone
 compass-reg
 comulate
@@ -7712,6 +7682,7 @@ goldsky
 goodcover
 goodship
 govworx
+gptzero
 gradia
 gradientnetwork
 grayce
