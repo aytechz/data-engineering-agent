@@ -1,6 +1,8 @@
-### 3 new matching jobs · 2026-10-23 19:13 UTC
+### 5 new matching jobs · 2026-10-23 22:14 UTC
 
-#### From greenhouse (3)
-- **[Associate Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/8300876)** at **BeyondTrust** — Remote United States · `databricks, spark, python` · _greenhouse_
-- **[Senior Data Engineer](https://eosits.com/company/careers/?gh_jid=8912063002)** at **EOS** — Burlingame, California, United States · `airflow, python, sql` · _greenhouse_
-- **[Senior Data Platform Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8912047002)** at **Komodo Health** — San Francisco, CA 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
+#### From greenhouse (5)
+- **[Data Platform Lead](https://job-boards.greenhouse.io/convene/jobs/8319158)** at **Convene Hospitality Group** — Remote (US East Coast / Eastern Time Zone Preferred) · `snowflake, dbt, terraform` · _greenhouse_
+- **[Staff Data Systems Architect](https://job-boards.greenhouse.io/myfitnesspal/jobs/8319345)** at **MyFitnessPal** — Remote - US 🏥🤖 · `snowflake, dbt, airflow, kafka, python, sql` · _greenhouse_
+- **[Principal Data Architect](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4721859006)** at **ParetoHealth** — Remote 🏥🤖 · `databricks, snowflake, dbt, kafka` · _greenhouse_
+- **[Principal Software Engineer, Data Platform — Data Trust & AI Context](https://sofi.com/careers/job/8037984003?gh_jid=8037984003)** at **SoFi** — WA - Seattle; UT - Cottonwood Heights; CA - San Francisco 🏥 · `snowflake, kafka, aws, python, sql, terraform` · _greenhouse_
+- **[Senior Data Engineer](https://sofi.com/careers/job/8040823003?gh_jid=8040823003)** at **SoFi** — Cottonwood Heights, Utah, United States 🏥 · `snowflake, dbt, airflow, python, sql` · _greenhouse_
