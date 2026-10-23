@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4316)
+## greenhouse (4300)
 hingehealth
 maven
 spring
@@ -1276,7 +1276,6 @@ finfare-financial
 fingerprintjs
 finsterai
 firehydrant
-firesprite
 firewalk
 fireworkcareers
 fireworksai
@@ -2702,6 +2701,7 @@ preply
 presonus
 pricespider
 primeprotocol
+primerai
 primetrust
 prisma
 privategsw
@@ -3377,34 +3377,18 @@ thearenagroup
 theasianamericanfoundationtaaf
 theblacktux
 thedailybeast31
-thedutchie
-theeconomistgroup
-theeverycompany
-thefarmersdog
 theflatironschool
-thefloridapanthers
-thefork
-thegialliancemanagementllccompany
 thegivingblock
 thegoodfoodinstitute80
 thehackerati
-theiconic
 theinformation
-thejewishfederationsofnorthamerica
 thejpbfoundation
 thejuice
-theknotworldwide
 thelandlinecompany
-thelastmile
-thelibragroup
-theloomaproject
 themanual
 themany
-themaritimeaquarium
 themarkup
 themarshallproject
-thematherevanston
-themjcos
 themotleyfool
 themuseumofscience
 thena
@@ -4319,7 +4303,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2903)
+## lever (2908)
 netflix
 shopify
 github
@@ -4419,7 +4403,6 @@ adverum
 aechelon
 aeler
 aerialapplications
-aethoshotels
 afarmedia
 affinity
 affirm
@@ -4430,7 +4413,6 @@ agerpoint
 agilesearch
 agotai
 agreena
-agtonomy
 aicamp
 aidaly
 aidash
@@ -4446,7 +4428,6 @@ airshipsyndicate
 airwallex
 aisafety
 aiwyn
-akabrands
 akashnetwork
 akitasoftware
 alan
@@ -4454,7 +4435,6 @@ alation
 albedo
 alchemy
 alcion
-aleph
 aleysian
 algolia
 algotive
@@ -4464,7 +4444,6 @@ alida
 alignable
 alkymi
 allata
-allears-vet
 alliance
 allinbits
 allstripes
@@ -4492,6 +4471,7 @@ anagram
 analog
 analuisa
 ancestry
+andersencorp
 anduril
 angaza
 angel
@@ -4539,7 +4519,6 @@ apt-deco
 aptible
 aquicore
 aragon
-arbitrumfoundation
 arbol
 arbor
 arborenergy
@@ -4567,7 +4546,6 @@ astera
 asthomecares
 astra
 astranis
-atavistik-bio
 atekinc
 athennian
 athleticgreens
@@ -4599,7 +4577,6 @@ avalabs
 avante
 avantstay
 avela
-aventon
 avero
 avioconsulting
 avivesolutions
@@ -4650,7 +4627,6 @@ bedrockocean
 beemenergy
 beetalents
 bellhops
-bellwetheram-2
 belong
 belonghome
 benchsci
@@ -4738,6 +4714,7 @@ boulevard
 bound
 boweryfarming
 box
+boxlunch
 brainnest
 brainstorminc
 brand-knew
@@ -4781,7 +4758,6 @@ butterpayments
 button
 bvaccel
 c16bio
-caliza-financial-technologies
 call9
 callistomedia
 calm
@@ -4837,7 +4813,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -4858,7 +4833,6 @@ chooosejobs
 choose
 chronicled-2
 chyronhego
-cin7
 cinchy
 ciphertrace
 circleco
@@ -5055,8 +5029,6 @@ desbytech
 descript-2
 designpickle
 desmos
-despegar
-destinationknot
 devcycle
 device42
 devoted
@@ -5072,7 +5044,6 @@ dimo
 diool
 dioxycle
 directi
-disher
 dispo
 disruptivegames
 divergent3d
@@ -5091,14 +5062,11 @@ doppler
 dorahacks
 dott
 doubledown
-dozee
 dragonarmy
 drchrono
-dreamgames
 dreamsports
 drip
 drivekyte
-drivemode
 drivy
 drizly
 dronedeploy
@@ -5121,13 +5089,11 @@ e-core
 e2optics
 eargo
 earlybird
-earthspecies
 eastwall
 easyagile
 eaze
 ebury
 ecocart
-economicmodeling
 ecosia
 edacious
 edenhealth
@@ -5145,7 +5111,6 @@ electrifiedthermalsolutions
 electrum
 elementus
 elevatelabs
-eliyan
 elliemae
 elliveproductions
 elodiegames
@@ -5158,7 +5123,6 @@ emitwise
 empiricotx
 empowerly
 empowerpartnerships
-enablecomp
 enarahealth
 encorevet
 end
@@ -5200,13 +5164,11 @@ evergrow
 everlane
 everlaw
 everli
-evidentid
 evisort-2
 evocalize
 evrealty-us
 exa-labs
 exabeam
-exowatt
 exp
 explorejobssearch
 expopulus
@@ -5304,6 +5266,7 @@ forto
 fortreum
 fortuneschool
 forusall
+foth
 foundersfactory
 foundersfactoryafrica
 foundry-ai
@@ -5333,6 +5296,7 @@ futurelaboratori
 fynd
 fyusion
 g2i
+galvanick
 gametime
 gamma
 gantri
@@ -5365,7 +5329,6 @@ getmetronome
 getmulberry
 getmysa
 getpatch
-getwingapp
 ghcorps
 ghjadvisors
 gigster
@@ -5376,6 +5339,7 @@ givax
 givebutter
 givingli
 glassnode
+glide
 glidian
 glints
 glitch
@@ -5450,6 +5414,7 @@ haloeurope
 halosbodycams
 halter
 hamiltonps
+handoff
 hap-capital
 happn
 happyfresh
@@ -5492,6 +5457,7 @@ helpshift
 helsing
 herbl
 heretic-fund
+hevodata
 hexa
 hexagonusfederal
 hicleo
@@ -5531,6 +5497,8 @@ hopthru
 hostinger
 hoteltonight
 hotstar
+hottopic
+houzz
 howgood
 hqxyz
 hr-hints
@@ -5567,6 +5535,7 @@ ignite
 illumination
 illumix
 imbue
+immutable
 imperfectfoods
 imperfectproduce
 impossiblefoods
@@ -5600,7 +5569,9 @@ innablr
 innocraft
 innovafeed
 innovationdept
+innovativesol-2
 insightm
+insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -5655,6 +5626,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5686,6 +5658,7 @@ kandji
 kaporcapital
 kapwing
 karat
+kariusdx
 kasada
 kasheesh
 kava
@@ -5697,6 +5670,7 @@ keeptruckin
 kellytelecom
 keloniatx
 kensho
+kepler
 kerishullteam
 ketch
 kevala
@@ -5708,13 +5682,16 @@ kickstart-ent
 kickstarter
 kiddom
 kimiatherapeutics
+kingfish-company
 kingfishgroup
 kinnek
 kinsa
+kinsta
 kitcheck
 kitmanlabs
 kitopi
 kivaai
+kivaconfections
 kiwico
 kkbox
 klarna
@@ -5735,6 +5712,7 @@ kodiak
 koho
 kokonetworks
 koldpartners
+kolibrigames
 kolsquare
 kong
 kontakt
@@ -5742,6 +5720,7 @@ konviere
 koombea
 kooptechnologies
 koreaboo
+korrobio
 kpmg-2
 kraken
 kraken123
@@ -5763,6 +5742,7 @@ lambdal
 lambdaschool
 laminiai
 landing
+larian
 laserhub-2
 last9
 latticehq
@@ -5776,6 +5756,7 @@ leadr
 leadsonline
 leaf-trade
 leaflogistics
+leantaas
 leap-2
 learnlux
 learnwithjuni
@@ -5800,9 +5781,11 @@ leucine
 lever
 levvel
 lexingtonmedical
+liatrio
 liberatii
 lifen
 lightci
+lightedge
 lillio
 limberhealth
 lime
@@ -5873,6 +5856,7 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
+lyrahealth
 lyterian
 m-kopa
 m13
@@ -5891,6 +5875,7 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
+mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -6206,6 +6191,7 @@ panum
 papara
 papercut
 paradoxum-gg
+parallelwireless
 parcellab
 pardon
 parkplace
@@ -6236,6 +6222,7 @@ peakdesign
 peakmetrics
 peckwaterbrands
 peddie
+peerspace
 pelago
 pennylane
 pento
@@ -6718,6 +6705,7 @@ sprinto
 spruce
 sprucestreetcompinternships
 sprucesystems
+sqaservices
 sqreen-2
 sta
 stable
@@ -7035,6 +7023,7 @@ upmetrics
 upside
 upstox
 upwork
+usasurveyjob
 usecipher
 useinsider
 useloom
@@ -7224,7 +7213,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (936)
+## ashby (939)
 mercury
 together
 replicate
@@ -7630,6 +7619,7 @@ hustlewing
 hydra
 hyperliminal
 hyperscience
+hyperspell
 iacollaborative
 impossible-foods
 inceptive
@@ -7904,6 +7894,7 @@ rapid-pioneers
 rattle
 re-cap
 real
+realfast
 reddit
 reference
 reflex
@@ -7993,6 +7984,7 @@ ssi
 stackfix
 stainlessapi
 standardfleet
+stargate-foundation
 startplaying
 stash
 statewide
