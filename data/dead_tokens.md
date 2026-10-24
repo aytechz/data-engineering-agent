@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3856)
+## greenhouse (3846)
 hingehealth
 maven
 spring
@@ -3808,23 +3808,14 @@ zenefits
 zengrc
 zenithhealth
 zenjob
-zennioptical
-zenoti
 zenpayroll
-zenput
 zenrows
 zenvia
 zephyrhome
 zeplin
 zepzgroup
-zerostudios
-zerotothree
-zestai
 zesty
-zestyai
-zetachain
 zetaglobal
-zevia
 ziina
 zilliqa
 zilliz
@@ -3839,7 +3830,6 @@ ziprecruiter
 zitaratechnologiesinc
 zocalohealth
 zocdoc
-zola
 zolar
 zone5technologies
 zonecompanysoftwareconsultingllc
@@ -3859,7 +3849,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2892)
+## lever (2894)
 netflix
 shopify
 github
@@ -3871,6 +3861,7 @@ kayak
 coursera
 udemy
 classpass
+wealthfront
 betterment
 bolt
 chime2
@@ -3903,6 +3894,8 @@ upstart
 nuro2
 anysignal
 aofl
+eqbank
+robust-ai
 10up-2
 174powerglobal
 1776
@@ -3966,10 +3959,12 @@ afreshtechnologies
 afterpaytouch
 agentnoon
 agerpoint
+agicap
 agilesearch
 agotai
 agreena
 aicamp
+aicrete
 aidaly
 aidash
 aifoundation
@@ -3981,6 +3976,7 @@ airhouse
 airprotein
 airship
 airshipsyndicate
+airtm
 airwallex
 aisafety
 aiwyn
@@ -4018,8 +4014,9 @@ amberflo
 ambrook
 amerisave
 amiri
+amityfdn
 amobee
-ampd-energy
+ampeco-global
 amplitude
 ams-corp
 amused-group
@@ -4039,6 +4036,7 @@ anjuna
 anlatan
 annalise
 anomalo
+anotherco
 anovium
 ansira
 anthropic
@@ -4046,12 +4044,14 @@ anticapital
 antisocialsocialcapital
 anyperk
 anyroad
+anyscale
 anzen
 aon3d
 apartmentlife
 apartmentlist
 apax
 apdscorporate
+aperturehealth
 apex
 api-ux
 apible
@@ -4062,7 +4062,6 @@ aposto
 appacademy
 appboxo
 appcues-2
-appen
 apphub
 appliedminds
 applike
@@ -4103,7 +4102,6 @@ astera
 asthomecares
 astra
 astranis
-atavistik-bio
 atekinc
 athennian
 athleticgreens
@@ -4132,7 +4130,6 @@ autonomys
 av
 ava
 avalabs
-avalerehealth
 avante
 avantstay
 avela
@@ -4181,7 +4178,6 @@ beam-impact
 beamy
 beanstalkagtech
 beautyhaul
-beaverprocess
 bebop
 bedrockocean
 beemenergy
@@ -4198,7 +4194,6 @@ better
 betterlifepartners
 betterplaceforests
 beyond-creative
-beyondcloudconsulting
 beyondmeat
 beyondpricing
 bfp
@@ -4318,7 +4313,7 @@ butterpayments
 button
 bvaccel
 c16bio
-caliza-financial-technologies
+cagents
 call9
 callistomedia
 calm
@@ -4374,8 +4369,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cfgi
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -4395,7 +4388,6 @@ chooosejobs
 choose
 chronicled-2
 chyronhego
-cin7
 cinchy
 ciphertrace
 circleco
@@ -4531,7 +4523,6 @@ cruise
 crunchbase
 crusoeenergy
 cruxinformatics
-crypto
 crypto-innovation
 csaassociates
 culdesac
@@ -5451,6 +5442,7 @@ mattermost
 matterport
 matters
 matterworks
+maxmind
 mbcapital
 mbrdna
 mbta
