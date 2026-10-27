@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4282)
+## greenhouse (4270)
 hingehealth
 maven
 spring
@@ -73,6 +73,7 @@ appliedintuition
 cruise
 zoox
 alloycampus
+andurilindustries
 capitalrx
 digs
 doubleverify
@@ -95,6 +96,7 @@ visiersolutionsinc
 1906newhighs
 1910genetics
 1uphealth
+204951305985924
 21co
 21shares
 240certification
@@ -444,7 +446,6 @@ banyucarbon
 bardelentertainment
 barinthusbiotherapeutics
 barkley
-barrfoundation
 basehq
 basepowercompany
 basic
@@ -514,6 +515,7 @@ biocaremedical
 biofourmis
 biograph
 biolumina
+biomechanicsconsultingandresearchllc
 biomedrealty
 bioptimizers
 bioptimus
@@ -957,6 +959,7 @@ csgconsultantssenior-structural-engineer-2
 cti
 cti-unpublished
 cubeler
+culinahealth
 culthealth
 curalate
 curated
@@ -1083,6 +1086,7 @@ dmcengineering2024
 dmipartners
 dnli
 doccla
+docnetwork
 doctorswithoutborders
 dolly
 domainmoney
@@ -1149,7 +1153,6 @@ educators
 edx
 edxbootcamps
 eero
-effectual
 eharmony
 eigenlabs
 eiger
@@ -1291,6 +1294,7 @@ firstsanfranciscopartners
 fiveringsevents
 flagstone
 flamboyanfoundation
+flash
 flashbots
 flashpoint
 flatfileio
@@ -1554,7 +1558,6 @@ haydenconsultinggroupllc
 hazeltechnologies
 hbstudios
 hc1
-hcesquared
 hcg
 hcss
 hctechnologies
@@ -1738,6 +1741,7 @@ instabase
 instigliofutureopportunities
 instituteforclinicalandeconomicreview
 instnt
+instride
 insureyourfuturega
 intecrowd
 integraladscience
@@ -2368,6 +2372,7 @@ nomiso
 nomos
 none098908
 noom
+noonlight
 noorahealth
 noredink
 nori
@@ -2479,7 +2484,6 @@ operantai
 operatus
 opj
 oplabs
-opremote
 optera
 optimecare
 optimism
@@ -2735,6 +2739,7 @@ protocollabs
 providencedig
 psyonix
 pubgemea
+pubgmadison
 pubgsanramon
 pubgsm
 pubgtokyo
@@ -3422,42 +3427,25 @@ thinkmarkets
 thinkonward
 thinx
 thirdharmonicbio
-thirdlove
-thirdpoleinc
-thirdwaveautomation
 thirdway
 thirtymadison
-thltestcareers
 thnks
-thomasvillechildcare
-thorn
-thoropass
 thoughtful
 thoughtspot
-thoughtworks
-thoughtworksreferral
 thousandeyes
 thread
 threatlocker
 threeflow
 threeships
 thrivecapital
-thrivecart
-thrivedigital
 thriveglobal
-thrivemarket
 throughline
 thumbtack
 thunder
-thunes
 thymecare
-tia
-tide
-tidewatertech
 tiermobility
 tiermobilitygermany
 tifin
-tigargymnastics
 tigera
 tigergraph
 tillatechnologies
@@ -4285,7 +4273,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2904)
+## lever (2886)
 netflix
 shopify
 github
@@ -4429,7 +4417,6 @@ allata
 alliance
 allinbits
 allstripes
-alltrails
 allworknow
 alpineimmunesciences
 altoida
@@ -4442,12 +4429,10 @@ amberbio
 ambercycle
 amberelectric
 amberflo
-ambirobotics
 ambrook
 amerisave
 amiri
 amobee
-ampeco-global
 amplitude
 ams-corp
 amused-group
@@ -4644,7 +4629,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -4697,7 +4681,6 @@ bottlerocketstudios
 boulderingproject
 boulevard
 bound
-bounteous
 boweryfarming
 box
 brainnest
@@ -4706,7 +4689,6 @@ brand-knew
 braveventurelabs
 brazoderecho
 breakwatertech
-brevo
 brewbike
 brewbird
 bridge
@@ -4720,6 +4702,7 @@ brimstone
 brimstoneenergy
 brinc
 broadwaytechnology
+brotherhoodcrusade
 bssp
 btc
 btse
@@ -4800,7 +4783,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -4812,7 +4794,6 @@ checkmate
 checkout
 chefrobotics
 cherrytechnologies
-chestnutcarbon
 chicago2024
 chironhealth
 chooose
@@ -5015,7 +4996,6 @@ desbytech
 descript-2
 designpickle
 desmos
-destinationknot
 devcycle
 device42
 devoted
@@ -5227,7 +5207,6 @@ flowfoundation
 flowspace
 flpstudio
 fluence
-fluxergy-2
 flyrhospitality
 flyrlabs
 flytographer
@@ -5332,7 +5311,6 @@ global-elite
 globalelitecareers
 gloo
 glowforge
-glsllc
 glu
 go2-markets
 goabstract
@@ -5354,7 +5332,6 @@ goodgamestudios
 goodrx
 gordian-bio
 gorgias
-gorh
 gorillalogic
 goshippo
 gotit
@@ -5431,7 +5408,6 @@ healthverity
 heard
 hearsaysystems
 heartflow
-heetch
 heirloomtechnologies
 helbiz
 hellobestow
@@ -5543,7 +5519,6 @@ inflow
 influur
 infogrid
 infogridlinks
-infraservices
 infrastructureandcapitalprojects
 infrastructureontario
 infstones
@@ -5587,7 +5562,6 @@ ionic
 ionicpartners
 iovlabs
 iphi
-ippon
 iron_hack
 ironcladapp
 ironnetcybersecurity
@@ -5625,7 +5599,6 @@ joinswoop
 jointopo
 joinzoe
 journeyclinical
-joyrideautos
 juniperplatform
 juno
 jupiter
@@ -5654,11 +5627,9 @@ keeptruckin
 kellytelecom
 keloniatx
 kensho
-kepler
 kerishullteam
 ketch
 kevala
-keyloop
 kg
 kibeam
 kickback
@@ -5718,7 +5689,6 @@ kyte
 kyverna
 laagencia
 labelbox
-ladders
 lambdal
 lambdaschool
 laminiai
@@ -5763,7 +5733,6 @@ lexingtonmedical
 liberatii
 lifen
 lightci
-lightedge
 lillio
 limberhealth
 lime
@@ -5784,6 +5753,7 @@ livefront
 livekindred
 livelike
 liveoakfiber
+livingcarbon
 livinghr
 loancrate
 loblawagency
@@ -5829,7 +5799,6 @@ luni
 luxe
 luxortechnology
 luzia
-lvs1
 lyciatherapeutics
 lykospbc
 lyra
@@ -5845,7 +5814,6 @@ machinalabs
 machinefilab
 machinerypartner
 madbox
-madhappy
 madhive
 madisonei
 madisonlogic
@@ -6935,7 +6903,6 @@ treasure-data
 treecard
 trela
 trella
-trellis
 trengobv
 trilogyfederal
 trip-ninja
@@ -6957,6 +6924,7 @@ trustlab
 trustly
 trusttoken
 trustyou
+truv
 truveris
 trycourier
 tubularlabs
@@ -7015,6 +6983,7 @@ v2sa
 valence
 valinor
 valoremreply
+valorepartners
 vannevarlabs-2
 vantagepointlogistics
 varicent
@@ -7088,6 +7057,7 @@ vrsystems
 vtex
 vts
 vvt
+waabi
 wahi
 waitrapp
 waitwhat
@@ -7191,7 +7161,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (939)
+## ashby (940)
 mercury
 together
 replicate
@@ -8106,6 +8076,7 @@ wiremock
 wiseradvisor
 withcherry
 withco
+withflex
 woebot-health
 woflow
 wokelo-ai
