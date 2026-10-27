@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4016)
+## greenhouse (3972)
 hingehealth
 maven
 spring
@@ -95,7 +95,6 @@ visiersolutionsinc
 1906newhighs
 1910genetics
 1uphealth
-204951305985924
 21co
 21shares
 240certification
@@ -296,6 +295,7 @@ anz
 apartmentlist
 apeel
 apellis
+aperiasolutions
 apexlogic
 apiascholars
 apisero
@@ -1463,6 +1463,7 @@ gmmb
 gnosis
 gntemp
 go1blinkist
+go1eu
 go1vn
 goalturkey
 goalzimbabwe
@@ -3664,104 +3665,59 @@ volleythat
 voltacharging
 voltrondata
 voterev
-votesolar
 vouchinsurance
 vowgroup
-voxel51
 voxglobal
-voxieinc
-voxmedia
 voxy
-voyagertechnologiesinc
 voyagertherapeutics
 vpawashington
 vpawv
-vsapartners
-vscfiresecurityinc
-vsco39
-vtex
-vts
 vuestorefront
-vulcanelements
-vulncheck
 vultr
 vultronai
 vungle
-vynamic
-vynyl
 vytalizehealth
 wagmo
 wakam
 waku
-waldensecurity
 waldo
-walkersands
-wallapop
 walleyecapital-external-internships
-walleyecapital-external-students
-wallstreetprep
 walmartasr
 walnut
 waltzhealth
 warbyparker
-wargamingen
 wargamingru
 wargamingwelcometothejungle
-warp
-wasabi
-watchduty
-watchmakergenomics
-waterloocoop
-watershed
 watershedclimate
-watsonsfriendsah
 waveapp
 wavelo
 wavemm
-wavemm1
-waverleystreetfoundation
 wavexr
 wayfair
-waymark
-waymo
 wayup
 wayve
-wayvia
-wbpa
 wealthfront
 weareservicemax
 weatherbug
 weatherwaxbio
-weave
 weavegrid
 weavehq
 webai
 webflow
 webgility
 webstacks
-wecommunications
 weconnectrecovery
 wedosupport
 weedmaps
 weedmaps77
 weee
-wehrtyou
 weinsteinproperties
-weissassetmanagement
-welbehealth
-welearn
 well
 wellhealthinc
-wellist
-wellsaidlabs
-wellspringlearningcenters
 wellth
-wellthy-care-network
 weploy
 west10llc
-westbrook
 westcancercenter
-westcoastchildrensclinic
 westmonroe1
 westsidedermatology
 wework
@@ -4019,9 +3975,8 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2899)
+## lever (2889)
 netflix
-spotify
 shopify
 github
 quora
@@ -4064,6 +4019,7 @@ upstart
 nuro2
 anysignal
 aofl
+zoox
 10up-2
 174powerglobal
 1776
@@ -4072,7 +4028,6 @@ aofl
 1password
 21
 2a
-2brains
 3box
 3dhubs
 3eco
@@ -4103,7 +4058,6 @@ accesso
 accompanyhealth
 accrue
 accurate
-achievers
 acl
 aclaimant
 acpl
@@ -4129,7 +4083,6 @@ afreshtechnologies
 afterpaytouch
 agentnoon
 agerpoint
-agicap
 agilesearch
 agotai
 agreena
@@ -4141,7 +4094,6 @@ aifund
 aigen
 ailens
 aira
-airalo
 airhouse
 airprotein
 airship
@@ -4186,7 +4138,6 @@ amiri
 amobee
 amplitude
 ams-corp
-amtengineering
 amused-group
 amyris
 anagram
@@ -4209,7 +4160,6 @@ ansira
 anthropic
 anticapital
 antisocialsocialcapital
-anybotics
 anyperk
 anyroad
 anzen
@@ -4233,7 +4183,6 @@ appliedminds
 applike
 applovin
 applyboard
-appsamurai
 appsilon
 apptegy
 apptimize
@@ -4257,9 +4206,7 @@ ark-solutions-inc
 arkbiotech
 arpa
 arrive
-arsiem
 artblocks
-artera-2
 artificial
 asap
 ascoeq
@@ -4294,6 +4241,7 @@ aurorainsight
 aurorasolar
 auth0
 autify
+automatiq
 automox
 autonomys
 av
@@ -4458,7 +4406,6 @@ brimstone
 brimstoneenergy
 brinc
 broadwaytechnology
-brooksrunning
 bssp
 btc
 btse
@@ -4494,7 +4441,6 @@ campspot
 canimmunize
 canopyservicing
 canva
-canvasmedical
 capchase
 captiv8
 carbon
@@ -4528,6 +4474,7 @@ catenamedia
 catlabs
 causal-app
 ccmr3
+cdcfoundation
 cef
 celestia
 celo
@@ -4592,7 +4539,6 @@ cloudwalk
 clozd
 clubassist
 clubhouse
-cmgx
 cnmllp
 cocodelivery
 coda
@@ -4826,7 +4772,6 @@ edera
 edge-impulse
 edgrp
 edisonenergy
-edpuzzle
 educationatwork
 efront
 egensolutions
@@ -4849,7 +4794,6 @@ emitwise
 empiricotx
 empowerly
 empowerpartnerships
-enable
 enarahealth
 encorevet
 end
@@ -5169,7 +5113,6 @@ healthverity
 heard
 hearsaysystems
 heartflow
-heetch
 heirloomtechnologies
 helbiz
 hellobestow
@@ -5221,7 +5164,6 @@ hopthru
 hostinger
 hoteltonight
 hotstar
-hottopic
 howgood
 hqxyz
 hr-hints
@@ -5565,7 +5507,6 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
-lyrahealth
 lyterian
 m-kopa
 m13
@@ -6063,6 +6004,7 @@ pulsedata
 pulsemedianl
 pumpkin
 puritanmedproducts
+pushpress
 pushsecurity
 pyramidci
 pythian
@@ -6379,6 +6321,7 @@ snowplowanalytics
 socialchorus
 socialtables
 softrams
+solestial
 soloavt
 solutionsjournalism
 solvd
@@ -6626,6 +6569,7 @@ timely-md
 timelycare
 tiplink
 titan
+titanelectric-ga
 titanx
 titmouse
 tivix
@@ -6655,6 +6599,7 @@ tradeshift
 tradesy
 trailofbits
 trainual
+tramgroup
 transfrvr
 transitscreen
 translifeline
@@ -6688,6 +6633,7 @@ trusttoken
 trustyou
 truveris
 trycourier
+ttecdigital
 tubularlabs
 tuftandneedle
 tul
@@ -6920,7 +6866,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (938)
+## ashby (937)
 mercury
 together
 replicate
@@ -7833,7 +7779,6 @@ wiremock
 wiseradvisor
 withcherry
 withco
-withflex
 woebot-health
 woflow
 wokelo-ai
