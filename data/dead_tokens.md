@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4270)
+## greenhouse (4268)
 hingehealth
 maven
 spring
@@ -73,7 +73,6 @@ appliedintuition
 cruise
 zoox
 alloycampus
-andurilindustries
 capitalrx
 digs
 doubleverify
@@ -3443,10 +3442,9 @@ throughline
 thumbtack
 thunder
 thymecare
+tidewatertech
 tiermobility
 tiermobilitygermany
-tifin
-tigera
 tigergraph
 tillatechnologies
 tiltingpoint
@@ -4273,7 +4271,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2886)
+## lever (2885)
 netflix
 shopify
 github
@@ -4783,6 +4781,7 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
+cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -5530,7 +5529,6 @@ innocraft
 innovafeed
 innovationdept
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -6777,6 +6775,7 @@ teameven
 teampilot
 techflow
 techmatters
+technexus
 techruiter
 techtrust-inc
 teck-2
@@ -6924,7 +6923,6 @@ trustlab
 trustly
 trusttoken
 trustyou
-truv
 truveris
 trycourier
 tubularlabs
@@ -7057,7 +7055,6 @@ vrsystems
 vtex
 vts
 vvt
-waabi
 wahi
 waitrapp
 waitwhat
