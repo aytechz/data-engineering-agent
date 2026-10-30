@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4095)
+## greenhouse (4129)
 hingehealth
 maven
 spring
@@ -758,7 +758,6 @@ chapter
 charlesandlynnschustermanfamilyphilanthropies
 charlesandlynnshustermanfamilyfoundation
 charley
-charliehealthinternalcandidates
 charmindustrial
 chartboost
 chathamfinancial
@@ -772,7 +771,6 @@ chessatthree
 chewielabs
 chewycom
 chfp
-chicagotradingcampushiring
 chief
 chilipiper
 chompscareers
@@ -1049,8 +1047,6 @@ designmind
 designpickle
 designwithinreach
 desktopmetal
-destinationcanada
-destinationcanadafr
 deutschnewyork
 developforgood
 devries
@@ -2345,6 +2341,7 @@ neuroblade
 neuroflow
 neuron
 nevadatitleandpaydayloansinc
+neweratechnology
 newsrevenuehub
 newstore
 next47
@@ -2945,7 +2942,6 @@ samsungaustinsemiconductor
 samsungcollegeprogram
 sanabilventurestudio
 sandboxaq
-sandstonecarebroomfield
 sandstonecaredarien
 sandstonecascade
 sandstonecoloradospringsoutpatient
@@ -3577,52 +3573,87 @@ unohealth
 unqork
 up
 upsolver
+upstart
 upstartlab
 upstatement
 upstreamcare
+upstreamusa
 uptake
 uptivhealth
+upwardhealth
 upworthy
 urban
+urbancompass
 urbanfootprint
+urbansky
+urbansportsclub
+urbansystems
 urbint
 urbnleaf
+urgentcareforchildren
 urx
 usablemachines
+usergems
 userinterviews
 userleap
 ushur
 usjetaa
 ustwo
 ustwogames
+utahtitleloansinc
 utilityapi
+uvimco
 vac
 vacasa
+vacationinc
 vaco
+vailclinicincdbavailhealthhospital
+valaratomics
+valerahealth
 valiantharborinternationalllc
 valimailinc
+valleyhospital
 valleyview
+valohealth
 valon
 valorainc
+valspec
 valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
+vanguarddermatology
+vanleeuwenicecream
+vanmetre
 vannahealth
+vannevarlabs
 vanta
 vantaiinc
 vareto
 variantbio
+varicent
 varsitytutors
+vast
 vatcllc123
+vaticlabs
 vault
+vaxcyte
+vay
+vaynermedia
 vayu
 vdxtvakaexponentialinteractive
+vecma
+vecnyc
+vectara
 vectornorth
+vectranetworks
+vedantabiosciences
+veeamsoftware
 veedio
 veem
 veesearch
 vegaamericas
+veir
 velir
 velir-private
 velocityelectronics
@@ -3687,6 +3718,7 @@ viaduct
 viagogo
 vialogic
 viamrobotics
+vianttechnology
 viber
 vibesllc
 vibrant
@@ -3698,6 +3730,7 @@ victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
 vileon
 vim
 vimeo
@@ -3716,6 +3749,7 @@ viseai
 visia
 visitingmedia
 visor
+visualconcepts
 vitablehealth
 vitahealth
 vitalfarms
@@ -4098,7 +4132,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2901)
+## lever (2895)
 netflix
 shopify
 github
@@ -4142,8 +4176,6 @@ upstart
 nuro2
 anysignal
 aofl
-eqbank
-shieldai
 10up-2
 174powerglobal
 1776
@@ -4209,6 +4241,7 @@ agerpoint
 agilesearch
 agotai
 agreena
+ahschc
 aicamp
 aidaly
 aidash
@@ -4231,6 +4264,7 @@ alation
 albedo
 alchemy
 alcion
+alector
 aleysian
 algolia
 algotive
@@ -4241,6 +4275,7 @@ alignable
 alkymi
 allata
 alliance
+alliedreit
 allinbits
 allstripes
 allworknow
@@ -4367,6 +4402,7 @@ aurorasolar
 auth0
 autify
 automox
+autonomous
 autonomys
 av
 ava
@@ -4509,7 +4545,6 @@ bottlerocketstudios
 boulderingproject
 boulevard
 bound
-bounteous
 boweryfarming
 box
 brainnest
@@ -4819,6 +4854,7 @@ deloitte
 delphix
 deltadental
 delv
+demiurgestudios
 density
 desafiolatam
 desbytech
@@ -4968,7 +5004,6 @@ exabeam
 exp
 explorejobssearch
 expopulus
-extremenetworks
 extropic
 exygy
 ey-ps
@@ -4999,7 +5034,6 @@ ffws
 fiddlerlabs
 fightcamp
 figma
-filevine
 financeinabox
 finchloom
 find
@@ -5365,7 +5399,6 @@ inspiration-mobility
 instawork
 instituteforproteininnovation
 instructure
-instrument
 instrumental
 instrumentl
 integrate
@@ -5896,7 +5929,6 @@ octopus
 oda
 odysaviation
 offerpop
-okendo
 oleria-security
 omni-network
 onaroll
@@ -5992,7 +6024,6 @@ payabli
 payfit
 paymongo
 paystack
-paytm
 paytmbank
 payzen
 pdq
@@ -6461,7 +6492,6 @@ solvd
 solvhealth
 sonar
 sonatus
-soniresources
 soundcommerce
 soundstack
 sourcegraph
@@ -6946,12 +6976,10 @@ workos
 workramp
 woven-planet
 wristcheck
-wwprosolutions
 wyld
 wyze
 x1creditcard
 xagroup
-xcimer
 xero
 xfers
 xilis
@@ -7001,7 +7029,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (951)
+## ashby (950)
 mercury
 together
 replicate
@@ -7176,7 +7204,6 @@ climatiq
 cloudtrucks
 clove
 coactive
-coalesce
 coastal-carbon
 cococart
 cocreate
@@ -7200,6 +7227,7 @@ continue
 contrast-security
 contribution-labs
 convictional
+coperniq
 copilot
 coral
 coreflow
@@ -7478,7 +7506,6 @@ limitless
 lindushealth
 lingopal
 linktree
-literati
 liv-golf
 lmarena
 localkitchens
