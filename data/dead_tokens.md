@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3841)
+## greenhouse (3843)
 hingehealth
 maven
 spring
@@ -1865,6 +1865,7 @@ kcftechnologies
 keap
 keebo
 keeptruckin
+kenjyatrusantgroup
 kernagency
 ketchumuscareers
 keyfactorinccampusrecruiting
@@ -2517,6 +2518,7 @@ outlier-growth
 outlierai
 outlierorg
 outlierventures
+outpostspace
 output
 outschool
 over
@@ -3844,7 +3846,7 @@ ztxfoundation
 zubiad
 zynga
 
-## lever (2891)
+## lever (2900)
 netflix
 shopify
 github
@@ -3921,6 +3923,7 @@ academia
 academy
 acala
 acast
+acceldata
 accesso
 accompanyhealth
 accrue
@@ -6200,6 +6203,8 @@ solvd
 solvhealth
 sonar
 sonatus
+sonrai-security
+sophos
 soundcommerce
 soundstack
 sourcegraph
@@ -6384,6 +6389,7 @@ the-sia-foundation
 the-street
 the-wing
 theambrgroup
+theathletic
 thebabyboxco
 theblockcrypto
 thebrowser-company
@@ -6454,6 +6460,7 @@ tomonetworks
 tonal
 tonsser
 topanga
+topazlabs
 tophat
 tophatter
 topl
@@ -6547,6 +6554,7 @@ upmetrics
 upside
 upstox
 upwork
+usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6580,6 +6588,7 @@ vericred
 verisart
 veritasinv
 verity
+verkor
 vero
 versana
 verse
@@ -6720,6 +6729,7 @@ zeotap
 zeplin
 zerocater
 zerofox
+zerohomes
 zesty
 zeus
 zignallabs
@@ -6732,12 +6742,13 @@ zoomer
 zoomprop
 zotecpartners
 zowie
+zoyi
 zumper
 zurigroup
 zuru
 zuva
 
-## ashby (951)
+## ashby (952)
 mercury
 together
 replicate
@@ -7104,6 +7115,7 @@ gohenry
 goldsky
 goodcover
 goodship
+gorilla
 govworx
 gptzero
 gradia
