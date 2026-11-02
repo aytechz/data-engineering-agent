@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4096)
+## greenhouse (4098)
 hingehealth
 maven
 spring
@@ -597,6 +597,7 @@ braintrust
 branch32
 brands4friends
 bravehealth
+breakthroughenergy
 breakthroughenergy38
 breezeairways
 bridgekesandbox
@@ -979,7 +980,6 @@ curology
 currentcatalog
 curvehealth
 curveroyaltysystems
-cutover
 cvjc
 cvx
 cybergrx
@@ -1254,7 +1254,6 @@ ezcatertalentcommunity
 ezinc
 fabfitfun
 fabric
-facile
 factoryberlin
 fairwinds
 fal
@@ -1357,6 +1356,7 @@ fortunafi
 fortune
 forwardfinancing
 fossa
+fossainc
 foundation
 foundationforahealthystpetersburg
 foundersintelligence
@@ -1569,6 +1569,7 @@ headborneai-gmbh
 headoutreferrals
 headspace
 headway
+healthesystems
 healthfidelity
 healthgorilla
 healthgrades
@@ -2481,7 +2482,6 @@ onestudyteam
 oni
 onistudios
 onna
-onnitlabs
 onsights
 onsiteiq
 op3n
@@ -2664,7 +2664,6 @@ pilot
 pinegaterenewables
 pineparkhealth
 pinnacle
-pinterestjobadvertisements
 pioneeringevolution
 pismo
 pitch
@@ -3624,20 +3623,12 @@ vault
 vayu
 vdxtvakaexponentialinteractive
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
@@ -3703,6 +3694,7 @@ vibrant
 vicarioussurgical
 vice
 vicecanada
+vicon
 victorious
 viderityinc
 vidmob
@@ -3718,6 +3710,7 @@ virbiotechnologyinc
 virtahealth
 virtasant
 virtex
+virtru
 virtu
 virtualhealth
 visbymedical
@@ -3768,6 +3761,7 @@ vpawv
 vsapartners
 vscfiresecurityinc
 vsco39
+vtex
 vts
 vuestorefront
 vulcanelements
@@ -3933,6 +3927,7 @@ woonetwork
 wooreferral
 wordpressvip
 workatbackbase
+workato
 workboard
 workco
 workera
@@ -3948,6 +3943,7 @@ workshop
 workshopapd
 workshopdigital
 worksighted
+worksite
 workwize
 world4822stri986des
 worldcoinorg
@@ -3969,7 +3965,9 @@ wunder
 wundercapital
 wunderflats
 wunderkind
+wundermanthompson
 wurl
+wurljobs
 wursta
 wurstacorporation
 ww
@@ -3979,6 +3977,7 @@ xai
 xairatherapeutics
 xanpool
 xantium
+xapo61
 xdinizioengage
 xealth
 xendit
@@ -4030,6 +4029,7 @@ yugabyte
 yugalabs
 yuma
 yummly
+yurtsai
 yuvohealthllc
 zafinlabsamericasinc
 zam
@@ -4042,6 +4042,7 @@ zeals
 zeffy
 zelusanalytics
 zemogajobs
+zenasbio
 zenbusiness
 zencoder
 zenefits
@@ -4052,6 +4053,7 @@ zennify
 zennioptical
 zenoti
 zenpayroll
+zenput
 zenrows
 zenvia
 zephyrhome
@@ -4099,8 +4101,9 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2929)
+## lever (2915)
 netflix
+spotify
 shopify
 github
 quora
@@ -4143,6 +4146,8 @@ upstart
 nuro2
 anysignal
 aofl
+saviynt
+shieldai
 10up-2
 174powerglobal
 1776
@@ -4215,6 +4220,7 @@ aifoundation
 aifund
 aigen
 ailens
+air-tek
 aira
 aircall
 airhouse
@@ -4224,6 +4230,8 @@ airshipsyndicate
 airwallex
 aisafety
 aiwyn
+ajax
+ajccanada
 akashnetwork
 akitasoftware
 alan
@@ -4249,6 +4257,7 @@ altoida
 altrio
 aluna
 alveotechnologies
+amanotes
 amaro
 amaze
 amberbio
@@ -4303,6 +4312,7 @@ aposto
 appacademy
 appboxo
 appcues-2
+appen-2
 appfollow
 apphub
 appliedminds
@@ -4316,6 +4326,7 @@ aprio
 apt-deco
 aptible
 aquicore
+arable
 aragon
 arbol
 arbor
@@ -4333,6 +4344,7 @@ arkbiotech
 arpa
 arrive
 artblocks
+artera-2
 artificial
 asap
 ascoeq
@@ -4424,6 +4436,8 @@ bebop
 bedrockocean
 beemenergy
 beetalents
+beghouconsulting
+bellese
 bellhops
 belong
 belonghome
@@ -4439,6 +4453,7 @@ beyond-creative
 beyondmeat
 beyondpricing
 bfp
+bfsaul
 biconomy
 bigfootbiomedical
 biggergames
@@ -4458,6 +4473,7 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
+bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -4475,6 +4491,7 @@ bloomcredit
 bloomthat
 blox-route
 blueboard
+bluecatnetworks
 bluecore
 bluedot
 bluejlegal
@@ -4492,6 +4509,7 @@ boats
 bodo
 bodyport
 boldbusiness
+bolster
 boltbio
 bombfell
 bonfirestudios
@@ -4512,6 +4530,7 @@ boulevard
 bound
 boweryfarming
 box
+bpmcpa
 brainnest
 brainstorminc
 brand-knew
@@ -4555,6 +4574,7 @@ bustle
 butcherbox
 butterpayments
 button
+buyboxexperts
 bvaccel
 c16bio
 call9
@@ -4565,6 +4585,7 @@ calven
 camber
 cambly
 campspot
+candlinspection
 canimmunize
 canopyservicing
 canva
@@ -4607,11 +4628,13 @@ celo
 centerfield
 centml
 centro
+centuria
 cere-network
 cerevel-2
 certifid
 certifyos
 cesiumastro
+cfgi
 chain
 chainlink
 chamberofprogress
@@ -4876,7 +4899,6 @@ duolingo
 dwavesys
 dwolla
 dydx-ops
-dynamiccatholic
 dynamoai
 dynastystudios
 dynatrace
@@ -4921,7 +4943,6 @@ emitwise
 empiricotx
 empowerly
 empowerpartnerships
-enable
 enarahealth
 encorevet
 end
@@ -4939,7 +4960,6 @@ enlitic
 enso
 entangledtalent
 entanglelabs
-enter-rcm-llc
 envedabio
 envisionemploymentsolutions
 enya
@@ -4947,8 +4967,6 @@ epicio
 epifi
 episci
 equiphealth
-erg
-espace
 esper-3
 espresso
 estenda
@@ -5021,7 +5039,6 @@ firstround
 fishtownanalytics
 fitbod
 fitifyworkouts
-fixinssoulkitchen
 fizz
 flaretherapeutics
 flash
@@ -5043,7 +5060,6 @@ flowfoundation
 flowspace
 flpstudio
 fluence
-flynncompanies
 flyrhospitality
 flyrlabs
 flytographer
@@ -5100,7 +5116,6 @@ futurelaboratori
 fynd
 fyusion
 g2i
-gagezero
 gametime
 gamma
 gantri
@@ -5131,17 +5146,13 @@ getjerry
 getjones
 getlago
 getmetronome
-getmidas
 getmulberry
 getmysa
 getpatch
-getwingapp
 ghcorps
-ghj
 ghjadvisors
 gigster
 ginkgobioworks
-girlswhocode
 gitbook
 gitlab
 givax
@@ -5155,19 +5166,15 @@ global-elite
 globalelitecareers
 gloo
 glowforge
-glsllc
 glu
 go2-markets
 goabstract
-goalbookapp-2
 goat
 gobrightside
-gocatalant
 goconsensus
 goeverbright
 goforward
 gogolook
-gohighlevel
 gojek
 gokenamerica1
 goldcast
@@ -5203,7 +5210,6 @@ greenshieldholdings
 greybrook
 grid
 gridmatic
-gridware
 grimm-co
 groupthink
 grove
@@ -5227,7 +5233,6 @@ haloeurope
 halosbodycams
 halter
 hamiltonps
-hannaandersson
 hap-capital
 happn
 happyfresh
@@ -5238,7 +5243,6 @@ harrisinsights
 harrison
 harvest-2
 hash
-hasi
 hatch
 hatchcard
 haus
@@ -5248,7 +5252,6 @@ hdvi
 hdworks
 headhunters
 headout
-headroyce
 headspace
 health-atscale
 health-match
@@ -5274,11 +5277,8 @@ herbl
 heretic-fund
 hexa
 hexagonusfederal
-heyrowan
 hicleo
-highbarhealth
 highfidelity
-highlandfleets-2
 highlight
 highspot
 highwirepr
@@ -5310,8 +5310,6 @@ honeybeerobotics
 honeycomb
 honeypot
 hopelab
-hopeservices
-hophr
 hopthru
 hostinger
 hoteltonight
@@ -5348,7 +5346,6 @@ idealscorp
 ideasunited
 ideayabio
 if7
-ifm-us
 igmbio
 ignite
 illumination
@@ -5370,7 +5367,6 @@ inductiveautomation
 industrydive
 infieldstrategies
 infinigods
-infinit
 infinitus
 inflection
 inflexion
@@ -5387,9 +5383,7 @@ inlight
 innablr
 innovafeed
 innovationdept
-innovativesol-2
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -5654,7 +5648,6 @@ lumivero
 lumosity
 lunchboxtechnologies
 luni
-luumlash
 luxe
 luxortechnology
 luzia
@@ -5705,8 +5698,6 @@ marketopia
 marlettefunding
 marq
 martinagency
-masterborn-2
-masterycharter
 mastreforestation
 mastrics
 masygroup
@@ -5720,7 +5711,6 @@ maxmind
 mbcapital
 mbrdna
 mbta
-mcchrystalgroup
 mcgrathnicol
 mcra
 mechanism-2
@@ -5820,6 +5810,7 @@ multiversx
 munichelectrification
 myassurehealth
 mycelium
+myodetox
 myplacehealth
 mytraffic
 myvest
@@ -6004,7 +5995,6 @@ paradoxum-gg
 parcellab
 pardon
 parkplace
-parnalllaw
 parrotsa
 parsleyhealth
 parspec
@@ -6154,7 +6144,6 @@ pronto-ai
 propelplm
 protegrity
 protocol
-protolabs
 provi
 proxima
 proximafusion
@@ -6380,11 +6369,9 @@ scalac
 scaleai
 scalebio
 scalemicrogridsolutions
-scality
 scanifly
 scanlinevfx
 schibsted
-schmidt-entities
 scholarsoffinance
 schoolhouseworld
 scienceexchange
@@ -6987,6 +6974,7 @@ xilis
 xmodesocial
 xometry
 xxartists
+yardzen
 yassir
 yellowai
 yelp
@@ -7030,7 +7018,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (957)
+## ashby (955)
 mercury
 together
 replicate
@@ -7071,7 +7059,6 @@ aizen
 alby
 aletiq
 allinbits
-alotten-inc
 alpaca
 alpha
 alpinex
@@ -7212,7 +7199,6 @@ cocreate
 codegen
 codeium
 coinhako
-cointracker
 columntax
 comm
 commandbar
@@ -7550,7 +7536,6 @@ medbill-ai
 medsender
 meetpace
 mem
-mem0
 membrane
 mentis
 meridian
@@ -7623,6 +7608,7 @@ onehealth
 onepay
 open-ledger
 opengovsg
+openhands
 openphilanthropy
 opensea
 openstore
@@ -7774,7 +7760,6 @@ scratchpad
 screenverse
 scribd
 scrunch-ai
-sealed
 searchlight
 searchstax
 secoda
@@ -7789,6 +7774,7 @@ shadow
 sidebar
 siftwell-analytics
 signalfire
+signalwire
 sketch
 skillz
 skyebioscience
