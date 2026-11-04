@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3989)
+## greenhouse (4040)
 hingehealth
 maven
 spring
@@ -221,6 +221,7 @@ allbirdsretail
 allbooked
 allconnect
 allegro
+allencontrolsystems
 allergandatalabs
 alleycorp
 alliedglobalmarketing
@@ -447,7 +448,6 @@ banyansecurity
 banyucarbon
 bardelentertainment
 barinthusbiotherapeutics
-bark
 barkley
 basehq
 basejobs
@@ -677,7 +677,6 @@ capstoneintegratedsolutions
 capsulecares
 carbon
 carbonbuiltemployment
-carbonchain
 carbonrobotics
 cardflight
 cardinalcommerce
@@ -1441,7 +1440,6 @@ getduos
 getepic
 getground
 getincl
-getitstraightorthodontics
 getprospa
 getro
 getsafe
@@ -1988,6 +1986,7 @@ leiainc
 lemmatree
 lemonlightmediainc
 lendinghome
+lenusehealth
 letgo
 letote
 letsgetchecked
@@ -3600,6 +3599,7 @@ uptivhealth
 upworthy
 urban
 urbanfootprint
+urbansportsclub
 urbint
 urbnleaf
 urx
@@ -3704,63 +3704,114 @@ voxy
 voyagertherapeutics
 vpawashington
 vpawv
+vscfiresecurityinc
+vtex
 vuestorefront
+vulcanelements
+vulncheck
 vultr
 vultronai
 vungle
+vynamic
+vynyl
 vytalizehealth
 wagmo
 wakam
 waku
+waldensecurity
 waldo
+wallapop
 walleyecapital-external-internships
+walleyecapital-external-students
+wallstreetprep
 walmartasr
 walnut
 waltzhealth
 warbyparker
+wargamingen
 wargamingru
 wargamingwelcometothejungle
+warp
+wasabi
+watchduty
+watchmakergenomics
+waterloocoop
+watershed
 watershedclimate
+watsonsfriendsah
 waveapp
 wavelo
 wavemm
+wavemm1
+waverleystreetfoundation
 wavexr
 wayfair
+waymark
+waymo
 wayup
 wayve
+wayvia
+wbpa
 wealthfront
 weareservicemax
 weatherbug
 weatherwaxbio
+weave
 weavegrid
 weavehq
 webai
 webflow
 webgility
+webstacks
+wecommunications
 weconnectrecovery
 wedosupport
 weedmaps
+weedmaps77
+weee
+wehrtyou
+weinsteinproperties
+weissassetmanagement
+welbehealth
+welearn
 well
 wellhealthinc
+wellist
+wellsaidlabs
 wellspringlearningcenters
 wellth
+wellthy-care-network
+weploy
 west10llc
+westbrook
+westcancercenter
+westcoastchildrensclinic
 westmonroe1
+westsidedermatology
 wework
 weworkglobalit
+wfclainc
 wgachidden
+whalarinc
 whatnot
 wheel
+wheelhouse
+wheelhousedmg
+wheely
 wheniwork
 whipmedia
 whiskercloud
+whisperaero
 whispir
 whistlelabs
 whistlesports
 whiteops
+whitetech
+whogivesacrap
 wholesail
 whop
 wideorbit
+wight
 wikimedia
 wikimediaendowment
 wil
@@ -3992,7 +4043,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2897)
+## lever (2959)
 netflix
 shopify
 github
@@ -4036,6 +4087,9 @@ upstart
 nuro2
 anysignal
 aofl
+eqbank
+shieldai
+zoox
 10up-2
 174powerglobal
 1776
@@ -4387,7 +4441,6 @@ bodyport
 boldbusiness
 bolster
 boltbio
-boltjobs
 bombfell
 bonfirestudios
 bonial-2
@@ -4508,7 +4561,7 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cfsenergy
+cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -4664,6 +4717,7 @@ crusoeenergy
 cruxinformatics
 crypto-innovation
 csaassociates
+cscgeneration-2
 culdesac
 cullinanoncology
 culturetrip
@@ -4746,6 +4800,7 @@ diversifiedradiology
 diversio
 dixa
 djeholdings
+dlocal
 dnc
 dntanks
 docebo
@@ -4788,6 +4843,7 @@ earlybird
 earthspecies
 eastwall
 easyagile
+easybrain
 eaze
 ebury
 ecocart
@@ -5477,6 +5533,7 @@ linq
 linuxacademy
 lionheartkid
 littleotter
+littlesprouts
 livechatinc
 livefront
 livekindred
@@ -5560,6 +5617,7 @@ manifest
 manifestfinancial
 manifestmedex
 mantanetwork
+mantisinnovation
 manty
 maple-finance
 maplemedia
@@ -5768,6 +5826,7 @@ ntdsoftware
 ntropy-network
 nubrakes
 numeral
+numeris
 nuorder
 nurx
 nutcrackertherapeutics
@@ -6159,6 +6218,7 @@ revolut
 revolutionparts
 revzilla
 rewatch
+rezolutebio
 rideos
 ridereport
 ridwell
@@ -6168,6 +6228,7 @@ rilldata
 rillet
 rimsys
 ring
+riocan
 riptidetech
 risklabs
 ritual
@@ -6216,6 +6277,7 @@ rw1
 rxsavingssolutions-2
 ryzlabs
 saagie
+safe
 safeai
 safelease
 safetyculture-2
@@ -6231,6 +6293,7 @@ saleswhale
 salo-sciences
 samacare
 sanctuary
+sar
 saronic
 sarwa
 satoricapital
@@ -6281,6 +6344,7 @@ sentibio
 seoulrobotics
 septerna
 seqera
+serigraph
 sesame
 sevenbridges
 sewerai
@@ -6296,6 +6360,7 @@ shelfengine
 shippit
 shippo
 shop-canal
+shopback-2
 shopreli
 showcaseidx
 sidebench
@@ -6325,15 +6390,18 @@ skava
 skello
 sketch
 skill-lync
+skillerszone
 skilljar
 skillshare
 skims
 skulabs
+skylineconstruction
 skypointcloud
 slab
 slang
 sleuth
 smarking
+smarsh
 smartadserver
 smartbugoperatingllc
 smartcar
@@ -6349,12 +6417,15 @@ snowplowanalytics
 socialchorus
 socialtables
 softrams
+solfl
 soloavt
 solutionsjournalism
 solvd
 solvhealth
 sonar
 sonatus
+sonatype
+soraschools
 soundcommerce
 soundstack
 sourcegraph
@@ -6384,6 +6455,7 @@ sprinto
 spruce
 sprucestreetcompinternships
 sprucesystems
+sprypointservices
 sqreen-2
 sta
 stable
@@ -6444,9 +6516,11 @@ sunnova
 sunpower
 suntribegroup
 super-com
+superannotate
 supernovacompanies
 supernoya-logistics
 superpedestrian
+superstate
 supportninja
 surfshark
 surglogs
@@ -6469,6 +6543,7 @@ sylvera
 symmetryinvestments
 symmetrysystems
 synapseint
+synapticure
 synmax
 synthetaic
 t1
@@ -6491,6 +6566,7 @@ tamara
 tamr
 tandemcare
 tangibleplay
+tangraminteriors
 tapasmedia
 tapcart
 taplytics
@@ -6510,6 +6586,7 @@ teampilot
 techflow
 techmatters
 technexus
+techquarter
 techruiter
 techtrust-inc
 teck-2
@@ -6518,6 +6595,7 @@ tecton
 tegus
 teikametrics
 teleport
+telesat
 tempest
 temporal
 tenderly
@@ -6533,9 +6611,11 @@ terraformation
 terrascope
 tesorio
 tessian
+tevora
 textio
 textnow
 tgsmc
+thalolabs
 the-sia-foundation
 the-street
 the-wing
@@ -6559,6 +6639,7 @@ thentwrk
 thenudge
 theorem
 theoremonellc
+theorycraftgames
 thepillclub
 therabodycorp
 therecount
@@ -6571,23 +6652,30 @@ thetrainline
 thewanderlustgroup
 thewire-media
 thezebra
+thiga
 thinair
+thinkahead
 thinkcyte
 thinkful
 thinkhr
+thinkingbox
 thinkon
 thinkstermath
 third-city-christian-church
+third-plateau
 thirdlove
 thirdwavelabs
 thortech-solutions
 thoughtexchange
 thrasio
 threatconnect
+threattec
 thredup
 thrillworks
 thrivemarket
+thuma
 thundertoken
+thunkable
 thycotic
 tiff
 tiket
@@ -6597,9 +6685,11 @@ timely-md
 timelycare
 tiplink
 titan
+titanelectric-ga
 titanx
 titmouse
 tivix
+tkda
 tlnt
 token
 tokenmetrics
@@ -6618,6 +6708,7 @@ toruslabs
 traba
 trace3
 tracksuit-limited
+tracktik
 tractian
 trade-lanes
 tradecentriccareers
@@ -6629,6 +6720,7 @@ trainual
 transfrvr
 transitscreen
 translifeline
+transmutex
 transwest
 travala
 treasure-data
@@ -6637,6 +6729,7 @@ trela
 trella
 trengobv
 trilogyfederal
+trinityhunt
 trip-ninja
 tripalink
 tripleblind
@@ -6646,6 +6739,7 @@ trolley
 trueaccord
 truenorth
 truepill
+truetandem
 truevault
 trunkio
 truora
@@ -6658,6 +6752,7 @@ trusttoken
 trustyou
 truveris
 trycourier
+ttecdigital
 tubularlabs
 tuftandneedle
 tul
@@ -6666,15 +6761,18 @@ tunein
 tunnl-data
 turing-labs
 tuskventures
+tutorintelligence
 tweeq
 twelvelabs
 twentyfirstcenturybrand
+twingate
 twisp
 twitch
 typology
 uberflip
 ubiminds
 udacity
+uei
 ueno
 ufonia
 uipath
@@ -6685,6 +6783,7 @@ umpqua-health
 uncountable
 unico
 uniphore
+unitedwayla
 universalengineeringsciences
 unknownworlds
 unlearnai
@@ -6701,6 +6800,7 @@ upmetrics
 upside
 upstox
 upwork
+usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6710,11 +6810,11 @@ ushur
 usmobile
 utopialabs
 utvate
+uvcyber
 v2sa
 valence
 valinor
 valoremreply
-valorepartners
 vannevarlabs-2
 vantagepointlogistics
 varicent
@@ -6728,6 +6828,8 @@ vedadata
 veefriends
 veho
 veir
+velo3d
+venusaero
 veonhq
 verafin
 vericred
@@ -6736,6 +6838,7 @@ veritasinv
 verity
 vero
 versana
+versapay
 verse
 verse-medical
 verticalscope
@@ -6745,6 +6848,7 @@ vesta-tech
 vestahousing
 vetcove
 veteransadvantage
+vevo
 vevo-ai
 vhslab
 vhx
@@ -6791,6 +6895,7 @@ vvt
 wahi
 waitrapp
 waitwhat
+walkerconsultants
 walnut
 walser
 wandb
@@ -6818,6 +6923,7 @@ wildlight
 windowsbyrba
 windsormanagement
 wingedrecruitment
+wingtra-2
 winnco
 wish
 wisk
@@ -6835,18 +6941,23 @@ work-life
 workbravely
 workos
 workramp
+workwave
+woven-by-toyota
 woven-planet
+wra-ca
 wristcheck
 wyld
 wyze
 x1creditcard
 xagroup
+xepelin
 xero
 xfers
 xilis
 xmodesocial
 xometry
 xxartists
+yardstick
 yardzen
 yassir
 yellowai
@@ -6857,6 +6968,7 @@ you
 yourmechanic
 yubico
 yubo
+yuno
 zadara
 zanskar
 zapsurgical
@@ -6886,12 +6998,13 @@ zoomer
 zoomprop
 zotecpartners
 zowie
+zoyi
 zumper
 zurigroup
 zuru
 zuva
 
-## ashby (954)
+## ashby (958)
 mercury
 together
 replicate
@@ -7064,6 +7177,7 @@ clarisights
 classavo
 clean-nutraceuticals
 clicklease
+climatiq
 cloudtrucks
 clove
 coactive
@@ -7112,6 +7226,7 @@ cubist
 cultureai
 cybersyn
 cybret
+cydea
 cylinderhealth
 d2iq
 dahlia-labs
@@ -7263,6 +7378,7 @@ govworx
 gptzero
 gradia
 gradientnetwork
+graphite
 grayce
 greenlite
 greenskygames
@@ -7646,6 +7762,7 @@ seriesai
 servicebell
 shadow
 sidebar
+signal-ai
 signalfire
 signalwire
 sketch
