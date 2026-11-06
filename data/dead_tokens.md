@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3873)
+## greenhouse (3876)
 hingehealth
 maven
 spring
@@ -1091,6 +1091,7 @@ dl1961
 dmarket
 dmcengineering2024
 dmipartners
+dna
 dnli
 dnsfilter
 doccla
@@ -2937,6 +2938,7 @@ roundpointmortgageservicingcorporation
 routable
 route06casual
 roxe
+rsgur
 rsinternboard
 rubilaboratories33
 rubyreceptionists
@@ -3707,6 +3709,7 @@ volleythat
 voltacharging
 voltrondata
 vorbiopharma
+voter
 voterev
 vouchinsurance
 vowgroup
@@ -3876,7 +3879,7 @@ ztxfoundation
 zubiad
 zynga
 
-## lever (2924)
+## lever (2901)
 netflix
 shopify
 github
@@ -3897,7 +3900,6 @@ flexport
 opendoor
 compass
 hims
-ro
 omadahealth
 fortyseven
 clover
@@ -3921,9 +3923,6 @@ upstart
 nuro2
 anysignal
 aofl
-firemon
-go-cloudforce
-shieldai
 10up-2
 174powerglobal
 1776
@@ -3938,7 +3937,6 @@ shieldai
 3pillarglobal
 3xmgroup
 42dot
-4front
 4mation
 4sightsupplychain
 500
@@ -3952,7 +3950,6 @@ shieldai
 99taxis
 abacus
 ablspacesystems
-abovelending
 abridge
 abtasty
 academia
@@ -3963,12 +3960,10 @@ accesso
 accompanyhealth
 accrue
 accurate
-achievers
 acl
 aclaimant
 acpl
 act
-actionlife
 ad2games
 ada
 ada-diamonds
@@ -3983,7 +3978,6 @@ adverum
 aechelon
 aeler
 aerialapplications
-aeva
 afarmedia
 affinity
 affirm
@@ -3992,13 +3986,11 @@ afterpaytouch
 agentnoon
 agerpoint
 agilesearch
-agiloft
 agotai
 agreena
 aicamp
 aidaly
 aidash
-aifi
 aifoundation
 aifund
 ailens
@@ -4027,7 +4019,6 @@ alida
 alignable
 alkymi
 allata
-allears-vet
 alliance
 allinbits
 allstripes
@@ -4038,7 +4029,6 @@ altoida
 altrio
 aluna
 alveotechnologies
-amanotes
 amaro
 amaze
 amberbio
@@ -4064,7 +4054,6 @@ angel
 anglehealth
 animaapp
 animaker
-animocabrands
 animoto
 anjuna
 anlatan
@@ -4075,7 +4064,6 @@ ansira
 anthropic
 anticapital
 antisocialsocialcapital
-anybotics
 anyperk
 anyroad
 anyscale
@@ -4102,7 +4090,6 @@ appliedminds
 applike
 applovin
 applyboard
-appsamurai
 appsilon
 apptegy
 apptimize
@@ -4127,12 +4114,10 @@ arkbiotech
 arpa
 arrive
 artblocks
-articulate
 artificial
 asap
 ascoeq
 asfar
-ashoka
 asimov
 aspiration-2
 assurance
@@ -4193,7 +4178,6 @@ backmarket
 backstage
 badal
 bai-inc
-balbix
 baller
 bambee
 bamtradingservices
@@ -4247,7 +4231,6 @@ biobot
 bioenergydevco
 bird
 birdcanada
-bisnow
 bitdefender
 bitly
 bitnami
@@ -4270,7 +4253,6 @@ blockstack
 blockswap
 blocpower
 bloomcredit
-bloomon
 bloomthat
 blox-route
 blueboard
@@ -4282,7 +4264,6 @@ blueoceanai
 blueoceanbarns
 blueprinttitle
 bluerocktx
-bluesight
 bluesinc
 bluespace
 bluewheelmedia
@@ -4313,7 +4294,6 @@ boulevard
 bound
 boweryfarming
 box
-boxlunch
 brainnest
 brainstorminc
 brand-knew
@@ -4752,6 +4732,7 @@ epicio
 epifi
 episci
 equiphealth
+esalen
 esper-3
 espresso
 estenda
@@ -5970,7 +5951,6 @@ quidd
 quidel
 quilt
 quince
-quincus
 quitgenius
 quizizz
 quizlet-2
