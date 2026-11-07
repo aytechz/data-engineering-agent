@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4385)
+## greenhouse (4392)
 hingehealth
 maven
 spring
@@ -3389,11 +3389,13 @@ teladochealth
 telemedicine
 telesign
 telgorithm
+telnyx54
 telusdigitalbr
 templafy
 temporal
 temporaltechnologies
 tempus
+tenableinc
 tenberke
 tencent
 tenderfood
@@ -3401,12 +3403,17 @@ teneolinkedin
 tenet
 tenet3
 tenetfintechgroup
+tennesseetitleloansinc
 tenon
 tensor
+tenstorrent
 tenstreet
 tenthousand
 teracore
+terakeet
 terapore
+teravision
+terniumrevenuecyclemanagement
 terrabis
 terraclear
 terrafuse
@@ -4388,7 +4395,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2900)
+## lever (2901)
 netflix
 shopify
 github
@@ -6348,6 +6355,7 @@ plusgrade
 pmdsoft
 pockethealth
 pocketworlds
+pointclickcare
 pointonenav
 polarsteps
 policyfly
@@ -7290,7 +7298,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (963)
+## ashby (964)
 mercury
 together
 replicate
@@ -8034,6 +8042,7 @@ safi
 sales-marker
 salesjack
 same
+sana-roles
 sauron
 savvyinsurance-trellis
 scaler
