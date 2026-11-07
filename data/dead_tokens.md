@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4380)
+## greenhouse (4385)
 hingehealth
 maven
 spring
@@ -386,6 +386,7 @@ atai
 ataiwebsite
 atalantatherapeutics
 athenaeducation
+athinkingape
 athletics
 atlanticcouncil
 atlasnavigatorsllc
@@ -519,7 +520,6 @@ biofourmis
 biograph
 biolumina
 biomechanicsconsultingandresearchllc
-biomedrealty
 bioptimizers
 bioptimus
 bioskryb
@@ -1447,6 +1447,7 @@ getprospa
 getro
 getsafe
 getshogun
+getyourguide
 ghd
 ghostautonomy
 ghostsecurity
@@ -3393,15 +3394,19 @@ templafy
 temporal
 temporaltechnologies
 tempus
+tenberke
 tencent
 tenderfood
+teneolinkedin
 tenet
+tenet3
 tenetfintechgroup
+tenon
 tensor
+tenstreet
 tenthousand
+teracore
 terapore
-teravision
-terniumrevenuecyclemanagement
 terrabis
 terraclear
 terrafuse
@@ -4383,7 +4388,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2930)
+## lever (2900)
 netflix
 shopify
 github
@@ -4451,7 +4456,6 @@ aofl
 7geese
 8thlight
 8x8
-90seconds
 99taxis
 abacus
 ablspacesystems
@@ -4515,7 +4519,6 @@ alation
 albedo
 alchemy
 alcion
-aledade
 aleysian
 algolia
 algotive
@@ -4629,10 +4632,8 @@ astera
 asthomecares
 astra
 astranis
-ataccama
 atekinc
 athennian
-athletetoathlete
 athleticgreens
 atlan
 atlassian
@@ -4745,7 +4746,6 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
-bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -4809,7 +4809,6 @@ brazoderecho
 breakwatertech
 brewbike
 brewbird
-bricknetworks
 bridge
 bridge2rwanda
 bridgebio
@@ -4893,7 +4892,6 @@ causal-app
 ccmr3
 cdcfoundation
 cef
-celerion
 celestia
 celo
 centerfield
@@ -4939,7 +4937,6 @@ clabs
 clasp
 class
 class101
-cleanspark
 clearbit
 clearer
 clerky
@@ -4996,7 +4993,6 @@ common-networks
 commoncode
 commonlit
 communityboost
-companial
 companyon
 compasslexecon
 complex
@@ -5042,7 +5038,6 @@ covariant
 cover-2
 covergenius
 craft
-craftwater
 craftwaterinc
 cratejoy
 creadits
@@ -5063,7 +5058,6 @@ crusoeenergy
 cruxinformatics
 crypto-innovation
 csaassociates
-cscgeneration-2
 culdesac
 cullinanoncology
 culturetrip
@@ -5084,7 +5078,6 @@ cyngn
 cyvl-ai
 d-edge
 daedalean
-daniels-sharpsmart
 darkslope
 darwinhomes
 dasservicesllc
@@ -5165,7 +5158,6 @@ drchrono
 dreamsports
 drip
 drivekyte
-drivetrain
 drivy
 drizly
 dronedeploy
@@ -5272,7 +5264,6 @@ exabeam
 exp
 explorejobssearch
 expopulus
-extremenetworks
 extropic
 exygy
 ey-ps
@@ -5297,7 +5288,6 @@ fathomradiant
 fazzfinancial
 federato
 feedmedia
-fehrandpeers
 fellowshiplifeinc
 femalefounders-fund
 ffws
@@ -5342,7 +5332,6 @@ flowfoundation
 flowspace
 flpstudio
 fluence
-flux-mobility
 flyrhospitality
 flyrlabs
 flytographer
@@ -5399,7 +5388,6 @@ futurelaboratori
 fynd
 fyusion
 g2i
-galvanick
 gametime
 gamma
 gantri
@@ -5438,7 +5426,6 @@ ghcorps
 ghjadvisors
 gigster
 ginkgobioworks
-girlswhocode
 gitbook
 gitlab
 givax
@@ -5521,7 +5508,6 @@ halter
 hamiltonps
 hap-capital
 happn
-happyco
 happyfresh
 happymoney
 harmonicdesign
@@ -5550,7 +5536,6 @@ healthverity
 heard
 hearsaysystems
 heartflow
-heetch
 heirloomtechnologies
 helbiz
 hellobestow
@@ -5585,7 +5570,6 @@ hively
 hivemapper
 hiver
 hlkagency
-hmbl-tech
 holmusk
 hologram
 holygrail
@@ -5635,7 +5619,6 @@ idealscorp
 ideasunited
 ideayabio
 if7
-ifm-us
 igmbio
 ignite
 illumination
@@ -5649,7 +5632,6 @@ improvadoio
 inato
 inboxlab
 incandescent
-includedhealth
 indebted
 indico
 indigoag
@@ -5675,7 +5657,6 @@ innablr
 innovafeed
 innovationdept
 insightm
-insomniacookies
 inspiration-mobility
 instawork
 instituteforproteininnovation
@@ -5691,7 +5672,6 @@ interfolio
 interiormarketinggroup
 interlude
 internationalbudget
-intersect
 intersectpower
 intive
 intouchgroup
@@ -5777,7 +5757,6 @@ kerishullteam
 ketch
 kevala
 kg
-kgroupcompanies
 kibeam
 kickback
 kickoff
@@ -5879,7 +5858,6 @@ lexingtonmedical
 liberatii
 lifen
 lightci
-lightedge
 lillio
 limberhealth
 lime
@@ -5993,7 +5971,6 @@ marketopia
 marlettefunding
 marq
 martinagency
-massive-rocket
 mastreforestation
 mastrics
 masygroup
@@ -6088,7 +6065,6 @@ monumental
 moogsoft
 moonhub
 moonsong-labs
-morningbrew
 morningconsult
 mosaic-2
 mosaicbuilders
@@ -6155,7 +6131,6 @@ nfamilyclub-2
 nftnow
 nftpay
 nfx
-nibiru
 nielsen
 nightfall
 nilc
@@ -7464,7 +7439,6 @@ cartloop
 casap
 cased
 cassidy
-category-labs
 catena-labs
 catio
 census
@@ -7711,6 +7685,7 @@ halborn
 halliday
 halo-cures
 happeo
+hartbeat
 hashboard
 healnow
 health-universe
