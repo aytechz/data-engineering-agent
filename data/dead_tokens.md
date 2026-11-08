@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4143)
+## greenhouse (4093)
 hingehealth
 maven
 spring
@@ -1329,7 +1329,9 @@ flyhomes
 flyinghorse
 flyr
 focusedlabs
+focusfinancialpartners
 focuspartnersaustralia
+focuspartnerswealth
 fogpharma
 foliahealth
 followupboss
@@ -3610,7 +3612,6 @@ urbint
 urbnleaf
 urx
 usablemachines
-usenourish
 userinterviews
 userleap
 ushur
@@ -3621,102 +3622,51 @@ utilityapi
 vac
 vacasa
 vaco
-vailclinicincdbavailhealthhospital
-valaratomics
-valerahealth
 valiantharborinternationalllc
 valimailinc
-valleyhospital
 valleyview
-valohealth
 valon
 valorainc
-valspec
-valtech
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
 variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
-vecma
-vecnyc
-vectara
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
-verisign
-veristainc
-veritasvetpartners
 veritone
 veronapharma
-verramobility
-versaterm
-verse
-versprite
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
 verygoodventures
-vesalius
 vesartex
 vestahealthcare
 vestal
-vestmark
 vestwell
 veterans
 veterinaryemergencygroupst
@@ -4146,7 +4096,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2901)
+## lever (2917)
 netflix
 shopify
 github
@@ -4541,6 +4491,7 @@ boldbusiness
 bolster
 boltbio
 bombfell
+bonedry
 bonfirestudios
 bonial-2
 bonsaileadershipgroup
@@ -4647,6 +4598,7 @@ catbird
 catenamedia
 catlabs
 causal-app
+cbtnuggets
 ccmr3
 cdcfoundation
 cef
@@ -4805,6 +4757,7 @@ credavenue
 creditkarma
 credo
 credplatform
+crestoperations
 crewapp
 crewbloom
 crickethealth
@@ -4831,6 +4784,7 @@ custodiabank
 cybcube
 cybercare
 cyberfame
+cybourn
 cye
 cyngn
 cyvl-ai
@@ -4911,6 +4865,7 @@ doppler
 dorahacks
 dott
 doubledown
+dozee
 dragonarmy
 drchrono
 dreamsports
@@ -4957,6 +4912,7 @@ egensolutions
 eh2
 einride
 elearningmind
+electricmind
 electrifiedthermalsolutions
 electrum
 elementus
@@ -4969,10 +4925,12 @@ emeraldtherapeutics
 emersoncollective
 emersonhc
 emesent
+emilyslist
 emitwise
 empiricotx
 empowerly
 empowerpartnerships
+enable
 enarahealth
 encorevet
 end
@@ -4997,6 +4955,7 @@ epicio
 epifi
 episci
 equiphealth
+er-meds
 esper-3
 espresso
 estenda
@@ -5034,6 +4993,7 @@ factored
 fairmat
 fairmatic
 fama
+fampay
 fanatics
 fantasy
 farcast
@@ -5060,6 +5020,7 @@ findmine
 findora
 finfit
 finleytechnologies
+finn
 finstek
 finwavesemiconductor
 firewoodmarketing
@@ -5181,6 +5142,7 @@ getmysa
 getpatch
 getsquire
 ghcorps
+ghj
 ghjadvisors
 gigster
 ginkgobioworks
@@ -5218,6 +5180,7 @@ goodgamestudios
 goodrx
 gordian-bio
 gorgias
+gorh
 gorillalogic
 goshippo
 gotit
@@ -5382,6 +5345,7 @@ ignite
 illumination
 illumix
 imbue
+imentor
 imperfectfoods
 imperfectproduce
 impossiblefoods
@@ -5414,6 +5378,7 @@ inlight
 innablr
 innovafeed
 innovationdept
+inpay-2
 insightm
 inspiration-mobility
 instawork
@@ -5450,6 +5415,7 @@ iron_hack
 ironcladapp
 ironnetcybersecurity
 ironox
+isee
 isometrictechnologies
 issuu
 italic
@@ -5459,6 +5425,7 @@ ivo
 izotope
 jacquard
 jagex
+jamcity
 jane
 janeapp
 jar-app
@@ -6816,7 +6783,6 @@ trusttoken
 trustyou
 truveris
 trycourier
-tsmg
 tubularlabs
 tuftandneedle
 tul
