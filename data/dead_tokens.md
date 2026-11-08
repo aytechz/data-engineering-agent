@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (3916)
+## greenhouse (3873)
 hingehealth
 maven
 spring
@@ -3839,85 +3839,42 @@ yieldstreet
 yohana
 yougov
 youhealthproviders
-youngmindsdc
 yoursuper
-yousician
 youthinc
 yprime
-yugabyte
 yugalabs
 yummly
-yurtsai
-yuvohealthllc
-zafinlabsamericasinc
-zam
-zambold
 zap
 zapiercareers
 zava
 zealcareers
-zeals
 zeffy
 zelusanalytics
 zemogajobs
-zenasbio
-zenbusiness
-zencoder
 zenefits
 zengrc
 zenithhealth
 zenjob
-zennify
-zennioptical
-zenoti
 zenpayroll
-zenput
-zenrows
 zenvia
 zephyrhome
 zeplin
 zepzgroup
-zerostudios
-zerotothree
-zestai
 zesty
-zestyai
-zetachain
-zetaglobal
-zevia
 ziina
 zilliqa
 zilliz
 zind-erprogram
 zing
-zinnia
 zinniaintern
-zinnov
 zip
-zipcolimited
-ziprecruiter
 zitaratechnologiesinc
-zocalohealth
-zocdoc
-zola
 zolar
-zone5technologies
-zonecompanysoftwareconsultingllc
-zoo
-zoominfo
 zora
-zoro
-zscaler
 zscalerredcanary
 ztxfoundation
 zubiad
-zulualphakilo
-zuora
-zupinnovation
-zwift
 zynga
-zyngacareers
-zyngaearlycareers
 
 ## lever (2900)
 netflix

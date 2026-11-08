@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-11-08 15:11 UTC_
+_Last updated: 2026-11-08 19:42 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
