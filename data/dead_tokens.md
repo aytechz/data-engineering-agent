@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4139)
+## greenhouse (4103)
 hingehealth
 maven
 spring
@@ -771,6 +771,7 @@ chessatthree
 chewielabs
 chewycom
 chfp
+chicagotradingcampushiring
 chief
 chilipiper
 chompscareers
@@ -1525,6 +1526,7 @@ grayling
 graymatterrobotics
 grayscalable
 greatist
+greenirony
 greenlightbiosciences
 greenpeace
 gregarious
@@ -3623,7 +3625,6 @@ utilityapi
 vac
 vacasa
 vaco
-valerahealth
 valiantharborinternationalllc
 valimailinc
 valleyview
@@ -3632,78 +3633,41 @@ valorainc
 valtechgreenhouse
 valuatehealthconsultancy
 vanecapital
-vanguarddermatology
-vanleeuwenicecream
-vanmetre
 vannahealth
-vannevarlabs
 vanta
 vantaiinc
 vareto
 variantbio
-varicent
 varsitytutors
-vast
 vatcllc123
-vaticlabs
 vault
-vaxcyte
-vay
-vaynermedia
 vayu
 vdxtvakaexponentialinteractive
-vecma
-vecnyc
-vectara
 vectornorth
-vectranetworks
-vedantabiosciences
-veeamsoftware
 veedio
 veem
 veesearch
-vegaamericas
-veir
-velir
 velir-private
-velocityelectronics
 velocityglobal
 velodyne
-velora
 venafi
 vendia
 vendr
 venmo
 venn
-venncity
-venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
 venturewell
 ventustherapeutics
-veocorporatecareers
-veracode
-veracyte
-veranahealth
-verantos
-veratherapeuticsinc
 verbenergy
-veriff
-verifone
 veriforce
-veriheal
 verisign
-veristainc
 veritasvetpartners
 veritone
 veronapharma
-verramobility
 versaterm
-verse
-versprite
 vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
 verusen
@@ -4142,7 +4106,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2906)
+## lever (2902)
 netflix
 shopify
 github
@@ -4186,7 +4150,6 @@ upstart
 nuro2
 anysignal
 aofl
-zoox
 10up-2
 174powerglobal
 1776
@@ -4213,7 +4176,6 @@ zoox
 8x8
 99taxis
 abacus
-ableserve
 ablspacesystems
 abridge
 abtasty
@@ -4287,7 +4249,6 @@ allata
 alliance
 allinbits
 allstripes
-alluxio
 allworknow
 alpineimmunesciences
 altoida
@@ -4310,13 +4271,11 @@ amused-group
 amyris
 anagram
 analog
-analogfolk
 analuisa
 ancestry
 anduril
 angaza
 angel
-angellist
 anglehealth
 animaapp
 animaker
@@ -4661,7 +4620,6 @@ cerevel-2
 certifid
 certifyos
 cesiumastro
-cgsfederal
 chain
 chainlink
 chamberofprogress
@@ -5610,6 +5568,7 @@ lendinghome
 lendio
 leolabs-2
 leotechnologies
+lessen
 letote
 leucine
 lever
@@ -5735,6 +5694,7 @@ mastreforestation
 mastrics
 masygroup
 mathpresso
+matrixpartners
 mattermark
 mattermost
 matterport
