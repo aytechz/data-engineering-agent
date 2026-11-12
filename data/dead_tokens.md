@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4223)
+## greenhouse (4207)
 hingehealth
 maven
 spring
@@ -79,6 +79,7 @@ doubleverify
 glossgenius
 rdccareers
 transcarent
+trumid
 visiersolutionsinc
 0x
 100x
@@ -160,6 +161,7 @@ adahealth
 adamosecurity
 adaptive3d
 adaptivewater
+addatainitiative
 adelphigraduatecareers
 adelphiresearch
 adheretech
@@ -455,6 +457,7 @@ barkley
 basehq
 basejobs
 basepowercompany
+basic
 batonhealth
 baymeadows
 bbot
@@ -501,6 +504,7 @@ bettervet
 betterworks
 bettygamingca
 bevy
+beyond
 beyondidcareers
 beyondidentity
 beyondidtalentcommunity
@@ -541,6 +545,7 @@ blackbill
 blackbird
 blackforestlabs
 blackswan
+blackthorn
 blade
 blastpoint
 blisspointmedia
@@ -664,7 +669,6 @@ canary
 candex
 candy
 cannalysislabs
-cannondale
 canonicaljobs
 canvas
 canvasconstruction
@@ -1072,6 +1076,7 @@ digitaloceancitesremotes
 digitalonus
 digitaltrends
 digitaltrendsfreelance
+dimagi
 dimensionalenergy1
 discoxyz
 dispatch
@@ -1197,7 +1202,6 @@ energyfoundation
 energywebfoundation
 engieenergyaccess
 englishscore
-enscohotjobs
 ensemble
 ensembleai
 ensitefulinternalpositions
@@ -1241,7 +1245,6 @@ evolvtechnologies
 evpassport
 exabeam
 exactsales
-examplecorpsandbox
 execonline
 exfluency
 exo
@@ -1709,7 +1712,6 @@ ilabsinnovationlabsinc
 illumio
 imagendarystudios
 imagentechnologies
-immoverkauf24
 immpactbio
 immunai
 immunefi
@@ -2497,7 +2499,6 @@ onistudios
 onna
 onsights
 onsiteiq
-oodlefinance
 op3n
 opaque
 openap
@@ -3560,48 +3561,31 @@ trustory
 trustwell
 trykarat
 tshirtventures
-ttcglobal
-tubescience52
-tubitv
 tucowscampusrecruitment
-tudorgroup
-tulip
 tumblr
 tunein
 turbofish
-turbotenant
-turing
 turingportal
 turnkeylenderinc
 turntide
 turo
 turquoisehealth
-turtlerockstudios
 tusimple
 tusimplerelocationjobs
 tutorme
 tvscientific
-tweag
 twiliostudents
 twillhealth
-twinhealth
 twinstar
-twinstream
 twinternal
-twistbioscience
 two
-twochairs
 twonil
 twosixtechnologies
 txm
-typeface
 typeform
-tyreeanddangelo
-tysonmendesllp
 u410
 uasi
 uchicagoepic
-udacity
 udemybedi
 udio
 uiflow
@@ -4226,9 +4210,8 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2930)
+## lever (2941)
 netflix
-spotify
 shopify
 github
 quora
@@ -4271,20 +4254,14 @@ upstart
 nuro2
 anysignal
 aofl
-brightmachines
-gr0
 10up-2
-15five
 174powerglobal
 1776
 18c
 1910genetics
-1inch
 1password
 21
-21hhs
 2a
-2brains
 3box
 3dhubs
 3eco
@@ -4296,7 +4273,6 @@ gr0
 500
 522productions
 54collective
-5amventures
 5wpr
 5xdata
 7geese
@@ -4311,12 +4287,10 @@ academia
 academy
 acala
 acast
-acceldata
 accesso
 accompanyhealth
 accrue
 accurate
-acds
 acl
 aclaimant
 acpl
@@ -4340,7 +4314,6 @@ affinity
 affirm
 afreshtechnologies
 afterpaytouch
-agatesoftware
 agentnoon
 agerpoint
 agilesearch
@@ -4354,7 +4327,6 @@ aifund
 ailens
 aira
 aircall
-airdna
 airhouse
 airprotein
 airship
@@ -4376,7 +4348,6 @@ alice
 alictus
 alida
 alignable
-alimentiv-2
 alkymi
 allata
 alliance
@@ -4407,7 +4378,6 @@ analog
 analogfolk
 analuisa
 ancestry
-andersgroup
 anduril
 angaza
 angel
@@ -4822,6 +4792,7 @@ codewaystudios
 cofactr
 coffeemeetsbagel
 coforma
+cogentanalytics
 cogentbiosciences
 cogility
 cogitocorp
@@ -4905,7 +4876,6 @@ crewapp
 crewbloom
 crickethealth
 criticaltilt
-crosscountry-consulting
 crossvale
 cruise
 crunchbase
@@ -5564,7 +5534,6 @@ jeff-app
 jellysmack
 jina-ai
 jiostar
-jmawireless
 jobcase
 jockmkt
 joebiden
@@ -5638,6 +5607,7 @@ knockcrm
 knotch
 knownwell
 knrtherapy
+kobie
 kochava
 koddi
 kodex
@@ -5874,6 +5844,7 @@ metalpay
 metaprisebanking
 metatheory
 meteor
+metergysolutions
 mgac
 mheducation
 micromerchantsystems
@@ -5939,7 +5910,6 @@ mrss
 mryum
 multiversx
 munichelectrification
-musixmatch
 myassurehealth
 mycelium
 myodetox
@@ -6113,6 +6083,7 @@ p-1ai
 pachama
 pachyderm
 packmatic
+padsplit
 pagerduty
 pamu
 panapartners
@@ -6124,6 +6095,7 @@ panum
 papara
 papercut
 paradoxum-gg
+parallelwireless
 parcellab
 pardon
 parkplace
@@ -6145,6 +6117,7 @@ payabli
 payfit
 paymongo
 paystack
+paytm
 paytmbank
 payzen
 pdq
@@ -6204,6 +6177,7 @@ playvs
 plazahomemortgage
 plivo
 plum
+plume
 plusgrade
 pmdsoft
 pockethealth
@@ -6228,6 +6202,7 @@ potloc
 powdevs
 ppaz
 ppgnnj
+ppgreatplains
 ppgt
 pplwise
 ppncny
@@ -6254,6 +6229,7 @@ primary-2
 primarybio
 primaryvc
 primechiefofstaff
+primeexecutiveoffice
 primemoverslab
 princesspolly
 printavo
@@ -6274,9 +6250,12 @@ projector-2
 projectyx
 promaxo
 pronto-ai
+propellerhead
 propelplm
+propelsoftware
 protegrity
 protocol
+protolabs
 provi
 proxima
 proximafusion
@@ -6305,7 +6284,9 @@ qover
 qredo
 qualified
 qualtekservices
+quandri
 quantcast
+quantco-
 quantgene
 quantlabs
 quantumcircuits
@@ -6341,7 +6322,6 @@ rangeenergy
 ranitherapeutics
 rapidapi
 rapiddeploy
-rapidmicrobio
 rappi
 raptormaps
 raptstudio
@@ -6370,6 +6350,7 @@ refuel
 regalvoice
 regard
 regentcraft
+regenxbio
 reggora
 regrello
 reibus
@@ -6388,13 +6369,17 @@ rendernetworks
 renegade
 repairsmith
 replicant
+reply
 repreach
 republic
 reputation
 request
 rescale
+researchgate
 residenthome
 resilience
+resiliencelab
+resilinc
 resonanceglobal
 respawn
 respondent
@@ -6404,6 +6389,7 @@ retailmenot
 retailreinvented
 retentionscience
 retool
+retro
 returnly
 returntocorp
 revenuecat
@@ -6417,6 +6403,7 @@ revolut
 revolutionparts
 revzilla
 rewatch
+richards-supply
 rideos
 ridereport
 ridwell
@@ -6442,8 +6429,10 @@ robustintelligence
 rockcontent
 rocketcommunications
 rocketlawyer
+rocketpartners
 rocketpharma
 rocketrip
+rocketship
 rockset
 rockymountainprep
 roger
@@ -6456,6 +6445,7 @@ roofstock
 roosterteeth
 root16
 roserocket
+roshalimaging
 roundglass
 routethis
 roy-cooper
@@ -6522,6 +6512,7 @@ seaoil
 secondfrontsystems
 section
 securityinnovation
+seedify-fund
 seekai
 seesaw
 seifdn
@@ -6626,6 +6617,7 @@ spacemaker
 spacetecpartners
 sparkclimatesolutions
 sparkfund
+spawglass
 speakeasyapi
 spectral
 spekit
@@ -6738,6 +6730,7 @@ tachyus
 tackle
 tactical
 tactilegames
+tagup
 tajir-app
 takescoop
 talend
@@ -6825,6 +6818,7 @@ therabodycorp
 therecount
 therichardsgrp
 therounds
+thesalesfactory
 thesleepreset
 thespringhillco
 thestudio
@@ -6833,6 +6827,7 @@ thewanderlustgroup
 thewire-media
 thezebra
 thinair
+thinkahead
 thinkcyte
 thinkful
 thinkhr
@@ -6862,6 +6857,7 @@ titanx
 titmouse
 tivix
 tlnt
+todaytixgroup
 token
 tokenmetrics
 tokenwin
@@ -6965,6 +6961,7 @@ upmetrics
 upside
 upstox
 upwork
+usasurveyjob
 usecipher
 useinsider
 useloom
@@ -6997,7 +6994,6 @@ vericred
 verisart
 veritasinv
 verity
-verkor
 vero
 versana
 verse
@@ -7102,7 +7098,6 @@ workos
 workramp
 woven-planet
 wristcheck
-wyetechllc
 wyld
 wyze
 x1creditcard
@@ -7644,7 +7639,6 @@ lark
 latitud
 latitudecareers
 layern
-leantechniques
 leapsome
 legend-xyz
 lempire
@@ -7680,6 +7674,7 @@ maisa
 mako
 manufactured
 manusai
+maple
 martian
 mastodon
 materia
