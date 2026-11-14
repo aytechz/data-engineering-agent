@@ -1,6 +1,6 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-11-13 22:38 UTC_
+_Last updated: 2026-11-14 03:14 UTC_
 
 Showing the 200 most recently discovered matching jobs.
 
@@ -8,13 +8,13 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
-- **[Senior Data Engineer](https://boards.greenhouse.io/gatikaiinc/jobs/4729523006?gh_jid=4729523006)** at **Gatik AI** — Santa Clara, CA · `spark, airflow, aws, python, sql` · _greenhouse_
-- **[Staff Data Engineer](https://jobs.lever.co/agiloft/5372c895-388d-4313-ba0c-bec4b4b2129f)** at **agiloft** — United States · _lever_
-- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8366921?gh_jid=8366921)** at **Roblox** — San Mateo, CA, United States 🤖 · _greenhouse_
+- **[Principal Engineer - AI Data Platform, Remote](https://jobs.lever.co/aledade/e9636a60-5455-4a52-afed-eeadb50424cd)** at **aledade** — Remote, United States 🤖 · _lever_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
-- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/scaleai/jobs/4649903005)** at **Scale AI** — San Francisco, CA; New York, NY · `spark, snowflake` · _greenhouse_
 - **[Senior Staff Data Engineer, Foundational Data](https://careers.airbnb.com/positions/8224032?gh_jid=8224032)** at **Airbnb** — United States 🤖 · `airflow, python, sql` · _greenhouse_
 - **[Senior Data Engineer, Ads](https://job-boards.greenhouse.io/discord/jobs/8299493002)** at **Discord** — Remote (U.S.) 🏥🤖 · `spark, dbt, kafka, python, sql` · _greenhouse_
@@ -127,8 +127,8 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/evolvevacationrental/jobs/7977457003)** at **Evolve** — Remote - US 🏥🤖 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
 - **[Senior Data Platform Engineer, Enterprise Merchant Integrations](https://job-boards.greenhouse.io/extend/jobs/6211395004)** at **Extend** — Remote 🏥 · `snowflake, kafka, aws, python` · _greenhouse_
 - **[Staff Data Infrastructure Engineer](https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002)** at **Faire** — New York City, NY; San Francisco, CA 🤖 · `databricks, spark, snowflake, airflow, kafka, aws` · _greenhouse_
-- **[Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8267158)** at **FanDuel** — Atlanta, Georgia, United States 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _greenhouse_
 - **[Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8081556)** at **FanDuel** — Atlanta, Georgia, United States 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _greenhouse_
+- **[Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8267158)** at **FanDuel** — Atlanta, Georgia, United States 🏥🤖 · `databricks, spark, dbt, airflow, kafka, aws` · _greenhouse_
 - **[Principal Data Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8919733002?gh_jid=8919733002)** at **Flagship Pioneering, Inc.** — Cambridge, MA USA 🏥🤖 · `databricks, spark, snowflake, airflow, aws, python` · _greenhouse_
 - **[Senior / Principal Data Infrastructure Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8869701002?gh_jid=8869701002)** at **Flagship Pioneering, Inc.** — Cambridge, MA USA 🏥🤖 · `snowflake, airflow, aws, azure, python, sql` · _greenhouse_
 - **[Senior Data Engineer - Data Platform](https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003)** at **Zipline** — South San Francisco, California, USA 🏥 · `snowflake, dbt, airflow, aws, python` · _greenhouse_
@@ -136,6 +136,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/formationbio/jobs/8213713)** at **Formation Bio** — New York, NY; Boston, MA; San Francisco, CA 🏥🤖 · `spark, snowflake, dbt, python, sql, terraform` · _greenhouse_
 - **[Data Engineering Consultant - Databricks (Remote)](https://job-boards.greenhouse.io/formativgroup/jobs/4452007009)** at **FormativGroup** — Remote/India - Full-Time 🤖 · `databricks, spark, snowflake, aws, gcp, azure` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/fsastorecom/jobs/8496861002)** at **Health-eCommerce.com** — United States 🏥 · `spark, azure, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://boards.greenhouse.io/gatikaiinc/jobs/4729523006?gh_jid=4729523006)** at **Gatik AI** — Santa Clara, CA · `spark, airflow, aws, python, sql` · _greenhouse_
 - **[Global Data Engineer](https://job-boards.greenhouse.io/goodwaygroup/jobs/5991794004)** at **Goodway Group** — Remote 🤖 · `databricks, spark, snowflake, dbt, airflow, aws` · _greenhouse_
 - **[Senior QA Data Engineer](https://job-boards.greenhouse.io/gradientai/jobs/8038980003)** at **Gradient AI** — Remote 🏥 · `databricks, spark, dbt, airflow, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/healthie/jobs/4412029009)** at **Healthie** — Remote 🏥 · `snowflake, dbt, kafka, aws, sql, terraform` · _greenhouse_
@@ -158,8 +159,8 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer, Bioinformatics, Cheminformatics, Materials](https://job-boards.greenhouse.io/lilasciences/jobs/4377096009)** at **Lila Sciences** — San Francisco, CA USA 🏥 · `airflow, kafka, python, sql` · _greenhouse_
 - **[Staff Engineer, Data Platform](https://job-boards.greenhouse.io/lilasciences/jobs/4222065009)** at **Lila Sciences** — Cambridge, MA USA; San Francisco, CA USA 🏥🤖 · `airflow, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer - Analytics](https://job-boards.greenhouse.io/machinifyinc/jobs/4418234009)** at **Machinify** — Remote - US 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, python` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/machinifyinc/jobs/4116095009)** at **Machinify** — Remote - US 🏥🤖 · `spark, airflow, kafka, aws, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/machinifyinc/jobs/4478208009)** at **Machinify** — Remote - US 🏥🤖 · `databricks, spark, snowflake, dbt, airflow, aws` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/machinifyinc/jobs/4116095009)** at **Machinify** — Remote - US 🏥🤖 · `spark, airflow, kafka, aws, python, sql` · _greenhouse_
 - **[Staff Data Engineer, Core Migrations](https://job-boards.greenhouse.io/machinifyinc/jobs/4303034009)** at **Machinify** — Remote - US 🏥🤖 · `spark, airflow, aws, python, sql` · _greenhouse_
 - **[Associate Data Engineer](https://job-boards.greenhouse.io/map/jobs/8816124002)** at **MAP** — Austin, Texas, United States · `spark, snowflake, dbt, airflow, aws, gcp` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/mesh/jobs/5453260008)** at **Mesh** — San Francisco, CA, New York, NY · `spark, python, sql` · _greenhouse_
@@ -175,10 +176,10 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/nimblegravity/jobs/4740591005)** at **Nimble Gravity** — LATAM (Remote), US (Remote) 🤖 · `snowflake, dbt, aws, azure, python, sql` · _greenhouse_
 - **[Senior Data Engineer (US only)](https://job-boards.greenhouse.io/nimblegravity/jobs/4737855005)** at **Nimble Gravity** — US (Remote) · `databricks, pyspark, spark, kafka, azure, python` · _greenhouse_
 - **[Sr. Data Engineer](https://job-boards.greenhouse.io/ninjatrader/jobs/4691523006)** at **NinjaTrader** — Chicago or Remote* 🤖 · `spark, dbt, airflow, kafka, aws, gcp` · _greenhouse_
-- **[Senior Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4425458006)** at **Northbeam** — Remote - USA 🏥🤖 · `airflow, python, sql` · _greenhouse_
 - **[Senior Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4687847006)** at **Northbeam** — Remote - Canada 🏥🤖 · `airflow, python, sql` · _greenhouse_
-- **[Staff Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4715170006)** at **Northbeam** — Remote - Canada 🏥🤖 · `airflow, python, sql` · _greenhouse_
+- **[Senior Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4425458006)** at **Northbeam** — Remote - USA 🏥🤖 · `airflow, python, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4336602006)** at **Northbeam** — Remote - USA 🏥🤖 · `airflow, python, sql` · _greenhouse_
+- **[Staff Software Engineer, Data Systems (Python)](https://job-boards.greenhouse.io/northbeam/jobs/4715170006)** at **Northbeam** — Remote - Canada 🏥🤖 · `airflow, python, sql` · _greenhouse_
 - **[Mission Data Engineer (Top Secret with agreement to obtain CI Poly)](https://job-boards.greenhouse.io/northpointtechnology/jobs/8537936002)** at **North Point Technology** — Fort Belvoir, Virginia, United States · `sql` · _greenhouse_
 - **[Lead Data Engineer](https://job-boards.greenhouse.io/oddball/jobs/8197764003)** at **Oddball** — Remote 🏥 · `databricks, spark, azure, python, sql` · _greenhouse_
 - **[Staff Engineer, Machine Learning & Data Infrastructure](https://job-boards.greenhouse.io/okx/jobs/8187581003)** at **OKX** — San Jose, California, United States 🏥🤖 · `databricks, spark, kafka, python, sql` · _greenhouse_
@@ -189,8 +190,8 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Data Engineer](https://www.orioninc.com/careers/job/?gh_jid=4719159006)** at **Orion Innovation** — Lawrence Township, New Jersey, United States 🏥 · `databricks, pyspark, spark, python, sql` · _greenhouse_
 - **[Principal Data Architect](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4721859006)** at **ParetoHealth** — Remote 🏥🤖 · `databricks, snowflake, dbt, kafka` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4705491006)** at **ParetoHealth** — Remote 🏥🤖 · `pyspark, kafka, aws, python, sql` · _greenhouse_
-- **[Senior Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6229385004)** at **Penn Interactive** — Remote, United States · `dbt, airflow, python, sql` · _greenhouse_
 - **[Senior Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6229387004)** at **Penn Interactive** — Remote, Canada · `dbt, airflow, python, sql` · _greenhouse_
+- **[Senior Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6229385004)** at **Penn Interactive** — Remote, United States · `dbt, airflow, python, sql` · _greenhouse_
 - **[Staff Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6179104004)** at **Penn Interactive** — Remote, Canada · `dbt, airflow, azure, python, sql` · _greenhouse_
 - **[Staff Data Engineer](https://job-boards.greenhouse.io/penninteractive/jobs/6179102004)** at **Penn Interactive** — Remote, United States · `dbt, airflow, azure, python, sql` · _greenhouse_
 - **[Data Engineer - US Remote](https://job-boards.greenhouse.io/perfectserve/jobs/6200392004)** at **PerfectServe** — Remote 🏥 · `snowflake, dbt, airflow, aws, python, sql` · _greenhouse_
@@ -207,4 +208,3 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[Data Engineer](https://job-boards.greenhouse.io/resonate/jobs/5217355007)** at **Resonate** — United States 🏥🤖 · `spark, snowflake, kafka, aws` · _greenhouse_
 - **[Principal Data Engineer, Personalization - Central Product Insights](https://www.riotgames.com/en/work-with-us/job/8049834?gh_jid=8049834)** at **Riot Games** — Los Angeles, USA 🏥 · `databricks, spark, dbt, airflow, aws, gcp` · _greenhouse_
 - **[Principal Data Engineer -Teamfight Tactics](https://www.riotgames.com/en/work-with-us/job/8187622?gh_jid=8187622)** at **Riot Games** — Los Angeles, USA 🏥 · `databricks, spark, dbt, airflow, aws, gcp` · _greenhouse_
-- **[Staff AI & Data Engineer, HR Systems](https://www.riotgames.com/en/work-with-us/job/8248055?gh_jid=8248055)** at **Riot Games** — Los Angeles, USA 🏥🤖 · `databricks, aws, gcp` · _greenhouse_
