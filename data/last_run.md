@@ -1,4 +1,4 @@
-### 1 new matching jobs · 2026-11-17 03:53 UTC
+### 1 new matching jobs · 2026-11-17 13:26 UTC
 
 #### From greenhouse (1)
-- **[Senior Data Engineer II](https://oscarhealth.com/careers/jobs?gh_jid=8386377)** at **Oscar Health** — New York, New York, United States 🏥🤖 · `kafka, aws, python` · _greenhouse_
+- **[Data Infrastructure Operations Specialist II (Starlink)](https://boards.greenhouse.io/spacex/jobs/8944752002?gh_jid=8944752002)** at **SpaceX** — Palo Alto, CA 🏥 · _greenhouse_
