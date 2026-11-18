@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4121)
+## greenhouse (4112)
 hingehealth
 maven
 spring
@@ -140,6 +140,7 @@ abstract
 accelbyte
 accion
 acclarity
+accrue
 accruenthq
 accumulussynergyinc
 accurx
@@ -1208,6 +1209,7 @@ energyfoundation
 energywebfoundation
 enformion
 engieenergyaccess
+engineeringatgigs
 englishscore
 ensemble
 ensembleai
@@ -1254,6 +1256,7 @@ evolvtechnologies
 evpassport
 exabeam
 exactsales
+examplecorpsandbox
 execonline
 exfluency
 exo
@@ -1463,6 +1466,7 @@ giantprotocol
 giantspoon
 gic
 gigaenergy
+gigs
 gigster
 gillig
 gimletmedia
@@ -1768,6 +1772,7 @@ insitro
 insomniacgames
 inspiren
 instabase
+instiglio
 instigliofutureopportunities
 instituteforclinicalandeconomicreview
 instnt
@@ -1986,7 +1991,6 @@ leagueapps
 leanix
 leanixjobs
 leap
-leapwork
 learfieldimgcollege
 learningequality
 leaseweb
@@ -2180,6 +2184,7 @@ meetelise
 melio
 meltano
 memed
+memic
 memorahealth
 memphismeats
 memryx
@@ -2232,6 +2237,7 @@ minno
 minthouse
 mintmobile
 minware
+miraklfr
 mirror
 mishimoto
 missionbio
@@ -2443,6 +2449,7 @@ numohealthcurieai
 nuna
 nursedash
 nutrabolt
+nuvalent
 nuview
 nuvocargo
 nyanheroes
@@ -2775,6 +2782,7 @@ propellercommunications
 propellerhealth
 propellerindustries
 propertyfinder
+prophero
 prose
 proteinqureinc
 protenus
@@ -2946,6 +2954,7 @@ rollstack
 root
 rootly
 rootstrap
+rothesaygraduates
 rothys
 roundpointmortgageservicingcorporation
 routable
@@ -2988,7 +2997,6 @@ sandstonecareboulder
 sandstonecarebroomfield
 sandstonecaredarien
 sandstonecascade
-sandstonecoloradomedicaldetox
 sandstonecoloradospringsoutpatient
 sandstonedenver
 sandstoneremote
@@ -3687,43 +3695,26 @@ verbenergy
 veriforce
 veritone
 veronapharma
-vertexservicepartners
-verticalbridge
 vertocareers
 verusaerospace
-verusen
 verygoodventures
 vesartex
 vestahealthcare
 vestal
-veterans
-veterinaryemergencygroupst
-veterinarypracticepartners
-vetevolve
 vetstoria
 vettery
 veza
-vgw
 vhsys
-via
 viaduct
-viagogo
-vialogic
-viamrobotics
-vianttechnology
 viber
-vibesllc
 vibrant
 vicarioussurgical
 vice
 vicecanada
-vicon
 victorious
 viderityinc
 vidmob
 vidyard
-vikingglobalinvestors
-vileon
 vim
 vimeo
 vipvermontinformationprocessing
@@ -4124,7 +4115,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2919)
+## lever (2970)
 netflix
 shopify
 github
@@ -4507,6 +4498,7 @@ bluecore
 bluedot
 bluejlegal
 bluelabs
+bluelightconsulting
 blueoceanai
 blueoceanbarns
 blueprinttitle
@@ -5449,6 +5441,7 @@ jellysmack
 jina-ai
 jiostar
 jobcase
+jobgether
 jockmkt
 joebiden
 joinclubhouse
@@ -5525,6 +5518,7 @@ kochava
 koddi
 kodex
 kodiak
+kogniz
 koho
 kokonetworks
 koldpartners
@@ -5554,9 +5548,11 @@ laagencia
 labelbox
 lambdal
 lambdaschool
+laminarprojects
 laminiai
 landing
 laserhub-2
+last-energy
 last9
 latticehq
 launchdarkly
@@ -5628,6 +5624,7 @@ logikcull
 login
 logistimo
 logixboard
+logrocket
 longtail-ai
 longview
 looker
@@ -5647,6 +5644,7 @@ lucid
 lucidmotors
 lulafit
 lumaai
+lumafield
 lumapictures
 lumary
 lumin
@@ -5666,6 +5664,7 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
+lyrahealth
 lyrebirdstudio
 lyterian
 m-kopa
@@ -5676,6 +5675,7 @@ macandmia
 machinalabs
 machinefilab
 machinerypartner
+mactores
 madbox
 madhive
 madisonei
@@ -5685,6 +5685,7 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
+mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -5719,6 +5720,7 @@ mattermost
 matterport
 matters
 matterworks
+max-retail
 maxmind
 mbcapital
 mbrdna
@@ -5736,15 +5738,18 @@ medialab
 mediaocean
 medium
 medrhythms
+meesho
 meetalbert
 meetgroup
 meetingstreetschools
+megaport
 meliuz
 membersy
 memebox
 memfault
 memphismeats
 menlovc
+menta
 mentormate
 meridianlink
 merit
@@ -5757,10 +5762,13 @@ metalpay
 metaprisebanking
 metatheory
 meteor
+metergysolutions
 metlife
+metopera
 mgac
 mheducation
 micromerchantsystems
+microventures
 midigator
 mighty
 migo-2
@@ -5806,11 +5814,14 @@ monumental
 moogsoft
 moonhub
 moonsong-labs
+morningbrew
 morningconsult
 mosaic-2
 mosaicbuilders
 mostly-ai
 mostudio
+mothernewyork
+motifsystems
 motional
 motionapp
 motivateco
@@ -5821,6 +5832,7 @@ moveloot
 moxionpower
 mrss
 mryum
+mulliganfunding
 multiversx
 munichelectrification
 myassurehealth
@@ -5831,6 +5843,7 @@ mytraffic
 myvest
 nabis
 narmi
+nasafcu
 natronenergy
 naturesfynd
 nautical-commerce
@@ -5845,11 +5858,15 @@ nekohealth
 nelly
 nemesiscorporation
 neo4j
+neon
 neonexchange
+neowiz
 nesthealth
 nestig
 nesto
 nestwealth
+netlight
+netomi
 netvirta
 neuralink
 neurolabs-ai
@@ -5917,8 +5934,10 @@ nxscale
 nylas
 nymedia
 nyscf-2
+o-p-e-n
 oatly
 obie
+objective
 obol-tech
 observablehq
 observeai
@@ -5931,17 +5950,22 @@ octane
 octoml
 octopus
 oda
+odaseva
 odysaviation
+offchainlabs
 offerpop
 oleria-security
 omni-network
+omnidian
 onaroll
+onceuponafarm
 ondeck
 ondofinance
 oneconcern
 onefinance
 onefootball
 onehouse
+oneimpression
 onesignal
 oneteam
 onfido
@@ -5964,6 +5988,7 @@ opensauced
 opensea
 openstore
 openteam
+openx
 operator
 ophelia
 opinov8
@@ -5971,17 +5996,22 @@ optimism
 optimusride
 optiv-2
 opus1
+orbaerospace
 orbillion
 orbitalinsight
 orcamobility
 orijin
 orkes
 orum
+osedea
 osmind
 osnational
 oso
 osomprivacy
+otilumionics
+our-place
 ouster
+outlast
 outpacebio
 outrider
 overbit
@@ -5995,6 +6025,7 @@ oxylabs
 p-1ai
 pachama
 pachyderm
+pacific-environment
 packmatic
 padsplit
 pagerduty
@@ -6020,6 +6051,7 @@ partoo
 partyslate
 passport
 passportshipping
+patch
 pathrise
 patientcolife
 patsnap
@@ -6027,9 +6059,11 @@ pavementcoffee
 pax8
 payabli
 payfit
+payjoy
 paymongo
 paystack
 paytmbank
+paytmpayments
 payzen
 pdq
 peachfinance
@@ -6038,6 +6072,7 @@ peakdesign
 peakmetrics
 peckwaterbrands
 peddie
+peerspace
 pelago
 pennylane
 pento
@@ -6087,6 +6122,7 @@ playplay
 playvs
 plazahomemortgage
 plivo
+plooto
 plum
 plusgrade
 pmdsoft
@@ -6341,6 +6377,7 @@ roofstock
 roosterteeth
 root16
 roserocket
+roshalimaging
 roundglass
 routethis
 roy-cooper
@@ -6426,6 +6463,7 @@ sentibio
 seoulrobotics
 septerna
 seqera
+serv-u-success
 sesame
 sevenbridges
 sewerai
@@ -6566,6 +6604,7 @@ stoic
 stormforge
 storygrounds
 storyprotocol
+stradaeducation
 straighterline
 strapi
 streetcontext
@@ -6809,6 +6848,7 @@ trusttoken
 trustyou
 truveris
 trycourier
+tryjeeves
 tryriot
 tubularlabs
 tuftandneedle
@@ -6886,6 +6926,7 @@ vericred
 verisart
 veritasinv
 verity
+verkor
 vero
 versana
 verse
@@ -6925,6 +6966,7 @@ vivsoft
 vivun
 vizion
 vngrs
+vo2-group
 voleon
 volka
 voltacharging
@@ -7045,7 +7087,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (995)
+## ashby (996)
 mercury
 together
 replicate
@@ -7213,6 +7255,7 @@ chainopera
 chapter
 characterbio
 charlie
+chief
 chillchat
 chipstack
 chronosphere
