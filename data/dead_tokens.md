@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4112)
+## greenhouse (4089)
 hingehealth
 maven
 spring
@@ -73,6 +73,7 @@ appliedintuition
 cruise
 zoox
 alloycampus
+andurilindustries
 capitalrx
 digs
 doubleverify
@@ -158,6 +159,7 @@ actiumhealth
 activehours
 actpowerservices
 acvauctions
+ada18
 adahealth
 adamosecurity
 adaptive3d
@@ -196,6 +198,7 @@ agilespaceindustries
 agolo
 agoralabinc
 agoric
+aiedu
 aifleet
 aipalette
 airbase
@@ -1214,6 +1217,7 @@ englishscore
 ensemble
 ensembleai
 ensitefulinternalpositions
+enterrasolutions
 entreehealth
 envato
 envisionthearapyco
@@ -1245,7 +1249,6 @@ evermore
 everops
 everphone
 everstreamanalytics
-evertrue
 everylife
 evidation
 evive
@@ -1268,7 +1271,6 @@ expressvpn
 extra
 eyecarepartners
 eyeo
-ezcaterinc
 ezcatertalentcommunity
 ezinc
 fabfitfun
@@ -1714,7 +1716,6 @@ ia
 ibanfirst
 ibkr
 ibotta
-ibuglobal
 iconiqcapital
 idahotitleloansinc
 ideas42
@@ -1975,6 +1976,7 @@ lagrange
 lakesidesoftware
 lambda
 landis
+lanesplanes
 langai
 lantern
 lastline
@@ -2026,6 +2028,7 @@ lightship
 lightspeedhq
 lightspeedhqfr
 lightspeedmanagementcompanyllc
+liginternal
 lila
 lilacsolutionsinc
 lilium
@@ -2476,7 +2479,6 @@ offensivesecurity
 offerfit
 offerupcontract
 ogdenguidepost
-ogilvycanada
 ogilvyjapan
 ohi
 ohmygreen
@@ -2580,7 +2582,6 @@ oxosmedical
 oyster
 p72pi
 pachyderm
-pacificdermatologyspecialist
 paciolan
 packlink
 pactlabs
@@ -2812,6 +2813,7 @@ qantev
 qcentrix
 qovery
 quadrantstrategies
+qualifieddigital
 qualifiedhealth
 quartethealth
 quartzbio
@@ -2898,7 +2900,6 @@ remesh
 remind
 remotecom
 remotereferralboardinternaluseonly
-renaissancelearning-emea
 render
 reorg
 repeatmd
@@ -3211,7 +3212,6 @@ sorcero
 sorellalabs
 soroco
 soulcycle
-soundagriculture
 soundengineeringsolutions
 sounderbenefits
 soundhoundinc
@@ -3350,7 +3350,6 @@ swirlds
 swishanalytics
 swissitgermany
 syapse
-sylogist
 sylva
 sylvain
 symblai47
@@ -3521,7 +3520,6 @@ tmg
 tminuszero
 tomebio
 tomonetworks
-tomorrowhealth
 toogoodtogo
 topcompare
 toposware
@@ -3689,7 +3687,6 @@ venturatravel
 ventureforamerica
 ventureglobal
 venturegloballng
-venturewell
 ventustherapeutics
 verbenergy
 veriforce
@@ -3705,7 +3702,6 @@ vetstoria
 vettery
 veza
 vhsys
-viaduct
 viber
 vibrant
 vicarioussurgical
@@ -3718,52 +3714,35 @@ vidyard
 vim
 vimeo
 vipvermontinformationprocessing
-vipvermontinformationprocessing2
-viralnation
-virbiotechnologyinc
 virtahealth
 virtasant
 virtex
-virtru
-virtu
 virtualhealth
 visbymedical
 viseai
 visia
 visitingmedia
 visor
-visualconcepts
 vitablehealth
 vitahealth
-vitalfarms
-vitalfarmsinternalcrew
 vitalvoicesglobalpartnership
-vitta
-vivcourtevents
 vivian
 vividly
-vividseatsllc
-vivodyne
-vivvi
-vixxo
 vizai
 vizgen
 vizit
-vmlenterprisesolutions
 vogliodigitalmarketing
 voice
 volastratherapeutics
 volleythat
 voltacharging
 voltrondata
-vonage
 vorbiopharma
 voter
 voterev
 votesolar
 vouchinsurance
 vowgroup
-voxel51
 voxglobal
 voxieinc
 voxmedia
@@ -3775,11 +3754,9 @@ vpawv
 vsapartners
 vscfiresecurityinc
 vsco39
-vtex
 vts
 vuestorefront
 vulcanelements
-vulncheck
 vultr
 vultronai
 vungle
@@ -4115,7 +4092,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2970)
+## lever (2938)
 netflix
 shopify
 github
@@ -4477,6 +4454,7 @@ bitquilltech
 bitrise
 bitwiseinvestments
 bixal
+bizlibrary
 black-white-zebra
 blackcloak
 blackcrow
@@ -4490,6 +4468,7 @@ blockspring
 blockstack
 blockswap
 blocpower
+bloom
 bloomcredit
 bloomthat
 blox-route
@@ -4498,7 +4477,6 @@ bluecore
 bluedot
 bluejlegal
 bluelabs
-bluelightconsulting
 blueoceanai
 blueoceanbarns
 blueprinttitle
@@ -4514,6 +4492,7 @@ bodyport
 boldbusiness
 boltbio
 bombfell
+bonedry
 bonfirestudios
 bonial-2
 bonsaileadershipgroup
@@ -5514,11 +5493,11 @@ knockcrm
 knotch
 knownwell
 knrtherapy
+koalahealth
 kochava
 koddi
 kodex
 kodiak
-kogniz
 koho
 kokonetworks
 koldpartners
@@ -5548,11 +5527,9 @@ laagencia
 labelbox
 lambdal
 lambdaschool
-laminarprojects
 laminiai
 landing
 laserhub-2
-last-energy
 last9
 latticehq
 launchdarkly
@@ -5624,7 +5601,7 @@ logikcull
 login
 logistimo
 logixboard
-logrocket
+logz
 longtail-ai
 longview
 looker
@@ -5644,7 +5621,6 @@ lucid
 lucidmotors
 lulafit
 lumaai
-lumafield
 lumapictures
 lumary
 lumin
@@ -5664,7 +5640,6 @@ lykospbc
 lyra
 lyraclinical
 lyracollective
-lyrahealth
 lyrebirdstudio
 lyterian
 m-kopa
@@ -5675,7 +5650,6 @@ macandmia
 machinalabs
 machinefilab
 machinerypartner
-mactores
 madbox
 madhive
 madisonei
@@ -5685,7 +5659,6 @@ magic
 magicgames
 magnitudesoftware
 mahanatherapeutics
-mainspringenergy
 mainstreet
 mainstreetwork
 makersplace
@@ -5695,6 +5668,7 @@ manifest
 manifestfinancial
 manifestmedex
 mantanetwork
+mantisinnovation
 manty
 maple-finance
 maplemedia
@@ -5710,6 +5684,7 @@ marketopia
 marlettefunding
 marq
 martinagency
+masterycharter
 mastreforestation
 mastrics
 masygroup
@@ -5720,7 +5695,6 @@ mattermost
 matterport
 matters
 matterworks
-max-retail
 maxmind
 mbcapital
 mbrdna
@@ -5738,11 +5712,9 @@ medialab
 mediaocean
 medium
 medrhythms
-meesho
 meetalbert
 meetgroup
 meetingstreetschools
-megaport
 meliuz
 membersy
 memebox
@@ -5762,13 +5734,10 @@ metalpay
 metaprisebanking
 metatheory
 meteor
-metergysolutions
 metlife
-metopera
 mgac
 mheducation
 micromerchantsystems
-microventures
 midigator
 mighty
 migo-2
@@ -5814,14 +5783,11 @@ monumental
 moogsoft
 moonhub
 moonsong-labs
-morningbrew
 morningconsult
 mosaic-2
 mosaicbuilders
 mostly-ai
 mostudio
-mothernewyork
-motifsystems
 motional
 motionapp
 motivateco
@@ -5832,7 +5798,6 @@ moveloot
 moxionpower
 mrss
 mryum
-mulliganfunding
 multiversx
 munichelectrification
 myassurehealth
@@ -5858,15 +5823,11 @@ nekohealth
 nelly
 nemesiscorporation
 neo4j
-neon
 neonexchange
-neowiz
 nesthealth
 nestig
 nesto
 nestwealth
-netlight
-netomi
 netvirta
 neuralink
 neurolabs-ai
@@ -5875,6 +5836,7 @@ nevados
 newculturefood
 newfrontinsurance
 newton-school
+newwestern
 nex
 nexient
 nexigendigital
@@ -5934,10 +5896,8 @@ nxscale
 nylas
 nymedia
 nyscf-2
-o-p-e-n
 oatly
 obie
-objective
 obol-tech
 observablehq
 observeai
@@ -5950,22 +5910,18 @@ octane
 octoml
 octopus
 oda
-odaseva
 odysaviation
-offchainlabs
 offerpop
+ogury
 oleria-security
 omni-network
-omnidian
 onaroll
-onceuponafarm
 ondeck
 ondofinance
 oneconcern
 onefinance
 onefootball
 onehouse
-oneimpression
 onesignal
 oneteam
 onfido
@@ -5988,7 +5944,6 @@ opensauced
 opensea
 openstore
 openteam
-openx
 operator
 ophelia
 opinov8
@@ -5996,22 +5951,18 @@ optimism
 optimusride
 optiv-2
 opus1
-orbaerospace
 orbillion
 orbitalinsight
 orcamobility
 orijin
 orkes
 orum
-osedea
 osmind
 osnational
 oso
 osomprivacy
-otilumionics
 our-place
 ouster
-outlast
 outpacebio
 outrider
 overbit
@@ -6025,7 +5976,6 @@ oxylabs
 p-1ai
 pachama
 pachyderm
-pacific-environment
 packmatic
 padsplit
 pagerduty
@@ -6039,6 +5989,7 @@ panum
 papara
 papercut
 paradoxum-gg
+parallelwireless
 parcellab
 pardon
 parkplace
@@ -6051,19 +6002,17 @@ partoo
 partyslate
 passport
 passportshipping
-patch
 pathrise
 patientcolife
 patsnap
+pattern
 pavementcoffee
 pax8
 payabli
 payfit
-payjoy
 paymongo
 paystack
 paytmbank
-paytmpayments
 payzen
 pdq
 peachfinance
@@ -6072,7 +6021,6 @@ peakdesign
 peakmetrics
 peckwaterbrands
 peddie
-peerspace
 pelago
 pennylane
 pento
@@ -6094,6 +6042,7 @@ phiatech
 phoenixtailings
 photoroom
 phrasee
+pibenchmark
 pickethomes
 picsart
 pieinsurance
@@ -6122,7 +6071,6 @@ playplay
 playvs
 plazahomemortgage
 plivo
-plooto
 plum
 plusgrade
 pmdsoft
@@ -6141,6 +6089,7 @@ pond5
 poplarhomes
 popmenu
 popsa
+portagepointpartners
 portoro
 poshtech
 possiblefinance
@@ -6198,6 +6147,7 @@ pronto-ai
 propelplm
 protegrity
 protocol
+protrials
 provi
 proxima
 proximafusion
@@ -6282,6 +6232,7 @@ recurve
 redaptiveinc
 redcanary
 reddit
+reddogmedia
 redwoodresearch
 reebelo
 refed
@@ -6377,7 +6328,6 @@ roofstock
 roosterteeth
 root16
 roserocket
-roshalimaging
 roundglass
 routethis
 roy-cooper
@@ -6463,7 +6413,6 @@ sentibio
 seoulrobotics
 septerna
 seqera
-serv-u-success
 sesame
 sevenbridges
 sewerai
@@ -6604,7 +6553,6 @@ stoic
 stormforge
 storygrounds
 storyprotocol
-stradaeducation
 straighterline
 strapi
 streetcontext
@@ -6848,7 +6796,6 @@ trusttoken
 trustyou
 truveris
 trycourier
-tryjeeves
 tryriot
 tubularlabs
 tuftandneedle
@@ -6926,7 +6873,6 @@ vericred
 verisart
 veritasinv
 verity
-verkor
 vero
 versana
 verse
@@ -6966,7 +6912,6 @@ vivsoft
 vivun
 vizion
 vngrs
-vo2-group
 voleon
 volka
 voltacharging
@@ -7087,7 +7032,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (996)
+## ashby (995)
 mercury
 together
 replicate
@@ -7255,7 +7200,6 @@ chainopera
 chapter
 characterbio
 charlie
-chief
 chillchat
 chipstack
 chronosphere
@@ -7364,7 +7308,6 @@ ecarxgroup
 echo
 echotwin
 edge-node-ventures
-edlink
 ekho
 electric
 electricai
@@ -7679,6 +7622,7 @@ newschoolfoods
 nextlinklabs
 nextmatter
 noetica
+norm-ai
 normalcomputingai
 northslope-technologies
 novaprime
