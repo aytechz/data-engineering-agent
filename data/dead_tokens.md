@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (4076)
+## greenhouse (4121)
 hingehealth
 maven
 spring
@@ -2017,6 +2017,7 @@ lifehouse
 lightblocks
 lightforgegames
 lightricks
+lightrun
 lightship
 lightspeedhq
 lightspeedhqfr
@@ -3626,7 +3627,6 @@ upstatement
 upstreamcare
 uptake
 uptivhealth
-upwork
 upworthy
 urban
 urbanfootprint
@@ -3687,44 +3687,78 @@ verbenergy
 veriforce
 veritone
 veronapharma
+vertexservicepartners
+verticalbridge
 vertocareers
 verusaerospace
+verusen
 verygoodventures
 vesartex
 vestahealthcare
 vestal
+veterans
+veterinaryemergencygroupst
+veterinarypracticepartners
+vetevolve
 vetstoria
 vettery
 veza
+vgw
 vhsys
+via
+viaduct
+viagogo
+vialogic
+viamrobotics
+vianttechnology
 viber
+vibesllc
 vibrant
 vicarioussurgical
 vice
 vicecanada
+vicon
 victorious
 viderityinc
 vidmob
 vidyard
+vikingglobalinvestors
+vileon
 vim
 vimeo
 vipvermontinformationprocessing
+vipvermontinformationprocessing2
+viralnation
+virbiotechnologyinc
 virtahealth
 virtasant
 virtex
+virtru
+virtu
 virtualhealth
 visbymedical
 viseai
 visia
 visitingmedia
 visor
+visualconcepts
 vitablehealth
 vitahealth
+vitalfarms
+vitalfarmsinternalcrew
+vitalvoicesglobalpartnership
+vitta
+vivcourtevents
 vivian
 vividly
+vividseatsllc
+vivodyne
+vivvi
+vixxo
 vizai
 vizgen
 vizit
+vmlenterprisesolutions
 vogliodigitalmarketing
 voice
 volastratherapeutics
@@ -3738,12 +3772,23 @@ voterev
 votesolar
 vouchinsurance
 vowgroup
+voxel51
 voxglobal
+voxieinc
+voxmedia
 voxy
+voyagertechnologiesinc
 voyagertherapeutics
 vpawashington
 vpawv
+vsapartners
+vscfiresecurityinc
+vsco39
+vtex
+vts
 vuestorefront
+vulcanelements
+vulncheck
 vultr
 vultronai
 vungle
@@ -4079,7 +4124,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2923)
+## lever (2919)
 netflix
 shopify
 github
@@ -4121,10 +4166,8 @@ ramp2
 scaleai2
 upstart
 nuro2
-actian
 anysignal
 aofl
-eqbank
 shieldai
 10up-2
 174powerglobal
@@ -4140,7 +4183,6 @@ shieldai
 3pillarglobal
 3xmgroup
 42dot
-4front
 4mation
 4sightsupplychain
 500
@@ -6914,7 +6956,6 @@ wealthfinancialtechnologies
 wealthsimple
 wearatoms
 weareaccord
-wearedream
 webfx
 weekender-hotels
 weel
@@ -7004,7 +7045,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (993)
+## ashby (995)
 mercury
 together
 replicate
@@ -7105,6 +7146,7 @@ beakon
 beam
 bear
 bedrock
+bedrockocean
 beeper
 bench
 bentoml
@@ -7342,6 +7384,7 @@ flick
 flipsidecrypto
 flocksafety
 flowcarbon
+flux
 flux-computing
 focus-ai
 focused-energy
