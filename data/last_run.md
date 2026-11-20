@@ -1,7 +1,5 @@
-### 2 new matching jobs · 2026-11-19 21:33 UTC
+### 2 new matching jobs · 2026-11-20 03:15 UTC
 
-#### From ashby (1)
-- **[Senior Engineer, AI & Data Platform](https://jobs.ashbyhq.com/vantageanalytics/ba2cc36b-903e-4a67-8d82-5330e9784193)** at **vantageanalytics** — Toronto - Remote 🤖 · `snowflake, dbt, python, sql` · _ashby_
-
-#### From greenhouse (1)
-- **[Senior Software Engineer - Data Infrastructure Safety](https://careers.roblox.com/jobs/8287516?gh_jid=8287516)** at **Roblox** — San Mateo, CA, United States 🤖 · `python` · _greenhouse_
+#### From ashby (2)
+- **[Brand Data Infrastructure Lead](https://jobs.ashbyhq.com/openai/3ae2f8d2-b687-493e-a963-e175fdbd17b9)** at **openai** — San Francisco · `sql` · _ashby_
+- **[Lead Data Engineer](https://jobs.ashbyhq.com/stuut-ai/54dcb0d8-47a2-461b-a638-34166c099b6b)** at **stuut-ai** — San Francisco 🏥 · `snowflake, dbt, python, sql` · _ashby_
