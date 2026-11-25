@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (7542)
+## greenhouse (7543)
 hingehealth
 maven
 spring
@@ -447,11 +447,12 @@ axisapp
 axissecurity
 ayun
 azenia
+azragames
 aztec
 aztecgroup
 azumo
 babbel
-babyzone
+backblaze
 backlight
 baincapitalventures
 ballotready
@@ -7545,7 +7546,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2948)
+## lever (2956)
 netflix
 shopify
 github
@@ -7591,6 +7592,7 @@ anysignal
 aofl
 shieldai
 teleo
+weride
 10up-2
 174powerglobal
 1776
@@ -7610,6 +7612,7 @@ teleo
 500
 522productions
 54collective
+5amventures
 5wpr
 5xdata
 7geese
@@ -7647,6 +7650,7 @@ aechelon
 aeler
 aerialapplications
 afarmedia
+afero
 affinity
 affirm
 afreshtechnologies
@@ -7654,9 +7658,11 @@ afterpaytouch
 agentnoon
 agerpoint
 agilesearch
+agiloft
 agotai
 agreena
 aicamp
+aicrete
 aidaly
 aidash
 aifoundation
@@ -7684,6 +7690,7 @@ aleysian
 algolia
 algotive
 alice
+alice-bob
 alictus
 alida
 alignable
@@ -7710,7 +7717,6 @@ amiri
 amobee
 amplitude
 ams-corp
-amtengineering
 amused-group
 amyris
 anagram
@@ -7802,6 +7808,7 @@ athennian
 athleticgreens
 atlan
 atlassian
+atmosera
 atmosphere
 atob
 atomic
@@ -8562,6 +8569,7 @@ futurelaboratori
 fynd
 fyusion
 g2i
+galvanick
 gametime
 gamma
 gantri
@@ -9679,6 +9687,7 @@ realvision
 realworklabs
 recast-software
 recess
+recognisebank
 recormedical
 recur
 recurly
@@ -10495,7 +10504,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (1004)
+## ashby (1008)
 mercury
 together
 replicate
@@ -10792,6 +10801,7 @@ ens-labs
 enzo-health
 eotlabs
 ephemera
+epistemix
 eppo
 equallytalent
 equals
@@ -11282,6 +11292,7 @@ sealed
 searchlight
 searchstax
 secoda
+sei-labs
 seifoundation
 seis
 select-labs
@@ -11309,6 +11320,7 @@ softwareappsinc
 solforge
 solid
 somite-ai
+somnia
 sorcerer
 source-health
 sourgum
@@ -11372,6 +11384,7 @@ talos-network
 tandem
 tavily
 teachfx
+tealhq
 techpolicyfellowship
 tectonai
 tempo
@@ -11447,6 +11460,7 @@ village-labs
 vinci4d
 visanahealth
 vital
+voicemod
 voker
 volka
 volopay
@@ -11495,7 +11509,6 @@ youdotcom
 yumaai
 yupp-ai
 yutori
-zauber
 zealy
 zircuit
 zolplay

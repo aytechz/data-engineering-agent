@@ -1,20 +1,21 @@
 # Data Engineering Jobs Feed
 
-_Last updated: 2026-11-25 02:27 UTC_
+_Last updated: 2026-11-25 12:53 UTC_
 
-Showing the 180 most recently discovered matching jobs.
+Showing the 178 most recently discovered matching jobs.
 
 Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 
 ---
 
+- **[Senior Data Engineer / Technical Lead](https://jobs.ashbyhq.com/going/95cc9369-edb2-4df4-aa42-1d05ecb5418d)** at **going** — Remote 🤖 · `kafka, aws, python, sql, terraform` · _ashby_
 - **[Senior Data Engineer II](https://oscarhealth.com/careers/jobs?gh_jid=8386377)** at **Oscar Health** — New York, New York, United States 🏥🤖 · `kafka, aws, python` · _greenhouse_
 - **[Staff Data Engineer](https://oscarhealth.com/careers/jobs?gh_jid=8386380)** at **Oscar Health** — New York, New York, United States 🏥🤖 · `kafka, aws, python` · _greenhouse_
-- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)** at **Databricks** — Mountain View, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)** at **Databricks** — San Francisco, California 🏥🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002)** at **Databricks** — United States 🏥 · `databricks, spark, snowflake, kafka, aws, gcp` · _greenhouse_
-- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)** at **Databricks** — Mountain View, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
+- **[Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)** at **Databricks** — San Francisco, California 🤖 · `databricks, spark, aws, azure, sql` · _greenhouse_
 - **[Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/scaleai/jobs/4649903005)** at **Scale AI** — San Francisco, CA; New York, NY · `spark, snowflake` · _greenhouse_
 - **[Senior Data Engineer, Ads](https://job-boards.greenhouse.io/discord/jobs/8299493002)** at **Discord** — Remote (U.S.) 🏥🤖 · `spark, dbt, kafka, python, sql` · _greenhouse_
 - **[Staff Data Engineer](https://job-boards.greenhouse.io/discord/jobs/8691572002)** at **Discord** — San Francisco Bay Area 🏥 · `dbt, python, sql` · _greenhouse_
@@ -80,10 +81,7 @@ Tags: 🏥 healthcare · 🤖 AI/ML · ⚡ energy
 - **[SVP - Data Engineering, Data Science & Analytics](https://job-boards.greenhouse.io/axs/jobs/8913084002)** at **AXS** — San Francisco, CA 🏥🤖 · `snowflake, dbt, airflow, kafka, aws` · _greenhouse_
 - **[Principal Data Engineer](https://www.ayahealthcare.com/corporate-careers/jobs/8411896?gh_jid=8411896)** at **Aya Healthcare Inc.** — Remote, US 🏥🤖 · `databricks, spark, kafka, azure, python, sql` · _greenhouse_
 - **[Principal Data Architect](https://job-boards.greenhouse.io/babelstreet/jobs/8348114)** at **Babel Street** — Reston, VA, United States 🏥🤖 · `spark, airflow, kafka, aws, gcp, python` · _greenhouse_
-- **[Senior Software Engineer - Data Infrastructure](https://job-boards.greenhouse.io/backblaze/jobs/5451373008)** at **Backblaze External Website** — Remote - Colombia · `terraform` · _greenhouse_
-- **[Senior Software Engineer - Data Infrastructure](https://job-boards.greenhouse.io/backblaze/jobs/5451391008)** at **Backblaze External Website** — Remote - US 🏥 · `terraform` · _greenhouse_
 - **[Lead Data Platform Engineer - Enterprise, Data & AI](https://jobs.lever.co/zoox/fd30da7a-d7ec-49a0-b4bd-ed3a193a1e07)** at **zoox** — Foster City, CA · _lever_
-- **[Staff Data Engineer](https://jobs.lever.co/agiloft/5372c895-388d-4313-ba0c-bec4b4b2129f)** at **agiloft** — United States · _lever_
 - **[Lead Data Engineer, Analytics & Insights](https://jobs.lever.co/agtonomy/dc4ec5b7-0ea2-4d9c-b0d7-a43d79a41adf)** at **agtonomy** — South San Francisco, CA · _lever_
 - **[Principal Engineer - AI Data Platform, Remote](https://jobs.lever.co/aledade/e9636a60-5455-4a52-afed-eeadb50424cd)** at **aledade** — Remote, United States 🤖 · _lever_
 - **[Principal Software Engineer - Data Platform](https://jobs.lever.co/arcadia/aa78369b-9316-4b22-9456-f2ae791f4e27)** at **arcadia** — Remote (USA) 🏥 · _lever_
