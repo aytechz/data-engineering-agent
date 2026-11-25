@@ -451,7 +451,7 @@ aztec
 aztecgroup
 azumo
 babbel
-babylist
+babyzone
 backlight
 baincapitalventures
 ballotready
@@ -7545,7 +7545,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2950)
+## lever (2948)
 netflix
 shopify
 github
@@ -7610,7 +7610,6 @@ teleo
 500
 522productions
 54collective
-5amventures
 5wpr
 5xdata
 7geese
@@ -7665,6 +7664,7 @@ aifund
 ailens
 aira
 aircall
+airdna
 airhouse
 airprotein
 airship
@@ -7710,6 +7710,7 @@ amiri
 amobee
 amplitude
 ams-corp
+amtengineering
 amused-group
 amyris
 anagram
@@ -8372,7 +8373,6 @@ efront
 egensolutions
 eh2
 einride
-ekohealth
 elearningmind
 electrifiedthermalsolutions
 electrum
@@ -9187,7 +9187,6 @@ mentormate
 meridianlink
 merit
 merkle
-merlinlabs
 meroxa
 meshcapade
 messari
@@ -9299,7 +9298,6 @@ nevados
 newculturefood
 newfrontinsurance
 newton-school
-newzealandtradeandenterprise
 nex
 nexient
 nexigendigital
@@ -9854,6 +9852,7 @@ sdhrconsulting
 seaoil
 secondfrontsystems
 section
+secureframe
 securityinnovation
 seekai
 seesaw
@@ -10176,7 +10175,6 @@ thinkhr
 thinkon
 thinkstermath
 third-city-christian-church
-third-plateau
 thirdlove
 thirdwavelabs
 thortech-solutions
@@ -10522,6 +10520,7 @@ lindy
 lynk
 realitydefender
 remedy
+seconddinner
 whatnot
 zettabyte-space
 01c
@@ -10533,6 +10532,7 @@ adaptive-ml
 admiral
 agora
 agreena
+aibidia
 airkit
 airplane
 aisle
@@ -10604,7 +10604,6 @@ bedrockocean
 beeper
 bench
 bentoml
-bettercloud
 beyondsports
 bhblasted
 biconomy
@@ -10637,6 +10636,7 @@ breadboard
 bridge
 brightmeds
 browserbase
+builder-prime
 buildwithfern
 buoyant
 c-side
@@ -10802,7 +10802,6 @@ ethglobal
 evenup
 everydayagents
 exofreight
-eztexting
 facilityone
 factorfellowship
 fairing
@@ -10903,7 +10902,6 @@ gruntwork
 guaranteed
 halborn
 halliday
-halo-cures
 happeo
 hartbeat
 hashboard
@@ -11181,7 +11179,6 @@ plinth
 plots
 plume-network
 pml
-pocketprep
 pocus
 pointe-advisory
 polaranalytics
@@ -11275,6 +11272,7 @@ sana-roles
 sauron
 savvyinsurance-trellis
 scaler
+schoolhouse-world
 scicommedia
 scratchpad
 screenverse
