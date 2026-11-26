@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (7542)
+## greenhouse (7543)
 hingehealth
 maven
 spring
@@ -310,6 +310,7 @@ anz
 apartmentlist
 apeel
 apellis
+aperaaiinc
 apexlogic
 apiascholars
 apisero
@@ -443,26 +444,26 @@ axiomquant
 axioshq1
 axisapp
 axissecurity
+axuall
 ayun
 azenia
+azragames
 aztec
 aztecgroup
 azumo
-azuritypharmaceuticalsindia
 b12
 babbel
 babelstreet
-babyzone
 backlight
 baincapitalventures
 ballotready
 balto
 bam
-bamboohr17
 bancopan
 bandwidth
 banyaninfrastructure
 banyansecurity
+banyansoftware
 banyucarbon
 banza
 barbaricum
@@ -7545,7 +7546,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2956)
+## lever (2964)
 netflix
 shopify
 github
@@ -7642,6 +7643,7 @@ adeptailabs
 adtech
 adthena
 advancednavigation
+adventus
 adverum
 aechelon
 aeler
@@ -7687,6 +7689,7 @@ alice
 alictus
 alida
 alignable
+alimentiv-2
 alkymi
 allata
 alliance
@@ -9629,7 +9632,6 @@ qover
 qredo
 qualified
 qualtekservices
-qualysoft
 quantcast
 quantgene
 quantlabs
@@ -9709,6 +9711,7 @@ relaytx
 reli-sh
 reliable
 remedyentertainment
+remedyproductstudio
 remine
 remix
 remofirst
@@ -9716,7 +9719,6 @@ rendernetworks
 renegade
 repairsmith
 replicant
-reply
 repreach
 republic
 reputation
@@ -9750,6 +9752,7 @@ rideos
 ridereport
 ridwell
 riftfinance
+rigetti
 riley
 rilldata
 rillet
@@ -9759,6 +9762,7 @@ riptidetech
 risklabs
 ritual
 ritual-technologies
+riverdale
 riveron
 rivosinc
 rivr
@@ -9786,7 +9790,6 @@ roofstock
 roosterteeth
 root16
 roserocket
-roshalimaging
 roundglass
 routethis
 roy-cooper
@@ -9813,7 +9816,6 @@ sagana
 sage-growth
 sagesure
 saiglobal
-sait
 sakuu
 saleor
 salesmsg
@@ -9822,6 +9824,7 @@ salo-sciences
 salvohealth
 samacare
 sambatv
+sanabenefits
 sanctuary
 saronic
 sarwa
@@ -9875,7 +9878,6 @@ sentibio
 seoulrobotics
 septerna
 seqera
-seranbio
 sesame
 sevenbridges
 sewerai
@@ -9925,10 +9927,12 @@ skilljar
 skillshare
 skims
 skulabs
+skydance
 skygrid
 skypointcloud
 slab
 slang
+slangai
 sleuth
 smarking
 smartadserver
@@ -9939,6 +9943,7 @@ snacknation
 snackpass
 snapcommerce
 snapdocs
+snaplogic
 snif
 snowfork
 snowplow
@@ -9986,7 +9991,6 @@ sprinto
 spruce
 sprucestreetcompinternships
 sprucesystems
-sqaservices
 sqreen-2
 sta
 stable
@@ -9995,6 +9999,7 @@ stackblitz
 stackedsp
 stacksfoundation
 starburstdata
+starcompliance
 stardog
 starknet
 starship
@@ -10046,6 +10051,7 @@ sundaysfordogs
 sunnova
 sunpower
 suntribegroup
+sunwatercapital
 super-com
 supernovacompanies
 supernoya-logistics
@@ -10240,7 +10246,6 @@ treasure-data
 treecard
 trela
 trella
-trendyol
 trengobv
 trilogyfederal
 trio
@@ -10273,6 +10278,7 @@ tune
 tunein
 tunnl-data
 turing-labs
+turvo
 tuskventures
 tutorintelligence
 tweeq
@@ -10382,6 +10388,7 @@ vivsoft
 vivun
 vizion
 vngrs
+vo2-group
 voleon
 volka
 voltacharging
@@ -10428,6 +10435,7 @@ wildlight
 windowsbyrba
 windsormanagement
 wingedrecruitment
+wingtra-2
 winnco
 wish
 wishpond
@@ -10465,6 +10473,7 @@ yelp
 yieldstreet
 yottaa
 you
+younited
 yourmechanic
 yubico
 yubo
@@ -10503,7 +10512,7 @@ zurigroup
 zuru
 zuva
 
-## ashby (1007)
+## ashby (1008)
 mercury
 together
 replicate
@@ -11069,6 +11078,7 @@ mitiga-solutions
 mnemonic
 mobasi
 modefair
+molecule
 moneyworld
 monitaur
 monq
