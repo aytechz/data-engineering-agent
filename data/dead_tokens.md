@@ -1,7 +1,7 @@
 # Tokens that returned 0 jobs in the last run.
 # Review and remove from companies_*.txt if persistently dead.
 
-## greenhouse (7542)
+## greenhouse (7541)
 hingehealth
 maven
 spring
@@ -422,6 +422,7 @@ authorhealth
 autograph
 automatainc
 automatic
+automatticcareers
 automatticdesign
 automatticfinance
 automatticmarketing
@@ -449,9 +450,7 @@ aztec
 aztecgroup
 azumo
 babbel
-babelstreet
 babylist
-babyzone
 backlight
 baincapitalventures
 ballotready
@@ -7545,7 +7544,7 @@ zynga
 zyngacareers
 zyngaearlycareers
 
-## lever (2960)
+## lever (2953)
 netflix
 shopify
 github
@@ -7981,9 +7980,7 @@ brewbird
 bridge
 bridge2rwanda
 bridgebio
-brightedge
 brighthealthplan
-brightonjones
 brightseedbio
 brightspot
 brightwheel
@@ -7995,7 +7992,6 @@ brotherhoodcrusade
 bssp
 btc
 btse
-buckmason
 buildatmos
 buildgc
 buildkite
@@ -8064,7 +8060,6 @@ causal-app
 ccmr3
 cdcfoundation
 cef
-celerion
 celestia
 celo
 centerfield
@@ -8079,7 +8074,6 @@ chain
 chainlink
 chamberofprogress
 change
-chargelab-inc
 chariot
 chartio
 chatmeter
@@ -8143,7 +8137,6 @@ codewaystudios
 cofactr
 coffeemeetsbagel
 coforma
-cogentanalytics
 cogentbiosciences
 cogility
 cogitocorp
@@ -8166,7 +8159,6 @@ combo
 commentsold
 common
 common-networks
-commoncause
 commoncode
 commonlit
 communityboost
